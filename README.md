@@ -1,0 +1,1 @@
+# mappe_scenari_sismici
