@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 46.5188,
+      "event_id" : 36471571,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "6 km SW Martello (BZ)",
+      "magnitude" : 1.0,
+      "time" : "2023-10-13 16:46:43Z",
+      "mag_author" : null,
+      "longitude" : 10.7468,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.7468, 46.5188 ]
+    },
+    "id" : "36471571"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 2.95,
       "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
       "catalog" : null,
@@ -47586,27 +47608,5 @@
       "coordinates" : [ 12.8412, 43.173 ]
     },
     "id" : "36128121"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 27.1,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 44.2723,
-      "event_id" : 36127981,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km E Borgo Tossignano (BO)",
-      "magnitude" : 1.3,
-      "time" : "2023-09-13 18:51:09Z",
-      "mag_author" : null,
-      "longitude" : 11.6075,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 11.6075, 44.2723 ]
-    },
-    "id" : "36127981"
   } ]
 }
