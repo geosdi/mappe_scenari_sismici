@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 8.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 38.096,
+      "event_id" : 36496531,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km SE Falcone (ME)",
+      "magnitude" : 1.2,
+      "time" : "2023-10-15 23:01:30Z",
+      "mag_author" : null,
+      "longitude" : 15.0952,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 15.0952, 38.096 ]
+    },
+    "id" : "36496531"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 2.15,
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
@@ -47278,27 +47300,5 @@
       "coordinates" : [ 13.0395, 43.1705 ]
     },
     "id" : "36147551"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.8,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.1678,
-      "event_id" : 36147471,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km NW Camerino (MC)",
-      "magnitude" : 0.9,
-      "time" : "2023-09-16 01:14:32Z",
-      "mag_author" : null,
-      "longitude" : 13.0403,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.0403, 43.1678 ]
-    },
-    "id" : "36147471"
   } ]
 }
