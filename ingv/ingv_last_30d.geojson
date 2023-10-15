@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 2.15,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.8385,
+      "event_id" : 36495931,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 1.9,
+      "time" : "2023-10-15 17:57:58Z",
+      "mag_author" : null,
+      "longitude" : 14.115167,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.115167, 40.8385 ]
+    },
+    "id" : "36495931"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 24.4,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -47674,27 +47696,5 @@
       "coordinates" : [ 12.8435, 43.1125 ]
     },
     "id" : "36145871"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 4.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.9093,
-      "event_id" : 36145801,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km E Castelsantangelo sul Nera (MC)",
-      "magnitude" : 0.5,
-      "time" : "2023-09-15 20:14:25Z",
-      "mag_author" : null,
-      "longitude" : 13.209,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.209, 42.9093 ]
-    },
-    "id" : "36145801"
   } ]
 }
