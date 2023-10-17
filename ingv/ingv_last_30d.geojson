@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 5.2,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.3697,
+      "event_id" : 36505381,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km NW Gubbio (PG)",
+      "magnitude" : 0.8,
+      "time" : "2023-10-17 08:26:44Z",
+      "mag_author" : null,
+      "longitude" : 12.5588,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.5588, 43.3697 ]
+    },
+    "id" : "36505381"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 19.8,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -47630,27 +47652,5 @@
       "coordinates" : [ 7.1773, 44.3607 ]
     },
     "id" : "36158731"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 161.6,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 38.7472,
-      "event_id" : 36158571,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "Costa Calabra sud-occidentale (Catanzaro, Vibo Valentia, Reggio di Calabria)",
-      "magnitude" : 2.7,
-      "time" : "2023-09-17 10:35:41Z",
-      "mag_author" : null,
-      "longitude" : 15.686,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 15.686, 38.7472 ]
-    },
-    "id" : "36158571"
   } ]
 }
