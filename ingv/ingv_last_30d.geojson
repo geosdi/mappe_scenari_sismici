@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 23.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.9422,
+      "event_id" : 36503681,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "6 km SE Bolognola (MC)",
+      "magnitude" : 1.2,
+      "time" : "2023-10-17 04:56:02Z",
+      "mag_author" : null,
+      "longitude" : 13.2533,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.2533, 42.9422 ]
+    },
+    "id" : "36503681"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 6.3,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -47652,27 +47674,5 @@
       "coordinates" : [ 15.1337, 40.8452 ]
     },
     "id" : "36156811"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.1,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.8147,
-      "event_id" : 36156631,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km NW Norcia (PG)",
-      "magnitude" : 1.0,
-      "time" : "2023-09-17 07:07:51Z",
-      "mag_author" : null,
-      "longitude" : 13.0587,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.0587, 42.8147 ]
-    },
-    "id" : "36156631"
   } ]
 }
