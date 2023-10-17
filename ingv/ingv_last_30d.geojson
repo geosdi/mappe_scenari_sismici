@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 12.9,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.7752,
+      "event_id" : 36506341,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km W Arquata del Tronto (AP)",
+      "magnitude" : 2.4,
+      "time" : "2023-10-17 10:44:14Z",
+      "mag_author" : null,
+      "longitude" : 13.2717,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.2717, 42.7752 ]
+    },
+    "id" : "36506341"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.0,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -47608,27 +47630,5 @@
       "coordinates" : [ 13.0222, 43.1145 ]
     },
     "id" : "36159831"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 8.7,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.6542,
-      "event_id" : 36159511,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km W Borgo Pace (PU)",
-      "magnitude" : 0.7,
-      "time" : "2023-09-17 12:54:00Z",
-      "mag_author" : null,
-      "longitude" : 12.2385,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.2385, 43.6542 ]
-    },
-    "id" : "36159511"
   } ]
 }
