@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.2,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 46.541,
+      "event_id" : 36511341,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "Confine Italia-Svizzera (SVIZZERA)",
+      "magnitude" : 1.1,
+      "time" : "2023-10-18 00:17:26Z",
+      "mag_author" : null,
+      "longitude" : 9.547,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.547, 46.541 ]
+    },
+    "id" : "36511341"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.4,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -48004,49 +48026,5 @@
       "coordinates" : [ 15.0722, 38.04 ]
     },
     "id" : "36163701"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 12.8,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 44.0513,
-      "event_id" : 36163611,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km SW Marradi (FI)",
-      "magnitude" : 0.7,
-      "time" : "2023-09-18 02:45:28Z",
-      "mag_author" : null,
-      "longitude" : 11.59,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 11.59, 44.0513 ]
-    },
-    "id" : "36163611"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.7,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.5433,
-      "event_id" : 36163601,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km N Posta (RI)",
-      "magnitude" : 0.5,
-      "time" : "2023-09-18 02:44:48Z",
-      "mag_author" : null,
-      "longitude" : 13.101,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.101, 42.5433 ]
-    },
-    "id" : "36163601"
   } ]
 }
