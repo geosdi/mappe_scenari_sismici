@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 8.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 44.0643,
+      "event_id" : 36514671,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km SW Marradi (FI)",
+      "magnitude" : 1.7,
+      "time" : "2023-10-18 08:45:29Z",
+      "mag_author" : null,
+      "longitude" : 11.6037,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.6037, 44.0643 ]
+    },
+    "id" : "36514671"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.1,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -46618,27 +46640,5 @@
       "coordinates" : [ 11.6482, 44.0732 ]
     },
     "id" : "36178811"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.4,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 44.0698,
-      "event_id" : 36178771,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km SW Palazzuolo sul Senio (FI)",
-      "magnitude" : 2.1,
-      "time" : "2023-09-18 10:57:45Z",
-      "mag_author" : null,
-      "longitude" : 11.5207,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 11.5207, 44.0698 ]
-    },
-    "id" : "36178771"
   } ]
 }
