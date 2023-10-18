@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 8.1,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 41.4313,
+      "event_id" : 36516661,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km SW Campochiaro (CB)",
+      "magnitude" : 1.9,
+      "time" : "2023-10-18 11:56:26Z",
+      "mag_author" : null,
+      "longitude" : 14.4727,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.4727, 41.4313 ]
+    },
+    "id" : "36516661"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 1.6,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -46134,27 +46156,5 @@
       "coordinates" : [ 11.7342, 44.0792 ]
     },
     "id" : "36182831"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 14.2,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 44.0508,
-      "event_id" : 36182731,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "6 km SW Tredozio (FC)",
-      "magnitude" : 1.7,
-      "time" : "2023-09-18 14:04:53Z",
-      "mag_author" : null,
-      "longitude" : 11.6823,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 11.6823, 44.0508 ]
-    },
-    "id" : "36182731"
   } ]
 }
