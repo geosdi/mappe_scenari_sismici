@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.223,
+      "event_id" : 36536881,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km W Gualdo Tadino (PG)",
+      "magnitude" : 1.2,
+      "time" : "2023-10-20 08:59:41Z",
+      "mag_author" : null,
+      "longitude" : 12.7347,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.7347, 43.223 ]
+    },
+    "id" : "36536881"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 11.1,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -41998,27 +42020,5 @@
       "coordinates" : [ 11.6412, 44.0867 ]
     },
     "id" : "36214371"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 7.3,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 44.0718,
-      "event_id" : 36214281,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km E Marradi (FI)",
-      "magnitude" : 1.8,
-      "time" : "2023-09-20 11:15:21Z",
-      "mag_author" : null,
-      "longitude" : 11.6532,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 11.6532, 44.0718 ]
-    },
-    "id" : "36214281"
   } ]
 }
