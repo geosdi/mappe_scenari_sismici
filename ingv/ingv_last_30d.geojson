@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 19.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.1952,
+      "event_id" : 36534571,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "6 km W Fiuminata (MC)",
+      "magnitude" : 0.6,
+      "time" : "2023-10-20 06:27:20Z",
+      "mag_author" : null,
+      "longitude" : 12.8612,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.8612, 43.1952 ]
+    },
+    "id" : "36534571"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 0.6,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -42372,27 +42394,5 @@
       "coordinates" : [ 11.6497, 44.0813 ]
     },
     "id" : "36211491"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 2.2,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 41.6365,
-      "event_id" : 36211441,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "7 km SE Rignano Garganico (FG)",
-      "magnitude" : 1.6,
-      "time" : "2023-09-20 08:33:39Z",
-      "mag_author" : null,
-      "longitude" : 15.6453,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 15.6453, 41.6365 ]
-    },
-    "id" : "36211441"
   } ]
 }
