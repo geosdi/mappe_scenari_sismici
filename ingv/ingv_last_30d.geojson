@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 4.1,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.3802,
+      "event_id" : 36555711,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "6 km E Montone (PG)",
+      "magnitude" : 0.7,
+      "time" : "2023-10-21 06:10:58Z",
+      "mag_author" : null,
+      "longitude" : 12.3963,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.3963, 43.3802 ]
+    },
+    "id" : "36555711"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 12.1,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -40458,27 +40480,5 @@
       "coordinates" : [ 13.1427, 42.6022 ]
     },
     "id" : "36227001"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 8.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 44.0437,
-      "event_id" : 36226951,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "6 km SW Tredozio (FC)",
-      "magnitude" : 1.0,
-      "time" : "2023-09-21 08:20:59Z",
-      "mag_author" : null,
-      "longitude" : 11.6892,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 11.6892, 44.0437 ]
-    },
-    "id" : "36226951"
   } ]
 }
