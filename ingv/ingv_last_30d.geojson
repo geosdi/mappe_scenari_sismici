@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 3.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 45.5525,
+      "event_id" : 36560741,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km SE Trissino (VI)",
+      "magnitude" : 0.6,
+      "time" : "2023-10-22 02:24:12Z",
+      "mag_author" : null,
+      "longitude" : 11.3822,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.3822, 45.5525 ]
+    },
+    "id" : "36560741"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 11.1,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -38544,27 +38566,5 @@
       "coordinates" : [ 11.6462, 44.0712 ]
     },
     "id" : "36240941"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 14.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.461,
-      "event_id" : 36240461,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "1 km NE Barete (AQ)",
-      "magnitude" : 3.0,
-      "time" : "2023-09-22 05:35:14Z",
-      "mag_author" : null,
-      "longitude" : 13.2875,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.2875, 42.461 ]
-    },
-    "id" : "36240461"
   } ]
 }
