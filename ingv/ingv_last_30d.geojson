@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 65.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.2522,
+      "event_id" : 36589141,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "11 km SE Umbertide (PG)",
+      "magnitude" : 2.3,
+      "time" : "2023-10-24 21:22:35Z",
+      "mag_author" : null,
+      "longitude" : 12.4342,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.4342, 43.2522 ]
+    },
+    "id" : "36589141"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 9.4,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -37884,27 +37906,5 @@
       "coordinates" : [ 13.521, 42.4358 ]
     },
     "id" : "36274191"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 14.8,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.1445,
-      "event_id" : 36274131,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km SE Pioraco (MC)",
-      "magnitude" : 0.8,
-      "time" : "2023-09-24 23:35:11Z",
-      "mag_author" : null,
-      "longitude" : 13.0083,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.0083, 43.1445 ]
-    },
-    "id" : "36274131"
   } ]
 }
