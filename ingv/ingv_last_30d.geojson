@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 13.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.5667,
+      "event_id" : 36575021,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km W Campotosto (AQ)",
+      "magnitude" : 0.3,
+      "time" : "2023-10-24 06:13:19Z",
+      "mag_author" : null,
+      "longitude" : 13.35,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.35, 42.5667 ]
+    },
+    "id" : "36575021"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 8.3,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -38390,27 +38412,5 @@
       "coordinates" : [ 13.1148, 42.9512 ]
     },
     "id" : "36269021"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 12.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.6708,
-      "event_id" : 36268931,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km N Amatrice (RI)",
-      "magnitude" : 1.5,
-      "time" : "2023-09-24 08:24:31Z",
-      "mag_author" : null,
-      "longitude" : 13.3027,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.3027, 42.6708 ]
-    },
-    "id" : "36268931"
   } ]
 }
