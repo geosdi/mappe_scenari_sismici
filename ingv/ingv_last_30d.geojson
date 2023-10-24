@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.9,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 40.1753,
+      "event_id" : 36574181,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "6 km W Castelsaraceno (PZ)",
+      "magnitude" : 1.7,
+      "time" : "2023-10-24 04:29:18Z",
+      "mag_author" : null,
+      "longitude" : 15.9188,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 15.9188, 40.1753 ]
+    },
+    "id" : "36574181"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 9.7,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -38324,27 +38346,5 @@
       "coordinates" : [ 14.430667, 40.820333 ]
     },
     "id" : "36268571"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 6.3,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 44.0698,
-      "event_id" : 36268441,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km E Marradi (FI)",
-      "magnitude" : 0.9,
-      "time" : "2023-09-24 06:50:46Z",
-      "mag_author" : null,
-      "longitude" : 11.6488,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 11.6488, 44.0698 ]
-    },
-    "id" : "36268441"
   } ]
 }
