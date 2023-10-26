@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 44.0698,
+      "event_id" : 36604611,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "1 km SE Marradi (FI)",
+      "magnitude" : 1.1,
+      "time" : "2023-10-26 01:23:01Z",
+      "mag_author" : null,
+      "longitude" : 11.6283,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.6283, 44.0698 ]
+    },
+    "id" : "36604611"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.2,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -37202,27 +37224,5 @@
       "coordinates" : [ 14.135167, 40.828833 ]
     },
     "id" : "36285411"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.7988,
-      "event_id" : 36284781,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km E Norcia (PG)",
-      "magnitude" : 1.5,
-      "time" : "2023-09-26 03:28:49Z",
-      "mag_author" : null,
-      "longitude" : 13.1138,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.1138, 42.7988 ]
-    },
-    "id" : "36284781"
   } ]
 }
