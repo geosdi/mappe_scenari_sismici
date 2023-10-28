@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 8.7,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.9673,
+      "event_id" : 36655151,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km N Ussita (MC)",
+      "magnitude" : 1.4,
+      "time" : "2023-10-28 17:33:43Z",
+      "mag_author" : null,
+      "longitude" : 13.1467,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.1467, 42.9673 ]
+    },
+    "id" : "36655151"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.0,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -36058,27 +36080,5 @@
       "coordinates" : [ 11.9297, 42.6727 ]
     },
     "id" : "36319721"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 7.8,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.6725,
-      "event_id" : 36319631,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km SE San Lorenzo Nuovo (VT)",
-      "magnitude" : 2.0,
-      "time" : "2023-09-28 19:44:37Z",
-      "mag_author" : null,
-      "longitude" : 11.9305,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 11.9305, 42.6725 ]
-    },
-    "id" : "36319631"
   } ]
 }
