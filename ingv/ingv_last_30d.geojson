@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 13.4,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.6103,
+      "event_id" : 36654201,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km W Amatrice (RI)",
+      "magnitude" : 0.8,
+      "time" : "2023-10-28 15:46:52Z",
+      "mag_author" : null,
+      "longitude" : 13.2385,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.2385, 42.6103 ]
+    },
+    "id" : "36654201"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 11.3,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -36432,27 +36454,5 @@
       "coordinates" : [ 11.94, 42.6775 ]
     },
     "id" : "36318321"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 4.61,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.812,
-      "event_id" : 36318421,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 1.0,
-      "time" : "2023-09-28 18:01:26Z",
-      "mag_author" : null,
-      "longitude" : 14.101333,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.101333, 40.812 ]
-    },
-    "id" : "36318421"
   } ]
 }
