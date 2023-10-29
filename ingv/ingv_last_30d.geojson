@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.3,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.8708,
+      "event_id" : 36657971,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km E Preci (PG)",
+      "magnitude" : 1.2,
+      "time" : "2023-10-29 05:40:53Z",
+      "mag_author" : null,
+      "longitude" : 13.0712,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.0712, 42.8708 ]
+    },
+    "id" : "36657971"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 15.5,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -35508,49 +35530,5 @@
       "coordinates" : [ 11.6252, 44.0677 ]
     },
     "id" : "36324871"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.3,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 44.0692,
-      "event_id" : 36324521,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "1 km SE Marradi (FI)",
-      "magnitude" : 1.2,
-      "time" : "2023-09-29 06:55:32Z",
-      "mag_author" : null,
-      "longitude" : 11.6285,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 11.6285, 44.0692 ]
-    },
-    "id" : "36324521"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 44.068,
-      "event_id" : 36324351,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km SE Marradi (FI)",
-      "magnitude" : 1.1,
-      "time" : "2023-09-29 06:54:21Z",
-      "mag_author" : null,
-      "longitude" : 11.6297,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 11.6297, 44.068 ]
-    },
-    "id" : "36324351"
   } ]
 }
