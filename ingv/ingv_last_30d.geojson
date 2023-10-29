@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 8.7,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 44.5605,
+      "event_id" : 36663321,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km SE Sampeyre (CN)",
+      "magnitude" : 1.2,
+      "time" : "2023-10-29 13:04:48Z",
+      "mag_author" : null,
+      "longitude" : 7.2118,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.2118, 44.5605 ]
+    },
+    "id" : "36663321"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 5.44,
       "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
       "catalog" : null,
@@ -35112,27 +35134,5 @@
       "coordinates" : [ 11.9043, 42.6908 ]
     },
     "id" : "36331471"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 46.4788,
-      "event_id" : 36331401,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "7 km E Valfurva (SO)",
-      "magnitude" : 0.3,
-      "time" : "2023-09-29 14:18:27Z",
-      "mag_author" : null,
-      "longitude" : 10.506,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 10.506, 46.4788 ]
-    },
-    "id" : "36331401"
   } ]
 }
