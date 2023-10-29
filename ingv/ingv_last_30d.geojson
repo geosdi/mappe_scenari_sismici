@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.7,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.8905,
+      "event_id" : 36666271,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "1 km NW Preci (PG)",
+      "magnitude" : 0.4,
+      "time" : "2023-10-29 20:09:47Z",
+      "mag_author" : null,
+      "longitude" : 13.0327,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.0327, 42.8905 ]
+    },
+    "id" : "36666271"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.2,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -34672,27 +34694,5 @@
       "coordinates" : [ 14.117833, 40.841667 ]
     },
     "id" : "36335511"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 4.6,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.1347,
-      "event_id" : 36335291,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "6 km E Camerino (MC)",
-      "magnitude" : 0.4,
-      "time" : "2023-09-29 21:24:50Z",
-      "mag_author" : null,
-      "longitude" : 13.1407,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.1407, 43.1347 ]
-    },
-    "id" : "36335291"
   } ]
 }
