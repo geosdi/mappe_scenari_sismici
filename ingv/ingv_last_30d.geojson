@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.1,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 44.525,
+      "event_id" : 36671791,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km NW Castellarano (RE)",
+      "magnitude" : 2.5,
+      "time" : "2023-10-30 08:04:35Z",
+      "mag_author" : null,
+      "longitude" : 10.7017,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.7017, 44.525 ]
+    },
+    "id" : "36671791"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 25.2,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -34672,27 +34694,5 @@
       "coordinates" : [ 11.6518, 44.0847 ]
     },
     "id" : "36340211"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 4.3,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 44.0718,
-      "event_id" : 36340081,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km E Marradi (FI)",
-      "magnitude" : 0.5,
-      "time" : "2023-09-30 09:14:08Z",
-      "mag_author" : null,
-      "longitude" : 11.6392,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 11.6392, 44.0718 ]
-    },
-    "id" : "36340081"
   } ]
 }
