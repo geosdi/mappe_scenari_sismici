@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.3,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.8612,
+      "event_id" : 36697791,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km SW Preci (PG)",
+      "magnitude" : 1.5,
+      "time" : "2023-11-01 09:32:17Z",
+      "mag_author" : null,
+      "longitude" : 12.996,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.996, 42.8612 ]
+    },
+    "id" : "36697791"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 2.92,
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
@@ -32802,27 +32824,5 @@
       "coordinates" : [ 12.6832, 43.5972 ]
     },
     "id" : "36361771"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 12.4,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.6883,
-      "event_id" : 36361691,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km E Accumoli (RI)",
-      "magnitude" : 1.5,
-      "time" : "2023-10-02 10:42:30Z",
-      "mag_author" : null,
-      "longitude" : 13.2747,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.2747, 42.6883 ]
-    },
-    "id" : "36361691"
   } ]
 }
