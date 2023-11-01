@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 19.531,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : -10.0477,
+      "event_id" : 36701381,
+      "contributor" : null,
+      "mag_type" : "Mwp",
+      "event_location_name" : "Indonesia [Sea]",
+      "magnitude" : 6.0,
+      "time" : "2023-11-01 21:04:45Z",
+      "mag_author" : null,
+      "longitude" : 123.63,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 123.63, -10.0477 ]
+    },
+    "id" : "36701381"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 9.8,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -32604,49 +32626,5 @@
       "coordinates" : [ 11.6493, 44.0942 ]
     },
     "id" : "36366251"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 11.1,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.5237,
-      "event_id" : 36366201,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km E Capitignano (AQ)",
-      "magnitude" : 0.7,
-      "time" : "2023-10-02 22:18:26Z",
-      "mag_author" : null,
-      "longitude" : 13.3473,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.3473, 42.5237 ]
-    },
-    "id" : "36366201"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.9,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.7238,
-      "event_id" : 36366161,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km NW Accumoli (RI)",
-      "magnitude" : 1.0,
-      "time" : "2023-10-02 22:15:05Z",
-      "mag_author" : null,
-      "longitude" : 13.203,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.203, 42.7238 ]
-    },
-    "id" : "36366161"
   } ]
 }
