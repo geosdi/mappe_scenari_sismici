@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 7.7,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.8352,
+      "event_id" : 36695841,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "8 km SE Castelsantangelo sul Nera (MC)",
+      "magnitude" : 1.4,
+      "time" : "2023-11-01 01:02:17Z",
+      "mag_author" : null,
+      "longitude" : 13.2167,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.2167, 42.8352 ]
+    },
+    "id" : "36695841"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 11.3,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -33066,27 +33088,5 @@
       "coordinates" : [ 16.0668, 38.0618 ]
     },
     "id" : "36357851"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 12.81,
-      "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
-      "catalog" : null,
-      "latitude" : 37.73,
-      "event_id" : 36357741,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "11 km N Ragalna (CT)",
-      "magnitude" : 1.7,
-      "time" : "2023-10-02 02:14:22Z",
-      "mag_author" : null,
-      "longitude" : 14.963,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.963, 37.73 ]
-    },
-    "id" : "36357741"
   } ]
 }
