@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 8.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.9697,
+      "event_id" : 36705621,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km N Ussita (MC)",
+      "magnitude" : 1.6,
+      "time" : "2023-11-02 11:17:07Z",
+      "mag_author" : null,
+      "longitude" : 13.1495,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.1495, 42.9697 ]
+    },
+    "id" : "36705621"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.0,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -31724,27 +31746,5 @@
       "coordinates" : [ 15.7572, 38.1188 ]
     },
     "id" : "36373761"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 14.1,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 38.1183,
-      "event_id" : 36373581,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km NW Cardeto (RC)",
-      "magnitude" : 1.9,
-      "time" : "2023-10-03 12:30:49Z",
-      "mag_author" : null,
-      "longitude" : 15.7367,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 15.7367, 38.1183 ]
-    },
-    "id" : "36373581"
   } ]
 }
