@@ -3,6 +3,50 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 38.9278,
+      "event_id" : 36801751,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "Costa Ionica Crotonese (Crotone)",
+      "magnitude" : 2.4,
+      "time" : "2023-11-06 19:11:01Z",
+      "mag_author" : null,
+      "longitude" : 17.1613,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 17.1613, 38.9278 ]
+    },
+    "id" : "36801751"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 35.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 38.7833,
+      "event_id" : 36801711,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "Mar Ionio Settentrionale (MARE)",
+      "magnitude" : 2.1,
+      "time" : "2023-11-06 19:09:32Z",
+      "mag_author" : null,
+      "longitude" : 17.0972,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 17.0972, 38.7833 ]
+    },
+    "id" : "36801711"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 14.9,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -28138,49 +28182,5 @@
       "coordinates" : [ 12.1822, 43.7645 ]
     },
     "id" : "36418201"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 15.2,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.7778,
-      "event_id" : 36418071,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km SE Casteldelci (RN)",
-      "magnitude" : 0.9,
-      "time" : "2023-10-07 20:26:54Z",
-      "mag_author" : null,
-      "longitude" : 12.1837,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.1837, 43.7778 ]
-    },
-    "id" : "36418071"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 1.83,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.825167,
-      "event_id" : 36418151,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Vesuvio",
-      "magnitude" : 1.0,
-      "time" : "2023-10-07 20:23:35Z",
-      "mag_author" : null,
-      "longitude" : 14.4255,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.4255, 40.825167 ]
-    },
-    "id" : "36418151"
   } ]
 }
