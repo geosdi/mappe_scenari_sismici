@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 18.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 41.7473,
+      "event_id" : 36806821,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km NW Sora (FR)",
+      "magnitude" : 1.2,
+      "time" : "2023-11-07 11:49:30Z",
+      "mag_author" : null,
+      "longitude" : 13.6023,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.6023, 41.7473 ]
+    },
+    "id" : "36806821"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 9.1,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -28446,49 +28468,5 @@
       "coordinates" : [ 16.1108, 39.825 ]
     },
     "id" : "36424981"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 4.4,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.6823,
-      "event_id" : 36424601,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "1 km SE San Lorenzo Nuovo (VT)",
-      "magnitude" : 2.2,
-      "time" : "2023-10-08 13:02:08Z",
-      "mag_author" : null,
-      "longitude" : 11.9098,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 11.9098, 42.6823 ]
-    },
-    "id" : "36424601"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.9,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 39.8342,
-      "event_id" : 36424701,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km W Morano Calabro (CS)",
-      "magnitude" : 0.7,
-      "time" : "2023-10-08 13:02:03Z",
-      "mag_author" : null,
-      "longitude" : 16.0998,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 16.0998, 39.8342 ]
-    },
-    "id" : "36424701"
   } ]
 }
