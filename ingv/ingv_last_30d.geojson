@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 15.4,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 41.7612,
+      "event_id" : 36802951,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km W Pescosolido (FR)",
+      "magnitude" : 1.6,
+      "time" : "2023-11-07 00:27:30Z",
+      "mag_author" : null,
+      "longitude" : 13.6043,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.6043, 41.7612 ]
+    },
+    "id" : "36802951"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 16.2,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -28094,27 +28116,5 @@
       "coordinates" : [ 7.0323, 45.8417 ]
     },
     "id" : "36419961"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 0.58,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.827,
-      "event_id" : 36419931,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Vesuvio",
-      "magnitude" : 1.2,
-      "time" : "2023-10-08 01:34:20Z",
-      "mag_author" : null,
-      "longitude" : 14.431833,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.431833, 40.827 ]
-    },
-    "id" : "36419931"
   } ]
 }
