@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 13.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.7647,
+      "event_id" : 36817071,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "1 km SW Arquata del Tronto (AP)",
+      "magnitude" : 1.0,
+      "time" : "2023-11-08 21:19:09Z",
+      "mag_author" : null,
+      "longitude" : 13.2917,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.2917, 42.7647 ]
+    },
+    "id" : "36817071"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 11.1,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -27742,27 +27764,5 @@
       "coordinates" : [ 12.7468, 43.4048 ]
     },
     "id" : "36438681"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 8.1,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 46.1575,
-      "event_id" : 36438601,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "1 km SW Alpago (BL)",
-      "magnitude" : 1.1,
-      "time" : "2023-10-09 22:25:52Z",
-      "mag_author" : null,
-      "longitude" : 12.3448,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.3448, 46.1575 ]
-    },
-    "id" : "36438601"
   } ]
 }
