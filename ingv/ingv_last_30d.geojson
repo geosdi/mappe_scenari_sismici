@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.0063,
+      "event_id" : 36823361,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "7 km W Monte Cavallo (MC)",
+      "magnitude" : 1.0,
+      "time" : "2023-11-09 18:27:00Z",
+      "mag_author" : null,
+      "longitude" : 12.9128,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.9128, 43.0063 ]
+    },
+    "id" : "36823361"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 8.6,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -27588,27 +27610,5 @@
       "coordinates" : [ 11.6422, 44.0678 ]
     },
     "id" : "36446061"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 5.7,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 44.0742,
-      "event_id" : 36445921,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km E Marradi (FI)",
-      "magnitude" : 0.1,
-      "time" : "2023-10-10 19:30:49Z",
-      "mag_author" : null,
-      "longitude" : 11.648,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 11.648, 44.0742 ]
-    },
-    "id" : "36445921"
   } ]
 }
