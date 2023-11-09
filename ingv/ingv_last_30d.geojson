@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 39.4947,
+      "event_id" : 36822501,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "Mar Ionio Settentrionale (MARE)",
+      "magnitude" : 3.5,
+      "time" : "2023-11-09 16:25:47Z",
+      "mag_author" : null,
+      "longitude" : 19.593,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.593, 39.4947 ]
+    },
+    "id" : "36822501"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 26.3,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -27698,27 +27720,5 @@
       "coordinates" : [ 13.1758, 42.5972 ]
     },
     "id" : "36445461"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 17.1,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.9548,
-      "event_id" : 36445351,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km NE Montefortino (FM)",
-      "magnitude" : 0.7,
-      "time" : "2023-10-10 17:53:13Z",
-      "mag_author" : null,
-      "longitude" : 13.3562,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.3562, 42.9548 ]
-    },
-    "id" : "36445351"
   } ]
 }
