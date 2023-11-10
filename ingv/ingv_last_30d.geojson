@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.2,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.0113,
+      "event_id" : 36825231,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "7 km W Monte Cavallo (MC)",
+      "magnitude" : 0.8,
+      "time" : "2023-11-10 02:39:08Z",
+      "mag_author" : null,
+      "longitude" : 12.9147,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.9147, 43.0113 ]
+    },
+    "id" : "36825231"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 6.6,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -27566,27 +27588,5 @@
       "coordinates" : [ 12.8823, 42.9187 ]
     },
     "id" : "36448081"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.6,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.6892,
-      "event_id" : 36447961,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "1 km SE Accumoli (RI)",
-      "magnitude" : 0.9,
-      "time" : "2023-10-11 03:47:06Z",
-      "mag_author" : null,
-      "longitude" : 13.2583,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.2583, 42.6892 ]
-    },
-    "id" : "36447961"
   } ]
 }
