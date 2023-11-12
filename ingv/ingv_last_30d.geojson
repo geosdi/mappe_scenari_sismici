@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.4,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 44.208,
+      "event_id" : 36847901,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km NE Camugnano (BO)",
+      "magnitude" : 1.1,
+      "time" : "2023-11-12 00:44:47Z",
+      "mag_author" : null,
+      "longitude" : 11.1237,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.1237, 44.208 ]
+    },
+    "id" : "36847901"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 7.7,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -27126,27 +27148,5 @@
       "coordinates" : [ 7.0298, 45.6297 ]
     },
     "id" : "36464701"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 23.4,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 44.1758,
-      "event_id" : 36464591,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "8 km SE Casola Valsenio (RA)",
-      "magnitude" : 1.3,
-      "time" : "2023-10-13 02:26:41Z",
-      "mag_author" : null,
-      "longitude" : 11.6932,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 11.6932, 44.1758 ]
-    },
-    "id" : "36464591"
   } ]
 }
