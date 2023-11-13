@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.9,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 46.3623,
+      "event_id" : 36853101,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km W Cavazzo Carnico (UD)",
+      "magnitude" : 1.4,
+      "time" : "2023-11-13 04:04:15Z",
+      "mag_author" : null,
+      "longitude" : 13.0103,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.0103, 46.3623 ]
+    },
+    "id" : "36853101"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 13.0,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -26708,27 +26730,5 @@
       "coordinates" : [ 14.5398, 41.5847 ]
     },
     "id" : "36474701"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 12.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.8865,
-      "event_id" : 36474501,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km W Sellano (PG)",
-      "magnitude" : 0.7,
-      "time" : "2023-10-14 05:14:01Z",
-      "mag_author" : null,
-      "longitude" : 12.8935,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.8935, 42.8865 ]
-    },
-    "id" : "36474501"
   } ]
 }
