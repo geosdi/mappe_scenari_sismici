@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.1,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.8883,
+      "event_id" : 36888801,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "1 km NE Preci (PG)",
+      "magnitude" : 2.2,
+      "time" : "2023-11-16 19:21:45Z",
+      "mag_author" : null,
+      "longitude" : 13.0503,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.0503, 42.8883 ]
+    },
+    "id" : "36888801"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 7.5,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -25828,27 +25850,5 @@
       "coordinates" : [ 15.912, 40.1668 ]
     },
     "id" : "36510501"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.6,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.3822,
-      "event_id" : 36510351,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "6 km E Montone (PG)",
-      "magnitude" : 1.1,
-      "time" : "2023-10-17 20:39:24Z",
-      "mag_author" : null,
-      "longitude" : 12.4023,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.4023, 43.3822 ]
-    },
-    "id" : "36510351"
   } ]
 }
