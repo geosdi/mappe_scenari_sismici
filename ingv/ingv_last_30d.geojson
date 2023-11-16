@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 6.3,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.9992,
+      "event_id" : 36884691,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km E Monte Cavallo (MC)",
+      "magnitude" : 1.8,
+      "time" : "2023-11-16 09:38:41Z",
+      "mag_author" : null,
+      "longitude" : 13.0218,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.0218, 42.9992 ]
+    },
+    "id" : "36884691"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 15.5,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -26224,27 +26246,5 @@
       "coordinates" : [ 12.7568, 43.4228 ]
     },
     "id" : "36506771"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 12.9,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.7752,
-      "event_id" : 36506341,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km W Arquata del Tronto (AP)",
-      "magnitude" : 2.4,
-      "time" : "2023-10-17 10:44:14Z",
-      "mag_author" : null,
-      "longitude" : 13.2717,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.2717, 42.7752 ]
-    },
-    "id" : "36506341"
   } ]
 }
