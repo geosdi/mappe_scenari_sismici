@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 6.3,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 44.1122,
+      "event_id" : 36897511,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "Zuccarello (SV)",
+      "magnitude" : 0.9,
+      "time" : "2023-11-17 10:37:00Z",
+      "mag_author" : null,
+      "longitude" : 8.1195,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.1195, 44.1122 ]
+    },
+    "id" : "36897511"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.3,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -24838,27 +24860,5 @@
       "coordinates" : [ 13.0092, 42.9638 ]
     },
     "id" : "36517311"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 7.1,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 44.072,
-      "event_id" : 36516751,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km W Tredozio (FC)",
-      "magnitude" : 1.3,
-      "time" : "2023-10-18 12:02:05Z",
-      "mag_author" : null,
-      "longitude" : 11.7013,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 11.7013, 44.072 ]
-    },
-    "id" : "36516751"
   } ]
 }
