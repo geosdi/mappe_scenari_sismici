@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 12.9,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.8155,
+      "event_id" : 36909741,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "7 km NW Arquata del Tronto (AP)",
+      "magnitude" : 1.4,
+      "time" : "2023-11-18 19:41:08Z",
+      "mag_author" : null,
+      "longitude" : 13.2317,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.2317, 42.8155 ]
+    },
+    "id" : "36909741"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 13.2,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -24398,27 +24420,5 @@
       "coordinates" : [ 15.038, 37.676 ]
     },
     "id" : "36531151"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 8.6,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.2705,
-      "event_id" : 36531021,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "6 km W Esanatoglia (MC)",
-      "magnitude" : 1.5,
-      "time" : "2023-10-19 20:42:05Z",
-      "mag_author" : null,
-      "longitude" : 12.8748,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.8748, 43.2705 ]
-    },
-    "id" : "36531021"
   } ]
 }
