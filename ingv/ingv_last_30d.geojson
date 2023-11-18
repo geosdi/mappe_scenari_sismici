@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 21.9,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.3403,
+      "event_id" : 36903201,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km S Montone (PG)",
+      "magnitude" : 1.0,
+      "time" : "2023-11-18 00:01:45Z",
+      "mag_author" : null,
+      "longitude" : 12.3287,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.3287, 43.3403 ]
+    },
+    "id" : "36903201"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 7.0,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -24662,27 +24684,5 @@
       "coordinates" : [ 14.5407, 41.5852 ]
     },
     "id" : "36520191"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 3.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 38.2847,
-      "event_id" : 36520151,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "Costa Siciliana nord-orientale (Messina)",
-      "magnitude" : 1.7,
-      "time" : "2023-10-19 01:13:57Z",
-      "mag_author" : null,
-      "longitude" : 14.907,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.907, 38.2847 ]
-    },
-    "id" : "36520151"
   } ]
 }
