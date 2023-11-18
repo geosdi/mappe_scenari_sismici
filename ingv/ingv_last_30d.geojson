@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 11.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.1602,
+      "event_id" : 36906801,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "6 km NW Nocera Umbra (PG)",
+      "magnitude" : 0.9,
+      "time" : "2023-11-18 09:40:12Z",
+      "mag_author" : null,
+      "longitude" : 12.7567,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.7567, 43.1602 ]
+    },
+    "id" : "36906801"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.059,
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
@@ -24662,27 +24684,5 @@
       "coordinates" : [ 13.2282, 42.5938 ]
     },
     "id" : "36525871"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 11.1,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 46.3175,
-      "event_id" : 36524871,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "6 km SW Cavazzo Carnico (UD)",
-      "magnitude" : 0.9,
-      "time" : "2023-10-19 10:56:58Z",
-      "mag_author" : null,
-      "longitude" : 13.0015,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.0015, 46.3175 ]
-    },
-    "id" : "36524871"
   } ]
 }
