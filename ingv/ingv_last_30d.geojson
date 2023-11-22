@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.7,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.9092,
+      "event_id" : 36936281,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km SW Visso (MC)",
+      "magnitude" : 1.5,
+      "time" : "2023-11-22 08:29:48Z",
+      "mag_author" : null,
+      "longitude" : 13.0632,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.0632, 42.9092 ]
+    },
+    "id" : "36936281"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 5.4,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -25696,27 +25718,5 @@
       "coordinates" : [ 11.2092, 46.187 ]
     },
     "id" : "36569491"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 37.4,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.6348,
-      "event_id" : 36569401,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km SE Corinaldo (AN)",
-      "magnitude" : 1.2,
-      "time" : "2023-10-23 09:39:07Z",
-      "mag_author" : null,
-      "longitude" : 13.0682,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.0682, 43.6348 ]
-    },
-    "id" : "36569401"
   } ]
 }
