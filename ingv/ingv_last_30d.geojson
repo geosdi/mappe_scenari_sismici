@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 15.9,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.5052,
+      "event_id" : 36933631,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km SW Capitignano (AQ)",
+      "magnitude" : 1.2,
+      "time" : "2023-11-22 02:13:32Z",
+      "mag_author" : null,
+      "longitude" : 13.2798,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.2798, 42.5052 ]
+    },
+    "id" : "36933631"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 20.4,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -25520,71 +25542,5 @@
       "coordinates" : [ 13.0328, 42.9185 ]
     },
     "id" : "36566901"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.9,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.9167,
-      "event_id" : 36566881,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km N Preci (PG)",
-      "magnitude" : 0.9,
-      "time" : "2023-10-23 03:28:04Z",
-      "mag_author" : null,
-      "longitude" : 13.0365,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.0365, 42.9167 ]
-    },
-    "id" : "36566881"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 13.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.2513,
-      "event_id" : 36566821,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "6 km S Umbertide (PG)",
-      "magnitude" : 1.1,
-      "time" : "2023-10-23 03:26:28Z",
-      "mag_author" : null,
-      "longitude" : 12.3438,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.3438, 43.2513 ]
-    },
-    "id" : "36566821"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.8,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.9268,
-      "event_id" : 36566761,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km W Visso (MC)",
-      "magnitude" : 1.1,
-      "time" : "2023-10-23 03:25:44Z",
-      "mag_author" : null,
-      "longitude" : 13.0432,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.0432, 42.9268 ]
-    },
-    "id" : "36566761"
   } ]
 }
