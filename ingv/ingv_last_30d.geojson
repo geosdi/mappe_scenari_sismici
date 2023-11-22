@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 18.1,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 40.4997,
+      "event_id" : 36935171,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km SE Pietrapertosa (PZ)",
+      "magnitude" : 1.4,
+      "time" : "2023-11-22 06:24:52Z",
+      "mag_author" : null,
+      "longitude" : 16.0747,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.0747, 40.4997 ]
+    },
+    "id" : "36935171"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.8,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -25586,27 +25608,5 @@
       "coordinates" : [ 15.5342, 40.6277 ]
     },
     "id" : "36568761"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 11.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.9327,
-      "event_id" : 36568611,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km N Sellano (PG)",
-      "magnitude" : 0.9,
-      "time" : "2023-10-23 07:42:05Z",
-      "mag_author" : null,
-      "longitude" : 12.9452,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.9452, 42.9327 ]
-    },
-    "id" : "36568611"
   } ]
 }
