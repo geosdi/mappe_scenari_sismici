@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 7.9,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.4557,
+      "event_id" : 36973851,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km NE Pietralunga (PG)",
+      "magnitude" : 1.1,
+      "time" : "2023-11-25 14:47:50Z",
+      "mag_author" : null,
+      "longitude" : 12.4457,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.4457, 43.4557 ]
+    },
+    "id" : "36973851"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.5,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -26488,27 +26510,5 @@
       "coordinates" : [ 28.0898, -7.37578 ]
     },
     "id" : "36613211"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 8.594,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 56.0461,
-      "event_id" : 36612501,
-      "contributor" : null,
-      "mag_type" : "Mwp",
-      "event_location_name" : "Russia [Sea]",
-      "magnitude" : 5.8,
-      "time" : "2023-10-26 16:05:16Z",
-      "mag_author" : null,
-      "longitude" : 164.738,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 164.738, 56.0461 ]
-    },
-    "id" : "36612501"
   } ]
 }
