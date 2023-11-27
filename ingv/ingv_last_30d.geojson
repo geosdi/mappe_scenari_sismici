@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 17.3,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.8527,
+      "event_id" : 36988391,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km NW Cerreto di Spoleto (PG)",
+      "magnitude" : 1.2,
+      "time" : "2023-11-27 17:26:16Z",
+      "mag_author" : null,
+      "longitude" : 12.8753,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.8753, 42.8527 ]
+    },
+    "id" : "36988391"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 19.2,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -26290,49 +26312,5 @@
       "coordinates" : [ 11.3533, 44.21 ]
     },
     "id" : "36655721"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.7813,
-      "event_id" : 36655591,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km W Arquata del Tronto (AP)",
-      "magnitude" : 0.6,
-      "time" : "2023-10-28 18:32:29Z",
-      "mag_author" : null,
-      "longitude" : 13.27,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.27, 42.7813 ]
-    },
-    "id" : "36655591"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.9,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 44.0767,
-      "event_id" : 36655551,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km W Tredozio (FC)",
-      "magnitude" : 1.0,
-      "time" : "2023-10-28 18:31:54Z",
-      "mag_author" : null,
-      "longitude" : 11.7192,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 11.7192, 44.0767 ]
-    },
-    "id" : "36655551"
   } ]
 }
