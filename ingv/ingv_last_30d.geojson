@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 5.91,
+      "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
+      "catalog" : null,
+      "latitude" : 37.683,
+      "event_id" : 37036381,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "1 km S Zafferana Etnea (CT)",
+      "magnitude" : 2.0,
+      "time" : "2023-12-01 16:50:01Z",
+      "mag_author" : null,
+      "longitude" : 15.108,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 15.108, 37.683 ]
+    },
+    "id" : "37036381"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 8.3,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -24794,27 +24816,5 @@
       "coordinates" : [ 13.0672, 43.0498 ]
     },
     "id" : "36701181"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 0.26,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.824667,
-      "event_id" : 36701081,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Vesuvio",
-      "magnitude" : 1.1,
-      "time" : "2023-11-01 18:01:17Z",
-      "mag_author" : null,
-      "longitude" : 14.4285,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.4285, 40.824667 ]
-    },
-    "id" : "36701081"
   } ]
 }
