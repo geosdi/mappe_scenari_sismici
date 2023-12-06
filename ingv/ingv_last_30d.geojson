@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.6518,
+      "event_id" : 37079581,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km W Amatrice (RI)",
+      "magnitude" : 0.8,
+      "time" : "2023-12-06 18:00:14Z",
+      "mag_author" : null,
+      "longitude" : 13.2365,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.2365, 42.6518 ]
+    },
+    "id" : "37079581"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 12.1,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -26576,27 +26598,5 @@
       "coordinates" : [ 17.1613, 38.9278 ]
     },
     "id" : "36801751"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 35.6,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 38.7833,
-      "event_id" : 36801711,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "Mar Ionio Settentrionale (MARE)",
-      "magnitude" : 2.1,
-      "time" : "2023-11-06 19:09:32Z",
-      "mag_author" : null,
-      "longitude" : 17.0972,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 17.0972, 38.7833 ]
-    },
-    "id" : "36801711"
   } ]
 }
