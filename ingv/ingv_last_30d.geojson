@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.7478,
+      "event_id" : 37082031,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km NE Spoleto (PG)",
+      "magnitude" : 1.2,
+      "time" : "2023-12-07 06:53:52Z",
+      "mag_author" : null,
+      "longitude" : 12.766,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.766, 42.7478 ]
+    },
+    "id" : "37082031"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 13.8,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -26994,27 +27016,5 @@
       "coordinates" : [ 13.5677, 42.2408 ]
     },
     "id" : "36804601"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 22.2,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 38.7453,
-      "event_id" : 36804471,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "Mar Ionio Settentrionale (MARE)",
-      "magnitude" : 3.0,
-      "time" : "2023-11-07 07:58:07Z",
-      "mag_author" : null,
-      "longitude" : 17.3112,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 17.3112, 38.7453 ]
-    },
-    "id" : "36804471"
   } ]
 }
