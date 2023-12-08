@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 8.4,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.7517,
+      "event_id" : 37084981,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km NE Spoleto (PG)",
+      "magnitude" : 0.8,
+      "time" : "2023-12-08 00:33:40Z",
+      "mag_author" : null,
+      "longitude" : 12.7782,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.7782, 42.7517 ]
+    },
+    "id" : "37084981"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 2.8,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -26664,27 +26686,5 @@
       "coordinates" : [ 12.9817, 46.2217 ]
     },
     "id" : "36812241"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 7.8,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 46.3155,
-      "event_id" : 36812151,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "Confine Italia-Slovenia (SLOVENIA)",
-      "magnitude" : 1.9,
-      "time" : "2023-11-08 01:38:54Z",
-      "mag_author" : null,
-      "longitude" : 13.5088,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.5088, 46.3155 ]
-    },
-    "id" : "36812151"
   } ]
 }
