@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.3,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.5303,
+      "event_id" : 37088731,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "6 km SW Terni (TR)",
+      "magnitude" : 1.5,
+      "time" : "2023-12-08 15:22:53Z",
+      "mag_author" : null,
+      "longitude" : 12.5897,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.5897, 42.5303 ]
+    },
+    "id" : "37088731"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 9.6,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -26730,27 +26752,5 @@
       "coordinates" : [ 13.323, 43.0803 ]
     },
     "id" : "36816361"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 13.4,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.1157,
-      "event_id" : 36816301,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km SE Camerino (MC)",
-      "magnitude" : 0.7,
-      "time" : "2023-11-08 16:32:35Z",
-      "mag_author" : null,
-      "longitude" : 13.1177,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.1177, 43.1157 ]
-    },
-    "id" : "36816301"
   } ]
 }
