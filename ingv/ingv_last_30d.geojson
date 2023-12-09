@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 20.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 44.0888,
+      "event_id" : 37092961,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km S Meldola (FC)",
+      "magnitude" : 1.6,
+      "time" : "2023-12-09 12:10:41Z",
+      "mag_author" : null,
+      "longitude" : 12.0763,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.0763, 44.0888 ]
+    },
+    "id" : "37092961"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 3.16,
       "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
       "catalog" : null,
@@ -26972,27 +26994,5 @@
       "coordinates" : [ 12.9662, 42.8603 ]
     },
     "id" : "36821981"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 4.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 39.8958,
-      "event_id" : 36821151,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "7 km SE Rotonda (PZ)",
-      "magnitude" : 1.1,
-      "time" : "2023-11-09 13:18:52Z",
-      "mag_author" : null,
-      "longitude" : 16.0793,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 16.0793, 39.8958 ]
-    },
-    "id" : "36821151"
   } ]
 }
