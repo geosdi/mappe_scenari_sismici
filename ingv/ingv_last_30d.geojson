@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.834,
+      "event_id" : 37099981,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km NE Cerreto di Spoleto (PG)",
+      "magnitude" : 1.5,
+      "time" : "2023-12-10 15:44:14Z",
+      "mag_author" : null,
+      "longitude" : 12.9433,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.9433, 42.834 ]
+    },
+    "id" : "37099981"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 8.1,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -26444,27 +26466,5 @@
       "coordinates" : [ 12.9175, 42.7657 ]
     },
     "id" : "36832801"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 8.9,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.684,
-      "event_id" : 36832551,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km NW Pieve Santo Stefano (AR)",
-      "magnitude" : 1.4,
-      "time" : "2023-11-10 16:58:57Z",
-      "mag_author" : null,
-      "longitude" : 12.025,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.025, 43.684 ]
-    },
-    "id" : "36832551"
   } ]
 }
