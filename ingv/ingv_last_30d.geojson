@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.9008,
+      "event_id" : 37106661,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km N Preci (PG)",
+      "magnitude" : 1.8,
+      "time" : "2023-12-11 14:32:40Z",
+      "mag_author" : null,
+      "longitude" : 13.0353,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.0353, 42.9008 ]
+    },
+    "id" : "37106661"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 8.1,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -26554,27 +26576,5 @@
       "coordinates" : [ 13.0318, 42.9713 ]
     },
     "id" : "36845781"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 6.8,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.9707,
-      "event_id" : 36845611,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km SE Monte Cavallo (MC)",
-      "magnitude" : 0.8,
-      "time" : "2023-11-11 15:44:55Z",
-      "mag_author" : null,
-      "longitude" : 13.0362,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.0362, 42.9707 ]
-    },
-    "id" : "36845611"
   } ]
 }
