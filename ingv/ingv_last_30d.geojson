@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 8.7,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 40.1765,
+      "event_id" : 37104851,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "6 km W Castelsaraceno (PZ)",
+      "magnitude" : 1.1,
+      "time" : "2023-12-11 11:21:21Z",
+      "mag_author" : null,
+      "longitude" : 15.9198,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 15.9198, 40.1765 ]
+    },
+    "id" : "37104851"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.2,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -26576,27 +26598,5 @@
       "coordinates" : [ 13.5942, 41.7575 ]
     },
     "id" : "36844721"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 14.844,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : -17.9508,
-      "event_id" : 36843831,
-      "contributor" : null,
-      "mag_type" : "Mwp",
-      "event_location_name" : "Vanuatu Islands [Sea: Vanuatu]",
-      "magnitude" : 5.7,
-      "time" : "2023-11-11 12:35:33Z",
-      "mag_author" : null,
-      "longitude" : 167.981,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 167.981, -17.9508 ]
-    },
-    "id" : "36843831"
   } ]
 }
