@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 12.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.4293,
+      "event_id" : 37113491,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km NE Scheggia e Pascelupo (PG)",
+      "magnitude" : 0.6,
+      "time" : "2023-12-12 18:21:43Z",
+      "mag_author" : null,
+      "longitude" : 12.6997,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.6997, 43.4293 ]
+    },
+    "id" : "37113491"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 6.87,
       "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
       "catalog" : null,
@@ -26334,27 +26356,5 @@
       "coordinates" : [ 13.3508, 43.8665 ]
     },
     "id" : "36852301"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 11.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.0198,
-      "event_id" : 36852211,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "6 km NW Monte Cavallo (MC)",
-      "magnitude" : 0.7,
-      "time" : "2023-11-12 19:57:27Z",
-      "mag_author" : null,
-      "longitude" : 12.9417,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.9417, 43.0198 ]
-    },
-    "id" : "36852211"
   } ]
 }
