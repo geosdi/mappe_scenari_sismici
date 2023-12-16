@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.9,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.9413,
+      "event_id" : 37167771,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "1 km SW Ussita (MC)",
+      "magnitude" : 3.6,
+      "time" : "2023-12-16 20:16:49Z",
+      "mag_author" : null,
+      "longitude" : 13.1317,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.1317, 42.9413 ]
+    },
+    "id" : "37167771"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 19.3,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -25872,27 +25894,5 @@
       "coordinates" : [ 12.5627, 43.3868 ]
     },
     "id" : "36889941"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.7,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.7137,
-      "event_id" : 36889711,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "1 km SW Cascia (PG)",
-      "magnitude" : 1.2,
-      "time" : "2023-11-16 21:25:50Z",
-      "mag_author" : null,
-      "longitude" : 13.0117,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.0117, 42.7137 ]
-    },
-    "id" : "36889711"
   } ]
 }
