@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 6.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.9898,
+      "event_id" : 37173711,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km E Monte Cavallo (MC)",
+      "magnitude" : 1.0,
+      "time" : "2023-12-17 23:23:36Z",
+      "mag_author" : null,
+      "longitude" : 13.0312,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.0312, 42.9898 ]
+    },
+    "id" : "37173711"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 17.07,
       "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
       "catalog" : null,
@@ -26224,49 +26246,5 @@
       "coordinates" : [ 12.7353, 42.7867 ]
     },
     "id" : "36903441"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 11.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.7825,
-      "event_id" : 36903391,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km N Spoleto (PG)",
-      "magnitude" : 1.3,
-      "time" : "2023-11-18 00:45:27Z",
-      "mag_author" : null,
-      "longitude" : 12.7305,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.7305, 42.7825 ]
-    },
-    "id" : "36903391"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 11.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.7883,
-      "event_id" : 36903361,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km SW Campello sul Clitunno (PG)",
-      "magnitude" : 2.1,
-      "time" : "2023-11-18 00:42:41Z",
-      "mag_author" : null,
-      "longitude" : 12.7323,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.7323, 42.7883 ]
-    },
-    "id" : "36903361"
   } ]
 }
