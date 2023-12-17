@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.8183,
+      "event_id" : 37172381,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km E Cerreto di Spoleto (PG)",
+      "magnitude" : 1.1,
+      "time" : "2023-12-17 15:29:24Z",
+      "mag_author" : null,
+      "longitude" : 12.9575,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.9575, 42.8183 ]
+    },
+    "id" : "37172381"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.0,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -26158,27 +26180,5 @@
       "coordinates" : [ 14.7307, 41.5697 ]
     },
     "id" : "36901971"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.3,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 46.8747,
-      "event_id" : 36901531,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "7 km N San Leonardo in Passiria (BZ)",
-      "magnitude" : 0.5,
-      "time" : "2023-11-17 16:38:47Z",
-      "mag_author" : null,
-      "longitude" : 11.2392,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 11.2392, 46.8747 ]
-    },
-    "id" : "36901531"
   } ]
 }
