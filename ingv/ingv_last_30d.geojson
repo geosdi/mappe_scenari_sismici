@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 8.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.2113,
+      "event_id" : 37179601,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "6 km S Radicondoli (SI)",
+      "magnitude" : 1.4,
+      "time" : "2023-12-19 04:20:28Z",
+      "mag_author" : null,
+      "longitude" : 11.0557,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.0557, 43.2113 ]
+    },
+    "id" : "37179601"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.0,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -26554,27 +26576,5 @@
       "coordinates" : [ 11.7665, 45.7907 ]
     },
     "id" : "36911621"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.6,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.9668,
-      "event_id" : 36911541,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km N Visso (MC)",
-      "magnitude" : 1.6,
-      "time" : "2023-11-19 05:29:39Z",
-      "mag_author" : null,
-      "longitude" : 13.0927,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.0927, 42.9668 ]
-    },
-    "id" : "36911541"
   } ]
 }
