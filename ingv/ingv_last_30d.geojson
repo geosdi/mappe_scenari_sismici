@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.9,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.8783,
+      "event_id" : 37181981,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "1 km W Preci (PG)",
+      "magnitude" : 1.1,
+      "time" : "2023-12-19 14:49:50Z",
+      "mag_author" : null,
+      "longitude" : 13.0238,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.0238, 42.8783 ]
+    },
+    "id" : "37181981"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 13.2,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -26620,27 +26642,5 @@
       "coordinates" : [ 12.7678, 43.3842 ]
     },
     "id" : "36916511"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.8022,
-      "event_id" : 36916331,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km E Norcia (PG)",
-      "magnitude" : 0.8,
-      "time" : "2023-11-19 15:58:34Z",
-      "mag_author" : null,
-      "longitude" : 13.1357,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.1357, 42.8022 ]
-    },
-    "id" : "36916331"
   } ]
 }
