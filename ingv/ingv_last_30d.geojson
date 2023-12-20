@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.7832,
+      "event_id" : 37190081,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km NE Vallo di Nera (PG)",
+      "magnitude" : 1.3,
+      "time" : "2023-12-20 20:03:11Z",
+      "mag_author" : null,
+      "longitude" : 12.8807,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.8807, 42.7832 ]
+    },
+    "id" : "37190081"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 2.9,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -27346,27 +27368,5 @@
       "coordinates" : [ 13.0263, 43.3603 ]
     },
     "id" : "36927001"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 6.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.3792,
-      "event_id" : 36926931,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km NW Gubbio (PG)",
-      "magnitude" : 0.4,
-      "time" : "2023-11-20 21:12:29Z",
-      "mag_author" : null,
-      "longitude" : 12.5313,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.5313, 43.3792 ]
-    },
-    "id" : "36926931"
   } ]
 }
