@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.2,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.8575,
+      "event_id" : 37191481,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km N Castel Ritaldi (PG)",
+      "magnitude" : 0.8,
+      "time" : "2023-12-21 05:45:52Z",
+      "mag_author" : null,
+      "longitude" : 12.6717,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.6717, 42.8575 ]
+    },
+    "id" : "37191481"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 9.9,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -27346,27 +27368,5 @@
       "coordinates" : [ 7.8328, 45.9378 ]
     },
     "id" : "36928861"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 7.1,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.9993,
-      "event_id" : 36928601,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km E Monte Cavallo (MC)",
-      "magnitude" : 1.7,
-      "time" : "2023-11-21 07:54:10Z",
-      "mag_author" : null,
-      "longitude" : 13.0212,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.0212, 42.9993 ]
-    },
-    "id" : "36928601"
   } ]
 }
