@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.8948,
+      "event_id" : 37202611,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km W Sellano (PG)",
+      "magnitude" : 0.5,
+      "time" : "2023-12-22 11:17:42Z",
+      "mag_author" : null,
+      "longitude" : 12.8675,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.8675, 42.8948 ]
+    },
+    "id" : "37202611"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.2,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -26774,27 +26796,5 @@
       "coordinates" : [ 17.0942, 40.4472 ]
     },
     "id" : "36937991"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 6.6,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.0028,
-      "event_id" : 36937771,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km E Monte Cavallo (MC)",
-      "magnitude" : 1.8,
-      "time" : "2023-11-22 12:26:38Z",
-      "mag_author" : null,
-      "longitude" : 13.0255,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.0255, 43.0028 ]
-    },
-    "id" : "36937771"
   } ]
 }
