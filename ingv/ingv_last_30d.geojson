@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 19.531,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : 51.9117,
+      "event_id" : 37209251,
+      "contributor" : null,
+      "mag_type" : "Mwp",
+      "event_location_name" : "Off east coast of Kamchatka Peninsula, Russia [Sea: Russia]",
+      "magnitude" : 5.9,
+      "time" : "2023-12-23 17:48:05Z",
+      "mag_author" : null,
+      "longitude" : 159.005,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 159.005, 51.9117 ]
+    },
+    "id" : "37209251"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 9.7,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -26224,49 +26246,5 @@
       "coordinates" : [ 15.5617, 37.9392 ]
     },
     "id" : "36952371"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 20.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.7968,
-      "event_id" : 36952121,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km NW Acquasanta Terme (AP)",
-      "magnitude" : 1.8,
-      "time" : "2023-11-23 19:04:36Z",
-      "mag_author" : null,
-      "longitude" : 13.381,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.381, 42.7968 ]
-    },
-    "id" : "36952121"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.6,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.0965,
-      "event_id" : 36952051,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km S Nocera Umbra (PG)",
-      "magnitude" : 1.2,
-      "time" : "2023-11-23 19:03:47Z",
-      "mag_author" : null,
-      "longitude" : 12.7887,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.7887, 43.0965 ]
-    },
-    "id" : "36952051"
   } ]
 }
