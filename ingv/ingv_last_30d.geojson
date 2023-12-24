@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 7.7,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 41.7533,
+      "event_id" : 37216461,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km NW Mattinata (FG)",
+      "magnitude" : 2.4,
+      "time" : "2023-12-24 23:01:21Z",
+      "mag_author" : null,
+      "longitude" : 16.0258,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.0258, 41.7533 ]
+    },
+    "id" : "37216461"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 11.0,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -25608,27 +25630,5 @@
       "coordinates" : [ 12.7157, 43.4735 ]
     },
     "id" : "36962781"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.8,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 45.8388,
-      "event_id" : 36962731,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "6 km NE Courmayeur (AO)",
-      "magnitude" : 1.5,
-      "time" : "2023-11-25 00:15:12Z",
-      "mag_author" : null,
-      "longitude" : 7.0198,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 7.0198, 45.8388 ]
-    },
-    "id" : "36962731"
   } ]
 }
