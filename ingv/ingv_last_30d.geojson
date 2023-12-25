@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 13.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.4168,
+      "event_id" : 37219651,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km NW Scheggia e Pascelupo (PG)",
+      "magnitude" : 1.2,
+      "time" : "2023-12-25 16:09:36Z",
+      "mag_author" : null,
+      "longitude" : 12.6498,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.6498, 43.4168 ]
+    },
+    "id" : "37219651"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 8.9,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -25454,27 +25476,5 @@
       "coordinates" : [ 14.3403, 37.902 ]
     },
     "id" : "36976491"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 68.359,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 19.8527,
-      "event_id" : 36976081,
-      "contributor" : null,
-      "mag_type" : "Mwp",
-      "event_location_name" : "Northern Mariana Islands-Guam [Sea]",
-      "magnitude" : 5.5,
-      "time" : "2023-11-25 17:18:12Z",
-      "mag_author" : null,
-      "longitude" : 145.823,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 145.823, 19.8527 ]
-    },
-    "id" : "36976081"
   } ]
 }
