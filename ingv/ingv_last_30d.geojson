@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 12.4,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.9492,
+      "event_id" : 37217301,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "1 km NW Ussita (MC)",
+      "magnitude" : 0.8,
+      "time" : "2023-12-25 06:02:52Z",
+      "mag_author" : null,
+      "longitude" : 13.1362,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.1362, 42.9492 ]
+    },
+    "id" : "37217301"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 22.2,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -25432,27 +25454,5 @@
       "coordinates" : [ 14.5103, 41.5543 ]
     },
     "id" : "36965431"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 12.1,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.9728,
-      "event_id" : 36964941,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km SW Monte Cavallo (MC)",
-      "magnitude" : 1.2,
-      "time" : "2023-11-25 07:16:03Z",
-      "mag_author" : null,
-      "longitude" : 12.9553,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.9553, 42.9728 ]
-    },
-    "id" : "36964941"
   } ]
 }
