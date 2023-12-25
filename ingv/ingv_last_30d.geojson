@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.4,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 46.3458,
+      "event_id" : 37217041,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km S Resiutta (UD)",
+      "magnitude" : 1.5,
+      "time" : "2023-12-25 02:45:58Z",
+      "mag_author" : null,
+      "longitude" : 13.2322,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.2322, 46.3458 ]
+    },
+    "id" : "37217041"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 11.8,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -25388,27 +25410,5 @@
       "coordinates" : [ 12.4497, 43.4538 ]
     },
     "id" : "36963941"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 7.3,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.4537,
-      "event_id" : 36963821,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km NE Pietralunga (PG)",
-      "magnitude" : 0.7,
-      "time" : "2023-11-25 03:56:55Z",
-      "mag_author" : null,
-      "longitude" : 12.4507,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.4507, 43.4537 ]
-    },
-    "id" : "36963821"
   } ]
 }
