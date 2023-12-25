@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 13.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.6575,
+      "event_id" : 37218161,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "7 km NW Cittareale (RI)",
+      "magnitude" : 1.1,
+      "time" : "2023-12-25 10:01:51Z",
+      "mag_author" : null,
+      "longitude" : 13.086,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.086, 42.6575 ]
+    },
+    "id" : "37218161"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 5.3,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -25432,27 +25454,5 @@
       "coordinates" : [ 13.036, 42.9953 ]
     },
     "id" : "36970741"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.4,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 46.5702,
-      "event_id" : 36969021,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "Confine Italia-Svizzera (SVIZZERA)",
-      "magnitude" : 0.6,
-      "time" : "2023-11-25 11:11:06Z",
-      "mag_author" : null,
-      "longitude" : 10.3837,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 10.3837, 46.5702 ]
-    },
-    "id" : "36969021"
   } ]
 }
