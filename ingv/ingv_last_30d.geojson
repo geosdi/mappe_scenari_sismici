@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.8568,
+      "event_id" : 37219141,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km SE Sellano (PG)",
+      "magnitude" : 0.6,
+      "time" : "2023-12-25 13:31:30Z",
+      "mag_author" : null,
+      "longitude" : 12.9437,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.9437, 42.8568 ]
+    },
+    "id" : "37219141"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 11.0,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -25498,49 +25520,5 @@
       "coordinates" : [ 12.4457, 43.4557 ]
     },
     "id" : "36973851"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.8,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 44.5238,
-      "event_id" : 36973601,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km S Pezzolo Valle Uzzone (CN)",
-      "magnitude" : 1.1,
-      "time" : "2023-11-25 14:39:32Z",
-      "mag_author" : null,
-      "longitude" : 8.1997,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.1997, 44.5238 ]
-    },
-    "id" : "36973601"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 44.5027,
-      "event_id" : 36973571,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km W Merana (AL)",
-      "magnitude" : 1.0,
-      "time" : "2023-11-25 14:39:15Z",
-      "mag_author" : null,
-      "longitude" : 8.2468,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 8.2468, 44.5027 ]
-    },
-    "id" : "36973571"
   } ]
 }
