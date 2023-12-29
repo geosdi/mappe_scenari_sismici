@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 6.4,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 41.6843,
+      "event_id" : 37242701,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km S Monte Sant'Angelo (FG)",
+      "magnitude" : 1.2,
+      "time" : "2023-12-29 11:24:19Z",
+      "mag_author" : null,
+      "longitude" : 15.9533,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 15.9533, 41.6843 ]
+    },
+    "id" : "37242701"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.4,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -26576,27 +26598,5 @@
       "coordinates" : [ 13.1907, 42.6645 ]
     },
     "id" : "37006621"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 8.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.9627,
-      "event_id" : 37006381,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km N Ussita (MC)",
-      "magnitude" : 1.4,
-      "time" : "2023-11-29 12:38:50Z",
-      "mag_author" : null,
-      "longitude" : 13.1427,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.1427, 42.9627 ]
-    },
-    "id" : "37006381"
   } ]
 }
