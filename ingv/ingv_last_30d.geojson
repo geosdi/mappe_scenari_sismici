@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 5.9,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.4613,
+      "event_id" : 37240941,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km E Micigliano (RI)",
+      "magnitude" : 0.7,
+      "time" : "2023-12-29 04:14:34Z",
+      "mag_author" : null,
+      "longitude" : 13.0973,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.0973, 42.4613 ]
+    },
+    "id" : "37240941"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 7.1,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -26598,27 +26620,5 @@
       "coordinates" : [ 13.3427, 43.1037 ]
     },
     "id" : "37004921"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 8.4,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.6615,
-      "event_id" : 37004571,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km NW Montespertoli (FI)",
-      "magnitude" : 1.8,
-      "time" : "2023-11-29 05:17:57Z",
-      "mag_author" : null,
-      "longitude" : 11.0468,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 11.0468, 43.6615 ]
-    },
-    "id" : "37004571"
   } ]
 }
