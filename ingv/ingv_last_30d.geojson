@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 11.4,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.9447,
+      "event_id" : 37240461,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "6 km NW Sellano (PG)",
+      "magnitude" : 0.9,
+      "time" : "2023-12-29 00:45:33Z",
+      "mag_author" : null,
+      "longitude" : 12.9027,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.9027, 42.9447 ]
+    },
+    "id" : "37240461"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 15.8,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -26752,27 +26774,5 @@
       "coordinates" : [ 11.7012, 44.0652 ]
     },
     "id" : "37003631"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.8,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 44.0703,
-      "event_id" : 37003561,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km W Tredozio (FC)",
-      "magnitude" : 1.0,
-      "time" : "2023-11-29 01:51:53Z",
-      "mag_author" : null,
-      "longitude" : 11.7103,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 11.7103, 44.0703 ]
-    },
-    "id" : "37003561"
   } ]
 }
