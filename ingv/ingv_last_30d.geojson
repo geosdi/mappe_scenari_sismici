@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 13.9,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 39.9928,
+      "event_id" : 37257871,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km SE Castelluccio Inferiore (PZ)",
+      "magnitude" : 1.3,
+      "time" : "2024-01-01 05:16:47Z",
+      "mag_author" : null,
+      "longitude" : 15.9828,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 15.9828, 39.9928 ]
+    },
+    "id" : "37257871"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.8,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -27324,27 +27346,5 @@
       "coordinates" : [ 13.0088, 43.0218 ]
     },
     "id" : "37052081"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 64.3,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 44.1117,
-      "event_id" : 37051201,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km E Sambuca Pistoiese (PT)",
-      "magnitude" : 2.5,
-      "time" : "2023-12-02 06:26:51Z",
-      "mag_author" : null,
-      "longitude" : 11.0347,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 11.0347, 44.1117 ]
-    },
-    "id" : "37051201"
   } ]
 }
