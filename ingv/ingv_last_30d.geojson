@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 5.3,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.7487,
+      "event_id" : 37265671,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km E Spoleto (PG)",
+      "magnitude" : 1.6,
+      "time" : "2024-01-02 16:32:08Z",
+      "mag_author" : null,
+      "longitude" : 12.783,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.783, 42.7487 ]
+    },
+    "id" : "37265671"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 9.8,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -27500,27 +27522,5 @@
       "coordinates" : [ 12.5262, 42.7832 ]
     },
     "id" : "37070911"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.2,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.0983,
-      "event_id" : 37070571,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km E Nocera Umbra (PG)",
-      "magnitude" : 0.9,
-      "time" : "2023-12-03 17:37:54Z",
-      "mag_author" : null,
-      "longitude" : 12.8377,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.8377, 43.0983 ]
-    },
-    "id" : "37070571"
   } ]
 }
