@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.8543,
+      "event_id" : 37276241,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km N Campello sul Clitunno (PG)",
+      "magnitude" : 1.0,
+      "time" : "2024-01-03 13:29:49Z",
+      "mag_author" : null,
+      "longitude" : 12.7808,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.7808, 42.8543 ]
+    },
+    "id" : "37276241"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 12.1,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -26994,27 +27016,5 @@
       "coordinates" : [ 13.4898, 43.1682 ]
     },
     "id" : "37074181"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 24.9,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.1703,
-      "event_id" : 37074121,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km S Mogliano (MC)",
-      "magnitude" : 0.9,
-      "time" : "2023-12-04 14:38:55Z",
-      "mag_author" : null,
-      "longitude" : 13.4823,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.4823, 43.1703 ]
-    },
-    "id" : "37074121"
   } ]
 }
