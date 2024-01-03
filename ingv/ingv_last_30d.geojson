@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.9,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.0142,
+      "event_id" : 37272871,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km SW Fiordimonte (MC)",
+      "magnitude" : 1.0,
+      "time" : "2024-01-03 09:53:41Z",
+      "mag_author" : null,
+      "longitude" : 13.0743,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.0743, 43.0142 ]
+    },
+    "id" : "37272871"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 9.8,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -27192,27 +27214,5 @@
       "coordinates" : [ 12.7923, 43.1727 ]
     },
     "id" : "37073401"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 8.1,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.7867,
-      "event_id" : 37073291,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "1 km NE Massa Martana (PG)",
-      "magnitude" : 1.5,
-      "time" : "2023-12-04 11:02:23Z",
-      "mag_author" : null,
-      "longitude" : 12.5302,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.5302, 42.7867 ]
-    },
-    "id" : "37073291"
   } ]
 }
