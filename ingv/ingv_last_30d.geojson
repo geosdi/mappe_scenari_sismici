@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 13.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.0517,
+      "event_id" : 37282741,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km SE Serravalle di Chienti (MC)",
+      "magnitude" : 0.8,
+      "time" : "2024-01-04 06:00:29Z",
+      "mag_author" : null,
+      "longitude" : 12.9815,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.9815, 43.0517 ]
+    },
+    "id" : "37282741"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 158.594,
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
@@ -27038,27 +27060,5 @@
       "coordinates" : [ 13.0148, 42.9737 ]
     },
     "id" : "37076111"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 85.938,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 12.2203,
-      "event_id" : 37076091,
-      "contributor" : null,
-      "mag_type" : "Mwp",
-      "event_location_name" : "Somalia [Sea]",
-      "magnitude" : 5.7,
-      "time" : "2023-12-05 07:31:43Z",
-      "mag_author" : null,
-      "longitude" : 47.3584,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 47.3584, 12.2203 ]
-    },
-    "id" : "37076091"
   } ]
 }
