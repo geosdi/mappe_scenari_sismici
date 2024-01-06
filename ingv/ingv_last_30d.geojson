@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.2,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.3285,
+      "event_id" : 37299111,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km SW Gubbio (PG)",
+      "magnitude" : 1.0,
+      "time" : "2024-01-06 20:35:11Z",
+      "mag_author" : null,
+      "longitude" : 12.5688,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.5688, 43.3285 ]
+    },
+    "id" : "37299111"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 9.9,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -25960,49 +25982,5 @@
       "coordinates" : [ 13.2188, 43.0808 ]
     },
     "id" : "37084641"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.6,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 37.4952,
-      "event_id" : 37084451,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "Costa Catanese (Catania)",
-      "magnitude" : 2.0,
-      "time" : "2023-12-07 21:50:17Z",
-      "mag_author" : null,
-      "longitude" : 15.4582,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 15.4582, 37.4952 ]
-    },
-    "id" : "37084451"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 12.6,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.7863,
-      "event_id" : 37084401,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km S Campello sul Clitunno (PG)",
-      "magnitude" : 1.1,
-      "time" : "2023-12-07 21:45:08Z",
-      "mag_author" : null,
-      "longitude" : 12.7807,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.7807, 42.7863 ]
-    },
-    "id" : "37084401"
   } ]
 }
