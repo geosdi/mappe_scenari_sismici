@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 34.766,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : 37.8105,
+      "event_id" : 37306441,
+      "contributor" : null,
+      "mag_type" : "Mwp",
+      "event_location_name" : "Near west coast of eastern Honshu, Japan [Sea: Japan]",
+      "magnitude" : 6.0,
+      "time" : "2024-01-09 08:59:14Z",
+      "mag_author" : null,
+      "longitude" : 137.843,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 137.843, 37.8105 ]
+    },
+    "id" : "37306441"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 9.375,
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
@@ -25256,27 +25278,5 @@
       "coordinates" : [ 12.4837, 43.415 ]
     },
     "id" : "37098141"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 0.02,
-      "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
-      "catalog" : null,
-      "latitude" : 37.636,
-      "event_id" : 37097951,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "1 km N Ragalna (CT)",
-      "magnitude" : 1.4,
-      "time" : "2023-12-10 10:13:21Z",
-      "mag_author" : null,
-      "longitude" : 14.939,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.939, 37.636 ]
-    },
-    "id" : "37097951"
   } ]
 }
