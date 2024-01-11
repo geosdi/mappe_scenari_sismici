@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.4,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.7357,
+      "event_id" : 37312251,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km E Spoleto (PG)",
+      "magnitude" : 1.0,
+      "time" : "2024-01-11 00:29:15Z",
+      "mag_author" : null,
+      "longitude" : 12.7682,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.7682, 42.7357 ]
+    },
+    "id" : "37312251"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 7.4,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -25058,49 +25080,5 @@
       "coordinates" : [ 10.4795, 44.2608 ]
     },
     "id" : "37109601"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.7462,
-      "event_id" : 37109551,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km NE Spoleto (PG)",
-      "magnitude" : 2.0,
-      "time" : "2023-12-12 01:34:58Z",
-      "mag_author" : null,
-      "longitude" : 12.7567,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.7567, 42.7462 ]
-    },
-    "id" : "37109551"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 6.7,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.7672,
-      "event_id" : 37109491,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km NW Sant'Anatolia di Narco (PG)",
-      "magnitude" : 2.1,
-      "time" : "2023-12-12 01:34:26Z",
-      "mag_author" : null,
-      "longitude" : 12.7913,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.7913, 42.7672 ]
-    },
-    "id" : "37109491"
   } ]
 }
