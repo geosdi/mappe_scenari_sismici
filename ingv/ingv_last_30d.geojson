@@ -3,6 +3,50 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.2,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.9355,
+      "event_id" : 37317481,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km W Visso (MC)",
+      "magnitude" : 0.8,
+      "time" : "2024-01-12 03:30:38Z",
+      "mag_author" : null,
+      "longitude" : 13.0353,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.0353, 42.9355 ]
+    },
+    "id" : "37317481"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 9.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.9862,
+      "event_id" : 37317431,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km W Spello (PG)",
+      "magnitude" : 0.9,
+      "time" : "2024-01-12 03:05:07Z",
+      "mag_author" : null,
+      "longitude" : 12.6398,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.6398, 42.9862 ]
+    },
+    "id" : "37317431"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 9.0,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -25168,27 +25212,5 @@
       "coordinates" : [ 16.1087, 39.818 ]
     },
     "id" : "37115351"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 45.6355,
-      "event_id" : 37115341,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km NW Torri del Benaco (VR)",
-      "magnitude" : 1.4,
-      "time" : "2023-12-13 04:36:13Z",
-      "mag_author" : null,
-      "longitude" : 10.665,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 10.665, 45.6355 ]
-    },
-    "id" : "37115341"
   } ]
 }
