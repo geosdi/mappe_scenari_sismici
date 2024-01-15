@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 41.7152,
+      "event_id" : 37344841,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km N Forlì del Sannio (IS)",
+      "magnitude" : 1.6,
+      "time" : "2024-01-15 15:57:47Z",
+      "mag_author" : null,
+      "longitude" : 14.1813,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.1813, 41.7152 ]
+    },
+    "id" : "37344841"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 9.5,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -26774,27 +26796,5 @@
       "coordinates" : [ 12.9275, 46.4892 ]
     },
     "id" : "37166191"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.3,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.9837,
-      "event_id" : 37165881,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km SW Monte Cavallo (MC)",
-      "magnitude" : 0.9,
-      "time" : "2023-12-16 17:05:28Z",
-      "mag_author" : null,
-      "longitude" : 12.985,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.985, 42.9837 ]
-    },
-    "id" : "37165881"
   } ]
 }
