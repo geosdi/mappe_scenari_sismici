@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.8007,
+      "event_id" : 37351181,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km E Norcia (PG)",
+      "magnitude" : 0.9,
+      "time" : "2024-01-16 14:15:30Z",
+      "mag_author" : null,
+      "longitude" : 13.1293,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.1293, 42.8007 ]
+    },
+    "id" : "37351181"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 9.4,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -26818,27 +26840,5 @@
       "coordinates" : [ 13.1323, 42.9482 ]
     },
     "id" : "37172461"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.8183,
-      "event_id" : 37172381,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km E Cerreto di Spoleto (PG)",
-      "magnitude" : 1.1,
-      "time" : "2023-12-17 15:29:24Z",
-      "mag_author" : null,
-      "longitude" : 12.9575,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.9575, 42.8183 ]
-    },
-    "id" : "37172381"
   } ]
 }
