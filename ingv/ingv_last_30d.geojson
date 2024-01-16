@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.7,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.6937,
+      "event_id" : 37348101,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km W Accumoli (RI)",
+      "magnitude" : 0.9,
+      "time" : "2024-01-16 03:07:40Z",
+      "mag_author" : null,
+      "longitude" : 13.202,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.202, 42.6937 ]
+    },
+    "id" : "37348101"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 9.6,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -26708,27 +26730,5 @@
       "coordinates" : [ 13.0947, 42.8572 ]
     },
     "id" : "37169721"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 12.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.0823,
-      "event_id" : 37169631,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km W Muccia (MC)",
-      "magnitude" : 1.2,
-      "time" : "2023-12-17 04:22:22Z",
-      "mag_author" : null,
-      "longitude" : 13.0112,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.0112, 43.0823 ]
-    },
-    "id" : "37169631"
   } ]
 }
