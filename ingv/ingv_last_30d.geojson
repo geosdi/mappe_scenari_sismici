@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 44.6847,
+      "event_id" : 37437541,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km SW Bore (PR)",
+      "magnitude" : 2.0,
+      "time" : "2024-01-27 15:45:27Z",
+      "mag_author" : null,
+      "longitude" : 9.7567,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.7567, 44.6847 ]
+    },
+    "id" : "37437541"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 11.1,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -8407,28 +8429,6 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 7.02,
-      "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
-      "catalog" : null,
-      "latitude" : 38.403,
-      "event_id" : 37361951,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "Isole Eolie (Messina)",
-      "magnitude" : 1.2,
-      "time" : "2024-01-17 20:44:31Z",
-      "mag_author" : null,
-      "longitude" : 14.852,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.852, 38.403 ]
-    },
-    "id" : "37361951"
-  }, {
-    "type" : "Feature",
-    "properties" : {
       "depth_km" : 6.2,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -8448,6 +8448,28 @@
       "coordinates" : [ 14.7857, 38.3793 ]
     },
     "id" : "37361911"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 7.02,
+      "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
+      "catalog" : null,
+      "latitude" : 38.403,
+      "event_id" : 37361951,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "Isole Eolie (Messina)",
+      "magnitude" : 1.2,
+      "time" : "2024-01-17 20:44:31Z",
+      "mag_author" : null,
+      "longitude" : 14.852,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.852, 38.403 ]
+    },
+    "id" : "37361951"
   }, {
     "type" : "Feature",
     "properties" : {
