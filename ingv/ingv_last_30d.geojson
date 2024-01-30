@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.8097,
+      "event_id" : 37463701,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km NE Norcia (PG)",
+      "magnitude" : 1.6,
+      "time" : "2024-01-30 22:28:25Z",
+      "mag_author" : null,
+      "longitude" : 13.123,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.123, 42.8097 ]
+    },
+    "id" : "37463701"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 7.89,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -26224,27 +26246,5 @@
       "coordinates" : [ 12.6212, 42.7613 ]
     },
     "id" : "37256531"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 13.1,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.4747,
-      "event_id" : 37256241,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km NE Barete (AQ)",
-      "magnitude" : 1.1,
-      "time" : "2023-12-31 23:38:27Z",
-      "mag_author" : null,
-      "longitude" : 13.334,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.334, 42.4747 ]
-    },
-    "id" : "37256241"
   } ]
 }
