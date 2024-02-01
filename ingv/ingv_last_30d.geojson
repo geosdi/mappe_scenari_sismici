@@ -3,6 +3,50 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 46.1242,
+      "event_id" : 37474401,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "1 km NW Fornace (TN)",
+      "magnitude" : 0.8,
+      "time" : "2024-02-01 16:18:36Z",
+      "mag_author" : null,
+      "longitude" : 11.1922,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.1922, 46.1242 ]
+    },
+    "id" : "37474401"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 8.4,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.4013,
+      "event_id" : 37474241,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km W Castel Sant'Angelo (RI)",
+      "magnitude" : 1.9,
+      "time" : "2024-02-01 16:12:04Z",
+      "mag_author" : null,
+      "longitude" : 12.9988,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.9988, 42.4013 ]
+    },
+    "id" : "37474241"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 5.93,
       "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
       "catalog" : null,
@@ -14061,28 +14105,6 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 6.2,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 38.3793,
-      "event_id" : 37361911,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "Isole Eolie (Messina)",
-      "magnitude" : 1.7,
-      "time" : "2024-01-17 20:44:31Z",
-      "mag_author" : null,
-      "longitude" : 14.7857,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.7857, 38.3793 ]
-    },
-    "id" : "37361911"
-  }, {
-    "type" : "Feature",
-    "properties" : {
       "depth_km" : 7.02,
       "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
       "catalog" : null,
@@ -14102,6 +14124,28 @@
       "coordinates" : [ 14.852, 38.403 ]
     },
     "id" : "37361951"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 6.2,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 38.3793,
+      "event_id" : 37361911,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "Isole Eolie (Messina)",
+      "magnitude" : 1.7,
+      "time" : "2024-01-17 20:44:31Z",
+      "mag_author" : null,
+      "longitude" : 14.7857,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.7857, 38.3793 ]
+    },
+    "id" : "37361911"
   }, {
     "type" : "Feature",
     "properties" : {
