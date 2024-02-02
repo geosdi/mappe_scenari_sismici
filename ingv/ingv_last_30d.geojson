@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 11.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.9203,
+      "event_id" : 37482271,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km N Sellano (PG)",
+      "magnitude" : 0.7,
+      "time" : "2024-02-02 22:42:19Z",
+      "mag_author" : null,
+      "longitude" : 12.9277,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.9277, 42.9203 ]
+    },
+    "id" : "37482271"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 27.3,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -26664,27 +26686,5 @@
       "coordinates" : [ 16.0057, 39.844 ]
     },
     "id" : "37280671"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.3,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.8062,
-      "event_id" : 37280601,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km NE Norcia (PG)",
-      "magnitude" : 1.2,
-      "time" : "2024-01-03 23:51:51Z",
-      "mag_author" : null,
-      "longitude" : 13.112,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.112, 42.8062 ]
-    },
-    "id" : "37280601"
   } ]
 }
