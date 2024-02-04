@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 7.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.0002,
+      "event_id" : 37494411,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km E Monte Cavallo (MC)",
+      "magnitude" : 1.2,
+      "time" : "2024-02-04 19:02:55Z",
+      "mag_author" : null,
+      "longitude" : 13.0195,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.0195, 43.0002 ]
+    },
+    "id" : "37494411"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 7.4,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -26884,27 +26906,5 @@
       "coordinates" : [ 13.1078, 42.7977 ]
     },
     "id" : "37295261"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.7,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.7935,
-      "event_id" : 37295231,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "1 km E Norcia (PG)",
-      "magnitude" : 2.2,
-      "time" : "2024-01-05 20:11:07Z",
-      "mag_author" : null,
-      "longitude" : 13.1012,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.1012, 42.7935 ]
-    },
-    "id" : "37295231"
   } ]
 }
