@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.4,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.3642,
+      "event_id" : 37503831,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km W Poggio San Vicino (MC)",
+      "magnitude" : 0.5,
+      "time" : "2024-02-05 19:27:09Z",
+      "mag_author" : null,
+      "longitude" : 13.0473,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.0473, 43.3642 ]
+    },
+    "id" : "37503831"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.3,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -27038,27 +27060,5 @@
       "coordinates" : [ 11.0202, 43.5263 ]
     },
     "id" : "37299291"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.2,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.3285,
-      "event_id" : 37299111,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km SW Gubbio (PG)",
-      "magnitude" : 1.0,
-      "time" : "2024-01-06 20:35:11Z",
-      "mag_author" : null,
-      "longitude" : 12.5688,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.5688, 43.3285 ]
-    },
-    "id" : "37299111"
   } ]
 }
