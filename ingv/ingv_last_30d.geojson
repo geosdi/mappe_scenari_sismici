@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 44.0267,
+      "event_id" : 37509521,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km NE Barberino di Mugello (FI)",
+      "magnitude" : 1.0,
+      "time" : "2024-02-06 10:53:32Z",
+      "mag_author" : null,
+      "longitude" : 11.2797,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.2797, 44.0267 ]
+    },
+    "id" : "37509521"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.9,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -27324,27 +27346,5 @@
       "coordinates" : [ 7.9137, 44.0967 ]
     },
     "id" : "37300911"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.8,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 46.1882,
-      "event_id" : 37300711,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km NE Chies d'Alpago (BL)",
-      "magnitude" : 2.7,
-      "time" : "2024-01-07 12:01:33Z",
-      "mag_author" : null,
-      "longitude" : 12.4157,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.4157, 46.1882 ]
-    },
-    "id" : "37300711"
   } ]
 }
