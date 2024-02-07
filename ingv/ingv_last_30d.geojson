@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 22.2,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 44.6593,
+      "event_id" : 37525791,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km SE Fornovo di Taro (PR)",
+      "magnitude" : 2.1,
+      "time" : "2024-02-07 22:16:38Z",
+      "mag_author" : null,
+      "longitude" : 10.1452,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.1452, 44.6593 ]
+    },
+    "id" : "37525791"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.7,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -29260,27 +29282,5 @@
       "coordinates" : [ 15.5913, 40.6252 ]
     },
     "id" : "37304981"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.0973,
-      "event_id" : 37304921,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km SW Nocera Umbra (PG)",
-      "magnitude" : 0.8,
-      "time" : "2024-01-08 23:37:20Z",
-      "mag_author" : null,
-      "longitude" : 12.7832,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.7832, 43.0973 ]
-    },
-    "id" : "37304921"
   } ]
 }
