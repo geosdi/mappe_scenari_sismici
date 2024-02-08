@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 20.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 44.6297,
+      "event_id" : 37528401,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km NE Calestano (PR)",
+      "magnitude" : 2.2,
+      "time" : "2024-02-08 05:01:45Z",
+      "mag_author" : null,
+      "longitude" : 10.1602,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.1602, 44.6297 ]
+    },
+    "id" : "37528401"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 8.4,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -29524,27 +29546,5 @@
       "coordinates" : [ 16.2288, 39.5935 ]
     },
     "id" : "37306051"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.7,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.4652,
-      "event_id" : 37305971,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "7 km SE Narni (TR)",
-      "magnitude" : 1.7,
-      "time" : "2024-01-09 06:17:54Z",
-      "mag_author" : null,
-      "longitude" : 12.5473,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.5473, 42.4652 ]
-    },
-    "id" : "37305971"
   } ]
 }
