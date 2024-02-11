@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 22.1,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 44.6287,
+      "event_id" : 37569791,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km NW Langhirano (PR)",
+      "magnitude" : 2.4,
+      "time" : "2024-02-11 02:32:10Z",
+      "mag_author" : null,
+      "longitude" : 10.243,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.243, 44.6287 ]
+    },
+    "id" : "37569791"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 9.4,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -31680,27 +31702,5 @@
       "coordinates" : [ 22.9834, 34.9664 ]
     },
     "id" : "37317621"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 7.3,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.7508,
-      "event_id" : 37317561,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km NE Spoleto (PG)",
-      "magnitude" : 1.5,
-      "time" : "2024-01-12 03:41:15Z",
-      "mag_author" : null,
-      "longitude" : 12.7745,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.7745, 42.7508 ]
-    },
-    "id" : "37317561"
   } ]
 }
