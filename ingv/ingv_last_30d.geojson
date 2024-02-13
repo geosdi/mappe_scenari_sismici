@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 12.3,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.847,
+      "event_id" : 37586081,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "6 km S Castelsantangelo sul Nera (MC)",
+      "magnitude" : 0.9,
+      "time" : "2024-02-13 16:06:22Z",
+      "mag_author" : null,
+      "longitude" : 13.1378,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.1378, 42.847 ]
+    },
+    "id" : "37586081"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.4,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -32208,27 +32230,5 @@
       "coordinates" : [ 13.2768, 42.6398 ]
     },
     "id" : "37338551"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 13.7,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.693,
-      "event_id" : 37338301,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "1 km W Accumoli (RI)",
-      "magnitude" : 0.8,
-      "time" : "2024-01-14 17:20:36Z",
-      "mag_author" : null,
-      "longitude" : 13.2355,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.2355, 42.693 ]
-    },
-    "id" : "37338301"
   } ]
 }
