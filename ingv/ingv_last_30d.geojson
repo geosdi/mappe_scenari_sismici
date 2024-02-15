@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 8.3,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.9158,
+      "event_id" : 37598561,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km N Trevi (PG)",
+      "magnitude" : 0.9,
+      "time" : "2024-02-15 07:17:24Z",
+      "mag_author" : null,
+      "longitude" : 12.7592,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.7592, 42.9158 ]
+    },
+    "id" : "37598561"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.0,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -30759,28 +30781,6 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 6.2,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 38.3793,
-      "event_id" : 37361911,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "Isole Eolie (Messina)",
-      "magnitude" : 1.7,
-      "time" : "2024-01-17 20:44:31Z",
-      "mag_author" : null,
-      "longitude" : 14.7857,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.7857, 38.3793 ]
-    },
-    "id" : "37361911"
-  }, {
-    "type" : "Feature",
-    "properties" : {
       "depth_km" : 7.02,
       "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
       "catalog" : null,
@@ -30800,6 +30800,28 @@
       "coordinates" : [ 14.852, 38.403 ]
     },
     "id" : "37361951"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 6.2,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 38.3793,
+      "event_id" : 37361911,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "Isole Eolie (Messina)",
+      "magnitude" : 1.7,
+      "time" : "2024-01-17 20:44:31Z",
+      "mag_author" : null,
+      "longitude" : 14.7857,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.7857, 38.3793 ]
+    },
+    "id" : "37361911"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -32010,49 +32032,5 @@
       "coordinates" : [ 13.3837, 42.4713 ]
     },
     "id" : "37349441"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.2,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.8847,
-      "event_id" : 37349301,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km E Preci (PG)",
-      "magnitude" : 2.1,
-      "time" : "2024-01-16 08:25:46Z",
-      "mag_author" : null,
-      "longitude" : 13.0882,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.0882, 42.8847 ]
-    },
-    "id" : "37349301"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.2,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 44.0012,
-      "event_id" : 37349271,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "Confine Italia-Francia (FRANCIA)",
-      "magnitude" : 1.3,
-      "time" : "2024-01-16 08:25:22Z",
-      "mag_author" : null,
-      "longitude" : 7.5263,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 7.5263, 44.0012 ]
-    },
-    "id" : "37349271"
   } ]
 }
