@@ -3,6 +3,72 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.0967,
+      "event_id" : 37598901,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "7 km W Serravalle di Chienti (MC)",
+      "magnitude" : 1.1,
+      "time" : "2024-02-15 08:08:56Z",
+      "mag_author" : null,
+      "longitude" : 12.8767,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.8767, 43.0967 ]
+    },
+    "id" : "37598901"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 9.7,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.7387,
+      "event_id" : 37598801,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "3 km E Spoleto (PG)",
+      "magnitude" : 1.5,
+      "time" : "2024-02-15 08:04:22Z",
+      "mag_author" : null,
+      "longitude" : 12.7802,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.7802, 42.7387 ]
+    },
+    "id" : "37598801"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 7.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.5975,
+      "event_id" : 37598621,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km E Piobbico (PU)",
+      "magnitude" : 1.2,
+      "time" : "2024-02-15 07:20:16Z",
+      "mag_author" : null,
+      "longitude" : 12.5533,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.5533, 43.5975 ]
+    },
+    "id" : "37598621"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 8.3,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -30781,28 +30847,6 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 6.2,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 38.3793,
-      "event_id" : 37361911,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "Isole Eolie (Messina)",
-      "magnitude" : 1.7,
-      "time" : "2024-01-17 20:44:31Z",
-      "mag_author" : null,
-      "longitude" : 14.7857,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.7857, 38.3793 ]
-    },
-    "id" : "37361911"
-  }, {
-    "type" : "Feature",
-    "properties" : {
       "depth_km" : 7.02,
       "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
       "catalog" : null,
@@ -30822,6 +30866,28 @@
       "coordinates" : [ 14.852, 38.403 ]
     },
     "id" : "37361951"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 6.2,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 38.3793,
+      "event_id" : 37361911,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "Isole Eolie (Messina)",
+      "magnitude" : 1.7,
+      "time" : "2024-01-17 20:44:31Z",
+      "mag_author" : null,
+      "longitude" : 14.7857,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.7857, 38.3793 ]
+    },
+    "id" : "37361911"
   }, {
     "type" : "Feature",
     "properties" : {
