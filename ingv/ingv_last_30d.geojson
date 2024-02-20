@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 28.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.0477,
+      "event_id" : 37644921,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "Adriatico Centrale (MARE)",
+      "magnitude" : 3.6,
+      "time" : "2024-02-20 15:35:33Z",
+      "mag_author" : null,
+      "longitude" : 16.7873,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.7873, 42.0477 ]
+    },
+    "id" : "37644921"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 21.4,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -35948,27 +35970,5 @@
       "coordinates" : [ 12.4737, 43.4342 ]
     },
     "id" : "37400221"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.2,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.8073,
-      "event_id" : 37400031,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km E Cerreto di Spoleto (PG)",
-      "magnitude" : 0.8,
-      "time" : "2024-01-21 16:50:14Z",
-      "mag_author" : null,
-      "longitude" : 12.9595,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.9595, 42.8073 ]
-    },
-    "id" : "37400031"
   } ]
 }
