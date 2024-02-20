@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 20.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 44.6493,
+      "event_id" : 37641611,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "7 km SW Felino (PR)",
+      "magnitude" : 2.4,
+      "time" : "2024-02-20 11:22:02Z",
+      "mag_author" : null,
+      "longitude" : 10.1905,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.1905, 44.6493 ]
+    },
+    "id" : "37641611"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 19.8,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -35750,27 +35772,5 @@
       "coordinates" : [ 13.0713, 43.0852 ]
     },
     "id" : "37399041"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.7,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.7422,
-      "event_id" : 37398851,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "6 km SE Norcia (PG)",
-      "magnitude" : 1.5,
-      "time" : "2024-01-21 12:42:23Z",
-      "mag_author" : null,
-      "longitude" : 13.1178,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.1178, 42.7422 ]
-    },
-    "id" : "37398851"
   } ]
 }
