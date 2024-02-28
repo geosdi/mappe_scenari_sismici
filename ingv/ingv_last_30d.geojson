@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 115.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 38.3868,
+      "event_id" : 37725681,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "Costa Siciliana nord-orientale (Messina)",
+      "magnitude" : 2.7,
+      "time" : "2024-02-28 05:22:42Z",
+      "mag_author" : null,
+      "longitude" : 15.375,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 15.375, 38.3868 ]
+    },
+    "id" : "37725681"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 22.59,
       "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
       "catalog" : null,
@@ -35354,27 +35376,5 @@
       "coordinates" : [ 13.1398, 46.3013 ]
     },
     "id" : "37449831"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 13.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.6355,
-      "event_id" : 37449441,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km W Amatrice (RI)",
-      "magnitude" : 1.0,
-      "time" : "2024-01-29 06:26:39Z",
-      "mag_author" : null,
-      "longitude" : 13.2648,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.2648, 42.6355 ]
-    },
-    "id" : "37449441"
   } ]
 }
