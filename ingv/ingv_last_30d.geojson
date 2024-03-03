@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 8.3,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.8993,
+      "event_id" : 37758001,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "1 km W Montefalco (PG)",
+      "magnitude" : 1.4,
+      "time" : "2024-03-03 05:44:47Z",
+      "mag_author" : null,
+      "longitude" : 12.6383,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.6383, 42.8993 ]
+    },
+    "id" : "37758001"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.3,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -34870,27 +34892,5 @@
       "coordinates" : [ 13.0645, 43.069 ]
     },
     "id" : "37476691"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 21.6,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 40.0878,
-      "event_id" : 37476561,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km E Latronico (PZ)",
-      "magnitude" : 1.2,
-      "time" : "2024-02-02 06:50:42Z",
-      "mag_author" : null,
-      "longitude" : 16.0423,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 16.0423, 40.0878 ]
-    },
-    "id" : "37476561"
   } ]
 }
