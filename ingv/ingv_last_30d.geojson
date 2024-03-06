@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 13.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.8415,
+      "event_id" : 37784821,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "6 km W Montegallo (AP)",
+      "magnitude" : 0.7,
+      "time" : "2024-03-06 20:55:47Z",
+      "mag_author" : null,
+      "longitude" : 13.2565,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.2565, 42.8415 ]
+    },
+    "id" : "37784821"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 14.6,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -34320,27 +34342,5 @@
       "coordinates" : [ 15.8795, 40.2505 ]
     },
     "id" : "37504441"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.1,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 39.8818,
-      "event_id" : 37504371,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "2 km E Mormanno (CS)",
-      "magnitude" : 1.5,
-      "time" : "2024-02-05 21:56:45Z",
-      "mag_author" : null,
-      "longitude" : 16.0112,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 16.0112, 39.8818 ]
-    },
-    "id" : "37504371"
   } ]
 }
