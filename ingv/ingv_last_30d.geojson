@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 7.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.0013,
+      "event_id" : 37791621,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "1 km NE Monte Cavallo (MC)",
+      "magnitude" : 1.8,
+      "time" : "2024-03-07 20:03:36Z",
+      "mag_author" : null,
+      "longitude" : 13.0173,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.0173, 43.0013 ]
+    },
+    "id" : "37791621"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 24.3,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -34606,27 +34628,5 @@
       "coordinates" : [ 13.1038, 42.7748 ]
     },
     "id" : "37514421"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 14.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.6445,
-      "event_id" : 37514351,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km W Amatrice (RI)",
-      "magnitude" : 0.9,
-      "time" : "2024-02-06 21:14:40Z",
-      "mag_author" : null,
-      "longitude" : 13.2465,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.2465, 42.6445 ]
-    },
-    "id" : "37514351"
   } ]
 }
