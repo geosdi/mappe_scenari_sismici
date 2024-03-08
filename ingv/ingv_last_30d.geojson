@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 8.4,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.0068,
+      "event_id" : 37800751,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km NE Monte Cavallo (MC)",
+      "magnitude" : 0.9,
+      "time" : "2024-03-08 19:52:13Z",
+      "mag_author" : null,
+      "longitude" : 13.0178,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.0178, 43.0068 ]
+    },
+    "id" : "37800751"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 1.05,
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
@@ -33660,27 +33682,5 @@
       "coordinates" : [ 10.1873, 44.6452 ]
     },
     "id" : "37525301"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.4,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.567,
-      "event_id" : 37525231,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km NE Certaldo (FI)",
-      "magnitude" : 1.1,
-      "time" : "2024-02-07 21:23:06Z",
-      "mag_author" : null,
-      "longitude" : 11.0522,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 11.0522, 43.567 ]
-    },
-    "id" : "37525231"
   } ]
 }
