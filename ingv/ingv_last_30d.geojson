@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 1.05,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.825,
+      "event_id" : 37800691,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 1.1,
+      "time" : "2024-03-08 19:34:53Z",
+      "mag_author" : null,
+      "longitude" : 14.151,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.151, 40.825 ]
+    },
+    "id" : "37800691"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 4.1,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -33726,27 +33748,5 @@
       "coordinates" : [ 10.1878, 44.6427 ]
     },
     "id" : "37525051"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.7,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 44.4022,
-      "event_id" : 37525031,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km N Montefiorino (MO)",
-      "magnitude" : 1.7,
-      "time" : "2024-02-07 20:41:41Z",
-      "mag_author" : null,
-      "longitude" : 10.619,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 10.619, 44.4022 ]
-    },
-    "id" : "37525031"
   } ]
 }
