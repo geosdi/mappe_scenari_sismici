@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.4367,
+      "event_id" : 37802241,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "Pizzoli (AQ)",
+      "magnitude" : 1.6,
+      "time" : "2024-03-09 04:05:43Z",
+      "mag_author" : null,
+      "longitude" : 13.2915,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.2915, 42.4367 ]
+    },
+    "id" : "37802241"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.1,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -33220,27 +33242,5 @@
       "coordinates" : [ 10.1957, 44.6297 ]
     },
     "id" : "37528681"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.407,
-      "event_id" : 37528591,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "6 km SE Pietralunga (PG)",
-      "magnitude" : 1.5,
-      "time" : "2024-02-08 05:13:43Z",
-      "mag_author" : null,
-      "longitude" : 12.4903,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.4903, 43.407 ]
-    },
-    "id" : "37528591"
   } ]
 }
