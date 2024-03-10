@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.52,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.741833,
+      "event_id" : 37814551,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km E Spoleto (PG)",
+      "magnitude" : 1.6,
+      "time" : "2024-03-10 12:05:46Z",
+      "mag_author" : null,
+      "longitude" : 12.772166,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.772166, 42.741833 ]
+    },
+    "id" : "37814551"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 22.1,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -32230,49 +32252,5 @@
       "coordinates" : [ 13.1648, 42.8252 ]
     },
     "id" : "37549241"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 20.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 44.6545,
-      "event_id" : 37549151,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "6 km SE Fornovo di Taro (PR)",
-      "magnitude" : 2.2,
-      "time" : "2024-02-09 13:19:25Z",
-      "mag_author" : null,
-      "longitude" : 10.1595,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 10.1595, 44.6545 ]
-    },
-    "id" : "37549151"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 7.02,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.889332,
-      "event_id" : 37549181,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km E Preci (PG)",
-      "magnitude" : 1.1,
-      "time" : "2024-02-09 13:19:07Z",
-      "mag_author" : null,
-      "longitude" : 13.069167,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.069167, 42.889332 ]
-    },
-    "id" : "37549181"
   } ]
 }
