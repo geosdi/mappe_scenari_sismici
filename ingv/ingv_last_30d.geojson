@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.2,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.4623,
+      "event_id" : 37808801,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km NE Pietralunga (PG)",
+      "magnitude" : 0.6,
+      "time" : "2024-03-10 02:11:38Z",
+      "mag_author" : null,
+      "longitude" : 12.4462,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.4462, 43.4623 ]
+    },
+    "id" : "37808801"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 8.5,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -32736,27 +32758,5 @@
       "coordinates" : [ 10.1257, 44.6493 ]
     },
     "id" : "37541171"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 20.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 44.6403,
-      "event_id" : 37541051,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "7 km W Langhirano (PR)",
-      "magnitude" : 2.7,
-      "time" : "2024-02-09 03:18:29Z",
-      "mag_author" : null,
-      "longitude" : 10.1922,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 10.1922, 44.6403 ]
-    },
-    "id" : "37541051"
   } ]
 }
