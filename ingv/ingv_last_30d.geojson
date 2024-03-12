@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 2.3,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.4348,
+      "event_id" : 37834611,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km SW Serra San Quirico (AN)",
+      "magnitude" : 1.1,
+      "time" : "2024-03-12 14:36:34Z",
+      "mag_author" : null,
+      "longitude" : 12.9835,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.9835, 43.4348 ]
+    },
+    "id" : "37834611"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 6.1,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -1877,28 +1899,6 @@
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
       "latitude" : 40.8315,
-      "event_id" : 37820701,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 1.2,
-      "time" : "2024-03-10 15:09:09Z",
-      "mag_author" : null,
-      "longitude" : 14.136833,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.136833, 40.8315 ]
-    },
-    "id" : "37820701"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 3.39,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.8315,
       "event_id" : 37820261,
       "contributor" : null,
       "mag_type" : "Md",
@@ -1914,6 +1914,28 @@
       "coordinates" : [ 14.136833, 40.8315 ]
     },
     "id" : "37820261"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 3.39,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.8315,
+      "event_id" : 37820701,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 1.2,
+      "time" : "2024-03-10 15:09:09Z",
+      "mag_author" : null,
+      "longitude" : 14.136833,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.136833, 40.8315 ]
+    },
+    "id" : "37820701"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -31152,27 +31174,5 @@
       "coordinates" : [ 12.7883, 42.7517 ]
     },
     "id" : "37574491"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.2,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 44.4943,
-      "event_id" : 37574351,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "1 km NW Prazzo (CN)",
-      "magnitude" : 1.6,
-      "time" : "2024-02-11 15:58:13Z",
-      "mag_author" : null,
-      "longitude" : 7.0463,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 7.0463, 44.4943 ]
-    },
-    "id" : "37574351"
   } ]
 }
