@@ -3,6 +3,50 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.4,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.7292,
+      "event_id" : 37843261,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "1 km SE Spoleto (PG)",
+      "magnitude" : 2.4,
+      "time" : "2024-03-13 19:01:18Z",
+      "mag_author" : null,
+      "longitude" : 12.7527,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.7527, 42.7292 ]
+    },
+    "id" : "37843261"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 34.766,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : -0.193359,
+      "event_id" : 37843211,
+      "contributor" : null,
+      "mag_type" : "Mwp",
+      "event_location_name" : "Indonesia [Sea]",
+      "magnitude" : 5.7,
+      "time" : "2024-03-13 18:56:14Z",
+      "mag_author" : null,
+      "longitude" : 125.265,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 125.265, -0.193359 ]
+    },
+    "id" : "37843211"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 4.0,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -3087,28 +3131,6 @@
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
       "latitude" : 40.8315,
-      "event_id" : 37820701,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 1.2,
-      "time" : "2024-03-10 15:09:09Z",
-      "mag_author" : null,
-      "longitude" : 14.136833,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.136833, 40.8315 ]
-    },
-    "id" : "37820701"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 3.39,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.8315,
       "event_id" : 37820261,
       "contributor" : null,
       "mag_type" : "Md",
@@ -3124,6 +3146,28 @@
       "coordinates" : [ 14.136833, 40.8315 ]
     },
     "id" : "37820261"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 3.39,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.8315,
+      "event_id" : 37820701,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 1.2,
+      "time" : "2024-03-10 15:09:09Z",
+      "mag_author" : null,
+      "longitude" : 14.136833,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.136833, 40.8315 ]
+    },
+    "id" : "37820701"
   }, {
     "type" : "Feature",
     "properties" : {
