@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 20.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.7918,
+      "event_id" : 37862571,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km SW Folignano (AP)",
+      "magnitude" : 1.1,
+      "time" : "2024-03-16 09:32:07Z",
+      "mag_author" : null,
+      "longitude" : 13.6183,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.6183, 42.7918 ]
+    },
+    "id" : "37862571"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.5,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -5727,28 +5749,6 @@
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
       "latitude" : 40.8315,
-      "event_id" : 37820261,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 1.2,
-      "time" : "2024-03-10 15:09:09Z",
-      "mag_author" : null,
-      "longitude" : 14.136833,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.136833, 40.8315 ]
-    },
-    "id" : "37820261"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 3.39,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.8315,
       "event_id" : 37820701,
       "contributor" : null,
       "mag_type" : "Md",
@@ -5764,6 +5764,28 @@
       "coordinates" : [ 14.136833, 40.8315 ]
     },
     "id" : "37820701"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 3.39,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.8315,
+      "event_id" : 37820261,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 1.2,
+      "time" : "2024-03-10 15:09:09Z",
+      "mag_author" : null,
+      "longitude" : 14.136833,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.136833, 40.8315 ]
+    },
+    "id" : "37820261"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -31152,49 +31174,5 @@
       "coordinates" : [ 10.2112, 44.6452 ]
     },
     "id" : "37600421"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.7,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 44.6665,
-      "event_id" : 37600241,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km SW Felino (PR)",
-      "magnitude" : 1.8,
-      "time" : "2024-02-15 10:41:49Z",
-      "mag_author" : null,
-      "longitude" : 10.2243,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 10.2243, 44.6665 ]
-    },
-    "id" : "37600241"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 19.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 44.6262,
-      "event_id" : 37600191,
-      "contributor" : null,
-      "mag_type" : "Mw",
-      "event_location_name" : "3 km W Langhirano (PR)",
-      "magnitude" : 3.5,
-      "time" : "2024-02-15 10:38:08Z",
-      "mag_author" : null,
-      "longitude" : 10.2322,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 10.2322, 44.6262 ]
-    },
-    "id" : "37600191"
   } ]
 }
