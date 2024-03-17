@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 24.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 37.1752,
+      "event_id" : 37874481,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "Costa Siracusana (Siracusa)",
+      "magnitude" : 2.5,
+      "time" : "2024-03-17 15:42:52Z",
+      "mag_author" : null,
+      "longitude" : 15.6368,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 15.6368, 37.1752 ]
+    },
+    "id" : "37874481"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 2.53,
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
@@ -30822,27 +30844,5 @@
       "coordinates" : [ 10.7605, 44.2663 ]
     },
     "id" : "37610781"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 2.95,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.831833,
-      "event_id" : 37610721,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 1.8,
-      "time" : "2024-02-16 16:59:02Z",
-      "mag_author" : null,
-      "longitude" : 14.128167,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.128167, 40.831833 ]
-    },
-    "id" : "37610721"
   } ]
 }
