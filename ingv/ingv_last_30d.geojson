@@ -3,6 +3,50 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 8.3,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.7968,
+      "event_id" : 37878551,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km NE Massa Martana (PG)",
+      "magnitude" : 1.4,
+      "time" : "2024-03-18 05:31:56Z",
+      "mag_author" : null,
+      "longitude" : 12.5513,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.5513, 42.7968 ]
+    },
+    "id" : "37878551"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 11.2,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.9857,
+      "event_id" : 37878261,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km E Monte Cavallo (MC)",
+      "magnitude" : 1.4,
+      "time" : "2024-03-18 04:52:20Z",
+      "mag_author" : null,
+      "longitude" : 13.047,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.047, 42.9857 ]
+    },
+    "id" : "37878261"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 11.1,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -7949,28 +7993,6 @@
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
       "latitude" : 40.8315,
-      "event_id" : 37820261,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 1.2,
-      "time" : "2024-03-10 15:09:09Z",
-      "mag_author" : null,
-      "longitude" : 14.136833,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.136833, 40.8315 ]
-    },
-    "id" : "37820261"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 3.39,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.8315,
       "event_id" : 37820701,
       "contributor" : null,
       "mag_type" : "Md",
@@ -7986,6 +8008,28 @@
       "coordinates" : [ 14.136833, 40.8315 ]
     },
     "id" : "37820701"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 3.39,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.8315,
+      "event_id" : 37820261,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 1.2,
+      "time" : "2024-03-10 15:09:09Z",
+      "mag_author" : null,
+      "longitude" : 14.136833,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.136833, 40.8315 ]
+    },
+    "id" : "37820261"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -30470,49 +30514,5 @@
       "coordinates" : [ 10.2065, 44.648 ]
     },
     "id" : "37614611"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 8.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.2248,
-      "event_id" : 37614531,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km S Radicondoli (SI)",
-      "magnitude" : 1.7,
-      "time" : "2024-02-17 06:36:29Z",
-      "mag_author" : null,
-      "longitude" : 11.0432,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 11.0432, 43.2248 ]
-    },
-    "id" : "37614531"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.2087,
-      "event_id" : 37614481,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "6 km S Radicondoli (SI)",
-      "magnitude" : 1.7,
-      "time" : "2024-02-17 06:35:58Z",
-      "mag_author" : null,
-      "longitude" : 11.0595,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 11.0595, 43.2087 ]
-    },
-    "id" : "37614481"
   } ]
 }
