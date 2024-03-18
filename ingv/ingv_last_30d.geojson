@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 15.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.4765,
+      "event_id" : 37880941,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km NE Barete (AQ)",
+      "magnitude" : 1.4,
+      "time" : "2024-03-18 10:14:49Z",
+      "mag_author" : null,
+      "longitude" : 13.311,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.311, 42.4765 ]
+    },
+    "id" : "37880941"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.5,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -30228,27 +30250,5 @@
       "coordinates" : [ 11.6792, 44.0808 ]
     },
     "id" : "37617201"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 22.9,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 44.6648,
-      "event_id" : 37616951,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km SW Felino (PR)",
-      "magnitude" : 1.7,
-      "time" : "2024-02-17 11:22:55Z",
-      "mag_author" : null,
-      "longitude" : 10.2047,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 10.2047, 44.6648 ]
-    },
-    "id" : "37616951"
   } ]
 }
