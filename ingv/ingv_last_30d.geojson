@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 6.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.0018,
+      "event_id" : 37897291,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km E Monte Cavallo (MC)",
+      "magnitude" : 1.0,
+      "time" : "2024-03-19 20:20:33Z",
+      "mag_author" : null,
+      "longitude" : 13.0273,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.0273, 43.0018 ]
+    },
+    "id" : "37897291"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 7.0,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -30140,27 +30162,5 @@
       "coordinates" : [ 14.5648, 47.2043 ]
     },
     "id" : "37629731"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 13.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.4687,
-      "event_id" : 37629601,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km E Cantiano (PU)",
-      "magnitude" : 1.1,
-      "time" : "2024-02-18 21:26:55Z",
-      "mag_author" : null,
-      "longitude" : 12.6712,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.6712, 43.4687 ]
-    },
-    "id" : "37629601"
   } ]
 }
