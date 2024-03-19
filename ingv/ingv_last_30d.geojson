@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 8.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 38.3057,
+      "event_id" : 37896931,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km E Molochio (RC)",
+      "magnitude" : 1.7,
+      "time" : "2024-03-19 18:53:41Z",
+      "mag_author" : null,
+      "longitude" : 16.0793,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.0793, 38.3057 ]
+    },
+    "id" : "37896931"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 12.61,
       "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
       "catalog" : null,
@@ -30140,27 +30162,5 @@
       "coordinates" : [ 12.4238, 43.5033 ]
     },
     "id" : "37629441"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 21.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 44.662,
-      "event_id" : 37629371,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "6 km SW Felino (PR)",
-      "magnitude" : 2.1,
-      "time" : "2024-02-18 20:19:47Z",
-      "mag_author" : null,
-      "longitude" : 10.1917,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 10.1917, 44.662 ]
-    },
-    "id" : "37629371"
   } ]
 }
