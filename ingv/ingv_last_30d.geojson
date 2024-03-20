@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 5.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.5187,
+      "event_id" : 37900601,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km S Cagli (PU)",
+      "magnitude" : 0.8,
+      "time" : "2024-03-20 07:46:38Z",
+      "mag_author" : null,
+      "longitude" : 12.6528,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.6528, 43.5187 ]
+    },
+    "id" : "37900601"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.1,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -30250,27 +30272,5 @@
       "coordinates" : [ 16.8152, 39.094 ]
     },
     "id" : "37632221"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.8,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.5317,
-      "event_id" : 37631971,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "9 km W Apecchio (PU)",
-      "magnitude" : 1.0,
-      "time" : "2024-02-19 08:51:27Z",
-      "mag_author" : null,
-      "longitude" : 12.3095,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.3095, 43.5317 ]
-    },
-    "id" : "37631971"
   } ]
 }
