@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 24.3,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.0628,
+      "event_id" : 37906291,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "1 km W Penna San Giovanni (MC)",
+      "magnitude" : 0.5,
+      "time" : "2024-03-20 19:51:44Z",
+      "mag_author" : null,
+      "longitude" : 13.4078,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.4078, 43.0628 ]
+    },
+    "id" : "37906291"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 23.5,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -30074,27 +30096,5 @@
       "coordinates" : [ 16.4388, 39.0348 ]
     },
     "id" : "37635971"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 6.2,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 38.4677,
-      "event_id" : 37635911,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "Isole Eolie (Messina)",
-      "magnitude" : 0.6,
-      "time" : "2024-02-19 21:00:09Z",
-      "mag_author" : null,
-      "longitude" : 15.1005,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 15.1005, 38.4677 ]
-    },
-    "id" : "37635911"
   } ]
 }
