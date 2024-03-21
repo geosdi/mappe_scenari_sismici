@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 12.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.9983,
+      "event_id" : 37913171,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "6 km W Monte Cavallo (MC)",
+      "magnitude" : 0.8,
+      "time" : "2024-03-21 14:00:30Z",
+      "mag_author" : null,
+      "longitude" : 12.9293,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.9293, 42.9983 ]
+    },
+    "id" : "37913171"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 5.0,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -29854,27 +29876,5 @@
       "coordinates" : [ 10.1832, 44.6517 ]
     },
     "id" : "37644421"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 22.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 44.6602,
-      "event_id" : 37644351,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "6 km SE Fornovo di Taro (PR)",
-      "magnitude" : 2.1,
-      "time" : "2024-02-20 15:11:26Z",
-      "mag_author" : null,
-      "longitude" : 10.1667,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 10.1667, 44.6602 ]
-    },
-    "id" : "37644351"
   } ]
 }
