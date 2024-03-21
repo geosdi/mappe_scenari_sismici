@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.9,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.8793,
+      "event_id" : 37916791,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km E Preci (PG)",
+      "magnitude" : 0.9,
+      "time" : "2024-03-21 21:04:29Z",
+      "mag_author" : null,
+      "longitude" : 13.0773,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.0773, 42.8793 ]
+    },
+    "id" : "37916791"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 11.3,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -29810,27 +29832,5 @@
       "coordinates" : [ 13.4318, 42.4553 ]
     },
     "id" : "37647731"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 21.4,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 44.6617,
-      "event_id" : 37647631,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km SW Felino (PR)",
-      "magnitude" : 1.7,
-      "time" : "2024-02-20 22:14:55Z",
-      "mag_author" : null,
-      "longitude" : 10.2023,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 10.2023, 44.6617 ]
-    },
-    "id" : "37647631"
   } ]
 }
