@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 6.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.4018,
+      "event_id" : 37922751,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km SE Pietralunga (PG)",
+      "magnitude" : 1.1,
+      "time" : "2024-03-22 14:12:31Z",
+      "mag_author" : null,
+      "longitude" : 12.4618,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.4618, 43.4018 ]
+    },
+    "id" : "37922751"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.1,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -29524,27 +29546,5 @@
       "coordinates" : [ 10.1828, 43.9487 ]
     },
     "id" : "37653941"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 11.3,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.8937,
-      "event_id" : 37653511,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "7 km W Sellano (PG)",
-      "magnitude" : 0.9,
-      "time" : "2024-02-21 15:24:49Z",
-      "mag_author" : null,
-      "longitude" : 12.8377,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.8377, 42.8937 ]
-    },
-    "id" : "37653511"
   } ]
 }
