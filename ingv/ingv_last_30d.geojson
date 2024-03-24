@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.7,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 44.1667,
+      "event_id" : 37960881,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km S Castel del Rio (BO)",
+      "magnitude" : 1.1,
+      "time" : "2024-03-24 19:40:06Z",
+      "mag_author" : null,
+      "longitude" : 11.4893,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.4893, 44.1667 ]
+    },
+    "id" : "37960881"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 13.4,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -14527,28 +14549,6 @@
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
       "latitude" : 40.8315,
-      "event_id" : 37820261,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 1.2,
-      "time" : "2024-03-10 15:09:09Z",
-      "mag_author" : null,
-      "longitude" : 14.136833,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.136833, 40.8315 ]
-    },
-    "id" : "37820261"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 3.39,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.8315,
       "event_id" : 37820701,
       "contributor" : null,
       "mag_type" : "Md",
@@ -14564,6 +14564,28 @@
       "coordinates" : [ 14.136833, 40.8315 ]
     },
     "id" : "37820701"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 3.39,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.8315,
+      "event_id" : 37820261,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 1.2,
+      "time" : "2024-03-10 15:09:09Z",
+      "mag_author" : null,
+      "longitude" : 14.136833,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.136833, 40.8315 ]
+    },
+    "id" : "37820261"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -29700,27 +29722,5 @@
       "coordinates" : [ 7.2253, 44.896 ]
     },
     "id" : "37696331"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 20.7,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 44.669,
-      "event_id" : 37696231,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "6 km SW Felino (PR)",
-      "magnitude" : 2.3,
-      "time" : "2024-02-23 20:50:29Z",
-      "mag_author" : null,
-      "longitude" : 10.1833,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 10.1833, 44.669 ]
-    },
-    "id" : "37696231"
   } ]
 }
