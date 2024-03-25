@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 6.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 44.0863,
+      "event_id" : 37965861,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "1 km NE Arnasco (SV)",
+      "magnitude" : 0.7,
+      "time" : "2024-03-25 10:50:27Z",
+      "mag_author" : null,
+      "longitude" : 8.1128,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.1128, 44.0863 ]
+    },
+    "id" : "37965861"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 1.7,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -30118,27 +30140,5 @@
       "coordinates" : [ 10.1542, 44.6583 ]
     },
     "id" : "37701581"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 11.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.8382,
-      "event_id" : 37701301,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km NE Cerreto di Spoleto (PG)",
-      "magnitude" : 1.3,
-      "time" : "2024-02-24 11:57:03Z",
-      "mag_author" : null,
-      "longitude" : 12.9438,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.9438, 42.8382 ]
-    },
-    "id" : "37701301"
   } ]
 }
