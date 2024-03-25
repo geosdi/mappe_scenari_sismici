@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 1.7,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.0128,
+      "event_id" : 37965541,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km NE Monte Cavallo (MC)",
+      "magnitude" : 1.0,
+      "time" : "2024-03-25 10:08:07Z",
+      "mag_author" : null,
+      "longitude" : 13.0238,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.0238, 43.0128 ]
+    },
+    "id" : "37965541"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 8.0,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -30162,27 +30184,5 @@
       "coordinates" : [ 12.5687, 42.4302 ]
     },
     "id" : "37701121"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 5.9,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 47.1918,
-      "event_id" : 37701071,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "Austria (AUSTRIA)",
-      "magnitude" : 2.4,
-      "time" : "2024-02-24 11:33:56Z",
-      "mag_author" : null,
-      "longitude" : 14.5418,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.5418, 47.1918 ]
-    },
-    "id" : "37701071"
   } ]
 }
