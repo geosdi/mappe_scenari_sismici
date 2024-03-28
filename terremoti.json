@@ -8,5 +8,45 @@
   },
   "style": [
     "https://raw.githubusercontent.com/geosdi/mappe_scenari_sismici/main/terremoti_style.json"
-  ]
+  ],
+  "filter_config": {
+    "url": "https://raw.githubusercontent.com/geosdi/mappe_scenari_sismici/main/terremoti-filter-conf.json",
+    "refresh": true,
+    "filters_type": [
+      {
+        "filter_function": "textInclude",
+        "binding_key": "event_location_name",
+        "operator": "and",
+        "filter_on_fields": [
+          "event_location_name"
+        ],
+        "layers": [
+          0
+        ]
+      },
+      {
+        "filter_function": "rangeDate",
+        "operator": "and",
+        "binding_key": "time",
+        "filter_on_fields": [
+          "time"
+        ],
+        "layers": [
+          0
+        ]
+      },
+      {
+        "operator": "and",
+        "filter_function": "equalOrSup",
+        "binding_key": "magnitude",
+        "filter_on_fields": [
+          "magnitude"
+        ],
+        "layers": [
+          0
+        ]
+      }
+    ]
+  }
 }
+
