@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 0.33,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.825,
+      "event_id" : 38043931,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Vesuvio",
+      "magnitude" : 1.9,
+      "time" : "2024-03-30 18:01:36Z",
+      "mag_author" : null,
+      "longitude" : 14.427,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.427, 40.825 ]
+    },
+    "id" : "38043931"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 2.6,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -31284,27 +31306,5 @@
       "coordinates" : [ 15.4242, 38.4145 ]
     },
     "id" : "37743181"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 6.2,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.7915,
-      "event_id" : 37743031,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km E Norcia (PG)",
-      "magnitude" : 1.9,
-      "time" : "2024-02-29 19:16:18Z",
-      "mag_author" : null,
-      "longitude" : 13.1593,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.1593, 42.7915 ]
-    },
-    "id" : "37743031"
   } ]
 }
