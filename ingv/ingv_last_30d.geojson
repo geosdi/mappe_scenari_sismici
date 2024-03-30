@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.8657,
+      "event_id" : 38045361,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km E Preci (PG)",
+      "magnitude" : 1.4,
+      "time" : "2024-03-30 23:36:13Z",
+      "mag_author" : null,
+      "longitude" : 13.0912,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.0912, 42.8657 ]
+    },
+    "id" : "38045361"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 11.0,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -30932,27 +30954,5 @@
       "coordinates" : [ 12.7617, 42.738 ]
     },
     "id" : "37744681"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 36.7,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 40.5158,
-      "event_id" : 37744571,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km E Pietrapertosa (PZ)",
-      "magnitude" : 1.6,
-      "time" : "2024-03-01 00:43:01Z",
-      "mag_author" : null,
-      "longitude" : 16.1038,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 16.1038, 40.5158 ]
-    },
-    "id" : "37744571"
   } ]
 }
