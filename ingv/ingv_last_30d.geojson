@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.6297,
+      "event_id" : 38053281,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "6 km SE Pieve Santo Stefano (AR)",
+      "magnitude" : 0.6,
+      "time" : "2024-03-31 15:27:17Z",
+      "mag_author" : null,
+      "longitude" : 12.0927,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.0927, 43.6297 ]
+    },
+    "id" : "38053281"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.5,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -30646,27 +30668,5 @@
       "coordinates" : [ 13.0055, 42.4008 ]
     },
     "id" : "37748701"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 4.688,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 11.6016,
-      "event_id" : 37748621,
-      "contributor" : null,
-      "mag_type" : "Mwp",
-      "event_location_name" : "Yemen [Sea]",
-      "magnitude" : 5.9,
-      "time" : "2024-03-01 17:29:47Z",
-      "mag_author" : null,
-      "longitude" : 57.583,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 57.583, 11.6016 ]
-    },
-    "id" : "37748621"
   } ]
 }
