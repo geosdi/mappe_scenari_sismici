@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 15.2,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.4698,
+      "event_id" : 38086051,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "8 km E Pizzoli (AQ)",
+      "magnitude" : 0.8,
+      "time" : "2024-04-02 13:59:42Z",
+      "mag_author" : null,
+      "longitude" : 13.3802,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.3802, 42.4698 ]
+    },
+    "id" : "38086051"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 8.57,
       "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
       "catalog" : null,
@@ -29964,27 +29986,5 @@
       "coordinates" : [ 13.2365, 42.5433 ]
     },
     "id" : "37761991"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.0,
-      "author" : "SURVEY-INGV-USGS",
-      "catalog" : null,
-      "latitude" : -59.34,
-      "event_id" : 37762031,
-      "contributor" : null,
-      "mag_type" : "Mw",
-      "event_location_name" : "Macquarie Island, Australia, region [Sea]",
-      "magnitude" : 6.7,
-      "time" : "2024-03-03 16:16:57Z",
-      "mag_author" : null,
-      "longitude" : 158.862,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 158.862, -59.34 ]
-    },
-    "id" : "37762031"
   } ]
 }
