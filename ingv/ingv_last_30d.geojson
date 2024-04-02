@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.4,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 44.1778,
+      "event_id" : 38077181,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km S Castel del Rio (BO)",
+      "magnitude" : 1.7,
+      "time" : "2024-04-02 02:34:30Z",
+      "mag_author" : null,
+      "longitude" : 11.4927,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.4927, 44.1778 ]
+    },
+    "id" : "38077181"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 7.5,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -30052,49 +30074,5 @@
       "coordinates" : [ 12.7477, 43.177 ]
     },
     "id" : "37757861"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 7.7,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.6707,
-      "event_id" : 37757771,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km S Cascia (PG)",
-      "magnitude" : 0.9,
-      "time" : "2024-03-03 04:46:58Z",
-      "mag_author" : null,
-      "longitude" : 13.0248,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.0248, 42.6707 ]
-    },
-    "id" : "37757771"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 15.1,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.1165,
-      "event_id" : 37757731,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km W Nocera Umbra (PG)",
-      "magnitude" : 1.1,
-      "time" : "2024-03-03 04:45:45Z",
-      "mag_author" : null,
-      "longitude" : 12.7463,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.7463, 43.1165 ]
-    },
-    "id" : "37757731"
   } ]
 }
