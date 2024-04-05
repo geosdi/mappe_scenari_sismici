@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.7257,
+      "event_id" : 38121221,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "1 km SE Spoleto (PG)",
+      "magnitude" : 1.6,
+      "time" : "2024-04-05 20:53:53Z",
+      "mag_author" : null,
+      "longitude" : 12.7433,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.7433, 42.7257 ]
+    },
+    "id" : "38121221"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 8.4,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -31130,27 +31152,5 @@
       "coordinates" : [ 12.5817, 43.6015 ]
     },
     "id" : "37785291"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 46.3528,
-      "event_id" : 37785181,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "7 km SE Preone (UD)",
-      "magnitude" : 0.6,
-      "time" : "2024-03-06 23:00:03Z",
-      "mag_author" : null,
-      "longitude" : 12.9272,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.9272, 46.3528 ]
-    },
-    "id" : "37785181"
   } ]
 }
