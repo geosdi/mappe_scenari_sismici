@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 11.2,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.0587,
+      "event_id" : 38148651,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km E Valtopina (PG)",
+      "magnitude" : 1.0,
+      "time" : "2024-04-09 00:48:46Z",
+      "mag_author" : null,
+      "longitude" : 12.7955,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.7955, 43.0587 ]
+    },
+    "id" : "38148651"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 30.7,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -30448,27 +30470,5 @@
       "coordinates" : [ 13.0202, 43.0055 ]
     },
     "id" : "37809021"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 0.48,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.822,
-      "event_id" : 37808921,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 1.4,
-      "time" : "2024-03-10 02:55:28Z",
-      "mag_author" : null,
-      "longitude" : 14.1415,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.1415, 40.822 ]
-    },
-    "id" : "37808921"
   } ]
 }
