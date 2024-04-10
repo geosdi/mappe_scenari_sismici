@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 38.5347,
+      "event_id" : 38164701,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "Tirreno Meridionale (MARE)",
+      "magnitude" : 2.1,
+      "time" : "2024-04-10 09:50:14Z",
+      "mag_author" : null,
+      "longitude" : 14.1777,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.1777, 38.5347 ]
+    },
+    "id" : "38164701"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 2.43,
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
@@ -30404,49 +30426,5 @@
       "coordinates" : [ 12.7545, 42.8057 ]
     },
     "id" : "37826791"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.8,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.8103,
-      "event_id" : 37826521,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km SW Campello sul Clitunno (PG)",
-      "magnitude" : 2.0,
-      "time" : "2024-03-11 12:03:58Z",
-      "mag_author" : null,
-      "longitude" : 12.7548,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.7548, 42.8103 ]
-    },
-    "id" : "37826521"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 6.3,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.8098,
-      "event_id" : 37826471,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km SW Campello sul Clitunno (PG)",
-      "magnitude" : 1.8,
-      "time" : "2024-03-11 12:03:30Z",
-      "mag_author" : null,
-      "longitude" : 12.757,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.757, 42.8098 ]
-    },
-    "id" : "37826471"
   } ]
 }
