@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 0.35,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.820333,
+      "event_id" : 38177341,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 1.0,
+      "time" : "2024-04-11 14:31:08Z",
+      "mag_author" : null,
+      "longitude" : 14.1415,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.1415, 40.820333 ]
+    },
+    "id" : "38177341"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 26.5,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -30492,27 +30514,5 @@
       "coordinates" : [ 15.4888, 40.6977 ]
     },
     "id" : "37835651"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 13.4,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 39.9515,
-      "event_id" : 37835491,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "7 km W Terranova di Pollino (PZ)",
-      "magnitude" : 1.6,
-      "time" : "2024-03-12 16:38:18Z",
-      "mag_author" : null,
-      "longitude" : 16.2187,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 16.2187, 39.9515 ]
-    },
-    "id" : "37835491"
   } ]
 }
