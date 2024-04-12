@@ -9,6 +9,50 @@
   "style": [
     "https://raw.githubusercontent.com/geosdi/mappe_scenari_sismici/main/terremoti_style.json"
   ],
+  "feature_sidebar": {
+    "header": "INGV"
+  },
+  "features_detail": [
+    {
+      "key": 0,
+      "featureInfo": [
+        {
+          "name": "event_location_name",
+          "label": "terremoti-filters.location"
+        },
+        {
+          "name": "magnitude",
+          "label": "terremoti-filters.magnitude"
+        },
+        {
+          "name": "depth_km",
+          "label": "terremoti-filters.depth",
+          "options": {
+            "suffix": "Km"
+          }
+        },
+        {
+          "name": "author",
+          "label": "terremoti-filters.author"
+        },
+        {
+          "name": "time",
+          "label": "terremoti-filters.local_date",
+          "options": {
+            "format": "D MMMM  YYYY HH:mm"
+          }
+        },
+        {
+          "name": "time",
+          "label": "terremoti-filters.utc_date",
+          "options": {
+            "format": "D MMMM  YYYY HH:mm",
+            "timeZone": "UTC"
+          }
+        }
+      ]
+    }
+  ],
   "filter_config": {
     "url": "https://raw.githubusercontent.com/geosdi/mappe_scenari_sismici/main/terremoti-filter-conf.json",
     "refresh": true,
