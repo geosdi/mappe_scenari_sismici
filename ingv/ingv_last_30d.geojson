@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 8.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.4083,
+      "event_id" : 38185111,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km SE Pietralunga (PG)",
+      "magnitude" : 0.7,
+      "time" : "2024-04-12 10:01:33Z",
+      "mag_author" : null,
+      "longitude" : 12.4823,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.4823, 43.4083 ]
+    },
+    "id" : "38185111"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 13.6,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -30492,27 +30514,5 @@
       "coordinates" : [ 14.1327, 37.9208 ]
     },
     "id" : "37840951"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 13.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.5865,
-      "event_id" : 37840821,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km SW Amatrice (RI)",
-      "magnitude" : 1.0,
-      "time" : "2024-03-13 12:05:36Z",
-      "mag_author" : null,
-      "longitude" : 13.2702,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.2702, 42.5865 ]
-    },
-    "id" : "37840821"
   } ]
 }
