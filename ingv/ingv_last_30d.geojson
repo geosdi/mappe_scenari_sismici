@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 11.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 45.8338,
+      "event_id" : 38202301,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km NE Brentonico (TN)",
+      "magnitude" : 1.2,
+      "time" : "2024-04-13 18:04:40Z",
+      "mag_author" : null,
+      "longitude" : 10.9683,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.9683, 45.8338 ]
+    },
+    "id" : "38202301"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 33.398,
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
@@ -30866,27 +30888,5 @@
       "coordinates" : [ 15.6182, 40.58 ]
     },
     "id" : "37852171"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 8.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 39.8927,
-      "event_id" : 37852141,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km E Mormanno (CS)",
-      "magnitude" : 0.3,
-      "time" : "2024-03-14 20:17:45Z",
-      "mag_author" : null,
-      "longitude" : 16.0092,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 16.0092, 39.8927 ]
-    },
-    "id" : "37852141"
   } ]
 }
