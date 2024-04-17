@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 11.9,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.0752,
+      "event_id" : 38261301,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "1 km SW Muccia (MC)",
+      "magnitude" : 0.5,
+      "time" : "2024-04-17 13:21:24Z",
+      "mag_author" : null,
+      "longitude" : 13.0333,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.0333, 43.0752 ]
+    },
+    "id" : "38261301"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 13.3,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -31130,27 +31152,5 @@
       "coordinates" : [ 8.5057, 46.3912 ]
     },
     "id" : "37884281"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.2,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.8017,
-      "event_id" : 37884161,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "1 km NE Norcia (PG)",
-      "magnitude" : 1.6,
-      "time" : "2024-03-18 15:32:06Z",
-      "mag_author" : null,
-      "longitude" : 13.1012,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.1012, 42.8017 ]
-    },
-    "id" : "37884161"
   } ]
 }
