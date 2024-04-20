@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 1.57,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.824333,
+      "event_id" : 38294961,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 2.0,
+      "time" : "2024-04-20 15:04:31Z",
+      "mag_author" : null,
+      "longitude" : 14.130833,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.130833, 40.824333 ]
+    },
+    "id" : "38294961"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 1.31,
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
@@ -30404,27 +30426,5 @@
       "coordinates" : [ 16.2063, 39.8543 ]
     },
     "id" : "37915591"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 44.22,
-      "event_id" : 37915411,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km SW Calice al Cornoviglio (SP)",
-      "magnitude" : 0.9,
-      "time" : "2024-03-21 17:14:12Z",
-      "mag_author" : null,
-      "longitude" : 9.8252,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 9.8252, 44.22 ]
-    },
-    "id" : "37915411"
   } ]
 }
