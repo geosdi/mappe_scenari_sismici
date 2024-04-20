@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 11.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.5568,
+      "event_id" : 38296791,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km NW Capitignano (AQ)",
+      "magnitude" : 1.7,
+      "time" : "2024-04-20 19:27:48Z",
+      "mag_author" : null,
+      "longitude" : 13.2858,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.2858, 42.5568 ]
+    },
+    "id" : "38296791"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 0.77,
       "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
       "catalog" : null,
@@ -30294,27 +30316,5 @@
       "coordinates" : [ 13.2562, 42.5167 ]
     },
     "id" : "37917151"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.67,
-      "event_id" : 37917091,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "7 km NW Ferentillo (TR)",
-      "magnitude" : 0.8,
-      "time" : "2024-03-21 21:40:19Z",
-      "mag_author" : null,
-      "longitude" : 12.7348,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.7348, 42.67 ]
-    },
-    "id" : "37917091"
   } ]
 }
