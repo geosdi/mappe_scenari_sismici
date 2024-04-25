@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 5.7,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.014,
+      "event_id" : 38351471,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km S Fiastra (MC)",
+      "magnitude" : 1.0,
+      "time" : "2024-04-25 13:58:18Z",
+      "mag_author" : null,
+      "longitude" : 13.1483,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.1483, 43.014 ]
+    },
+    "id" : "38351471"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 11.0,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -31152,27 +31174,5 @@
       "coordinates" : [ 13.3772, 42.4607 ]
     },
     "id" : "37976761"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 16.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.4057,
-      "event_id" : 37976221,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "6 km NE Costacciaro (PG)",
-      "magnitude" : 0.7,
-      "time" : "2024-03-26 16:04:43Z",
-      "mag_author" : null,
-      "longitude" : 12.7438,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.7438, 43.4057 ]
-    },
-    "id" : "37976221"
   } ]
 }
