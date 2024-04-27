@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 44.0375,
+      "event_id" : 38400841,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km N Barberino di Mugello (FI)",
+      "magnitude" : 1.0,
+      "time" : "2024-04-27 20:04:33Z",
+      "mag_author" : null,
+      "longitude" : 11.2465,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.2465, 44.0375 ]
+    },
+    "id" : "38400841"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.3,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -35508,27 +35530,5 @@
       "coordinates" : [ 12.9867, 42.882 ]
     },
     "id" : "38019151"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.3,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 46.3553,
-      "event_id" : 38018661,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km NE Tramonti di Sopra (PN)",
-      "magnitude" : 1.5,
-      "time" : "2024-03-28 22:16:13Z",
-      "mag_author" : null,
-      "longitude" : 12.8128,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.8128, 46.3553 ]
-    },
-    "id" : "38018661"
   } ]
 }
