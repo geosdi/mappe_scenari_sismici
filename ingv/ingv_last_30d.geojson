@@ -3,6 +3,50 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 11.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.9673,
+      "event_id" : 38419501,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "7 km SW Roccastrada (GR)",
+      "magnitude" : 1.1,
+      "time" : "2024-04-29 08:41:42Z",
+      "mag_author" : null,
+      "longitude" : 11.106,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.106, 42.9673 ]
+    },
+    "id" : "38419501"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 2.57,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.8365,
+      "event_id" : 38419591,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 2.1,
+      "time" : "2024-04-29 08:34:47Z",
+      "mag_author" : null,
+      "longitude" : 14.116667,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.116667, 40.8365 ]
+    },
+    "id" : "38419591"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.4,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -36168,27 +36212,5 @@
       "coordinates" : [ 12.0995, 43.6437 ]
     },
     "id" : "38036881"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.2,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.6468,
-      "event_id" : 38036701,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "6 km E Pieve Santo Stefano (AR)",
-      "magnitude" : 2.4,
-      "time" : "2024-03-30 10:49:00Z",
-      "mag_author" : null,
-      "longitude" : 12.1065,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.1065, 43.6468 ]
-    },
-    "id" : "38036701"
   } ]
 }
