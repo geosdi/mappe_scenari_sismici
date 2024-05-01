@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 45.0893,
+      "event_id" : 38448971,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "Costa Croata Settentrionale (CROAZIA)",
+      "magnitude" : 2.7,
+      "time" : "2024-05-01 01:27:57Z",
+      "mag_author" : null,
+      "longitude" : 14.5445,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.5445, 45.0893 ]
+    },
+    "id" : "38448971"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 15.0,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -37158,27 +37180,5 @@
       "coordinates" : [ 12.2992, 43.47 ]
     },
     "id" : "38056911"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 24.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 44.672,
-      "event_id" : 38056781,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km E Fornovo di Taro (PR)",
-      "magnitude" : 2.0,
-      "time" : "2024-04-01 03:36:52Z",
-      "mag_author" : null,
-      "longitude" : 10.1628,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 10.1628, 44.672 ]
-    },
-    "id" : "38056781"
   } ]
 }
