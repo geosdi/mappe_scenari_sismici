@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 8.7,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 39.8113,
+      "event_id" : 38475991,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "1 km W Castrovillari (CS)",
+      "magnitude" : 1.0,
+      "time" : "2024-05-02 22:08:32Z",
+      "mag_author" : null,
+      "longitude" : 16.1963,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.1963, 39.8113 ]
+    },
+    "id" : "38475991"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 25.8,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -37114,27 +37136,5 @@
       "coordinates" : [ 14.1405, 40.827 ]
     },
     "id" : "38092231"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.1,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.9582,
-      "event_id" : 38091901,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km N Visso (MC)",
-      "magnitude" : 1.6,
-      "time" : "2024-04-03 00:22:11Z",
-      "mag_author" : null,
-      "longitude" : 13.0967,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.0967, 42.9582 ]
-    },
-    "id" : "38091901"
   } ]
 }
