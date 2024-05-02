@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 8.2,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.3982,
+      "event_id" : 38471201,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km N Gubbio (PG)",
+      "magnitude" : 3.0,
+      "time" : "2024-05-02 14:36:08Z",
+      "mag_author" : null,
+      "longitude" : 12.5945,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.5945, 43.3982 ]
+    },
+    "id" : "38471201"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 14.9,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -37356,49 +37378,5 @@
       "coordinates" : [ 12.3137, 45.9027 ]
     },
     "id" : "38088911"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.8,
-      "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
-      "catalog" : null,
-      "latitude" : 37.87,
-      "event_id" : 38088991,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km S Moio Alcantara (ME)",
-      "magnitude" : 1.5,
-      "time" : "2024-04-02 16:42:54Z",
-      "mag_author" : null,
-      "longitude" : 15.044,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 15.044, 37.87 ]
-    },
-    "id" : "38088991"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 12.44,
-      "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
-      "catalog" : null,
-      "latitude" : 37.849,
-      "event_id" : 38088891,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "6 km SW Moio Alcantara (ME)",
-      "magnitude" : 2.1,
-      "time" : "2024-04-02 16:42:21Z",
-      "mag_author" : null,
-      "longitude" : 15.026,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 15.026, 37.849 ]
-    },
-    "id" : "38088891"
   } ]
 }
