@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.7,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.9012,
+      "event_id" : 38505651,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km SW Visso (MC)",
+      "magnitude" : 0.9,
+      "time" : "2024-05-05 07:20:06Z",
+      "mag_author" : null,
+      "longitude" : 13.0738,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.0738, 42.9012 ]
+    },
+    "id" : "38505651"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 11.6,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -37532,27 +37554,5 @@
       "coordinates" : [ 12.8043, 43.1717 ]
     },
     "id" : "38117071"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 2.7,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.836167,
-      "event_id" : 38116501,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 1.2,
-      "time" : "2024-04-05 09:37:40Z",
-      "mag_author" : null,
-      "longitude" : 14.13,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.13, 40.836167 ]
-    },
-    "id" : "38116501"
   } ]
 }
