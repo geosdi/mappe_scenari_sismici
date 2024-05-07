@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.4,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.8812,
+      "event_id" : 38535101,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km W Sellano (PG)",
+      "magnitude" : 1.2,
+      "time" : "2024-05-07 14:09:01Z",
+      "mag_author" : null,
+      "longitude" : 12.9052,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.9052, 42.8812 ]
+    },
+    "id" : "38535101"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 15.4,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -37730,27 +37752,5 @@
       "coordinates" : [ 15.0847, 38.0827 ]
     },
     "id" : "38136751"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 13.6,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.9888,
-      "event_id" : 38136561,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km W Bolognola (MC)",
-      "magnitude" : 0.4,
-      "time" : "2024-04-07 16:18:06Z",
-      "mag_author" : null,
-      "longitude" : 13.1855,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.1855, 42.9888 ]
-    },
-    "id" : "38136561"
   } ]
 }
