@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 8.4,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.6402,
+      "event_id" : 38543891,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "Costa Marchigiana Anconetana (Ancona)",
+      "magnitude" : 1.7,
+      "time" : "2024-05-08 09:20:53Z",
+      "mag_author" : null,
+      "longitude" : 13.5677,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.5677, 43.6402 ]
+    },
+    "id" : "38543891"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 12.109,
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
@@ -38104,27 +38126,5 @@
       "coordinates" : [ 12.65, 42.3867 ]
     },
     "id" : "38144331"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 7.67,
-      "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
-      "catalog" : null,
-      "latitude" : 38.596,
-      "event_id" : 38144411,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "Isole Eolie (Messina)",
-      "magnitude" : 1.5,
-      "time" : "2024-04-08 11:40:39Z",
-      "mag_author" : null,
-      "longitude" : 14.51,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.51, 38.596 ]
-    },
-    "id" : "38144411"
   } ]
 }
