@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 12.1,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.9867,
+      "event_id" : 38548151,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "1 km S Monte Cavallo (MC)",
+      "magnitude" : 0.5,
+      "time" : "2024-05-08 14:38:34Z",
+      "mag_author" : null,
+      "longitude" : 13.0022,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.0022, 42.9867 ]
+    },
+    "id" : "38548151"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 11.0,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -38104,27 +38126,5 @@
       "coordinates" : [ 12.9962, 43.0612 ]
     },
     "id" : "38146901"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 7.7,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.5497,
-      "event_id" : 38146601,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km W Campotosto (AQ)",
-      "magnitude" : 0.2,
-      "time" : "2024-04-08 16:43:58Z",
-      "mag_author" : null,
-      "longitude" : 13.3383,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.3383, 42.5497 ]
-    },
-    "id" : "38146601"
   } ]
 }
