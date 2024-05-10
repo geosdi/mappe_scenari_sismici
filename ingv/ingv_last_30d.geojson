@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 2.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 40.7157,
+      "event_id" : 38572921,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "6 km SW Muro Lucano (PZ)",
+      "magnitude" : 2.2,
+      "time" : "2024-05-10 04:48:37Z",
+      "mag_author" : null,
+      "longitude" : 15.4428,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 15.4428, 40.7157 ]
+    },
+    "id" : "38572921"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 9.7,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -38258,27 +38280,5 @@
       "coordinates" : [ 10.5027, 46.5795 ]
     },
     "id" : "38162911"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 2.65,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.834167,
-      "event_id" : 38162981,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 1.7,
-      "time" : "2024-04-10 07:06:38Z",
-      "mag_author" : null,
-      "longitude" : 14.140167,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.140167, 40.834167 ]
-    },
-    "id" : "38162981"
   } ]
 }
