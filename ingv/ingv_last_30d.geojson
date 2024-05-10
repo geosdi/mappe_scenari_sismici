@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 7.4,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 40.8107,
+      "event_id" : 38579691,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 1.7,
+      "time" : "2024-05-10 11:29:04Z",
+      "mag_author" : null,
+      "longitude" : 14.1043,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.1043, 40.8107 ]
+    },
+    "id" : "38579691"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 17.4,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -38368,49 +38390,5 @@
       "coordinates" : [ 12.2523, 43.6062 ]
     },
     "id" : "38168501"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.9215,
-      "event_id" : 38168171,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km N Preci (PG)",
-      "magnitude" : 0.9,
-      "time" : "2024-04-10 13:37:41Z",
-      "mag_author" : null,
-      "longitude" : 13.0233,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.0233, 42.9215 ]
-    },
-    "id" : "38168171"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 44.7,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.6127,
-      "event_id" : 38168031,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km E Acqualagna (PU)",
-      "magnitude" : 2.7,
-      "time" : "2024-04-10 13:33:49Z",
-      "mag_author" : null,
-      "longitude" : 12.7267,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.7267, 43.6127 ]
-    },
-    "id" : "38168031"
   } ]
 }
