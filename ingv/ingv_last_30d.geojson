@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.2,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.7657,
+      "event_id" : 38590121,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km NE Spoleto (PG)",
+      "magnitude" : 1.7,
+      "time" : "2024-05-11 06:03:00Z",
+      "mag_author" : null,
+      "longitude" : 12.7585,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.7585, 42.7657 ]
+    },
+    "id" : "38590121"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 15.8,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -38566,27 +38588,5 @@
       "coordinates" : [ 12.1168, 43.6027 ]
     },
     "id" : "38174171"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 0.0,
-      "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
-      "catalog" : null,
-      "latitude" : 37.754,
-      "event_id" : 38174041,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "11 km E Bronte (CT)",
-      "magnitude" : 1.5,
-      "time" : "2024-04-11 08:11:16Z",
-      "mag_author" : null,
-      "longitude" : 14.95,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.95, 37.754 ]
-    },
-    "id" : "38174041"
   } ]
 }
