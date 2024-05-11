@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 12.2,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.9617,
+      "event_id" : 38592171,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km NW Visso (MC)",
+      "magnitude" : 0.5,
+      "time" : "2024-05-11 07:59:56Z",
+      "mag_author" : null,
+      "longitude" : 13.0463,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.0463, 42.9617 ]
+    },
+    "id" : "38592171"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.6,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -38610,27 +38632,5 @@
       "coordinates" : [ 12.8785, 42.8357 ]
     },
     "id" : "38176111"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.9,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.7288,
-      "event_id" : 38175281,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "6 km NW Accumoli (RI)",
-      "magnitude" : 1.1,
-      "time" : "2024-04-11 10:16:54Z",
-      "mag_author" : null,
-      "longitude" : 13.1868,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.1868, 42.7288 ]
-    },
-    "id" : "38175281"
   } ]
 }
