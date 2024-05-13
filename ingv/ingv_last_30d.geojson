@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 7.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 44.7168,
+      "event_id" : 38631421,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km S Coli (PC)",
+      "magnitude" : 1.5,
+      "time" : "2024-05-13 22:54:08Z",
+      "mag_author" : null,
+      "longitude" : 9.4252,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.4252, 44.7168 ]
+    },
+    "id" : "38631421"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 2.1,
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
@@ -39336,27 +39358,5 @@
       "coordinates" : [ 12.8122, 46.3637 ]
     },
     "id" : "38203751"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.9,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.0078,
-      "event_id" : 38203721,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "10 km SE Valtopina (PG)",
-      "magnitude" : 0.4,
-      "time" : "2024-04-14 01:04:06Z",
-      "mag_author" : null,
-      "longitude" : 12.8525,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.8525, 43.0078 ]
-    },
-    "id" : "38203721"
   } ]
 }
