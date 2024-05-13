@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 0.1,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.82,
+      "event_id" : 38631731,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Vesuvio",
+      "magnitude" : 1.2,
+      "time" : "2024-05-13 23:42:43Z",
+      "mag_author" : null,
+      "longitude" : 14.430333,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.430333, 40.82 ]
+    },
+    "id" : "38631731"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 11.1,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -39314,27 +39336,5 @@
       "coordinates" : [ 14.969, 37.729 ]
     },
     "id" : "38204021"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.8,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 41.4628,
-      "event_id" : 38203931,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "1 km N San Giuliano del Sannio (CB)",
-      "magnitude" : 0.8,
-      "time" : "2024-04-14 01:46:35Z",
-      "mag_author" : null,
-      "longitude" : 14.641,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.641, 41.4628 ]
-    },
-    "id" : "38203931"
   } ]
 }
