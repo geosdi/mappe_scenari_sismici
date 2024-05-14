@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.4,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.9742,
+      "event_id" : 38633681,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km NW Ussita (MC)",
+      "magnitude" : 1.0,
+      "time" : "2024-05-14 05:36:08Z",
+      "mag_author" : null,
+      "longitude" : 13.1013,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.1013, 42.9742 ]
+    },
+    "id" : "38633681"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 16.0,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -39204,27 +39226,5 @@
       "coordinates" : [ 14.136833, 40.828167 ]
     },
     "id" : "38206821"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 2.5,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.827833,
-      "event_id" : 38206461,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 1.5,
-      "time" : "2024-04-14 07:41:53Z",
-      "mag_author" : null,
-      "longitude" : 14.140167,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.140167, 40.827833 ]
-    },
-    "id" : "38206461"
   } ]
 }
