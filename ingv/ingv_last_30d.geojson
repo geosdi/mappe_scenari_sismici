@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.1,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.7667,
+      "event_id" : 38633841,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km NE Spoleto (PG)",
+      "magnitude" : 1.5,
+      "time" : "2024-05-14 05:51:13Z",
+      "mag_author" : null,
+      "longitude" : 12.7552,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.7552, 42.7667 ]
+    },
+    "id" : "38633841"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 9.4,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -38896,49 +38918,5 @@
       "coordinates" : [ 14.138333, 40.829333 ]
     },
     "id" : "38207461"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 1.39,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.8315,
-      "event_id" : 38210571,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 1.0,
-      "time" : "2024-04-14 07:58:54Z",
-      "mag_author" : null,
-      "longitude" : 14.137167,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.137167, 40.8315 ]
-    },
-    "id" : "38210571"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 0.99,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.825833,
-      "event_id" : 38208091,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 2.7,
-      "time" : "2024-04-14 07:57:57Z",
-      "mag_author" : null,
-      "longitude" : 14.138333,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.138333, 40.825833 ]
-    },
-    "id" : "38208091"
   } ]
 }
