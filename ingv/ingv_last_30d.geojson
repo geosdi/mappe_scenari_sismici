@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 15.2,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.1698,
+      "event_id" : 38665101,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "7 km NE Nocera Umbra (PG)",
+      "magnitude" : 0.8,
+      "time" : "2024-05-16 03:53:05Z",
+      "mag_author" : null,
+      "longitude" : 12.8313,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.8313, 43.1698 ]
+    },
+    "id" : "38665101"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.1,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -38346,27 +38368,5 @@
       "coordinates" : [ 13.558, 46.1318 ]
     },
     "id" : "38238851"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 25.6,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 39.3607,
-      "event_id" : 38238051,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km E Umbriatico (KR)",
-      "magnitude" : 1.5,
-      "time" : "2024-04-16 06:02:35Z",
-      "mag_author" : null,
-      "longitude" : 16.9588,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 16.9588, 39.3607 ]
-    },
-    "id" : "38238051"
   } ]
 }
