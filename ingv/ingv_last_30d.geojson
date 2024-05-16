@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 17.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.1718,
+      "event_id" : 38665281,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "8 km W Fiuminata (MC)",
+      "magnitude" : 0.7,
+      "time" : "2024-05-16 04:16:14Z",
+      "mag_author" : null,
+      "longitude" : 12.8432,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.8432, 43.1718 ]
+    },
+    "id" : "38665281"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 15.2,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -38324,27 +38346,5 @@
       "coordinates" : [ 7.7785, 46.1882 ]
     },
     "id" : "38240631"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 0.52,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.822333,
-      "event_id" : 38239021,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 1.2,
-      "time" : "2024-04-16 06:43:16Z",
-      "mag_author" : null,
-      "longitude" : 14.1405,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.1405, 40.822333 ]
-    },
-    "id" : "38239021"
   } ]
 }
