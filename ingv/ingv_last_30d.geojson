@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 17.4,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 38.3398,
+      "event_id" : 38706091,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km SE Taurianova (RC)",
+      "magnitude" : 1.0,
+      "time" : "2024-05-18 07:49:47Z",
+      "mag_author" : null,
+      "longitude" : 16.0237,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.0237, 38.3398 ]
+    },
+    "id" : "38706091"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 11.2,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -38456,27 +38478,5 @@
       "coordinates" : [ 14.150167, 40.833667 ]
     },
     "id" : "38269681"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 2.66,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.827333,
-      "event_id" : 38269561,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 1.9,
-      "time" : "2024-04-18 10:09:40Z",
-      "mag_author" : null,
-      "longitude" : 14.139333,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.139333, 40.827333 ]
-    },
-    "id" : "38269561"
   } ]
 }
