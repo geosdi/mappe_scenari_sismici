@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 7.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.3983,
+      "event_id" : 38739711,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km N Gubbio (PG)",
+      "magnitude" : 0.5,
+      "time" : "2024-05-19 21:23:49Z",
+      "mag_author" : null,
+      "longitude" : 12.5873,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.5873, 43.3983 ]
+    },
+    "id" : "38739711"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 8.8,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -38610,27 +38632,5 @@
       "coordinates" : [ 12.9262, 42.9898 ]
     },
     "id" : "38287381"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.4,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.8157,
-      "event_id" : 38287291,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km W Campello sul Clitunno (PG)",
-      "magnitude" : 1.3,
-      "time" : "2024-04-19 23:31:42Z",
-      "mag_author" : null,
-      "longitude" : 12.7282,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.7282, 42.8157 ]
-    },
-    "id" : "38287291"
   } ]
 }
