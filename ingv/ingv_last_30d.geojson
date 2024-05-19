@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 23.9,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 44.1865,
+      "event_id" : 38733101,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km SE Castel del Rio (BO)",
+      "magnitude" : 1.2,
+      "time" : "2024-05-19 13:24:53Z",
+      "mag_author" : null,
+      "longitude" : 11.5542,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.5542, 44.1865 ]
+    },
+    "id" : "38733101"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 21.21,
       "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
       "catalog" : null,
@@ -1324,28 +1346,6 @@
     "type" : "Feature",
     "properties" : {
       "depth_km" : 2.81,
-      "author" : "SURVEY-INGV-OV",
-      "catalog" : null,
-      "latitude" : 40.835,
-      "event_id" : 38702441,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 3.7,
-      "time" : "2024-05-18 04:30:55Z",
-      "mag_author" : null,
-      "longitude" : 14.146667,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.146667, 40.835 ]
-    },
-    "id" : "38702441"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 2.81,
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
       "latitude" : 40.835,
@@ -1364,6 +1364,28 @@
       "coordinates" : [ 14.146667, 40.835 ]
     },
     "id" : "38702971"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 2.81,
+      "author" : "SURVEY-INGV-OV",
+      "catalog" : null,
+      "latitude" : 40.835,
+      "event_id" : 38702441,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 3.7,
+      "time" : "2024-05-18 04:30:55Z",
+      "mag_author" : null,
+      "longitude" : 14.146667,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.146667, 40.835 ]
+    },
+    "id" : "38702441"
   }, {
     "type" : "Feature",
     "properties" : {
