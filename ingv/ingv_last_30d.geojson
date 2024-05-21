@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 26.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 44.4503,
+      "event_id" : 38787011,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km NE Serramazzoni (MO)",
+      "magnitude" : 2.5,
+      "time" : "2024-05-21 13:25:39Z",
+      "mag_author" : null,
+      "longitude" : 10.8145,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.8145, 44.4503 ]
+    },
+    "id" : "38787011"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 14.7,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -39050,27 +39072,5 @@
       "coordinates" : [ 13.2423, 45.261 ]
     },
     "id" : "38304871"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 15.4,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 38.3172,
-      "event_id" : 38304381,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km E Molochio (RC)",
-      "magnitude" : 1.9,
-      "time" : "2024-04-21 15:47:45Z",
-      "mag_author" : null,
-      "longitude" : 16.0793,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 16.0793, 38.3172 ]
-    },
-    "id" : "38304381"
   } ]
 }
