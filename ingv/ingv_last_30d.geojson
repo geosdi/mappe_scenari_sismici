@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 8.2,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 38.1307,
+      "event_id" : 38789101,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km S Capo d'Orlando (ME)",
+      "magnitude" : 1.1,
+      "time" : "2024-05-21 15:11:31Z",
+      "mag_author" : null,
+      "longitude" : 14.7383,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.7383, 38.1307 ]
+    },
+    "id" : "38789101"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 7.4,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -39138,27 +39160,5 @@
       "coordinates" : [ 16.0793, 38.3097 ]
     },
     "id" : "38305351"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.2,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 45.3612,
-      "event_id" : 38305191,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "Costa Croata Settentrionale (CROAZIA)",
-      "magnitude" : 3.3,
-      "time" : "2024-04-21 17:25:14Z",
-      "mag_author" : null,
-      "longitude" : 14.4608,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.4608, 45.3612 ]
-    },
-    "id" : "38305191"
   } ]
 }
