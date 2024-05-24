@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 11.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.0042,
+      "event_id" : 38847851,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "1 km NE Monte Cavallo (MC)",
+      "magnitude" : 0.7,
+      "time" : "2024-05-24 22:10:40Z",
+      "mag_author" : null,
+      "longitude" : 13.0142,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.0142, 43.0042 ]
+    },
+    "id" : "38847851"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 24.1,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -8056,28 +8078,6 @@
     "type" : "Feature",
     "properties" : {
       "depth_km" : 2.81,
-      "author" : "SURVEY-INGV-OV",
-      "catalog" : null,
-      "latitude" : 40.835,
-      "event_id" : 38702441,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 3.7,
-      "time" : "2024-05-18 04:30:55Z",
-      "mag_author" : null,
-      "longitude" : 14.146667,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.146667, 40.835 ]
-    },
-    "id" : "38702441"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 2.81,
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
       "latitude" : 40.835,
@@ -8096,6 +8096,28 @@
       "coordinates" : [ 14.146667, 40.835 ]
     },
     "id" : "38702971"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 2.81,
+      "author" : "SURVEY-INGV-OV",
+      "catalog" : null,
+      "latitude" : 40.835,
+      "event_id" : 38702441,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 3.7,
+      "time" : "2024-05-18 04:30:55Z",
+      "mag_author" : null,
+      "longitude" : 14.146667,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.146667, 40.835 ]
+    },
+    "id" : "38702441"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -39050,27 +39072,5 @@
       "coordinates" : [ 11.4037, 44.0707 ]
     },
     "id" : "38345841"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 5.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 38.0993,
-      "event_id" : 38345811,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "Costa Siciliana centro-settentrionale (Palermo)",
-      "magnitude" : 1.9,
-      "time" : "2024-04-25 00:26:06Z",
-      "mag_author" : null,
-      "longitude" : 13.9033,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.9033, 38.0993 ]
-    },
-    "id" : "38345811"
   } ]
 }
