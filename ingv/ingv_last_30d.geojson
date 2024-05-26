@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.9,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.9653,
+      "event_id" : 38882881,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km N Santa Sofia (FC)",
+      "magnitude" : 1.2,
+      "time" : "2024-05-26 21:27:17Z",
+      "mag_author" : null,
+      "longitude" : 11.9115,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.9115, 43.9653 ]
+    },
+    "id" : "38882881"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 11.6,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -39072,49 +39094,5 @@
       "coordinates" : [ 11.2467, 44.0373 ]
     },
     "id" : "38370061"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 44.0322,
-      "event_id" : 38370011,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km N Barberino di Mugello (FI)",
-      "magnitude" : 1.2,
-      "time" : "2024-04-26 23:37:52Z",
-      "mag_author" : null,
-      "longitude" : 11.2508,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 11.2508, 44.0322 ]
-    },
-    "id" : "38370011"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 44.0303,
-      "event_id" : 38369851,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km NE Barberino di Mugello (FI)",
-      "magnitude" : 1.1,
-      "time" : "2024-04-26 23:37:19Z",
-      "mag_author" : null,
-      "longitude" : 11.2533,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 11.2533, 44.0303 ]
-    },
-    "id" : "38369851"
   } ]
 }
