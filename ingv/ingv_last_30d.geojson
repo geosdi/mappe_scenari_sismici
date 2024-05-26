@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.7,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.3853,
+      "event_id" : 38882221,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km N Costacciaro (PG)",
+      "magnitude" : 2.4,
+      "time" : "2024-05-26 20:38:26Z",
+      "mag_author" : null,
+      "longitude" : 12.7115,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.7115, 43.3853 ]
+    },
+    "id" : "38882221"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.2,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -39468,49 +39490,5 @@
       "coordinates" : [ 11.2583, 44.0165 ]
     },
     "id" : "38367101"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.7,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 44.04,
-      "event_id" : 38366921,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km N Barberino di Mugello (FI)",
-      "magnitude" : 1.1,
-      "time" : "2024-04-26 22:47:16Z",
-      "mag_author" : null,
-      "longitude" : 11.2453,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 11.2453, 44.04 ]
-    },
-    "id" : "38366921"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 44.0368,
-      "event_id" : 38366631,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km N Barberino di Mugello (FI)",
-      "magnitude" : 1.1,
-      "time" : "2024-04-26 22:43:25Z",
-      "mag_author" : null,
-      "longitude" : 11.2428,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 11.2428, 44.0368 ]
-    },
-    "id" : "38366631"
   } ]
 }
