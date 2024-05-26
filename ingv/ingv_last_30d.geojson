@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.4337,
+      "event_id" : 38880021,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km N Scheggia e Pascelupo (PG)",
+      "magnitude" : 1.7,
+      "time" : "2024-05-26 17:36:17Z",
+      "mag_author" : null,
+      "longitude" : 12.6722,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.6722, 43.4337 ]
+    },
+    "id" : "38880021"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 29.8,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -39556,27 +39578,5 @@
       "coordinates" : [ 11.2462, 44.021 ]
     },
     "id" : "38365231"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 4.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.9117,
-      "event_id" : 38365211,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km E Castelsantangelo sul Nera (MC)",
-      "magnitude" : 0.8,
-      "time" : "2024-04-26 19:44:30Z",
-      "mag_author" : null,
-      "longitude" : 13.1988,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.1988, 42.9117 ]
-    },
-    "id" : "38365211"
   } ]
 }
