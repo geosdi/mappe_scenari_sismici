@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.1653,
+      "event_id" : 38882501,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km NW Chiusdino (SI)",
+      "magnitude" : 0.7,
+      "time" : "2024-05-26 21:00:44Z",
+      "mag_author" : null,
+      "longitude" : 11.0747,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.0747, 43.1653 ]
+    },
+    "id" : "38882501"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 12.3,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -39160,27 +39182,5 @@
       "coordinates" : [ 11.2468, 44.0243 ]
     },
     "id" : "38369181"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.8,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 44.0322,
-      "event_id" : 38368971,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km NE Barberino di Mugello (FI)",
-      "magnitude" : 2.1,
-      "time" : "2024-04-26 23:20:48Z",
-      "mag_author" : null,
-      "longitude" : 11.2538,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 11.2538, 44.0322 ]
-    },
-    "id" : "38368971"
   } ]
 }
