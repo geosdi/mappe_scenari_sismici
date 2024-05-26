@@ -3,6 +3,50 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 12.3,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.677,
+      "event_id" : 38882461,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km N Monteleone di Spoleto (PG)",
+      "magnitude" : 2.0,
+      "time" : "2024-05-26 20:52:30Z",
+      "mag_author" : null,
+      "longitude" : 12.9502,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.9502, 42.677 ]
+    },
+    "id" : "38882461"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 144.922,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : -19.5223,
+      "event_id" : 38882401,
+      "contributor" : null,
+      "mag_type" : "Mwp",
+      "event_location_name" : "Tonga Islands [Sea: Tonga]",
+      "magnitude" : 6.5,
+      "time" : "2024-05-26 20:47:11Z",
+      "mag_author" : null,
+      "longitude" : -174.611,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -174.611, -19.5223 ]
+    },
+    "id" : "38882401"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.7,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -10894,28 +10938,6 @@
     "type" : "Feature",
     "properties" : {
       "depth_km" : 2.81,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.835,
-      "event_id" : 38702971,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 2.8,
-      "time" : "2024-05-18 04:30:55Z",
-      "mag_author" : null,
-      "longitude" : 14.146667,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.146667, 40.835 ]
-    },
-    "id" : "38702971"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 2.81,
       "author" : "SURVEY-INGV-OV",
       "catalog" : null,
       "latitude" : 40.835,
@@ -10934,6 +10956,28 @@
       "coordinates" : [ 14.146667, 40.835 ]
     },
     "id" : "38702441"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 2.81,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.835,
+      "event_id" : 38702971,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 2.8,
+      "time" : "2024-05-18 04:30:55Z",
+      "mag_author" : null,
+      "longitude" : 14.146667,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.146667, 40.835 ]
+    },
+    "id" : "38702971"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -39358,27 +39402,5 @@
       "coordinates" : [ 11.2562, 44.0267 ]
     },
     "id" : "38367901"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 8.1,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 44.0235,
-      "event_id" : 38367801,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km NE Barberino di Mugello (FI)",
-      "magnitude" : 1.7,
-      "time" : "2024-04-26 23:03:02Z",
-      "mag_author" : null,
-      "longitude" : 11.2657,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 11.2657, 44.0235 ]
-    },
-    "id" : "38367801"
   } ]
 }
