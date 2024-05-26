@@ -3,6 +3,50 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 13.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.475,
+      "event_id" : 38867251,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km NE Barete (AQ)",
+      "magnitude" : 1.1,
+      "time" : "2024-05-26 03:21:37Z",
+      "mag_author" : null,
+      "longitude" : 13.2967,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.2967, 42.475 ]
+    },
+    "id" : "38867251"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 20.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.1728,
+      "event_id" : 38867091,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "1 km SW Pioraco (MC)",
+      "magnitude" : 0.6,
+      "time" : "2024-05-26 03:16:40Z",
+      "mag_author" : null,
+      "longitude" : 12.9812,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.9812, 43.1728 ]
+    },
+    "id" : "38867091"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 29.2,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -9486,28 +9530,6 @@
     "type" : "Feature",
     "properties" : {
       "depth_km" : 2.81,
-      "author" : "SURVEY-INGV-OV",
-      "catalog" : null,
-      "latitude" : 40.835,
-      "event_id" : 38702441,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 3.7,
-      "time" : "2024-05-18 04:30:55Z",
-      "mag_author" : null,
-      "longitude" : 14.146667,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.146667, 40.835 ]
-    },
-    "id" : "38702441"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 2.81,
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
       "latitude" : 40.835,
@@ -9526,6 +9548,28 @@
       "coordinates" : [ 14.146667, 40.835 ]
     },
     "id" : "38702971"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 2.81,
+      "author" : "SURVEY-INGV-OV",
+      "catalog" : null,
+      "latitude" : 40.835,
+      "event_id" : 38702441,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 3.7,
+      "time" : "2024-05-18 04:30:55Z",
+      "mag_author" : null,
+      "longitude" : 14.146667,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.146667, 40.835 ]
+    },
+    "id" : "38702441"
   }, {
     "type" : "Feature",
     "properties" : {
