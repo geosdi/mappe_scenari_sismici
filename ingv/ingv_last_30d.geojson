@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 5.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.4515,
+      "event_id" : 38887891,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "6 km E Città di Castello (PG)",
+      "magnitude" : 0.3,
+      "time" : "2024-05-27 05:45:19Z",
+      "mag_author" : null,
+      "longitude" : 12.3172,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.3172, 43.4515 ]
+    },
+    "id" : "38887891"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 14.1,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -12016,28 +12038,6 @@
     "type" : "Feature",
     "properties" : {
       "depth_km" : 2.81,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.835,
-      "event_id" : 38702971,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 2.8,
-      "time" : "2024-05-18 04:30:55Z",
-      "mag_author" : null,
-      "longitude" : 14.146667,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.146667, 40.835 ]
-    },
-    "id" : "38702971"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 2.81,
       "author" : "SURVEY-INGV-OV",
       "catalog" : null,
       "latitude" : 40.835,
@@ -12056,6 +12056,28 @@
       "coordinates" : [ 14.146667, 40.835 ]
     },
     "id" : "38702441"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 2.81,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.835,
+      "event_id" : 38702971,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 2.8,
+      "time" : "2024-05-18 04:30:55Z",
+      "mag_author" : null,
+      "longitude" : 14.146667,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.146667, 40.835 ]
+    },
+    "id" : "38702971"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -37774,49 +37796,5 @@
       "coordinates" : [ 11.2605, 44.0313 ]
     },
     "id" : "38389081"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.2,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 44.0205,
-      "event_id" : 38388991,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km NE Barberino di Mugello (FI)",
-      "magnitude" : 1.2,
-      "time" : "2024-04-27 08:04:41Z",
-      "mag_author" : null,
-      "longitude" : 11.2662,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 11.2662, 44.0205 ]
-    },
-    "id" : "38388991"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 44.0432,
-      "event_id" : 38388881,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km N Barberino di Mugello (FI)",
-      "magnitude" : 1.1,
-      "time" : "2024-04-27 08:01:04Z",
-      "mag_author" : null,
-      "longitude" : 11.2435,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 11.2435, 44.0432 ]
-    },
-    "id" : "38388881"
   } ]
 }
