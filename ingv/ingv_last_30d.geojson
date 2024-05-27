@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 7.9,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.5347,
+      "event_id" : 38888781,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "6 km S Piobbico (PU)",
+      "magnitude" : 0.6,
+      "time" : "2024-05-27 06:34:30Z",
+      "mag_author" : null,
+      "longitude" : 12.5148,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.5148, 43.5347 ]
+    },
+    "id" : "38888781"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.0,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -22,6 +44,28 @@
       "coordinates" : [ 12.3263, 43.4627 ]
     },
     "id" : "38888661"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 7.2,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 40.2725,
+      "event_id" : 38888551,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km W Montesano sulla Marcellana (SA)",
+      "magnitude" : 0.6,
+      "time" : "2024-05-27 06:24:16Z",
+      "mag_author" : null,
+      "longitude" : 15.6718,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 15.6718, 40.2725 ]
+    },
+    "id" : "38888551"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -12082,28 +12126,6 @@
     "type" : "Feature",
     "properties" : {
       "depth_km" : 2.81,
-      "author" : "SURVEY-INGV-OV",
-      "catalog" : null,
-      "latitude" : 40.835,
-      "event_id" : 38702441,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 3.7,
-      "time" : "2024-05-18 04:30:55Z",
-      "mag_author" : null,
-      "longitude" : 14.146667,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.146667, 40.835 ]
-    },
-    "id" : "38702441"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 2.81,
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
       "latitude" : 40.835,
@@ -12122,6 +12144,28 @@
       "coordinates" : [ 14.146667, 40.835 ]
     },
     "id" : "38702971"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 2.81,
+      "author" : "SURVEY-INGV-OV",
+      "catalog" : null,
+      "latitude" : 40.835,
+      "event_id" : 38702441,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 3.7,
+      "time" : "2024-05-18 04:30:55Z",
+      "mag_author" : null,
+      "longitude" : 14.146667,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.146667, 40.835 ]
+    },
+    "id" : "38702441"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -37708,71 +37752,5 @@
       "coordinates" : [ 11.2482, 44.0195 ]
     },
     "id" : "38390131"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.3,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 38.1025,
-      "event_id" : 38389871,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km W Furnari (ME)",
-      "magnitude" : 1.2,
-      "time" : "2024-04-27 08:42:18Z",
-      "mag_author" : null,
-      "longitude" : 15.1053,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 15.1053, 38.1025 ]
-    },
-    "id" : "38389871"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.8,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 44.0303,
-      "event_id" : 38389751,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km NE Barberino di Mugello (FI)",
-      "magnitude" : 1.1,
-      "time" : "2024-04-27 08:38:25Z",
-      "mag_author" : null,
-      "longitude" : 11.2538,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 11.2538, 44.0303 ]
-    },
-    "id" : "38389751"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 14.1,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.0362,
-      "event_id" : 38389661,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "1 km S Pieve Torina (MC)",
-      "magnitude" : 1.6,
-      "time" : "2024-04-27 08:37:42Z",
-      "mag_author" : null,
-      "longitude" : 13.0517,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.0517, 43.0362 ]
-    },
-    "id" : "38389661"
   } ]
 }
