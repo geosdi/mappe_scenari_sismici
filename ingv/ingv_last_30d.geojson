@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.9937,
+      "event_id" : 38917591,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km W Monte Cavallo (MC)",
+      "magnitude" : 0.7,
+      "time" : "2024-05-28 18:52:10Z",
+      "mag_author" : null,
+      "longitude" : 12.9808,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.9808, 42.9937 ]
+    },
+    "id" : "38917591"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 5.6,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -36168,27 +36190,5 @@
       "coordinates" : [ 13.2187, 42.9242 ]
     },
     "id" : "38414491"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 12.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.9835,
-      "event_id" : 38414451,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km E Monte Cavallo (MC)",
-      "magnitude" : 0.5,
-      "time" : "2024-04-28 21:27:09Z",
-      "mag_author" : null,
-      "longitude" : 13.0523,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.0523, 42.9835 ]
-    },
-    "id" : "38414451"
   } ]
 }
