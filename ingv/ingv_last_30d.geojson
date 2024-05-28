@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 27.4,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 39.3622,
+      "event_id" : 38912981,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "6 km E Umbriatico (KR)",
+      "magnitude" : 3.1,
+      "time" : "2024-05-28 14:22:35Z",
+      "mag_author" : null,
+      "longitude" : 16.9877,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.9877, 39.3622 ]
+    },
+    "id" : "38912981"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 8.4,
       "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
       "catalog" : null,
@@ -36124,27 +36146,5 @@
       "coordinates" : [ 13.1652, 42.9065 ]
     },
     "id" : "38412731"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.6,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.9367,
-      "event_id" : 38412451,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "1 km S Ussita (MC)",
-      "magnitude" : 0.8,
-      "time" : "2024-04-28 16:37:13Z",
-      "mag_author" : null,
-      "longitude" : 13.1388,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.1388, 42.9367 ]
-    },
-    "id" : "38412451"
   } ]
 }
