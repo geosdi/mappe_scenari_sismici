@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 28.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 39.3957,
+      "event_id" : 38939871,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km N Cirò Marina (KR)",
+      "magnitude" : 1.6,
+      "time" : "2024-05-29 20:54:14Z",
+      "mag_author" : null,
+      "longitude" : 17.1342,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 17.1342, 39.3957 ]
+    },
+    "id" : "38939871"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 27.8,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -37400,27 +37422,5 @@
       "coordinates" : [ 14.128167, 40.837167 ]
     },
     "id" : "38430521"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 2.24,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.844,
-      "event_id" : 38430161,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 1.2,
-      "time" : "2024-04-29 23:05:05Z",
-      "mag_author" : null,
-      "longitude" : 14.118333,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.118333, 40.844 ]
-    },
-    "id" : "38430161"
   } ]
 }
