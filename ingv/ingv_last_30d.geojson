@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.81,
+      "event_id" : 38945001,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km NE Norcia (PG)",
+      "magnitude" : 1.2,
+      "time" : "2024-05-30 06:41:55Z",
+      "mag_author" : null,
+      "longitude" : 13.1323,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.1323, 42.81 ]
+    },
+    "id" : "38945001"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.8,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -37400,27 +37422,5 @@
       "coordinates" : [ 13.3885, 42.5693 ]
     },
     "id" : "38436431"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 15.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 39.9747,
-      "event_id" : 38435561,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km NW Rotonda (PZ)",
-      "magnitude" : 1.2,
-      "time" : "2024-04-30 09:10:52Z",
-      "mag_author" : null,
-      "longitude" : 16.028,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 16.028, 39.9747 ]
-    },
-    "id" : "38435561"
   } ]
 }
