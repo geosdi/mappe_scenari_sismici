@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 11.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.1908,
+      "event_id" : 38955551,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "1 km N Serrapetrona (MC)",
+      "magnitude" : 0.9,
+      "time" : "2024-05-30 18:23:53Z",
+      "mag_author" : null,
+      "longitude" : 13.1955,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.1955, 43.1908 ]
+    },
+    "id" : "38955551"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 26.3,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -37092,49 +37114,5 @@
       "coordinates" : [ 16.0277, 39.9788 ]
     },
     "id" : "38446811"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.8,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.6347,
-      "event_id" : 38446761,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km NE Acqualagna (PU)",
-      "magnitude" : 1.0,
-      "time" : "2024-04-30 20:32:18Z",
-      "mag_author" : null,
-      "longitude" : 12.6888,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.6888, 43.6347 ]
-    },
-    "id" : "38446761"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 142.9,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 38.3782,
-      "event_id" : 38446691,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "Costa Siciliana nord-orientale (Messina)",
-      "magnitude" : 2.3,
-      "time" : "2024-04-30 20:28:58Z",
-      "mag_author" : null,
-      "longitude" : 15.251,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 15.251, 38.3782 ]
-    },
-    "id" : "38446691"
   } ]
 }
