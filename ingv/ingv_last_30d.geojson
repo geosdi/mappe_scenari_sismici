@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 28.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 39.355,
+      "event_id" : 38958911,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km S Cirò (KR)",
+      "magnitude" : 1.2,
+      "time" : "2024-05-31 01:29:51Z",
+      "mag_author" : null,
+      "longitude" : 17.0702,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 17.0702, 39.355 ]
+    },
+    "id" : "38958911"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 8.3,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -17516,28 +17538,6 @@
     "type" : "Feature",
     "properties" : {
       "depth_km" : 2.81,
-      "author" : "SURVEY-INGV-OV",
-      "catalog" : null,
-      "latitude" : 40.835,
-      "event_id" : 38702441,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 3.7,
-      "time" : "2024-05-18 04:30:55Z",
-      "mag_author" : null,
-      "longitude" : 14.146667,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.146667, 40.835 ]
-    },
-    "id" : "38702441"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 2.81,
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
       "latitude" : 40.835,
@@ -17556,6 +17556,28 @@
       "coordinates" : [ 14.146667, 40.835 ]
     },
     "id" : "38702971"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 2.81,
+      "author" : "SURVEY-INGV-OV",
+      "catalog" : null,
+      "latitude" : 40.835,
+      "event_id" : 38702441,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 3.7,
+      "time" : "2024-05-18 04:30:55Z",
+      "mag_author" : null,
+      "longitude" : 14.146667,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.146667, 40.835 ]
+    },
+    "id" : "38702441"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -36784,27 +36806,5 @@
       "coordinates" : [ 15.6062, 44.9775 ]
     },
     "id" : "38449351"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 11.1,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.8677,
-      "event_id" : 38449301,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km E Preci (PG)",
-      "magnitude" : 1.8,
-      "time" : "2024-05-01 03:37:34Z",
-      "mag_author" : null,
-      "longitude" : 13.0855,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.0855, 42.8677 ]
-    },
-    "id" : "38449301"
   } ]
 }
