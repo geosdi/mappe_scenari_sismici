@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.9,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 46.3868,
+      "event_id" : 38979481,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "7 km W Peio (TN)",
+      "magnitude" : 1.1,
+      "time" : "2024-06-01 01:53:33Z",
+      "mag_author" : null,
+      "longitude" : 10.6092,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.6092, 46.3868 ]
+    },
+    "id" : "38979481"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 12.0,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -18616,28 +18638,6 @@
     "type" : "Feature",
     "properties" : {
       "depth_km" : 2.81,
-      "author" : "SURVEY-INGV-OV",
-      "catalog" : null,
-      "latitude" : 40.835,
-      "event_id" : 38702441,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 3.7,
-      "time" : "2024-05-18 04:30:55Z",
-      "mag_author" : null,
-      "longitude" : 14.146667,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.146667, 40.835 ]
-    },
-    "id" : "38702441"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 2.81,
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
       "latitude" : 40.835,
@@ -18656,6 +18656,28 @@
       "coordinates" : [ 14.146667, 40.835 ]
     },
     "id" : "38702971"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 2.81,
+      "author" : "SURVEY-INGV-OV",
+      "catalog" : null,
+      "latitude" : 40.835,
+      "event_id" : 38702441,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 3.7,
+      "time" : "2024-05-18 04:30:55Z",
+      "mag_author" : null,
+      "longitude" : 14.146667,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.146667, 40.835 ]
+    },
+    "id" : "38702441"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -36630,27 +36652,5 @@
       "coordinates" : [ 12.9758, 42.9693 ]
     },
     "id" : "38462411"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.7998,
-      "event_id" : 38462291,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km E Norcia (PG)",
-      "magnitude" : 1.0,
-      "time" : "2024-05-02 04:03:15Z",
-      "mag_author" : null,
-      "longitude" : 13.1223,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.1223, 42.7998 ]
-    },
-    "id" : "38462291"
   } ]
 }
