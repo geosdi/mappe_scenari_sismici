@@ -3,6 +3,50 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 28.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 39.2978,
+      "event_id" : 39006411,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km SW Melissa (KR)",
+      "magnitude" : 1.8,
+      "time" : "2024-06-02 11:20:50Z",
+      "mag_author" : null,
+      "longitude" : 17.0055,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 17.0055, 39.2978 ]
+    },
+    "id" : "39006411"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 9.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.8547,
+      "event_id" : 39006201,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "1 km SE Bagno di Romagna (FC)",
+      "magnitude" : 1.2,
+      "time" : "2024-06-02 11:13:50Z",
+      "mag_author" : null,
+      "longitude" : 11.9818,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.9818, 43.8547 ]
+    },
+    "id" : "39006201"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 8.9,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -21014,28 +21058,6 @@
     "type" : "Feature",
     "properties" : {
       "depth_km" : 2.81,
-      "author" : "SURVEY-INGV-OV",
-      "catalog" : null,
-      "latitude" : 40.835,
-      "event_id" : 38702441,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 3.7,
-      "time" : "2024-05-18 04:30:55Z",
-      "mag_author" : null,
-      "longitude" : 14.146667,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.146667, 40.835 ]
-    },
-    "id" : "38702441"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 2.81,
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
       "latitude" : 40.835,
@@ -21054,6 +21076,28 @@
       "coordinates" : [ 14.146667, 40.835 ]
     },
     "id" : "38702971"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 2.81,
+      "author" : "SURVEY-INGV-OV",
+      "catalog" : null,
+      "latitude" : 40.835,
+      "event_id" : 38702441,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 3.7,
+      "time" : "2024-05-18 04:30:55Z",
+      "mag_author" : null,
+      "longitude" : 14.146667,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.146667, 40.835 ]
+    },
+    "id" : "38702441"
   }, {
     "type" : "Feature",
     "properties" : {
