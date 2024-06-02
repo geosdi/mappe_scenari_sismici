@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 15.3,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 41.7505,
+      "event_id" : 39011301,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km S Opi (AQ)",
+      "magnitude" : 0.8,
+      "time" : "2024-06-02 17:12:23Z",
+      "mag_author" : null,
+      "longitude" : 13.8395,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.8395, 41.7505 ]
+    },
+    "id" : "39011301"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 32.1,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -37862,27 +37884,5 @@
       "coordinates" : [ 12.5867, 43.2577 ]
     },
     "id" : "38491771"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.1,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.1715,
-      "event_id" : 38491541,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "7 km N Nocera Umbra (PG)",
-      "magnitude" : 0.9,
-      "time" : "2024-05-03 19:23:24Z",
-      "mag_author" : null,
-      "longitude" : 12.8012,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.8012, 43.1715 ]
-    },
-    "id" : "38491541"
   } ]
 }
