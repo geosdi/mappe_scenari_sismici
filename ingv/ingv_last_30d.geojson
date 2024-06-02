@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 11.9,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.6787,
+      "event_id" : 39000011,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km E Accumoli (RI)",
+      "magnitude" : 1.1,
+      "time" : "2024-06-02 04:52:35Z",
+      "mag_author" : null,
+      "longitude" : 13.3012,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.3012, 42.6787 ]
+    },
+    "id" : "39000011"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 13.3,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -37510,27 +37532,5 @@
       "coordinates" : [ 12.9502, 42.7872 ]
     },
     "id" : "38481401"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 7.4,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.3972,
-      "event_id" : 38480971,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km N Gubbio (PG)",
-      "magnitude" : 0.5,
-      "time" : "2024-05-03 06:58:12Z",
-      "mag_author" : null,
-      "longitude" : 12.5817,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.5817, 43.3972 ]
-    },
-    "id" : "38480971"
   } ]
 }
