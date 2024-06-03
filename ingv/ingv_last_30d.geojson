@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 8.2,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.3718,
+      "event_id" : 39014151,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km W Gubbio (PG)",
+      "magnitude" : 0.7,
+      "time" : "2024-06-03 00:03:22Z",
+      "mag_author" : null,
+      "longitude" : 12.5352,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.5352, 43.3718 ]
+    },
+    "id" : "39014151"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 26.2,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -21894,28 +21916,6 @@
     "type" : "Feature",
     "properties" : {
       "depth_km" : 2.81,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.835,
-      "event_id" : 38702971,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 2.8,
-      "time" : "2024-05-18 04:30:55Z",
-      "mag_author" : null,
-      "longitude" : 14.146667,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.146667, 40.835 ]
-    },
-    "id" : "38702971"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 2.81,
       "author" : "SURVEY-INGV-OV",
       "catalog" : null,
       "latitude" : 40.835,
@@ -21934,6 +21934,28 @@
       "coordinates" : [ 14.146667, 40.835 ]
     },
     "id" : "38702441"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 2.81,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.835,
+      "event_id" : 38702971,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 2.8,
+      "time" : "2024-05-18 04:30:55Z",
+      "mag_author" : null,
+      "longitude" : 14.146667,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.146667, 40.835 ]
+    },
+    "id" : "38702971"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -37884,27 +37906,5 @@
       "coordinates" : [ 12.7152, 43.5272 ]
     },
     "id" : "38493321"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 7.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.8558,
-      "event_id" : 38493111,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "8 km SE Castelsantangelo sul Nera (MC)",
-      "magnitude" : 0.7,
-      "time" : "2024-05-04 02:39:35Z",
-      "mag_author" : null,
-      "longitude" : 13.2338,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.2338, 42.8558 ]
-    },
-    "id" : "38493111"
   } ]
 }
