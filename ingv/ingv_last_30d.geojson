@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.8383,
+      "event_id" : 39043861,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km SW Preci (PG)",
+      "magnitude" : 1.0,
+      "time" : "2024-06-05 03:02:25Z",
+      "mag_author" : null,
+      "longitude" : 13.0077,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.0077, 42.8383 ]
+    },
+    "id" : "39043861"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 14.7,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -24556,28 +24578,6 @@
     "type" : "Feature",
     "properties" : {
       "depth_km" : 2.81,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.835,
-      "event_id" : 38702971,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 2.8,
-      "time" : "2024-05-18 04:30:55Z",
-      "mag_author" : null,
-      "longitude" : 14.146667,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.146667, 40.835 ]
-    },
-    "id" : "38702971"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 2.81,
       "author" : "SURVEY-INGV-OV",
       "catalog" : null,
       "latitude" : 40.835,
@@ -24596,6 +24596,28 @@
       "coordinates" : [ 14.146667, 40.835 ]
     },
     "id" : "38702441"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 2.81,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.835,
+      "event_id" : 38702971,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 2.8,
+      "time" : "2024-05-18 04:30:55Z",
+      "mag_author" : null,
+      "longitude" : 14.146667,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.146667, 40.835 ]
+    },
+    "id" : "38702971"
   }, {
     "type" : "Feature",
     "properties" : {
