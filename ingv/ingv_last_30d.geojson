@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 2.22,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.828167,
+      "event_id" : 39088961,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 3.5,
+      "time" : "2024-06-08 01:52:04Z",
+      "mag_author" : null,
+      "longitude" : 14.144667,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.144667, 40.828167 ]
+    },
+    "id" : "39088961"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 11.1,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -3175,28 +3197,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 41.7537,
-      "event_id" : 39043691,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km SE Opi (AQ)",
-      "magnitude" : 0.9,
-      "time" : "2024-06-05 02:40:29Z",
-      "mag_author" : null,
-      "longitude" : 13.8462,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.8462, 41.7537 ]
-    },
-    "id" : "39043691"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 14.7,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 41.7537,
       "event_id" : 39122232,
       "contributor" : null,
       "mag_type" : "ML",
@@ -3212,6 +3212,28 @@
       "coordinates" : [ 13.8462, 41.7537 ]
     },
     "id" : "39122232"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 14.7,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 41.7537,
+      "event_id" : 39043691,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km SE Opi (AQ)",
+      "magnitude" : 0.9,
+      "time" : "2024-06-05 02:40:29Z",
+      "mag_author" : null,
+      "longitude" : 13.8462,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.8462, 41.7537 ]
+    },
+    "id" : "39043691"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -38060,49 +38082,5 @@
       "coordinates" : [ 13.0325, 42.9792 ]
     },
     "id" : "38553171"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.3,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.4095,
-      "event_id" : 38552681,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "6 km SE Pietralunga (PG)",
-      "magnitude" : 0.4,
-      "time" : "2024-05-09 04:13:53Z",
-      "mag_author" : null,
-      "longitude" : 12.4998,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.4998, 43.4095 ]
-    },
-    "id" : "38552681"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 6.8,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.4097,
-      "event_id" : 38552661,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "6 km SE Pietralunga (PG)",
-      "magnitude" : 0.6,
-      "time" : "2024-05-09 04:13:25Z",
-      "mag_author" : null,
-      "longitude" : 12.5032,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.5032, 43.4097 ]
-    },
-    "id" : "38552661"
   } ]
 }
