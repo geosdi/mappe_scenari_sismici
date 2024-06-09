@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.7,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 39.538,
+      "event_id" : 39105051,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km SE San Demetrio Corone (CS)",
+      "magnitude" : 1.1,
+      "time" : "2024-06-09 05:37:53Z",
+      "mag_author" : null,
+      "longitude" : 16.3813,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.3813, 39.538 ]
+    },
+    "id" : "39105051"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 9.4,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -38214,27 +38236,5 @@
       "coordinates" : [ 14.1535, 40.829333 ]
     },
     "id" : "38575391"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 21.094,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 24.0961,
-      "event_id" : 38575091,
-      "contributor" : null,
-      "mag_type" : "Mwp",
-      "event_location_name" : "Taiwan [Sea]",
-      "magnitude" : 5.8,
-      "time" : "2024-05-10 07:45:21Z",
-      "mag_author" : null,
-      "longitude" : 121.933,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 121.933, 24.0961 ]
-    },
-    "id" : "38575091"
   } ]
 }
