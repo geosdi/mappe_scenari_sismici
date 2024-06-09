@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 16.1,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.9348,
+      "event_id" : 39105391,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "7 km S Bolognola (MC)",
+      "magnitude" : 0.9,
+      "time" : "2024-06-09 06:05:22Z",
+      "mag_author" : null,
+      "longitude" : 13.2523,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.2523, 42.9348 ]
+    },
+    "id" : "39105391"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.3,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -38192,27 +38214,5 @@
       "coordinates" : [ 15.723, 40.2765 ]
     },
     "id" : "38576041"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 11.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.4748,
-      "event_id" : 38575381,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km NW Pietralunga (PG)",
-      "magnitude" : 0.3,
-      "time" : "2024-05-10 08:21:06Z",
-      "mag_author" : null,
-      "longitude" : 12.4108,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.4108, 43.4748 ]
-    },
-    "id" : "38575381"
   } ]
 }
