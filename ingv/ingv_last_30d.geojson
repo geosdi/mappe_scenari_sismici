@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 15.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 41.5883,
+      "event_id" : 39121581,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "14 km S San Giovanni Rotondo (FG)",
+      "magnitude" : 1.4,
+      "time" : "2024-06-09 23:44:46Z",
+      "mag_author" : null,
+      "longitude" : 15.7035,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 15.7035, 41.5883 ]
+    },
+    "id" : "39121581"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 11.1,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -38500,27 +38522,5 @@
       "coordinates" : [ 6.8628, 44.4107 ]
     },
     "id" : "38589031"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.9622,
-      "event_id" : 38588971,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km W Foligno (PG)",
-      "magnitude" : 0.9,
-      "time" : "2024-05-11 01:57:20Z",
-      "mag_author" : null,
-      "longitude" : 12.6857,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.6857, 42.9622 ]
-    },
-    "id" : "38588971"
   } ]
 }
