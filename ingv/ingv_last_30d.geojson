@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 8.4,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.4927,
+      "event_id" : 39124301,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "6 km NW Pietralunga (PG)",
+      "magnitude" : 0.8,
+      "time" : "2024-06-10 05:33:42Z",
+      "mag_author" : null,
+      "longitude" : 12.401,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.401, 43.4927 ]
+    },
+    "id" : "39124301"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.2,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -30826,28 +30848,6 @@
     "type" : "Feature",
     "properties" : {
       "depth_km" : 2.81,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.835,
-      "event_id" : 38702971,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 2.8,
-      "time" : "2024-05-18 04:30:55Z",
-      "mag_author" : null,
-      "longitude" : 14.146667,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.146667, 40.835 ]
-    },
-    "id" : "38702971"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 2.81,
       "author" : "SURVEY-INGV-OV",
       "catalog" : null,
       "latitude" : 40.835,
@@ -30866,6 +30866,28 @@
       "coordinates" : [ 14.146667, 40.835 ]
     },
     "id" : "38702441"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 2.81,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.835,
+      "event_id" : 38702971,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 2.8,
+      "time" : "2024-05-18 04:30:55Z",
+      "mag_author" : null,
+      "longitude" : 14.146667,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.146667, 40.835 ]
+    },
+    "id" : "38702971"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -38588,27 +38610,5 @@
       "coordinates" : [ 13.0477, 42.958 ]
     },
     "id" : "38591961"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.6967,
-      "event_id" : 38591831,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km E Scheggino (PG)",
-      "magnitude" : 1.0,
-      "time" : "2024-05-11 07:49:07Z",
-      "mag_author" : null,
-      "longitude" : 12.8772,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.8772, 42.6967 ]
-    },
-    "id" : "38591831"
   } ]
 }
