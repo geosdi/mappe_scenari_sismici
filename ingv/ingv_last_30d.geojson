@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 20.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.7358,
+      "event_id" : 39223881,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "1 km W Spoleto (PG)",
+      "magnitude" : 0.8,
+      "time" : "2024-06-16 01:26:46Z",
+      "mag_author" : null,
+      "longitude" : 12.7228,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.7228, 42.7358 ]
+    },
+    "id" : "39223881"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 2.94,
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
@@ -4693,28 +4715,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 43.0772,
-      "event_id" : 39257212,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km S Nocera Umbra (PG)",
-      "magnitude" : 1.1,
-      "time" : "2024-06-12 07:52:58Z",
-      "mag_author" : null,
-      "longitude" : 12.7988,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.7988, 43.0772 ]
-    },
-    "id" : "39257212"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.6,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.0772,
       "event_id" : 39157591,
       "contributor" : null,
       "mag_type" : "ML",
@@ -4730,6 +4730,28 @@
       "coordinates" : [ 12.7988, 43.0772 ]
     },
     "id" : "39157591"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 9.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.0772,
+      "event_id" : 39257212,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km S Nocera Umbra (PG)",
+      "magnitude" : 1.1,
+      "time" : "2024-06-12 07:52:58Z",
+      "mag_author" : null,
+      "longitude" : 12.7988,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.7988, 43.0772 ]
+    },
+    "id" : "39257212"
   }, {
     "type" : "Feature",
     "properties" : {
