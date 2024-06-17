@@ -3,6 +3,50 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 46.1443,
+      "event_id" : 39248221,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km SE Alpago (BL)",
+      "magnitude" : 0.9,
+      "time" : "2024-06-17 14:27:13Z",
+      "mag_author" : null,
+      "longitude" : 12.3677,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.3677, 46.1443 ]
+    },
+    "id" : "39248221"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 21.92,
+      "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
+      "catalog" : null,
+      "latitude" : 37.503,
+      "event_id" : 39248281,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km W Motta Sant'Anastasia (CT)",
+      "magnitude" : 1.8,
+      "time" : "2024-06-17 14:19:47Z",
+      "mag_author" : null,
+      "longitude" : 14.919,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.919, 37.503 ]
+    },
+    "id" : "39248281"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 6.9,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -6387,28 +6431,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 43.0772,
-      "event_id" : 39257212,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km S Nocera Umbra (PG)",
-      "magnitude" : 1.1,
-      "time" : "2024-06-12 07:52:58Z",
-      "mag_author" : null,
-      "longitude" : 12.7988,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.7988, 43.0772 ]
-    },
-    "id" : "39257212"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.6,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.0772,
       "event_id" : 39157591,
       "contributor" : null,
       "mag_type" : "ML",
@@ -6424,6 +6446,28 @@
       "coordinates" : [ 12.7988, 43.0772 ]
     },
     "id" : "39157591"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 9.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.0772,
+      "event_id" : 39257212,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km S Nocera Umbra (PG)",
+      "magnitude" : 1.1,
+      "time" : "2024-06-12 07:52:58Z",
+      "mag_author" : null,
+      "longitude" : 12.7988,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.7988, 43.0772 ]
+    },
+    "id" : "39257212"
   }, {
     "type" : "Feature",
     "properties" : {
