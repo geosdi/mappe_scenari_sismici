@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.1363,
+      "event_id" : 39442851,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "6 km W Valfabbrica (PG)",
+      "magnitude" : 1.1,
+      "time" : "2024-06-25 21:50:14Z",
+      "mag_author" : null,
+      "longitude" : 12.5407,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.5407, 43.1363 ]
+    },
+    "id" : "39442851"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 8.8,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -14769,28 +14791,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 43.0772,
-      "event_id" : 39257212,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km S Nocera Umbra (PG)",
-      "magnitude" : 1.1,
-      "time" : "2024-06-12 07:52:58Z",
-      "mag_author" : null,
-      "longitude" : 12.7988,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.7988, 43.0772 ]
-    },
-    "id" : "39257212"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.6,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.0772,
       "event_id" : 39157591,
       "contributor" : null,
       "mag_type" : "ML",
@@ -14806,6 +14806,28 @@
       "coordinates" : [ 12.7988, 43.0772 ]
     },
     "id" : "39157591"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 9.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.0772,
+      "event_id" : 39257212,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km S Nocera Umbra (PG)",
+      "magnitude" : 1.1,
+      "time" : "2024-06-12 07:52:58Z",
+      "mag_author" : null,
+      "longitude" : 12.7988,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.7988, 43.0772 ]
+    },
+    "id" : "39257212"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -36498,27 +36520,5 @@
       "coordinates" : [ 17.0838, 39.3717 ]
     },
     "id" : "38884311"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 24.7,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 39.3133,
-      "event_id" : 38884151,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "1 km NW Melissa (KR)",
-      "magnitude" : 1.2,
-      "time" : "2024-05-27 00:10:38Z",
-      "mag_author" : null,
-      "longitude" : 17.0112,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 17.0112, 39.3133 ]
-    },
-    "id" : "38884151"
   } ]
 }
