@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 11.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.9582,
+      "event_id" : 39443401,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "6 km SW Monte Cavallo (MC)",
+      "magnitude" : 0.8,
+      "time" : "2024-06-26 01:51:34Z",
+      "mag_author" : null,
+      "longitude" : 12.9433,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.9433, 42.9582 ]
+    },
+    "id" : "39443401"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 14.844,
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
@@ -36476,27 +36498,5 @@
       "coordinates" : [ 14.9678, 38.1613 ]
     },
     "id" : "38885101"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 26.6,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 39.3152,
-      "event_id" : 38885011,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km E Pallagorio (KR)",
-      "magnitude" : 1.4,
-      "time" : "2024-05-27 04:03:18Z",
-      "mag_author" : null,
-      "longitude" : 16.9307,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 16.9307, 39.3152 ]
-    },
-    "id" : "38885011"
   } ]
 }
