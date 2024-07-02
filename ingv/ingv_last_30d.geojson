@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.7748,
+      "event_id" : 39525901,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km SE Norcia (PG)",
+      "magnitude" : 1.2,
+      "time" : "2024-07-02 21:56:20Z",
+      "mag_author" : null,
+      "longitude" : 13.1062,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.1062, 42.7748 ]
+    },
+    "id" : "39525901"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 14.7,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -33902,27 +33924,5 @@
       "coordinates" : [ 12.7857, 43.1118 ]
     },
     "id" : "39014351"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 8.2,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.3718,
-      "event_id" : 39014151,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km W Gubbio (PG)",
-      "magnitude" : 0.7,
-      "time" : "2024-06-03 00:03:22Z",
-      "mag_author" : null,
-      "longitude" : 12.5352,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.5352, 43.3718 ]
-    },
-    "id" : "39014151"
   } ]
 }
