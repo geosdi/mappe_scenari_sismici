@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 12.3,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.3607,
+      "event_id" : 39584781,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km NE Sigillo (PG)",
+      "magnitude" : 0.8,
+      "time" : "2024-07-06 15:09:01Z",
+      "mag_author" : null,
+      "longitude" : 12.7683,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.7683, 43.3607 ]
+    },
+    "id" : "39584781"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.6,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -34122,27 +34144,5 @@
       "coordinates" : [ 12.8543, 43.0207 ]
     },
     "id" : "39071321"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 12.1,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.0352,
-      "event_id" : 39071011,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km S Serravalle di Chienti (MC)",
-      "magnitude" : 1.5,
-      "time" : "2024-06-06 17:11:36Z",
-      "mag_author" : null,
-      "longitude" : 12.9517,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.9517, 43.0352 ]
-    },
-    "id" : "39071011"
   } ]
 }
