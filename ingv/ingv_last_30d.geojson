@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 11.2,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.9868,
+      "event_id" : 39604291,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km W Monte Cavallo (MC)",
+      "magnitude" : 0.1,
+      "time" : "2024-07-07 23:08:48Z",
+      "mag_author" : null,
+      "longitude" : 12.9397,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.9397, 42.9868 ]
+    },
+    "id" : "39604291"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 7.4,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -34078,27 +34100,5 @@
       "coordinates" : [ 14.151667, 40.831333 ]
     },
     "id" : "39089101"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 1.65,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.828167,
-      "event_id" : 39089291,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 3.0,
-      "time" : "2024-06-08 01:52:21Z",
-      "mag_author" : null,
-      "longitude" : 14.143,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.143, 40.828167 ]
-    },
-    "id" : "39089291"
   } ]
 }
