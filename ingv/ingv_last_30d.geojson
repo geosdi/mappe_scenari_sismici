@@ -3,6 +3,50 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 7.9,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 46.0323,
+      "event_id" : 39606091,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "11 km W Sella Giudicarie (TN)",
+      "magnitude" : 1.9,
+      "time" : "2024-07-08 05:08:22Z",
+      "mag_author" : null,
+      "longitude" : 10.5477,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.5477, 46.0323 ]
+    },
+    "id" : "39606091"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 8.9,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.0372,
+      "event_id" : 39606031,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "1 km W Fiordimonte (MC)",
+      "magnitude" : 0.7,
+      "time" : "2024-07-08 05:07:59Z",
+      "mag_author" : null,
+      "longitude" : 13.0787,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.0787, 43.0372 ]
+    },
+    "id" : "39606031"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.6,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -29135,28 +29179,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 43.0772,
-      "event_id" : 39157591,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km S Nocera Umbra (PG)",
-      "magnitude" : 1.1,
-      "time" : "2024-06-12 07:52:58Z",
-      "mag_author" : null,
-      "longitude" : 12.7988,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.7988, 43.0772 ]
-    },
-    "id" : "39157591"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.6,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.0772,
       "event_id" : 39257212,
       "contributor" : null,
       "mag_type" : "ML",
@@ -29172,6 +29194,28 @@
       "coordinates" : [ 12.7988, 43.0772 ]
     },
     "id" : "39257212"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 9.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.0772,
+      "event_id" : 39157591,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km S Nocera Umbra (PG)",
+      "magnitude" : 1.1,
+      "time" : "2024-06-12 07:52:58Z",
+      "mag_author" : null,
+      "longitude" : 12.7988,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.7988, 43.0772 ]
+    },
+    "id" : "39157591"
   }, {
     "type" : "Feature",
     "properties" : {
