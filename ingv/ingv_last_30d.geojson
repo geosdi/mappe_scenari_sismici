@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.7985,
+      "event_id" : 39608711,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "6 km W Ventimiglia (IM)",
+      "magnitude" : 1.0,
+      "time" : "2024-07-08 08:30:34Z",
+      "mag_author" : null,
+      "longitude" : 7.5413,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.5413, 43.7985 ]
+    },
+    "id" : "39608711"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.7,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -34144,27 +34166,5 @@
       "coordinates" : [ 17.0085, 39.3542 ]
     },
     "id" : "39096291"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.7,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.9303,
-      "event_id" : 39095651,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km SE Foligno (PG)",
-      "magnitude" : 1.1,
-      "time" : "2024-06-08 10:38:52Z",
-      "mag_author" : null,
-      "longitude" : 12.7412,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.7412, 42.9303 ]
-    },
-    "id" : "39095651"
   } ]
 }
