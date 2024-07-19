@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 4.7,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.8182,
+      "event_id" : 39853042,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km NW Ventimiglia (IM)",
+      "magnitude" : 0.5,
+      "time" : "2024-07-19 08:00:39Z",
+      "mag_author" : null,
+      "longitude" : 7.5728,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.5728, 43.8182 ]
+    },
+    "id" : "39853042"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 7.5,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -2163,28 +2185,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 42.6782,
-      "event_id" : 39816562,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "7 km N Cittareale (RI)",
-      "magnitude" : 1.2,
-      "time" : "2024-07-17 09:24:17Z",
-      "mag_author" : null,
-      "longitude" : 13.1613,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.1613, 42.6782 ]
-    },
-    "id" : "39816562"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.8,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.6782,
       "event_id" : 39761581,
       "contributor" : null,
       "mag_type" : "ML",
@@ -2200,6 +2200,28 @@
       "coordinates" : [ 13.1613, 42.6782 ]
     },
     "id" : "39761581"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 10.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.6782,
+      "event_id" : 39816562,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "7 km N Cittareale (RI)",
+      "magnitude" : 1.2,
+      "time" : "2024-07-17 09:24:17Z",
+      "mag_author" : null,
+      "longitude" : 13.1613,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.1613, 42.6782 ]
+    },
+    "id" : "39816562"
   }, {
     "type" : "Feature",
     "properties" : {
