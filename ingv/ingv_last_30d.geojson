@@ -3,6 +3,50 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 2.17,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.831333,
+      "event_id" : 40038991,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 1.1,
+      "time" : "2024-08-11 22:25:14Z",
+      "mag_author" : null,
+      "longitude" : 14.153167,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.153167, 40.831333 ]
+    },
+    "id" : "40038991"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 9.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.4872,
+      "event_id" : 40038911,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km SE Stroncone (TR)",
+      "magnitude" : 1.2,
+      "time" : "2024-08-11 22:23:15Z",
+      "mag_author" : null,
+      "longitude" : 12.6882,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.6882, 42.4872 ]
+    },
+    "id" : "40038911"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 3.4,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -24889,28 +24933,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 44.3982,
-      "event_id" : 39882292,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "1 km SE Monterosso Grana (CN)",
-      "magnitude" : 1.5,
-      "time" : "2024-07-22 08:40:09Z",
-      "mag_author" : null,
-      "longitude" : 7.3307,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 7.3307, 44.3982 ]
-    },
-    "id" : "39882292"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 6.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 44.3982,
       "event_id" : 39819581,
       "contributor" : null,
       "mag_type" : "ML",
@@ -24926,6 +24948,28 @@
       "coordinates" : [ 7.3307, 44.3982 ]
     },
     "id" : "39819581"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 6.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 44.3982,
+      "event_id" : 39882292,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "1 km SE Monterosso Grana (CN)",
+      "magnitude" : 1.5,
+      "time" : "2024-07-22 08:40:09Z",
+      "mag_author" : null,
+      "longitude" : 7.3307,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.3307, 44.3982 ]
+    },
+    "id" : "39882292"
   }, {
     "type" : "Feature",
     "properties" : {
