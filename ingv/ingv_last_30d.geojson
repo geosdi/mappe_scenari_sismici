@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 7.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.461,
+      "event_id" : 40099921,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "7 km E Città di Castello (PG)",
+      "magnitude" : 0.9,
+      "time" : "2024-08-16 09:27:17Z",
+      "mag_author" : null,
+      "longitude" : 12.3198,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.3198, 43.461 ]
+    },
+    "id" : "40099921"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 16.4,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -33447,28 +33469,6 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : 35.0561,
-      "event_id" : 39870172,
-      "contributor" : null,
-      "mag_type" : "Mwp",
-      "event_location_name" : "Crete, Greece [Sea: Greece]",
-      "magnitude" : 5.5,
-      "time" : "2024-07-21 04:01:31Z",
-      "mag_author" : null,
-      "longitude" : 23.2462,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 23.2462, 35.0561 ]
-    },
-    "id" : "39870172"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 31.055,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 35.0561,
       "event_id" : 39870352,
       "contributor" : null,
       "mag_type" : "Mwp",
@@ -33506,6 +33506,28 @@
       "coordinates" : [ 23.2462, 35.0561 ]
     },
     "id" : "39808591"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 31.055,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : 35.0561,
+      "event_id" : 39870172,
+      "contributor" : null,
+      "mag_type" : "Mwp",
+      "event_location_name" : "Crete, Greece [Sea: Greece]",
+      "magnitude" : 5.5,
+      "time" : "2024-07-21 04:01:31Z",
+      "mag_author" : null,
+      "longitude" : 23.2462,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.2462, 35.0561 ]
+    },
+    "id" : "39870172"
   }, {
     "type" : "Feature",
     "properties" : {
