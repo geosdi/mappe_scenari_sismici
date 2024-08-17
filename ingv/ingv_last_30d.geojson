@@ -3,6 +3,50 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 34.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 39.4142,
+      "event_id" : 40118121,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km W Campana (CS)",
+      "magnitude" : 1.2,
+      "time" : "2024-08-17 18:36:18Z",
+      "mag_author" : null,
+      "longitude" : 16.7945,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.7945, 39.4142 ]
+    },
+    "id" : "40118121"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 0.78,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.816167,
+      "event_id" : 40118161,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 1.0,
+      "time" : "2024-08-17 18:33:52Z",
+      "mag_author" : null,
+      "longitude" : 14.143667,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.143667, 40.816167 ]
+    },
+    "id" : "40118161"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 12.2,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -35251,28 +35295,6 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : 35.0561,
-      "event_id" : 39870172,
-      "contributor" : null,
-      "mag_type" : "Mwp",
-      "event_location_name" : "Crete, Greece [Sea: Greece]",
-      "magnitude" : 5.5,
-      "time" : "2024-07-21 04:01:31Z",
-      "mag_author" : null,
-      "longitude" : 23.2462,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 23.2462, 35.0561 ]
-    },
-    "id" : "39870172"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 31.055,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 35.0561,
       "event_id" : 39870352,
       "contributor" : null,
       "mag_type" : "Mwp",
@@ -35310,6 +35332,28 @@
       "coordinates" : [ 23.2462, 35.0561 ]
     },
     "id" : "39808591"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 31.055,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : 35.0561,
+      "event_id" : 39870172,
+      "contributor" : null,
+      "mag_type" : "Mwp",
+      "event_location_name" : "Crete, Greece [Sea: Greece]",
+      "magnitude" : 5.5,
+      "time" : "2024-07-21 04:01:31Z",
+      "mag_author" : null,
+      "longitude" : 23.2462,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.2462, 35.0561 ]
+    },
+    "id" : "39870172"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -37796,27 +37840,5 @@
       "coordinates" : [ 6.9623, 45.6362 ]
     },
     "id" : "39845872"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 12.8,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.3497,
-      "event_id" : 39845752,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km N Sigillo (PG)",
-      "magnitude" : 0.5,
-      "time" : "2024-07-18 20:46:47Z",
-      "mag_author" : null,
-      "longitude" : 12.7382,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.7382, 43.3497 ]
-    },
-    "id" : "39845752"
   } ]
 }
