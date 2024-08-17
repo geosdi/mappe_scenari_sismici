@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 16.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.9788,
+      "event_id" : 40120921,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km NE Ussita (MC)",
+      "magnitude" : 0.5,
+      "time" : "2024-08-17 23:20:24Z",
+      "mag_author" : null,
+      "longitude" : 13.17,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.17, 42.9788 ]
+    },
+    "id" : "40120921"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 7.9,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -35713,7 +35735,7 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : 35.0561,
-      "event_id" : 39870172,
+      "event_id" : 39808591,
       "contributor" : null,
       "mag_type" : "Mwp",
       "event_location_name" : "Crete, Greece [Sea: Greece]",
@@ -35727,7 +35749,7 @@
       "type" : "Point",
       "coordinates" : [ 23.2462, 35.0561 ]
     },
-    "id" : "39870172"
+    "id" : "39808591"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -35757,7 +35779,7 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : 35.0561,
-      "event_id" : 39808591,
+      "event_id" : 39870172,
       "contributor" : null,
       "mag_type" : "Mwp",
       "event_location_name" : "Crete, Greece [Sea: Greece]",
@@ -35771,7 +35793,7 @@
       "type" : "Point",
       "coordinates" : [ 23.2462, 35.0561 ]
     },
-    "id" : "39808591"
+    "id" : "39870172"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -35823,28 +35845,6 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : 14.5371,
-      "event_id" : 39869712,
-      "contributor" : null,
-      "mag_type" : "Mwp",
-      "event_location_name" : "Guatemala",
-      "magnitude" : 6.2,
-      "time" : "2024-07-21 02:53:50Z",
-      "mag_author" : null,
-      "longitude" : -89.9801,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ -89.9801, 14.5371 ]
-    },
-    "id" : "39869712"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 279.297,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 14.5371,
       "event_id" : 39869632,
       "contributor" : null,
       "mag_type" : "Mwp",
@@ -35860,6 +35860,28 @@
       "coordinates" : [ -89.9801, 14.5371 ]
     },
     "id" : "39869632"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 279.297,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : 14.5371,
+      "event_id" : 39869712,
+      "contributor" : null,
+      "mag_type" : "Mwp",
+      "event_location_name" : "Guatemala",
+      "magnitude" : 6.2,
+      "time" : "2024-07-21 02:53:50Z",
+      "mag_author" : null,
+      "longitude" : -89.9801,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -89.9801, 14.5371 ]
+    },
+    "id" : "39869712"
   }, {
     "type" : "Feature",
     "properties" : {
