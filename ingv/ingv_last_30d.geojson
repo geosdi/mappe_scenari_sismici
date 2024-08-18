@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 11.1,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.6047,
+      "event_id" : 40122401,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km W Acqualagna (PU)",
+      "magnitude" : 0.1,
+      "time" : "2024-08-18 01:43:58Z",
+      "mag_author" : null,
+      "longitude" : 12.6373,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.6373, 43.6047 ]
+    },
+    "id" : "40122401"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 0.5,
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
@@ -36263,28 +36285,6 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : 14.5371,
-      "event_id" : 39869712,
-      "contributor" : null,
-      "mag_type" : "Mwp",
-      "event_location_name" : "Guatemala",
-      "magnitude" : 6.2,
-      "time" : "2024-07-21 02:53:50Z",
-      "mag_author" : null,
-      "longitude" : -89.9801,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ -89.9801, 14.5371 ]
-    },
-    "id" : "39869712"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 279.297,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 14.5371,
       "event_id" : 39869632,
       "contributor" : null,
       "mag_type" : "Mwp",
@@ -36300,6 +36300,28 @@
       "coordinates" : [ -89.9801, 14.5371 ]
     },
     "id" : "39869632"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 279.297,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : 14.5371,
+      "event_id" : 39869712,
+      "contributor" : null,
+      "mag_type" : "Mwp",
+      "event_location_name" : "Guatemala",
+      "magnitude" : 6.2,
+      "time" : "2024-07-21 02:53:50Z",
+      "mag_author" : null,
+      "longitude" : -89.9801,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -89.9801, 14.5371 ]
+    },
+    "id" : "39869712"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -38346,27 +38368,5 @@
       "coordinates" : [ 7.8223, 44.0848 ]
     },
     "id" : "39848802"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 6.8,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.4517,
-      "event_id" : 39848732,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km E Pietralunga (PG)",
-      "magnitude" : 0.7,
-      "time" : "2024-07-19 03:57:35Z",
-      "mag_author" : null,
-      "longitude" : 12.4838,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.4838, 43.4517 ]
-    },
-    "id" : "39848732"
   } ]
 }
