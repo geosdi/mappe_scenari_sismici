@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 27.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 39.4393,
+      "event_id" : 40157641,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km NW Campana (CS)",
+      "magnitude" : 1.0,
+      "time" : "2024-08-20 19:53:18Z",
+      "mag_author" : null,
+      "longitude" : 16.8027,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.8027, 39.4393 ]
+    },
+    "id" : "40157641"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 8.3,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -38698,27 +38720,5 @@
       "coordinates" : [ 12.9357, 42.8498 ]
     },
     "id" : "39878202"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 6.1,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.4502,
-      "event_id" : 39878152,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km E Pietralunga (PG)",
-      "magnitude" : 0.1,
-      "time" : "2024-07-21 22:04:12Z",
-      "mag_author" : null,
-      "longitude" : 12.4865,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.4865, 43.4502 ]
-    },
-    "id" : "39878152"
   } ]
 }
