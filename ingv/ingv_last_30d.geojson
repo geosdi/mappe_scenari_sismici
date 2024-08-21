@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 44.2777,
+      "event_id" : 40161221,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "6 km W Frassinoro (MO)",
+      "magnitude" : 1.1,
+      "time" : "2024-08-21 08:46:01Z",
+      "mag_author" : null,
+      "longitude" : 10.504,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.504, 44.2777 ]
+    },
+    "id" : "40161221"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 24.5,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -38434,27 +38456,5 @@
       "coordinates" : [ 12.8873, 42.9537 ]
     },
     "id" : "39885162"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 11.9,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.9312,
-      "event_id" : 39884382,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km W Visso (MC)",
-      "magnitude" : 1.4,
-      "time" : "2024-07-22 11:04:28Z",
-      "mag_author" : null,
-      "longitude" : 13.0347,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.0347, 42.9312 ]
-    },
-    "id" : "39884382"
   } ]
 }
