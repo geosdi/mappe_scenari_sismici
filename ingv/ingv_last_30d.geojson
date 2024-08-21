@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.7547,
+      "event_id" : 40158631,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "6 km SE Norcia (PG)",
+      "magnitude" : 1.4,
+      "time" : "2024-08-21 03:20:14Z",
+      "mag_author" : null,
+      "longitude" : 13.1422,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.1422, 42.7547 ]
+    },
+    "id" : "40158631"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 9.2,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -38412,27 +38434,5 @@
       "coordinates" : [ 15.083, 37.679 ]
     },
     "id" : "39818241"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.49,
-      "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
-      "catalog" : null,
-      "latitude" : 38.369,
-      "event_id" : 39818211,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "Isole Eolie (Messina)",
-      "magnitude" : 2.7,
-      "time" : "2024-07-22 05:55:52Z",
-      "mag_author" : null,
-      "longitude" : 14.869,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.869, 38.369 ]
-    },
-    "id" : "39818211"
   } ]
 }
