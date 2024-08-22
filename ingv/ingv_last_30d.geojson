@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 27.1,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 39.3502,
+      "event_id" : 40177221,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km N Carfizzi (KR)",
+      "magnitude" : 2.3,
+      "time" : "2024-08-22 18:24:27Z",
+      "mag_author" : null,
+      "longitude" : 16.9892,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.9892, 39.3502 ]
+    },
+    "id" : "40177221"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 14.3,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -38368,27 +38390,5 @@
       "coordinates" : [ 15.9338, 40.1642 ]
     },
     "id" : "39900032"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 1.86,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.8285,
-      "event_id" : 39835411,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 1.2,
-      "time" : "2024-07-23 20:38:59Z",
-      "mag_author" : null,
-      "longitude" : 14.143333,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.143333, 40.8285 ]
-    },
-    "id" : "39835411"
   } ]
 }
