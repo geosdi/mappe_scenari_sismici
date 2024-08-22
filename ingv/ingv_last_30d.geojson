@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.2,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.8792,
+      "event_id" : 40168801,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km E Sellano (PG)",
+      "magnitude" : 1.3,
+      "time" : "2024-08-22 00:59:08Z",
+      "mag_author" : null,
+      "longitude" : 12.9748,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.9748, 42.8792 ]
+    },
+    "id" : "40168801"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.8,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -38434,27 +38456,5 @@
       "coordinates" : [ 13.011, 42.9182 ]
     },
     "id" : "39892032"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.4,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.9148,
-      "event_id" : 39891902,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km NW Preci (PG)",
-      "magnitude" : 1.0,
-      "time" : "2024-07-23 03:09:23Z",
-      "mag_author" : null,
-      "longitude" : 13.0063,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.0063, 42.9148 ]
-    },
-    "id" : "39891902"
   } ]
 }
