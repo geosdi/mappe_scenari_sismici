@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.7,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 46.0492,
+      "event_id" : 40171421,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "10 km NW Sella Giudicarie (TN)",
+      "magnitude" : 1.0,
+      "time" : "2024-08-22 08:49:26Z",
+      "mag_author" : null,
+      "longitude" : 10.574,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.574, 46.0492 ]
+    },
+    "id" : "40171421"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 7.8,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -38478,49 +38500,5 @@
       "coordinates" : [ 11.0267, 43.1382 ]
     },
     "id" : "39895012"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 12.3,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.9848,
-      "event_id" : 39894952,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km W Monte Cavallo (MC)",
-      "magnitude" : 1.4,
-      "time" : "2024-07-23 11:00:39Z",
-      "mag_author" : null,
-      "longitude" : 12.9713,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.9713, 42.9848 ]
-    },
-    "id" : "39894952"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 2.72,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.796,
-      "event_id" : 39831111,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 1.2,
-      "time" : "2024-07-23 11:00:39Z",
-      "mag_author" : null,
-      "longitude" : 14.1125,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.1125, 40.796 ]
-    },
-    "id" : "39831111"
   } ]
 }
