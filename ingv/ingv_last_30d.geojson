@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 13.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.5628,
+      "event_id" : 40177671,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km W Campotosto (AQ)",
+      "magnitude" : 0.7,
+      "time" : "2024-08-22 19:33:39Z",
+      "mag_author" : null,
+      "longitude" : 13.3338,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.3338, 42.5628 ]
+    },
+    "id" : "40177671"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 24.7,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -38434,27 +38456,5 @@
       "coordinates" : [ 13.1247, 43.1343 ]
     },
     "id" : "39900142"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.9,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 40.1642,
-      "event_id" : 39900032,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km W Castelsaraceno (PZ)",
-      "magnitude" : 1.0,
-      "time" : "2024-07-23 21:39:01Z",
-      "mag_author" : null,
-      "longitude" : 15.9338,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 15.9338, 40.1642 ]
-    },
-    "id" : "39900032"
   } ]
 }
