@@ -3,6 +3,50 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 30.3,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 37.7337,
+      "event_id" : 40180471,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "Mar Ionio Settentrionale (MARE)",
+      "magnitude" : 2.0,
+      "time" : "2024-08-23 05:17:17Z",
+      "mag_author" : null,
+      "longitude" : 16.8642,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.8642, 37.7337 ]
+    },
+    "id" : "40180471"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 5.469,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : 52.8117,
+      "event_id" : 40180431,
+      "contributor" : null,
+      "mag_type" : "Mwp",
+      "event_location_name" : "Off east coast of Kamchatka Peninsula, Russia [Sea: Russia]",
+      "magnitude" : 5.5,
+      "time" : "2024-08-23 05:06:50Z",
+      "mag_author" : null,
+      "longitude" : 160.903,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 160.903, 52.8117 ]
+    },
+    "id" : "40180431"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 11.0,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -38346,27 +38390,5 @@
       "coordinates" : [ 14.2088, 38.4687 ]
     },
     "id" : "39903342"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 6.7,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.3823,
-      "event_id" : 39903062,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km NW Gubbio (PG)",
-      "magnitude" : 0.8,
-      "time" : "2024-07-24 07:49:15Z",
-      "mag_author" : null,
-      "longitude" : 12.5368,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.5368, 43.3823 ]
-    },
-    "id" : "39903062"
   } ]
 }
