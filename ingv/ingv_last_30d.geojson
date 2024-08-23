@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 44.1472,
+      "event_id" : 40187581,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km W Ormea (CN)",
+      "magnitude" : 0.9,
+      "time" : "2024-08-23 15:53:27Z",
+      "mag_author" : null,
+      "longitude" : 7.8628,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.8628, 44.1472 ]
+    },
+    "id" : "40187581"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 20.2,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -38236,27 +38258,5 @@
       "coordinates" : [ 13.0023, 42.9285 ]
     },
     "id" : "39910502"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.3555,
-      "event_id" : 39910262,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km E Gubbio (PG)",
-      "magnitude" : 0.9,
-      "time" : "2024-07-24 18:05:28Z",
-      "mag_author" : null,
-      "longitude" : 12.6098,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.6098, 43.3555 ]
-    },
-    "id" : "39910262"
   } ]
 }
