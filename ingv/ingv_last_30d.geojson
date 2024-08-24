@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 12.2,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.9368,
+      "event_id" : 40191001,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km SW Ussita (MC)",
+      "magnitude" : 0.9,
+      "time" : "2024-08-24 02:15:59Z",
+      "mag_author" : null,
+      "longitude" : 13.1222,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.1222, 42.9368 ]
+    },
+    "id" : "40191001"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.0,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -38258,27 +38280,5 @@
       "coordinates" : [ 12.7088, 42.4658 ]
     },
     "id" : "39912372"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 6.1,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.1657,
-      "event_id" : 39912282,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "1 km S Serrapetrona (MC)",
-      "magnitude" : 1.0,
-      "time" : "2024-07-25 04:28:41Z",
-      "mag_author" : null,
-      "longitude" : 13.1943,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.1943, 43.1657 ]
-    },
-    "id" : "39912282"
   } ]
 }
