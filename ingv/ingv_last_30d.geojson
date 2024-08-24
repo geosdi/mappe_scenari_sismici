@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 15.7,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 45.8362,
+      "event_id" : 40200821,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km E Mori (TN)",
+      "magnitude" : 0.9,
+      "time" : "2024-08-24 20:20:06Z",
+      "mag_author" : null,
+      "longitude" : 11.0292,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.0292, 45.8362 ]
+    },
+    "id" : "40200821"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 14.844,
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
@@ -38720,27 +38742,5 @@
       "coordinates" : [ 12.9497, 42.8518 ]
     },
     "id" : "39920122"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 7.2,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 44.2627,
-      "event_id" : 39920052,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "Licciana Nardi (MS)",
-      "magnitude" : 0.9,
-      "time" : "2024-07-25 22:29:31Z",
-      "mag_author" : null,
-      "longitude" : 10.0433,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 10.0433, 44.2627 ]
-    },
-    "id" : "39920052"
   } ]
 }
