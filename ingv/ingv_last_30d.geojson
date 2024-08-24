@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 24.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 44.2808,
+      "event_id" : 40200111,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km W Borgo Tossignano (BO)",
+      "magnitude" : 1.4,
+      "time" : "2024-08-24 18:20:02Z",
+      "mag_author" : null,
+      "longitude" : 11.5667,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.5667, 44.2808 ]
+    },
+    "id" : "40200111"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 32.2,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -38720,27 +38742,5 @@
       "coordinates" : [ 6.7805, 44.5317 ]
     },
     "id" : "39919892"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 135.547,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : -7.48477,
-      "event_id" : 39919822,
-      "contributor" : null,
-      "mag_type" : "Mwp",
-      "event_location_name" : "Indonesia [Sea]",
-      "magnitude" : 5.5,
-      "time" : "2024-07-25 20:32:17Z",
-      "mag_author" : null,
-      "longitude" : 128.696,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 128.696, -7.48477 ]
-    },
-    "id" : "39919822"
   } ]
 }
