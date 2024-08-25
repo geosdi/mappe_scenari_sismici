@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 40.1255,
+      "event_id" : 40209131,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "7 km SW Castelsaraceno (PZ)",
+      "magnitude" : 1.6,
+      "time" : "2024-08-25 18:05:44Z",
+      "mag_author" : null,
+      "longitude" : 15.9247,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 15.9247, 40.1255 ]
+    },
+    "id" : "40209131"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 15.94,
       "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
       "catalog" : null,
@@ -38764,27 +38786,5 @@
       "coordinates" : [ 13.4172, 42.4948 ]
     },
     "id" : "39929442"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 44.2808,
-      "event_id" : 39929392,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "6 km SE Lama Mocogno (MO)",
-      "magnitude" : 1.0,
-      "time" : "2024-07-26 20:16:52Z",
-      "mag_author" : null,
-      "longitude" : 10.791,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 10.791, 44.2808 ]
-    },
-    "id" : "39929392"
   } ]
 }
