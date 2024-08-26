@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.7,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.8702,
+      "event_id" : 40219561,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km E Preci (PG)",
+      "magnitude" : 0.5,
+      "time" : "2024-08-26 21:35:34Z",
+      "mag_author" : null,
+      "longitude" : 13.0983,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.0983, 42.8702 ]
+    },
+    "id" : "40219561"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 9.7,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -39006,49 +39028,5 @@
       "coordinates" : [ 12.7692, 42.7437 ]
     },
     "id" : "39940522"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.7497,
-      "event_id" : 39940512,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km NE Spoleto (PG)",
-      "magnitude" : 1.1,
-      "time" : "2024-07-27 23:42:43Z",
-      "mag_author" : null,
-      "longitude" : 12.7683,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.7683, 42.7497 ]
-    },
-    "id" : "39940512"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.2,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.7467,
-      "event_id" : 39940372,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km E Spoleto (PG)",
-      "magnitude" : 1.4,
-      "time" : "2024-07-27 23:41:53Z",
-      "mag_author" : null,
-      "longitude" : 12.7688,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.7688, 42.7467 ]
-    },
-    "id" : "39940372"
   } ]
 }
