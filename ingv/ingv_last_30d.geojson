@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 44.4868,
+      "event_id" : 40255171,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "8 km W Acceglio (CN)",
+      "magnitude" : 2.0,
+      "time" : "2024-08-29 09:20:00Z",
+      "mag_author" : null,
+      "longitude" : 6.8948,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.8948, 44.4868 ]
+    },
+    "id" : "40255171"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 21.8,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -38170,49 +38192,5 @@
       "coordinates" : [ 12.9557, 43.1253 ]
     },
     "id" : "39897611"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 38.9873,
-      "event_id" : 39966322,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km S Serrastretta (CZ)",
-      "magnitude" : 1.4,
-      "time" : "2024-07-30 11:33:55Z",
-      "mag_author" : null,
-      "longitude" : 16.4232,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 16.4232, 38.9873 ]
-    },
-    "id" : "39966322"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 27.4,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 36.6508,
-      "event_id" : 39966282,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "Costa Ragusana (Ragusa)",
-      "magnitude" : 1.5,
-      "time" : "2024-07-30 11:31:09Z",
-      "mag_author" : null,
-      "longitude" : 14.69,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.69, 36.6508 ]
-    },
-    "id" : "39966282"
   } ]
 }
