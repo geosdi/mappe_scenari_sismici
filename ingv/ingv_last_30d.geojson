@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 31.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 39.3972,
+      "event_id" : 40263581,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km S Bocchigliero (CS)",
+      "magnitude" : 0.8,
+      "time" : "2024-08-29 18:00:30Z",
+      "mag_author" : null,
+      "longitude" : 16.7637,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.7637, 39.3972 ]
+    },
+    "id" : "40263581"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 9.7,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -38236,27 +38258,5 @@
       "coordinates" : [ 10.465, 46.0152 ]
     },
     "id" : "39900091"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.9,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 46.1308,
-      "event_id" : 39900031,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "Confine Italia-Svizzera (SVIZZERA)",
-      "magnitude" : 1.0,
-      "time" : "2024-07-30 20:15:19Z",
-      "mag_author" : null,
-      "longitude" : 7.5145,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 7.5145, 46.1308 ]
-    },
-    "id" : "39900031"
   } ]
 }
