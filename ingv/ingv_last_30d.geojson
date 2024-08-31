@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.3,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.8825,
+      "event_id" : 40280411,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "1 km SW Sellano (PG)",
+      "magnitude" : 1.1,
+      "time" : "2024-08-31 22:01:59Z",
+      "mag_author" : null,
+      "longitude" : 12.9182,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.9182, 42.8825 ]
+    },
+    "id" : "40280411"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 13.0,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -36696,27 +36718,5 @@
       "coordinates" : [ 16.7643, 39.4612 ]
     },
     "id" : "39925221"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 8.8,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 44.503,
-      "event_id" : 39925181,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km NE Cartignano (CN)",
-      "magnitude" : 0.7,
-      "time" : "2024-08-02 00:08:19Z",
-      "mag_author" : null,
-      "longitude" : 7.3042,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 7.3042, 44.503 ]
-    },
-    "id" : "39925181"
   } ]
 }
