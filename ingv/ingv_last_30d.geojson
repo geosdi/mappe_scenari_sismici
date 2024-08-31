@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 8.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.8223,
+      "event_id" : 40280611,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "7 km E Norcia (PG)",
+      "magnitude" : 1.5,
+      "time" : "2024-08-31 22:26:41Z",
+      "mag_author" : null,
+      "longitude" : 13.1728,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.1728, 42.8223 ]
+    },
+    "id" : "40280611"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 12.4,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -36608,71 +36630,5 @@
       "coordinates" : [ 12.8823, 43.0213 ]
     },
     "id" : "39925591"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 25.6,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 39.4033,
-      "event_id" : 39925531,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km E Campana (CS)",
-      "magnitude" : 1.6,
-      "time" : "2024-08-02 00:42:17Z",
-      "mag_author" : null,
-      "longitude" : 16.8527,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 16.8527, 39.4033 ]
-    },
-    "id" : "39925531"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.2,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.8845,
-      "event_id" : 39925461,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km E Castelsantangelo sul Nera (MC)",
-      "magnitude" : 1.3,
-      "time" : "2024-08-02 00:42:08Z",
-      "mag_author" : null,
-      "longitude" : 13.2113,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.2113, 42.8845 ]
-    },
-    "id" : "39925461"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 29.2,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 39.3917,
-      "event_id" : 39925501,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km S Bocchigliero (CS)",
-      "magnitude" : 1.1,
-      "time" : "2024-08-02 00:41:57Z",
-      "mag_author" : null,
-      "longitude" : 16.7498,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 16.7498, 39.3917 ]
-    },
-    "id" : "39925501"
   } ]
 }
