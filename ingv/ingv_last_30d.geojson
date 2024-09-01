@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 32.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 39.4218,
+      "event_id" : 40284441,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km E Bocchigliero (CS)",
+      "magnitude" : 1.2,
+      "time" : "2024-09-01 13:44:00Z",
+      "mag_author" : null,
+      "longitude" : 16.7838,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.7838, 39.4218 ]
+    },
+    "id" : "40284441"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 11.8,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -35618,27 +35640,5 @@
       "coordinates" : [ 16.4255, 38.9953 ]
     },
     "id" : "39932301"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 8.4,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 38.9977,
-      "event_id" : 39932201,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km S Serrastretta (CZ)",
-      "magnitude" : 1.2,
-      "time" : "2024-08-02 15:52:15Z",
-      "mag_author" : null,
-      "longitude" : 16.4128,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 16.4128, 38.9977 ]
-    },
-    "id" : "39932201"
   } ]
 }
