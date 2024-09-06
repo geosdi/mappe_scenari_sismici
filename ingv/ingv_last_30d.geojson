@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.1,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 41.471,
+      "event_id" : 40328961,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km SW Cassino (FR)",
+      "magnitude" : 1.5,
+      "time" : "2024-09-06 07:40:37Z",
+      "mag_author" : null,
+      "longitude" : 13.802,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.802, 41.471 ]
+    },
+    "id" : "40328961"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 4.3,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -33176,27 +33198,5 @@
       "coordinates" : [ 13.0083, 42.8968 ]
     },
     "id" : "39988711"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.3,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.1787,
-      "event_id" : 39988351,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km NW Valfabbrica (PG)",
-      "magnitude" : 1.1,
-      "time" : "2024-08-07 09:46:56Z",
-      "mag_author" : null,
-      "longitude" : 12.5922,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.5922, 43.1787 ]
-    },
-    "id" : "39988351"
   } ]
 }
