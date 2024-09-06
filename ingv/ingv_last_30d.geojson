@@ -25,6 +25,28 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 12.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 40.1622,
+      "event_id" : 40333731,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km W Castelsaraceno (PZ)",
+      "magnitude" : 0.6,
+      "time" : "2024-09-06 16:34:30Z",
+      "mag_author" : null,
+      "longitude" : 15.9402,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 15.9402, 40.1622 ]
+    },
+    "id" : "40333731"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 0.1,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -33154,49 +33176,5 @@
       "coordinates" : [ 13.2123, 42.7487 ]
     },
     "id" : "39995571"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 20.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 44.6503,
-      "event_id" : 39995301,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "6 km NE Calestano (PR)",
-      "magnitude" : 2.2,
-      "time" : "2024-08-07 19:04:47Z",
-      "mag_author" : null,
-      "longitude" : 10.1617,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 10.1617, 44.6503 ]
-    },
-    "id" : "39995301"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 8.8,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 39.291,
-      "event_id" : 39995341,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "Costa Ionica Crotonese (Crotone)",
-      "magnitude" : 1.1,
-      "time" : "2024-08-07 19:03:59Z",
-      "mag_author" : null,
-      "longitude" : 17.1525,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 17.1525, 39.291 ]
-    },
-    "id" : "39995341"
   } ]
 }
