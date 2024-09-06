@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.9238,
+      "event_id" : 40335641,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km W Visso (MC)",
+      "magnitude" : 0.5,
+      "time" : "2024-09-06 21:09:51Z",
+      "mag_author" : null,
+      "longitude" : 13.0435,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.0435, 42.9238 ]
+    },
+    "id" : "40335641"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 35.4,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -33110,27 +33132,5 @@
       "coordinates" : [ 10.5778, 46.0307 ]
     },
     "id" : "39996161"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 44.539,
-      "event_id" : 39996121,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "Confine Italia-Francia (FRANCIA)",
-      "magnitude" : 0.8,
-      "time" : "2024-08-07 23:20:12Z",
-      "mag_author" : null,
-      "longitude" : 6.8603,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 6.8603, 44.539 ]
-    },
-    "id" : "39996121"
   } ]
 }
