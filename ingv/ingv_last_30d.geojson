@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 13.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.0043,
+      "event_id" : 40366901,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "6 km W Monte Cavallo (MC)",
+      "magnitude" : 0.6,
+      "time" : "2024-09-10 22:57:21Z",
+      "mag_author" : null,
+      "longitude" : 12.931,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.931, 43.0043 ]
+    },
+    "id" : "40366901"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 8.6,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -32472,27 +32494,5 @@
       "coordinates" : [ 16.8347, 39.4483 ]
     },
     "id" : "40039531"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 8.594,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 74.8898,
-      "event_id" : 40039501,
-      "contributor" : null,
-      "mag_type" : "Mwp",
-      "event_location_name" : "Norway [Sea]",
-      "magnitude" : 5.6,
-      "time" : "2024-08-12 01:08:37Z",
-      "mag_author" : null,
-      "longitude" : 9.35156,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 9.35156, 74.8898 ]
-    },
-    "id" : "40039501"
   } ]
 }
