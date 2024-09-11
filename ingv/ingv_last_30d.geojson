@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 0.1,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 46.1342,
+      "event_id" : 40371141,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "1 km S Albiano (TN)",
+      "magnitude" : 0.9,
+      "time" : "2024-09-11 15:36:22Z",
+      "mag_author" : null,
+      "longitude" : 11.1923,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.1923, 46.1342 ]
+    },
+    "id" : "40371141"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 26.5,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -31218,27 +31240,5 @@
       "coordinates" : [ 17.0243, 39.3328 ]
     },
     "id" : "40051681"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 23.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 39.3758,
-      "event_id" : 40051581,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km W Cirò (KR)",
-      "magnitude" : 1.4,
-      "time" : "2024-08-12 17:46:47Z",
-      "mag_author" : null,
-      "longitude" : 17.0115,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 17.0115, 39.3758 ]
-    },
-    "id" : "40051581"
   } ]
 }
