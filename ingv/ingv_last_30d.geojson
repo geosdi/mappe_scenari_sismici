@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 5.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.4417,
+      "event_id" : 40370111,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "1 km S Serra San Quirico (AN)",
+      "magnitude" : 0.3,
+      "time" : "2024-09-11 12:27:00Z",
+      "mag_author" : null,
+      "longitude" : 13.0157,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.0157, 43.4417 ]
+    },
+    "id" : "40370111"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.5,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -31504,27 +31526,5 @@
       "coordinates" : [ 15.0608, 37.9622 ]
     },
     "id" : "40050061"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 27.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 39.3593,
-      "event_id" : 40049761,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "6 km N Carfizzi (KR)",
-      "magnitude" : 2.0,
-      "time" : "2024-08-12 16:15:55Z",
-      "mag_author" : null,
-      "longitude" : 16.9875,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 16.9875, 39.3593 ]
-    },
-    "id" : "40049761"
   } ]
 }
