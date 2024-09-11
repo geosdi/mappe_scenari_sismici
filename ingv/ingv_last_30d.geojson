@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 8.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 46.0193,
+      "event_id" : 40372831,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "6 km E Paspardo (BS)",
+      "magnitude" : 1.1,
+      "time" : "2024-09-11 23:02:48Z",
+      "mag_author" : null,
+      "longitude" : 10.4487,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.4487, 46.0193 ]
+    },
+    "id" : "40372831"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 11.2,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -30404,27 +30426,5 @@
       "coordinates" : [ 17.0003, 39.3725 ]
     },
     "id" : "40056741"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 25.7,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 39.3363,
-      "event_id" : 40056651,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km NW Melissa (KR)",
-      "magnitude" : 1.6,
-      "time" : "2024-08-13 01:05:14Z",
-      "mag_author" : null,
-      "longitude" : 17.0038,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 17.0038, 39.3363 ]
-    },
-    "id" : "40056651"
   } ]
 }
