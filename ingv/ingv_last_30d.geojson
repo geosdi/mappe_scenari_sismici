@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 27.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 39.3515,
+      "event_id" : 40372581,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "1 km E Umbriatico (KR)",
+      "magnitude" : 1.2,
+      "time" : "2024-09-11 22:00:33Z",
+      "mag_author" : null,
+      "longitude" : 16.9303,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.9303, 39.3515 ]
+    },
+    "id" : "40372581"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 22.6,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -30536,27 +30558,5 @@
       "coordinates" : [ 16.7732, 39.4072 ]
     },
     "id" : "40056101"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.4,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 38.1063,
-      "event_id" : 40055971,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km W Furnari (ME)",
-      "magnitude" : 0.9,
-      "time" : "2024-08-13 00:05:46Z",
-      "mag_author" : null,
-      "longitude" : 15.1042,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 15.1042, 38.1063 ]
-    },
-    "id" : "40055971"
   } ]
 }
