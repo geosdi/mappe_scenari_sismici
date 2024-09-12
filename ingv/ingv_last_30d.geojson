@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.7,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.344,
+      "event_id" : 40385781,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km S Cingoli (MC)",
+      "magnitude" : 1.2,
+      "time" : "2024-09-12 16:03:29Z",
+      "mag_author" : null,
+      "longitude" : 13.2268,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.2268, 43.344 ]
+    },
+    "id" : "40385781"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 27.1,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -29194,27 +29216,5 @@
       "coordinates" : [ 17.004, 39.3712 ]
     },
     "id" : "40072171"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 27.3,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 39.3542,
-      "event_id" : 40072111,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "6 km NE Carfizzi (KR)",
-      "magnitude" : 1.8,
-      "time" : "2024-08-13 18:10:39Z",
-      "mag_author" : null,
-      "longitude" : 16.9997,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 16.9997, 39.3542 ]
-    },
-    "id" : "40072111"
   } ]
 }
