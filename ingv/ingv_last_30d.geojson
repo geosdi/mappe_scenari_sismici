@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 7.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.5218,
+      "event_id" : 40375441,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km S Cagli (PU)",
+      "magnitude" : 1.0,
+      "time" : "2024-09-12 06:55:50Z",
+      "mag_author" : null,
+      "longitude" : 12.6577,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.6577, 43.5218 ]
+    },
+    "id" : "40375441"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 9.9,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -29568,27 +29590,5 @@
       "coordinates" : [ 13.1468, 42.6047 ]
     },
     "id" : "40061421"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 26.8,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 39.3522,
-      "event_id" : 40061381,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km SW Cirò (KR)",
-      "magnitude" : 1.5,
-      "time" : "2024-08-13 09:06:55Z",
-      "mag_author" : null,
-      "longitude" : 17.0342,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 17.0342, 39.3522 ]
-    },
-    "id" : "40061381"
   } ]
 }
