@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.3,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.4393,
+      "event_id" : 40420671,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "8 km W Cantiano (PU)",
+      "magnitude" : 0.7,
+      "time" : "2024-09-15 01:15:02Z",
+      "mag_author" : null,
+      "longitude" : 12.5427,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.5427, 43.4393 ]
+    },
+    "id" : "40420671"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 20.0,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -28358,27 +28380,5 @@
       "coordinates" : [ 13.1798, 43.1302 ]
     },
     "id" : "40097081"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 27.1,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 39.3432,
-      "event_id" : 40096991,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km N Carfizzi (KR)",
-      "magnitude" : 2.0,
-      "time" : "2024-08-16 03:21:23Z",
-      "mag_author" : null,
-      "longitude" : 16.9775,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 16.9775, 39.3432 ]
-    },
-    "id" : "40096991"
   } ]
 }
