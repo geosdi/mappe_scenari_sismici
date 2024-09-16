@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 7.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.4513,
+      "event_id" : 40551882,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km E Pietralunga (PG)",
+      "magnitude" : 0.9,
+      "time" : "2024-09-16 12:58:59Z",
+      "mag_author" : null,
+      "longitude" : 12.487,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.487, 43.4513 ]
+    },
+    "id" : "40551882"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 12.6,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -27874,27 +27896,5 @@
       "coordinates" : [ 17.0107, 39.3542 ]
     },
     "id" : "40115311"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 12.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.9627,
-      "event_id" : 40115101,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km NW Ussita (MC)",
-      "magnitude" : 1.2,
-      "time" : "2024-08-17 15:12:24Z",
-      "mag_author" : null,
-      "longitude" : 13.1238,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.1238, 42.9627 ]
-    },
-    "id" : "40115101"
   } ]
 }
