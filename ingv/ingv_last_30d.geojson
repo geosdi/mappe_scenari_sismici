@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 20.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.1917,
+      "event_id" : 40555842,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "6 km SE Gualdo Tadino (PG)",
+      "magnitude" : 0.7,
+      "time" : "2024-09-16 19:41:10Z",
+      "mag_author" : null,
+      "longitude" : 12.8397,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.8397, 43.1917 ]
+    },
+    "id" : "40555842"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.0,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -27764,27 +27786,5 @@
       "coordinates" : [ 12.911, 43.0488 ]
     },
     "id" : "40120311"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 14.3,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.6365,
-      "event_id" : 40120291,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km W Amatrice (RI)",
-      "magnitude" : 0.9,
-      "time" : "2024-08-17 21:54:13Z",
-      "mag_author" : null,
-      "longitude" : 13.2345,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.2345, 42.6365 ]
-    },
-    "id" : "40120291"
   } ]
 }
