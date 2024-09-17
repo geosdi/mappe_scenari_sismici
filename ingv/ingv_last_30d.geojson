@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 8.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 45.8838,
+      "event_id" : 40557902,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "10 km N Courmayeur (AO)",
+      "magnitude" : 1.4,
+      "time" : "2024-09-17 02:56:50Z",
+      "mag_author" : null,
+      "longitude" : 7.0088,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.0088, 45.8838 ]
+    },
+    "id" : "40557902"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.8,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -27038,27 +27060,5 @@
       "coordinates" : [ 13.5785, 42.7003 ]
     },
     "id" : "40124261"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 1.14,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.823333,
-      "event_id" : 40124131,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 1.2,
-      "time" : "2024-08-18 05:12:19Z",
-      "mag_author" : null,
-      "longitude" : 14.138833,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.138833, 40.823333 ]
-    },
-    "id" : "40124131"
   } ]
 }
