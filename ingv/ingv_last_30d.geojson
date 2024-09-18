@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 12.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.1477,
+      "event_id" : 40576262,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km W Camerino (MC)",
+      "magnitude" : 1.5,
+      "time" : "2024-09-18 13:44:53Z",
+      "mag_author" : null,
+      "longitude" : 13.0352,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.0352, 43.1477 ]
+    },
+    "id" : "40576262"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 11.1,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -755,28 +777,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 42.6487,
-      "event_id" : 40450581,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "8 km E Amatrice (RI)",
-      "magnitude" : 2.4,
-      "time" : "2024-09-17 15:55:19Z",
-      "mag_author" : null,
-      "longitude" : 13.378,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.378, 42.6487 ]
-    },
-    "id" : "40450581"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 15.3,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.6487,
       "event_id" : 40568022,
       "contributor" : null,
       "mag_type" : "ML",
@@ -792,6 +792,28 @@
       "coordinates" : [ 13.378, 42.6487 ]
     },
     "id" : "40568022"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 15.3,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.6487,
+      "event_id" : 40450581,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "8 km E Amatrice (RI)",
+      "magnitude" : 2.4,
+      "time" : "2024-09-17 15:55:19Z",
+      "mag_author" : null,
+      "longitude" : 13.378,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.378, 42.6487 ]
+    },
+    "id" : "40450581"
   }, {
     "type" : "Feature",
     "properties" : {
