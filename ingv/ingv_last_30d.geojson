@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 4.1,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 40.6868,
+      "event_id" : 40581142,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "7 km E Matera (MT)",
+      "magnitude" : 1.7,
+      "time" : "2024-09-19 08:31:54Z",
+      "mag_author" : null,
+      "longitude" : 16.6822,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.6822, 40.6868 ]
+    },
+    "id" : "40581142"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 14.844,
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
@@ -1415,28 +1437,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 42.651,
-      "event_id" : 40566852,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km SW Accumoli (RI)",
-      "magnitude" : 1.1,
-      "time" : "2024-09-17 15:02:16Z",
-      "mag_author" : null,
-      "longitude" : 13.2242,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.2242, 42.651 ]
-    },
-    "id" : "40566852"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.4,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.651,
       "event_id" : 40449471,
       "contributor" : null,
       "mag_type" : "ML",
@@ -1452,6 +1452,28 @@
       "coordinates" : [ 13.2242, 42.651 ]
     },
     "id" : "40449471"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 10.4,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.651,
+      "event_id" : 40566852,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km SW Accumoli (RI)",
+      "magnitude" : 1.1,
+      "time" : "2024-09-17 15:02:16Z",
+      "mag_author" : null,
+      "longitude" : 13.2242,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.2242, 42.651 ]
+    },
+    "id" : "40566852"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -26532,27 +26554,5 @@
       "coordinates" : [ 6.8567, 44.5248 ]
     },
     "id" : "40151581"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 7.7,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 44.5312,
-      "event_id" : 40151501,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "Confine Italia-Francia (FRANCIA)",
-      "magnitude" : 2.6,
-      "time" : "2024-08-20 10:39:04Z",
-      "mag_author" : null,
-      "longitude" : 6.845,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 6.845, 44.5312 ]
-    },
-    "id" : "40151501"
   } ]
 }
