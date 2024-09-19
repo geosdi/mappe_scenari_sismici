@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 5.4,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 45.5778,
+      "event_id" : 40584142,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km NW Serle (BS)",
+      "magnitude" : 1.2,
+      "time" : "2024-09-19 12:58:28Z",
+      "mag_author" : null,
+      "longitude" : 10.3357,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.3357, 45.5778 ]
+    },
+    "id" : "40584142"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.9,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -139,28 +161,6 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : -5.49141,
-      "event_id" : 40581282,
-      "contributor" : null,
-      "mag_type" : "Mwp",
-      "event_location_name" : "Papua New Guinea [Sea]",
-      "magnitude" : 5.6,
-      "time" : "2024-09-19 08:41:00Z",
-      "mag_author" : null,
-      "longitude" : 147.565,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 147.565, -5.49141 ]
-    },
-    "id" : "40581282"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 177.344,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : -5.49141,
       "event_id" : 40581212,
       "contributor" : null,
       "mag_type" : "Mwp",
@@ -176,6 +176,28 @@
       "coordinates" : [ 147.565, -5.49141 ]
     },
     "id" : "40581212"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 177.344,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : -5.49141,
+      "event_id" : 40581282,
+      "contributor" : null,
+      "mag_type" : "Mwp",
+      "event_location_name" : "Papua New Guinea [Sea]",
+      "magnitude" : 5.6,
+      "time" : "2024-09-19 08:41:00Z",
+      "mag_author" : null,
+      "longitude" : 147.565,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 147.565, -5.49141 ]
+    },
+    "id" : "40581282"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -1459,28 +1481,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 42.5525,
-      "event_id" : 40450931,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km N Capitignano (AQ)",
-      "magnitude" : 1.4,
-      "time" : "2024-09-17 16:04:53Z",
-      "mag_author" : null,
-      "longitude" : 13.3112,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.3112, 42.5525 ]
-    },
-    "id" : "40450931"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 14.1,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.5525,
       "event_id" : 40568442,
       "contributor" : null,
       "mag_type" : "ML",
@@ -1496,6 +1496,28 @@
       "coordinates" : [ 13.3112, 42.5525 ]
     },
     "id" : "40568442"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 14.1,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.5525,
+      "event_id" : 40450931,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km N Capitignano (AQ)",
+      "magnitude" : 1.4,
+      "time" : "2024-09-17 16:04:53Z",
+      "mag_author" : null,
+      "longitude" : 13.3112,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.3112, 42.5525 ]
+    },
+    "id" : "40450931"
   }, {
     "type" : "Feature",
     "properties" : {
