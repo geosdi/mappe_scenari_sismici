@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.7,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.8055,
+      "event_id" : 40593332,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km NE Vecchiano (PI)",
+      "magnitude" : 1.0,
+      "time" : "2024-09-20 15:20:51Z",
+      "mag_author" : null,
+      "longitude" : 10.3997,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.3997, 43.8055 ]
+    },
+    "id" : "40593332"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 13.8,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -2207,28 +2229,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 42.5525,
-      "event_id" : 40450931,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km N Capitignano (AQ)",
-      "magnitude" : 1.4,
-      "time" : "2024-09-17 16:04:53Z",
-      "mag_author" : null,
-      "longitude" : 13.3112,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.3112, 42.5525 ]
-    },
-    "id" : "40450931"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 14.1,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.5525,
       "event_id" : 40568442,
       "contributor" : null,
       "mag_type" : "ML",
@@ -2244,6 +2244,28 @@
       "coordinates" : [ 13.3112, 42.5525 ]
     },
     "id" : "40568442"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 14.1,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.5525,
+      "event_id" : 40450931,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km N Capitignano (AQ)",
+      "magnitude" : 1.4,
+      "time" : "2024-09-17 16:04:53Z",
+      "mag_author" : null,
+      "longitude" : 13.3112,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.3112, 42.5525 ]
+    },
+    "id" : "40450931"
   }, {
     "type" : "Feature",
     "properties" : {
