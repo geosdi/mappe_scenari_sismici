@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.8382,
+      "event_id" : 40690162,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km NE Cerreto di Spoleto (PG)",
+      "magnitude" : 0.9,
+      "time" : "2024-10-02 21:22:10Z",
+      "mag_author" : null,
+      "longitude" : 12.9603,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.9603, 42.8382 ]
+    },
+    "id" : "40690162"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.4,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -10325,28 +10347,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 42.5525,
-      "event_id" : 40568442,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km N Capitignano (AQ)",
-      "magnitude" : 1.4,
-      "time" : "2024-09-17 16:04:53Z",
-      "mag_author" : null,
-      "longitude" : 13.3112,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.3112, 42.5525 ]
-    },
-    "id" : "40568442"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 14.1,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.5525,
       "event_id" : 40450931,
       "contributor" : null,
       "mag_type" : "ML",
@@ -10362,6 +10362,28 @@
       "coordinates" : [ 13.3112, 42.5525 ]
     },
     "id" : "40450931"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 14.1,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.5525,
+      "event_id" : 40568442,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km N Capitignano (AQ)",
+      "magnitude" : 1.4,
+      "time" : "2024-09-17 16:04:53Z",
+      "mag_author" : null,
+      "longitude" : 13.3112,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.3112, 42.5525 ]
+    },
+    "id" : "40568442"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -22770,27 +22792,5 @@
       "coordinates" : [ 12.5057, 43.3968 ]
     },
     "id" : "40296671"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.9,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 36.7408,
-      "event_id" : 40296601,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "Canale di Sicilia meridionale (MARE)",
-      "magnitude" : 2.3,
-      "time" : "2024-09-02 23:35:35Z",
-      "mag_author" : null,
-      "longitude" : 11.6548,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 11.6548, 36.7408 ]
-    },
-    "id" : "40296601"
   } ]
 }
