@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 6.1,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.3803,
+      "event_id" : 40692762,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "7 km S Pietralunga (PG)",
+      "magnitude" : 1.2,
+      "time" : "2024-10-03 09:26:02Z",
+      "mag_author" : null,
+      "longitude" : 12.4558,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.4558, 43.3803 ]
+    },
+    "id" : "40692762"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 7.9,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -9379,28 +9401,6 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : -5.49141,
-      "event_id" : 40581212,
-      "contributor" : null,
-      "mag_type" : "Mwp",
-      "event_location_name" : "Papua New Guinea [Sea]",
-      "magnitude" : 5.6,
-      "time" : "2024-09-19 08:41:00Z",
-      "mag_author" : null,
-      "longitude" : 147.565,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 147.565, -5.49141 ]
-    },
-    "id" : "40581212"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 177.344,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : -5.49141,
       "event_id" : 40581282,
       "contributor" : null,
       "mag_type" : "Mwp",
@@ -9416,6 +9416,28 @@
       "coordinates" : [ 147.565, -5.49141 ]
     },
     "id" : "40581282"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 177.344,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : -5.49141,
+      "event_id" : 40581212,
+      "contributor" : null,
+      "mag_type" : "Mwp",
+      "event_location_name" : "Papua New Guinea [Sea]",
+      "magnitude" : 5.6,
+      "time" : "2024-09-19 08:41:00Z",
+      "mag_author" : null,
+      "longitude" : 147.565,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 147.565, -5.49141 ]
+    },
+    "id" : "40581212"
   }, {
     "type" : "Feature",
     "properties" : {
