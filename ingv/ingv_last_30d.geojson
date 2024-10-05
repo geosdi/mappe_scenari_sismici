@@ -25,6 +25,50 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 1.33,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.829333,
+      "event_id" : 40576461,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 1.5,
+      "time" : "2024-10-05 04:01:22Z",
+      "mag_author" : null,
+      "longitude" : 14.1335,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.1335, 40.829333 ]
+    },
+    "id" : "40576461"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 1.55,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.838333,
+      "event_id" : 40576451,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 1.5,
+      "time" : "2024-10-05 04:00:23Z",
+      "mag_author" : null,
+      "longitude" : 14.13,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.13, 40.838333 ]
+    },
+    "id" : "40576451"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 2.63,
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
@@ -7971,7 +8015,7 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : 44.4788,
-      "event_id" : 40605482,
+      "event_id" : 40605352,
       "contributor" : null,
       "mag_type" : "mb",
       "event_location_name" : "Bosnia and Herz. [Land]",
@@ -7985,7 +8029,7 @@
       "type" : "Point",
       "coordinates" : [ 17.6892, 44.4788 ]
     },
-    "id" : "40605482"
+    "id" : "40605352"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -8015,7 +8059,7 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : 44.4788,
-      "event_id" : 40605352,
+      "event_id" : 40605482,
       "contributor" : null,
       "mag_type" : "mb",
       "event_location_name" : "Bosnia and Herz. [Land]",
@@ -8029,7 +8073,7 @@
       "type" : "Point",
       "coordinates" : [ 17.6892, 44.4788 ]
     },
-    "id" : "40605352"
+    "id" : "40605482"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -11711,28 +11755,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 42.5525,
-      "event_id" : 40568442,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km N Capitignano (AQ)",
-      "magnitude" : 1.4,
-      "time" : "2024-09-17 16:04:53Z",
-      "mag_author" : null,
-      "longitude" : 13.3112,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.3112, 42.5525 ]
-    },
-    "id" : "40568442"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 14.1,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.5525,
       "event_id" : 40450931,
       "contributor" : null,
       "mag_type" : "ML",
@@ -11751,25 +11773,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 15.3,
+      "depth_km" : 14.1,
       "author" : "SURVEY-INGV",
       "catalog" : null,
-      "latitude" : 42.6487,
-      "event_id" : 40568022,
+      "latitude" : 42.5525,
+      "event_id" : 40568442,
       "contributor" : null,
       "mag_type" : "ML",
-      "event_location_name" : "8 km E Amatrice (RI)",
-      "magnitude" : 2.4,
-      "time" : "2024-09-17 15:55:19Z",
+      "event_location_name" : "4 km N Capitignano (AQ)",
+      "magnitude" : 1.4,
+      "time" : "2024-09-17 16:04:53Z",
       "mag_author" : null,
-      "longitude" : 13.378,
+      "longitude" : 13.3112,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 13.378, 42.6487 ]
+      "coordinates" : [ 13.3112, 42.5525 ]
     },
-    "id" : "40568022"
+    "id" : "40568442"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -11792,6 +11814,28 @@
       "coordinates" : [ 13.378, 42.6487 ]
     },
     "id" : "40450581"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 15.3,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.6487,
+      "event_id" : 40568022,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "8 km E Amatrice (RI)",
+      "magnitude" : 2.4,
+      "time" : "2024-09-17 15:55:19Z",
+      "mag_author" : null,
+      "longitude" : 13.378,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.378, 42.6487 ]
+    },
+    "id" : "40568022"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -11865,28 +11909,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 42.651,
-      "event_id" : 40566852,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km SW Accumoli (RI)",
-      "magnitude" : 1.1,
-      "time" : "2024-09-17 15:02:16Z",
-      "mag_author" : null,
-      "longitude" : 13.2242,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.2242, 42.651 ]
-    },
-    "id" : "40566852"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.4,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.651,
       "event_id" : 40449471,
       "contributor" : null,
       "mag_type" : "ML",
@@ -11902,6 +11924,28 @@
       "coordinates" : [ 13.2242, 42.651 ]
     },
     "id" : "40449471"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 10.4,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.651,
+      "event_id" : 40566852,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km SW Accumoli (RI)",
+      "magnitude" : 1.1,
+      "time" : "2024-09-17 15:02:16Z",
+      "mag_author" : null,
+      "longitude" : 13.2242,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.2242, 42.651 ]
+    },
+    "id" : "40566852"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -22176,27 +22220,5 @@
       "coordinates" : [ 12.9847, 43.3862 ]
     },
     "id" : "40318511"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.2,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.8905,
-      "event_id" : 40318461,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km NE Trevi (PG)",
-      "magnitude" : 1.0,
-      "time" : "2024-09-05 06:40:13Z",
-      "mag_author" : null,
-      "longitude" : 12.7777,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.7777, 42.8905 ]
-    },
-    "id" : "40318461"
   } ]
 }
