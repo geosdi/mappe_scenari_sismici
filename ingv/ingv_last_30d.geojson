@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 46.0495,
+      "event_id" : 40685541,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "9 km N Ornavasso (VB)",
+      "magnitude" : 0.9,
+      "time" : "2024-10-22 21:20:53Z",
+      "mag_author" : null,
+      "longitude" : 8.4347,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.4347, 46.0495 ]
+    },
+    "id" : "40685541"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 14.4,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -22110,27 +22132,5 @@
       "coordinates" : [ 14.8722, 41.8377 ]
     },
     "id" : "40608802"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.1,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.8868,
-      "event_id" : 40608632,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "6 km W Sellano (PG)",
-      "magnitude" : 0.7,
-      "time" : "2024-09-22 23:31:01Z",
-      "mag_author" : null,
-      "longitude" : 12.8568,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.8568, 42.8868 ]
-    },
-    "id" : "40608632"
   } ]
 }
