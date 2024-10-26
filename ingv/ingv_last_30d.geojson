@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 12.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.8692,
+      "event_id" : 40709571,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km S Sellano (PG)",
+      "magnitude" : 1.1,
+      "time" : "2024-10-26 17:04:49Z",
+      "mag_author" : null,
+      "longitude" : 12.9362,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.9362, 42.8692 ]
+    },
+    "id" : "40709571"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.8,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -23474,27 +23496,5 @@
       "coordinates" : [ 66.6117, -16.9945 ]
     },
     "id" : "40645842"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 12.3,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.9367,
-      "event_id" : 40645692,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km W Visso (MC)",
-      "magnitude" : 2.1,
-      "time" : "2024-09-26 19:11:08Z",
-      "mag_author" : null,
-      "longitude" : 13.0487,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.0487, 42.9367 ]
-    },
-    "id" : "40645692"
   } ]
 }
