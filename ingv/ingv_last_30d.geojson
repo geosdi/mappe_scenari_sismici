@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 7.7,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.6533,
+      "event_id" : 40708201,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km S Accumoli (RI)",
+      "magnitude" : 1.1,
+      "time" : "2024-10-26 13:48:37Z",
+      "mag_author" : null,
+      "longitude" : 13.2328,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.2328, 42.6533 ]
+    },
+    "id" : "40708201"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 8.4,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -23276,27 +23298,5 @@
       "coordinates" : [ 7.861, 46.5312 ]
     },
     "id" : "40644982"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 5.9,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 39.8955,
-      "event_id" : 40643642,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "Costa Cilentana (Salerno)",
-      "magnitude" : 1.7,
-      "time" : "2024-09-26 15:56:52Z",
-      "mag_author" : null,
-      "longitude" : 15.1653,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 15.1653, 39.8955 ]
-    },
-    "id" : "40643642"
   } ]
 }
