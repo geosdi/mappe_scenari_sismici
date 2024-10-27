@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 20.2,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 39.2158,
+      "event_id" : 40716441,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km E Cellara (CS)",
+      "magnitude" : 2.6,
+      "time" : "2024-10-27 20:15:11Z",
+      "mag_author" : null,
+      "longitude" : 16.366,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.366, 39.2158 ]
+    },
+    "id" : "40716441"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 18.9,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -24200,27 +24222,5 @@
       "coordinates" : [ 12.9637, 42.9637 ]
     },
     "id" : "40655822"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 8.1,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 46.3153,
-      "event_id" : 40655702,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "Confine Italia-Slovenia (SLOVENIA)",
-      "magnitude" : 1.5,
-      "time" : "2024-09-27 21:25:14Z",
-      "mag_author" : null,
-      "longitude" : 13.5855,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.5855, 46.3153 ]
-    },
-    "id" : "40655702"
   } ]
 }
