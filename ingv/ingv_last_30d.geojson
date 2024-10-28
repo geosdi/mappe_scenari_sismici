@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 11.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.7608,
+      "event_id" : 40722161,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km SE Verghereto (FC)",
+      "magnitude" : 1.5,
+      "time" : "2024-10-28 11:03:33Z",
+      "mag_author" : null,
+      "longitude" : 12.0242,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.0242, 43.7608 ]
+    },
+    "id" : "40722161"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 14.6,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -22,6 +44,28 @@
       "coordinates" : [ 12.0312, 43.7582 ]
     },
     "id" : "40722081"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 19.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 39.2173,
+      "event_id" : 40722031,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km E Cellara (CS)",
+      "magnitude" : 2.8,
+      "time" : "2024-10-28 11:00:53Z",
+      "mag_author" : null,
+      "longitude" : 16.3688,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.3688, 39.2173 ]
+    },
+    "id" : "40722031"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -25388,27 +25432,5 @@
       "coordinates" : [ 12.8528, 43.2087 ]
     },
     "id" : "40661442"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 30.371,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 37.5425,
-      "event_id" : 40660812,
-      "contributor" : null,
-      "mag_type" : "mb",
-      "event_location_name" : "Costa Occidentale Peloponneso (GRECIA)",
-      "magnitude" : 4.9,
-      "time" : "2024-09-28 12:18:18Z",
-      "mag_author" : null,
-      "longitude" : 21.3913,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 21.3913, 37.5425 ]
-    },
-    "id" : "40660812"
   } ]
 }
