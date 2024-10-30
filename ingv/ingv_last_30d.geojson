@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 22.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.0947,
+      "event_id" : 40734341,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km SE San Ginesio (MC)",
+      "magnitude" : 1.0,
+      "time" : "2024-10-30 00:56:33Z",
+      "mag_author" : null,
+      "longitude" : 13.3372,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.3372, 43.0947 ]
+    },
+    "id" : "40734341"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 12.2,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -27258,27 +27280,5 @@
       "coordinates" : [ 10.9238, 44.4603 ]
     },
     "id" : "40669962"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 11.4,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.0048,
-      "event_id" : 40669902,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km W Monte Cavallo (MC)",
-      "magnitude" : 1.1,
-      "time" : "2024-09-30 02:07:11Z",
-      "mag_author" : null,
-      "longitude" : 12.9578,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.9578, 43.0048 ]
-    },
-    "id" : "40669902"
   } ]
 }
