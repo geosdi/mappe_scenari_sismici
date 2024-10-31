@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 13.2,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.6747,
+      "event_id" : 40743551,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km SW Accumoli (RI)",
+      "magnitude" : 0.9,
+      "time" : "2024-10-31 10:59:00Z",
+      "mag_author" : null,
+      "longitude" : 13.2063,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.2063, 42.6747 ]
+    },
+    "id" : "40743551"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 8.4,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -28072,27 +28094,5 @@
       "coordinates" : [ 13.2153, 43.3335 ]
     },
     "id" : "40680512"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 25.7,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.9903,
-      "event_id" : 40679932,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km E Bolognola (MC)",
-      "magnitude" : 1.9,
-      "time" : "2024-10-01 12:06:41Z",
-      "mag_author" : null,
-      "longitude" : 13.2643,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.2643, 42.9903 ]
-    },
-    "id" : "40679932"
   } ]
 }
