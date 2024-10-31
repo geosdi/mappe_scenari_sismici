@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.7,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 46.3593,
+      "event_id" : 40744341,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km N Venzone (UD)",
+      "magnitude" : 1.6,
+      "time" : "2024-10-31 12:25:28Z",
+      "mag_author" : null,
+      "longitude" : 13.1468,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.1468, 46.3593 ]
+    },
+    "id" : "40744341"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 127.7,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -28226,27 +28248,5 @@
       "coordinates" : [ 15.9413, 37.3687 ]
     },
     "id" : "40680582"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 8.7,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.3335,
-      "event_id" : 40680512,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km S Cingoli (MC)",
-      "magnitude" : 1.8,
-      "time" : "2024-10-01 13:32:01Z",
-      "mag_author" : null,
-      "longitude" : 13.2153,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.2153, 43.3335 ]
-    },
-    "id" : "40680512"
   } ]
 }
