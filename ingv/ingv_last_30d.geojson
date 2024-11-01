@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 8.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.2735,
+      "event_id" : 40747781,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km SW Pomarance (PI)",
+      "magnitude" : 1.1,
+      "time" : "2024-11-01 00:06:00Z",
+      "mag_author" : null,
+      "longitude" : 10.825,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.825, 43.2735 ]
+    },
+    "id" : "40747781"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.8,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -28204,27 +28226,5 @@
       "coordinates" : [ 13.3647, 42.5463 ]
     },
     "id" : "40683282"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 22.3,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 38.4883,
-      "event_id" : 40683212,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "6 km W Fabrizia (VV)",
-      "magnitude" : 1.4,
-      "time" : "2024-10-02 01:15:31Z",
-      "mag_author" : null,
-      "longitude" : 16.2367,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 16.2367, 38.4883 ]
-    },
-    "id" : "40683212"
   } ]
 }
