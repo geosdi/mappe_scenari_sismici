@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 11.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.6797,
+      "event_id" : 40777741,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km SE Scheggino (PG)",
+      "magnitude" : 1.1,
+      "time" : "2024-11-05 15:27:31Z",
+      "mag_author" : null,
+      "longitude" : 12.8625,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.8625, 42.6797 ]
+    },
+    "id" : "40777741"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 11.5,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -29172,27 +29194,5 @@
       "coordinates" : [ 16.9747, 40.7815 ]
     },
     "id" : "40586661"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 5.9,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.392,
-      "event_id" : 40586431,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "7 km NW Gubbio (PG)",
-      "magnitude" : 0.8,
-      "time" : "2024-10-06 16:44:12Z",
-      "mag_author" : null,
-      "longitude" : 12.514,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.514, 43.392 ]
-    },
-    "id" : "40586431"
   } ]
 }
