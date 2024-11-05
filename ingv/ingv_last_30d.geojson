@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 0.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 46.1463,
+      "event_id" : 40778591,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "Albiano (TN)",
+      "magnitude" : 0.6,
+      "time" : "2024-11-05 17:48:07Z",
+      "mag_author" : null,
+      "longitude" : 11.1955,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.1955, 46.1463 ]
+    },
+    "id" : "40778591"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 9.7,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -29260,27 +29282,5 @@
       "coordinates" : [ 13.0013, 43.0675 ]
     },
     "id" : "40587131"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.9,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.7768,
-      "event_id" : 40587011,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km SW Norcia (PG)",
-      "magnitude" : 0.8,
-      "time" : "2024-10-06 18:57:20Z",
-      "mag_author" : null,
-      "longitude" : 13.0777,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.0777, 42.7768 ]
-    },
-    "id" : "40587011"
   } ]
 }
