@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 11.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 40.7163,
+      "event_id" : 40790951,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km E Colliano (SA)",
+      "magnitude" : 0.8,
+      "time" : "2024-11-08 00:17:20Z",
+      "mag_author" : null,
+      "longitude" : 15.3222,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 15.3222, 40.7163 ]
+    },
+    "id" : "40790951"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.2,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -29634,49 +29656,5 @@
       "coordinates" : [ 13.1293, 42.9057 ]
     },
     "id" : "40600381"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 15.3,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.0112,
-      "event_id" : 40600261,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km N Monte Cavallo (MC)",
-      "magnitude" : 1.0,
-      "time" : "2024-10-09 01:41:12Z",
-      "mag_author" : null,
-      "longitude" : 13.006,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.006, 43.0112 ]
-    },
-    "id" : "40600261"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 6.8,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.4282,
-      "event_id" : 40600231,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km E Pietralunga (PG)",
-      "magnitude" : 1.3,
-      "time" : "2024-10-09 01:39:18Z",
-      "mag_author" : null,
-      "longitude" : 12.4797,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.4797, 43.4282 ]
-    },
-    "id" : "40600231"
   } ]
 }
