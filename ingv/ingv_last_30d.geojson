@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 4.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 44.884,
+      "event_id" : 40803821,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "6 km S Canaro (RO)",
+      "magnitude" : 1.8,
+      "time" : "2024-11-10 00:18:45Z",
+      "mag_author" : null,
+      "longitude" : 11.6592,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.6592, 44.884 ]
+    },
+    "id" : "40803821"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 11.3,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -30756,27 +30778,5 @@
       "coordinates" : [ 16.2373, 38.4893 ]
     },
     "id" : "40618591"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.2,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.7192,
-      "event_id" : 40618471,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km N Accumoli (RI)",
-      "magnitude" : 1.3,
-      "time" : "2024-10-11 01:41:22Z",
-      "mag_author" : null,
-      "longitude" : 13.246,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.246, 42.7192 ]
-    },
-    "id" : "40618471"
   } ]
 }
