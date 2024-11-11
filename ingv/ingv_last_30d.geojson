@@ -3,6 +3,50 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 25.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 45.4893,
+      "event_id" : 40809591,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "Trausella (TO)",
+      "magnitude" : 0.7,
+      "time" : "2024-11-11 00:41:32Z",
+      "mag_author" : null,
+      "longitude" : 7.7703,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.7703, 45.4893 ]
+    },
+    "id" : "40809591"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 13.1,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.3487,
+      "event_id" : 40809531,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km N Sigillo (PG)",
+      "magnitude" : 0.7,
+      "time" : "2024-11-11 00:33:29Z",
+      "mag_author" : null,
+      "longitude" : 12.7387,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.7387, 43.3487 ]
+    },
+    "id" : "40809531"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.0,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -30932,27 +30976,5 @@
       "coordinates" : [ 13.1333, 42.7868 ]
     },
     "id" : "40625251"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.0545,
-      "event_id" : 40625201,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km E Valtopina (PG)",
-      "magnitude" : 0.9,
-      "time" : "2024-10-12 01:44:53Z",
-      "mag_author" : null,
-      "longitude" : 12.804,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.804, 43.0545 ]
-    },
-    "id" : "40625201"
   } ]
 }
