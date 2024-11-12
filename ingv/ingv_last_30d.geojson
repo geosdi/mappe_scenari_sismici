@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 13.1,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.5068,
+      "event_id" : 40822031,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km SW Montereale (AQ)",
+      "magnitude" : 1.3,
+      "time" : "2024-11-12 21:31:50Z",
+      "mag_author" : null,
+      "longitude" : 13.2233,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.2233, 42.5068 ]
+    },
+    "id" : "40822031"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.2,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -30800,27 +30822,5 @@
       "coordinates" : [ 6.7058, 44.5862 ]
     },
     "id" : "40639891"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 31.4,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 39.2362,
-      "event_id" : 40639881,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "Costa Calabra nord-occidentale (Cosenza)",
-      "magnitude" : 1.8,
-      "time" : "2024-10-13 22:41:06Z",
-      "mag_author" : null,
-      "longitude" : 15.9502,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 15.9502, 39.2362 ]
-    },
-    "id" : "40639881"
   } ]
 }
