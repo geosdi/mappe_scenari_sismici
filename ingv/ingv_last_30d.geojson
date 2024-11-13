@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 13.4,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.0555,
+      "event_id" : 40826801,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km W Pieve Torina (MC)",
+      "magnitude" : 0.7,
+      "time" : "2024-11-13 16:13:17Z",
+      "mag_author" : null,
+      "longitude" : 13.0118,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.0118, 43.0555 ]
+    },
+    "id" : "40826801"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 38.4,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -30778,27 +30800,5 @@
       "coordinates" : [ 13.2227, 42.8463 ]
     },
     "id" : "40644591"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.6,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.7487,
-      "event_id" : 40644531,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km N Poggiodomo (PG)",
-      "magnitude" : 1.8,
-      "time" : "2024-10-14 17:23:17Z",
-      "mag_author" : null,
-      "longitude" : 12.9372,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.9372, 42.7487 ]
-    },
-    "id" : "40644531"
   } ]
 }
