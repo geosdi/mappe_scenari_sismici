@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.1,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.9448,
+      "event_id" : 40828981,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "1 km W Ussita (MC)",
+      "magnitude" : 1.2,
+      "time" : "2024-11-14 08:19:22Z",
+      "mag_author" : null,
+      "longitude" : 13.13,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.13, 42.9448 ]
+    },
+    "id" : "40828981"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 11.5,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -31020,27 +31042,5 @@
       "coordinates" : [ 17.1623, 39.2807 ]
     },
     "id" : "40647081"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.4,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.6992,
-      "event_id" : 40647011,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "9 km N Cittareale (RI)",
-      "magnitude" : 1.4,
-      "time" : "2024-10-15 09:30:23Z",
-      "mag_author" : null,
-      "longitude" : 13.1357,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.1357, 42.6992 ]
-    },
-    "id" : "40647011"
   } ]
 }
