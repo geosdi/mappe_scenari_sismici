@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 2.1,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.4427,
+      "event_id" : 40831011,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "1 km SE Serra San Quirico (AN)",
+      "magnitude" : 1.1,
+      "time" : "2024-11-14 16:31:29Z",
+      "mag_author" : null,
+      "longitude" : 13.0182,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.0182, 43.4427 ]
+    },
+    "id" : "40831011"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 18.1,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -30954,27 +30976,5 @@
       "coordinates" : [ 13.0467, 43.0605 ]
     },
     "id" : "40649741"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 112.6,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 38.33,
-      "event_id" : 40649591,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "Costa Siciliana nord-orientale (Messina)",
-      "magnitude" : 1.9,
-      "time" : "2024-10-15 17:46:01Z",
-      "mag_author" : null,
-      "longitude" : 15.2237,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 15.2237, 38.33 ]
-    },
-    "id" : "40649591"
   } ]
 }
