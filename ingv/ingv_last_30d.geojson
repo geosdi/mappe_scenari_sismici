@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 12.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.9792,
+      "event_id" : 40838101,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km SW Monte Cavallo (MC)",
+      "magnitude" : 1.1,
+      "time" : "2024-11-16 02:29:24Z",
+      "mag_author" : null,
+      "longitude" : 12.9707,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.9707, 42.9792 ]
+    },
+    "id" : "40838101"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 2.65,
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
@@ -30888,27 +30910,5 @@
       "coordinates" : [ 12.5893, 46.3682 ]
     },
     "id" : "40657101"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 22.1,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.134,
-      "event_id" : 40657071,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km W Montappone (FM)",
-      "magnitude" : 1.0,
-      "time" : "2024-10-17 03:38:20Z",
-      "mag_author" : null,
-      "longitude" : 13.4272,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.4272, 43.134 ]
-    },
-    "id" : "40657071"
   } ]
 }
