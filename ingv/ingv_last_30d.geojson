@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.9273,
+      "event_id" : 40849631,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km SE Foligno (PG)",
+      "magnitude" : 1.0,
+      "time" : "2024-11-18 11:40:39Z",
+      "mag_author" : null,
+      "longitude" : 12.7403,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.7403, 42.9273 ]
+    },
+    "id" : "40849631"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 11.0,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -30294,27 +30316,5 @@
       "coordinates" : [ 12.6995, 43.5037 ]
     },
     "id" : "40670551"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.9,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.3617,
-      "event_id" : 40670501,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "8 km W Gubbio (PG)",
-      "magnitude" : 1.2,
-      "time" : "2024-10-19 12:51:02Z",
-      "mag_author" : null,
-      "longitude" : 12.4825,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.4825, 43.3617 ]
-    },
-    "id" : "40670501"
   } ]
 }
