@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 44.5238,
+      "event_id" : 40852301,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "11 km W Acceglio (CN)",
+      "magnitude" : 1.2,
+      "time" : "2024-11-19 05:09:49Z",
+      "mag_author" : null,
+      "longitude" : 6.8748,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.8748, 44.5238 ]
+    },
+    "id" : "40852301"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.8,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -30712,27 +30734,5 @@
       "coordinates" : [ 13.1803, 42.8907 ]
     },
     "id" : "40672671"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.4,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.299,
-      "event_id" : 40672591,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km NW San Pio delle Camere (AQ)",
-      "magnitude" : 1.8,
-      "time" : "2024-10-20 06:20:52Z",
-      "mag_author" : null,
-      "longitude" : 13.6443,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.6443, 42.299 ]
-    },
-    "id" : "40672591"
   } ]
 }
