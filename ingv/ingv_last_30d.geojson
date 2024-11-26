@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 11.7,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.0783,
+      "event_id" : 40936041,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km W Serravalle di Chienti (MC)",
+      "magnitude" : 0.3,
+      "time" : "2024-11-26 18:39:22Z",
+      "mag_author" : null,
+      "longitude" : 12.9353,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.9353, 43.0783 ]
+    },
+    "id" : "40936041"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 12.0,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -29018,27 +29040,5 @@
       "coordinates" : [ 16.3653, 39.222 ]
     },
     "id" : "40715941"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 21.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 39.2208,
-      "event_id" : 40715851,
-      "contributor" : null,
-      "mag_type" : "Mw",
-      "event_location_name" : "3 km E Cellara (CS)",
-      "magnitude" : 3.6,
-      "time" : "2024-10-27 19:51:55Z",
-      "mag_author" : null,
-      "longitude" : 16.3688,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 16.3688, 39.2208 ]
-    },
-    "id" : "40715851"
   } ]
 }
