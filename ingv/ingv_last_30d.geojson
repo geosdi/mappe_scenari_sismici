@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.1,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.797,
+      "event_id" : 40948771,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km SE Cerreto di Spoleto (PG)",
+      "magnitude" : 0.9,
+      "time" : "2024-11-28 18:35:43Z",
+      "mag_author" : null,
+      "longitude" : 12.9563,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.9563, 42.797 ]
+    },
+    "id" : "40948771"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.7,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -27258,27 +27280,5 @@
       "coordinates" : [ 12.5908, 43.2093 ]
     },
     "id" : "40733881"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 11.8,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.0145,
-      "event_id" : 40733861,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km NW Monte Cavallo (MC)",
-      "magnitude" : 1.4,
-      "time" : "2024-10-29 19:43:29Z",
-      "mag_author" : null,
-      "longitude" : 12.9792,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.9792, 43.0145 ]
-    },
-    "id" : "40733861"
   } ]
 }
