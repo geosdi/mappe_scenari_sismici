@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 19.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 44.2962,
+      "event_id" : 40955481,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km NW Riolo Terme (RA)",
+      "magnitude" : 1.2,
+      "time" : "2024-11-29 20:59:17Z",
+      "mag_author" : null,
+      "longitude" : 11.6962,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.6962, 44.2962 ]
+    },
+    "id" : "40955481"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.2,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -27478,27 +27500,5 @@
       "coordinates" : [ 12.4278, 43.4818 ]
     },
     "id" : "40740681"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.7,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.6803,
-      "event_id" : 40740641,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km W Accumoli (RI)",
-      "magnitude" : 0.8,
-      "time" : "2024-10-30 22:09:29Z",
-      "mag_author" : null,
-      "longitude" : 13.2067,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.2067, 42.6803 ]
-    },
-    "id" : "40740641"
   } ]
 }
