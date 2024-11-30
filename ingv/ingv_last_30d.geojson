@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 18.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 39.2123,
+      "event_id" : 40956061,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km E Cellara (CS)",
+      "magnitude" : 0.8,
+      "time" : "2024-11-30 02:02:55Z",
+      "mag_author" : null,
+      "longitude" : 16.3843,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.3843, 39.2123 ]
+    },
+    "id" : "40956061"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.0,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -27280,27 +27302,5 @@
       "coordinates" : [ 14.1128, 37.863 ]
     },
     "id" : "40741311"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.9,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 39.57,
-      "event_id" : 40741191,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km S Tarsia (CS)",
-      "magnitude" : 0.6,
-      "time" : "2024-10-31 03:07:55Z",
-      "mag_author" : null,
-      "longitude" : 16.2675,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 16.2675, 39.57 ]
-    },
-    "id" : "40741191"
   } ]
 }
