@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 15.4,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.5508,
+      "event_id" : 41077332,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km N Montereale (AQ)",
+      "magnitude" : 1.1,
+      "time" : "2024-12-04 17:25:20Z",
+      "mag_author" : null,
+      "longitude" : 13.2483,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.2483, 42.5508 ]
+    },
+    "id" : "41077332"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 20.7,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -26576,27 +26598,5 @@
       "coordinates" : [ 12.8215, 43.6268 ]
     },
     "id" : "40773191"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 13.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.4182,
-      "event_id" : 40773071,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "7 km W Sassoferrato (AN)",
-      "magnitude" : 1.0,
-      "time" : "2024-11-04 18:37:07Z",
-      "mag_author" : null,
-      "longitude" : 12.7782,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.7782, 43.4182 ]
-    },
-    "id" : "40773071"
   } ]
 }
