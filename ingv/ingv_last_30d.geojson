@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.3,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 44.5195,
+      "event_id" : 41074282,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "9 km NW Acceglio (CN)",
+      "magnitude" : 1.7,
+      "time" : "2024-12-04 03:11:09Z",
+      "mag_author" : null,
+      "longitude" : 6.903,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.903, 44.5195 ]
+    },
+    "id" : "41074282"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 21.5,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -26378,27 +26400,5 @@
       "coordinates" : [ 12.7955, 41.923 ]
     },
     "id" : "40769701"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 30.1,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 41.8663,
-      "event_id" : 40769441,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km SE Vico del Gargano (FG)",
-      "magnitude" : 1.8,
-      "time" : "2024-11-04 07:05:24Z",
-      "mag_author" : null,
-      "longitude" : 15.9702,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 15.9702, 41.8663 ]
-    },
-    "id" : "40769441"
   } ]
 }
