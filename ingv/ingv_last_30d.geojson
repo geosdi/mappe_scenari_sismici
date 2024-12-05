@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.172,
+      "event_id" : 40986841,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "7 km N Nocera Umbra (PG)",
+      "magnitude" : 0.7,
+      "time" : "2024-12-05 23:39:06Z",
+      "mag_author" : null,
+      "longitude" : 12.7938,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.7938, 43.172 ]
+    },
+    "id" : "40986841"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 14.9,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -26642,27 +26664,5 @@
       "coordinates" : [ 12.2637, 43.7368 ]
     },
     "id" : "40779801"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.3,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.9843,
-      "event_id" : 40779791,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km E Monte Cavallo (MC)",
-      "magnitude" : 1.0,
-      "time" : "2024-11-06 00:46:53Z",
-      "mag_author" : null,
-      "longitude" : 13.0282,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.0282, 42.9843 ]
-    },
-    "id" : "40779791"
   } ]
 }
