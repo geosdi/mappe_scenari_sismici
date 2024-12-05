@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 3.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.42,
+      "event_id" : 40986631,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "Adriatico Centrale (MARE)",
+      "magnitude" : 3.0,
+      "time" : "2024-12-05 20:59:52Z",
+      "mag_author" : null,
+      "longitude" : 16.0737,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.0737, 42.42 ]
+    },
+    "id" : "40986631"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.8,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -26774,27 +26796,5 @@
       "coordinates" : [ 13.0792, 42.8218 ]
     },
     "id" : "40779381"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 16.4,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.679,
-      "event_id" : 40779351,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km W Rocca Santa Maria (TE)",
-      "magnitude" : 0.8,
-      "time" : "2024-11-05 22:09:31Z",
-      "mag_author" : null,
-      "longitude" : 13.4873,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.4873, 42.679 ]
-    },
-    "id" : "40779351"
   } ]
 }
