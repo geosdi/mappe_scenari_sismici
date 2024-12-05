@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 12.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.0483,
+      "event_id" : 40986341,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km S Serravalle di Chienti (MC)",
+      "magnitude" : 1.0,
+      "time" : "2024-12-05 19:05:54Z",
+      "mag_author" : null,
+      "longitude" : 12.9572,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.9572, 43.0483 ]
+    },
+    "id" : "40986341"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 15.234,
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
@@ -26752,27 +26774,5 @@
       "coordinates" : [ 12.9325, 42.8805 ]
     },
     "id" : "40779131"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 11.6,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.9073,
-      "event_id" : 40779111,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km NW Preci (PG)",
-      "magnitude" : 0.7,
-      "time" : "2024-11-05 20:57:04Z",
-      "mag_author" : null,
-      "longitude" : 12.9972,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.9972, 42.9073 ]
-    },
-    "id" : "40779111"
   } ]
 }
