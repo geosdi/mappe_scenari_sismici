@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.7,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.9343,
+      "event_id" : 40986891,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km E Visso (MC)",
+      "magnitude" : 0.9,
+      "time" : "2024-12-05 23:46:09Z",
+      "mag_author" : null,
+      "longitude" : 13.1152,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.1152, 42.9343 ]
+    },
+    "id" : "40986891"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.6,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -26642,27 +26664,5 @@
       "coordinates" : [ 14.127, 40.8335 ]
     },
     "id" : "40779891"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 11.1,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.7368,
-      "event_id" : 40779801,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km NW Sestino (AR)",
-      "magnitude" : 0.6,
-      "time" : "2024-11-06 00:51:32Z",
-      "mag_author" : null,
-      "longitude" : 12.2637,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.2637, 43.7368 ]
-    },
-    "id" : "40779801"
   } ]
 }
