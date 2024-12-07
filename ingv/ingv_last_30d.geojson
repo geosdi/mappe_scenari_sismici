@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.7798,
+      "event_id" : 40994361,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km SW Norcia (PG)",
+      "magnitude" : 1.0,
+      "time" : "2024-12-07 08:18:42Z",
+      "mag_author" : null,
+      "longitude" : 13.0712,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.0712, 42.7798 ]
+    },
+    "id" : "40994361"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 8.9,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -26796,27 +26818,5 @@
       "coordinates" : [ 13.1648, 43.1488 ]
     },
     "id" : "40788031"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 2.85,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.827833,
-      "event_id" : 40787921,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 1.0,
-      "time" : "2024-11-07 09:34:43Z",
-      "mag_author" : null,
-      "longitude" : 14.136667,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.136667, 40.827833 ]
-    },
-    "id" : "40787921"
   } ]
 }
