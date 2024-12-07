@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 13.3,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.0343,
+      "event_id" : 40998411,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "1 km W Fiordimonte (MC)",
+      "magnitude" : 1.1,
+      "time" : "2024-12-07 23:09:54Z",
+      "mag_author" : null,
+      "longitude" : 13.0747,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.0747, 43.0343 ]
+    },
+    "id" : "40998411"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.7,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -26928,27 +26950,5 @@
       "coordinates" : [ 16.2792, 38.596 ]
     },
     "id" : "40791021"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 11.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 40.7163,
-      "event_id" : 40790951,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km E Colliano (SA)",
-      "magnitude" : 0.8,
-      "time" : "2024-11-08 00:17:20Z",
-      "mag_author" : null,
-      "longitude" : 15.3222,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 15.3222, 40.7163 ]
-    },
-    "id" : "40790951"
   } ]
 }
