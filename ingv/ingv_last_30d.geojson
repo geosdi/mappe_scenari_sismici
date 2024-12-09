@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 8.4,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 39.3902,
+      "event_id" : 41006631,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "8 km SE Longobucco (CS)",
+      "magnitude" : 1.1,
+      "time" : "2024-12-09 23:09:59Z",
+      "mag_author" : null,
+      "longitude" : 16.6643,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.6643, 39.3902 ]
+    },
+    "id" : "41006631"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 15.0,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -26136,27 +26158,5 @@
       "coordinates" : [ 6.8802, 44.4913 ]
     },
     "id" : "40803941"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 4.8,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 44.884,
-      "event_id" : 40803821,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "6 km S Canaro (RO)",
-      "magnitude" : 1.8,
-      "time" : "2024-11-10 00:18:45Z",
-      "mag_author" : null,
-      "longitude" : 11.6592,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 11.6592, 44.884 ]
-    },
-    "id" : "40803821"
   } ]
 }
