@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 8.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 41.6338,
+      "event_id" : 41004901,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km N Scapoli (IS)",
+      "magnitude" : 1.1,
+      "time" : "2024-12-09 12:45:25Z",
+      "mag_author" : null,
+      "longitude" : 14.0602,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.0602, 41.6338 ]
+    },
+    "id" : "41004901"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.6,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -26620,27 +26642,5 @@
       "coordinates" : [ 14.937, 38.553 ]
     },
     "id" : "40800931"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.2,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.7597,
-      "event_id" : 40800721,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km NE Spoleto (PG)",
-      "magnitude" : 1.7,
-      "time" : "2024-11-09 14:19:55Z",
-      "mag_author" : null,
-      "longitude" : 12.7498,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.7498, 42.7597 ]
-    },
-    "id" : "40800721"
   } ]
 }
