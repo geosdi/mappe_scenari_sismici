@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 11.1,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 44.1285,
+      "event_id" : 41007001,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km S Lizzano in Belvedere (BO)",
+      "magnitude" : 1.6,
+      "time" : "2024-12-10 01:39:10Z",
+      "mag_author" : null,
+      "longitude" : 10.905,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.905, 44.1285 ]
+    },
+    "id" : "41007001"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 20.4,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -26092,27 +26114,5 @@
       "coordinates" : [ 13.2378, 43.0087 ]
     },
     "id" : "40804281"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 7.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 38.9743,
-      "event_id" : 40804221,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km E Feroleto Antico (CZ)",
-      "magnitude" : 0.9,
-      "time" : "2024-11-10 02:47:10Z",
-      "mag_author" : null,
-      "longitude" : 16.4255,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 16.4255, 38.9743 ]
-    },
-    "id" : "40804221"
   } ]
 }
