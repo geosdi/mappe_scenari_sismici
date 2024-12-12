@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 4.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 41.2993,
+      "event_id" : 41017851,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km NW Roccamonfina (CE)",
+      "magnitude" : 1.9,
+      "time" : "2024-12-12 19:04:49Z",
+      "mag_author" : null,
+      "longitude" : 13.9678,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.9678, 41.2993 ]
+    },
+    "id" : "41017851"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 16.0,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -3065,28 +3087,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 41.2998,
-      "event_id" : 41110312,
-      "contributor" : null,
-      "mag_type" : "Mw",
-      "event_location_name" : "2 km NW Roccamonfina (CE)",
-      "magnitude" : 3.6,
-      "time" : "2024-12-09 06:33:05Z",
-      "mag_author" : null,
-      "longitude" : 13.9618,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.9618, 41.2998 ]
-    },
-    "id" : "41110312"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 1.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 41.2998,
       "event_id" : 41003461,
       "contributor" : null,
       "mag_type" : "Mw",
@@ -3102,6 +3102,28 @@
       "coordinates" : [ 13.9618, 41.2998 ]
     },
     "id" : "41003461"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 1.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 41.2998,
+      "event_id" : 41110312,
+      "contributor" : null,
+      "mag_type" : "Mw",
+      "event_location_name" : "2 km NW Roccamonfina (CE)",
+      "magnitude" : 3.6,
+      "time" : "2024-12-09 06:33:05Z",
+      "mag_author" : null,
+      "longitude" : 13.9618,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.9618, 41.2998 ]
+    },
+    "id" : "41110312"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -25432,27 +25454,5 @@
       "coordinates" : [ 13.1288, 42.9853 ]
     },
     "id" : "40821741"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 11.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.4007,
-      "event_id" : 40821701,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km W Scheggia e Pascelupo (PG)",
-      "magnitude" : 0.6,
-      "time" : "2024-11-12 20:15:07Z",
-      "mag_author" : null,
-      "longitude" : 12.6148,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.6148, 43.4007 ]
-    },
-    "id" : "40821701"
   } ]
 }
