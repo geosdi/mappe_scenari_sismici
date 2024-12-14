@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.7,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.3163,
+      "event_id" : 41026911,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km SE Gubbio (PG)",
+      "magnitude" : 0.8,
+      "time" : "2024-12-14 16:37:59Z",
+      "mag_author" : null,
+      "longitude" : 12.6143,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.6143, 43.3163 ]
+    },
+    "id" : "41026911"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 3.02,
       "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
       "catalog" : null,
@@ -4737,28 +4759,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 41.2998,
-      "event_id" : 41003461,
-      "contributor" : null,
-      "mag_type" : "Mw",
-      "event_location_name" : "2 km NW Roccamonfina (CE)",
-      "magnitude" : 3.6,
-      "time" : "2024-12-09 06:33:05Z",
-      "mag_author" : null,
-      "longitude" : 13.9618,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.9618, 41.2998 ]
-    },
-    "id" : "41003461"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 1.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 41.2998,
       "event_id" : 41110312,
       "contributor" : null,
       "mag_type" : "Mw",
@@ -4774,6 +4774,28 @@
       "coordinates" : [ 13.9618, 41.2998 ]
     },
     "id" : "41110312"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 1.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 41.2998,
+      "event_id" : 41003461,
+      "contributor" : null,
+      "mag_type" : "Mw",
+      "event_location_name" : "2 km NW Roccamonfina (CE)",
+      "magnitude" : 3.6,
+      "time" : "2024-12-09 06:33:05Z",
+      "mag_author" : null,
+      "longitude" : 13.9618,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.9618, 41.2998 ]
+    },
+    "id" : "41003461"
   }, {
     "type" : "Feature",
     "properties" : {
