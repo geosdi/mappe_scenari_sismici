@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 8.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.1583,
+      "event_id" : 41028211,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km E Valfabbrica (PG)",
+      "magnitude" : 1.1,
+      "time" : "2024-12-14 23:06:39Z",
+      "mag_author" : null,
+      "longitude" : 12.6503,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.6503, 43.1583 ]
+    },
+    "id" : "41028211"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 11.0,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -5001,28 +5023,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 41.2998,
-      "event_id" : 41110312,
-      "contributor" : null,
-      "mag_type" : "Mw",
-      "event_location_name" : "2 km NW Roccamonfina (CE)",
-      "magnitude" : 3.6,
-      "time" : "2024-12-09 06:33:05Z",
-      "mag_author" : null,
-      "longitude" : 13.9618,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.9618, 41.2998 ]
-    },
-    "id" : "41110312"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 1.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 41.2998,
       "event_id" : 41003461,
       "contributor" : null,
       "mag_type" : "Mw",
@@ -5038,6 +5038,28 @@
       "coordinates" : [ 13.9618, 41.2998 ]
     },
     "id" : "41003461"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 1.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 41.2998,
+      "event_id" : 41110312,
+      "contributor" : null,
+      "mag_type" : "Mw",
+      "event_location_name" : "2 km NW Roccamonfina (CE)",
+      "magnitude" : 3.6,
+      "time" : "2024-12-09 06:33:05Z",
+      "mag_author" : null,
+      "longitude" : 13.9618,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.9618, 41.2998 ]
+    },
+    "id" : "41110312"
   }, {
     "type" : "Feature",
     "properties" : {
