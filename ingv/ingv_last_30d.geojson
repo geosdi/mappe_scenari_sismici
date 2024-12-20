@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 27.7,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 44.162,
+      "event_id" : 41176382,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km NW Bertinoro (FC)",
+      "magnitude" : 1.7,
+      "time" : "2024-12-20 16:53:11Z",
+      "mag_author" : null,
+      "longitude" : 12.1195,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.1195, 44.162 ]
+    },
+    "id" : "41176382"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.2,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -10325,28 +10347,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 41.2998,
-      "event_id" : 41003461,
-      "contributor" : null,
-      "mag_type" : "Mw",
-      "event_location_name" : "2 km NW Roccamonfina (CE)",
-      "magnitude" : 3.6,
-      "time" : "2024-12-09 06:33:05Z",
-      "mag_author" : null,
-      "longitude" : 13.9618,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.9618, 41.2998 ]
-    },
-    "id" : "41003461"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 1.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 41.2998,
       "event_id" : 41110312,
       "contributor" : null,
       "mag_type" : "Mw",
@@ -10362,6 +10362,28 @@
       "coordinates" : [ 13.9618, 41.2998 ]
     },
     "id" : "41110312"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 1.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 41.2998,
+      "event_id" : 41003461,
+      "contributor" : null,
+      "mag_type" : "Mw",
+      "event_location_name" : "2 km NW Roccamonfina (CE)",
+      "magnitude" : 3.6,
+      "time" : "2024-12-09 06:33:05Z",
+      "mag_author" : null,
+      "longitude" : 13.9618,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.9618, 41.2998 ]
+    },
+    "id" : "41003461"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -26840,27 +26862,5 @@
       "coordinates" : [ 13.0512, 43.1248 ]
     },
     "id" : "40881461"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 58.3,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 44.2185,
-      "event_id" : 40880011,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km NW Gaggio Montano (BO)",
-      "magnitude" : 2.8,
-      "time" : "2024-11-20 18:04:38Z",
-      "mag_author" : null,
-      "longitude" : 10.9223,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 10.9223, 44.2185 ]
-    },
-    "id" : "40880011"
   } ]
 }
