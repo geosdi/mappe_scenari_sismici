@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 14.2,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 41.7547,
+      "event_id" : 41178062,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km W Pescosolido (FR)",
+      "magnitude" : 1.2,
+      "time" : "2024-12-21 03:48:08Z",
+      "mag_author" : null,
+      "longitude" : 13.6197,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.6197, 41.7547 ]
+    },
+    "id" : "41178062"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 11.7,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -10545,28 +10567,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 41.2998,
-      "event_id" : 41110312,
-      "contributor" : null,
-      "mag_type" : "Mw",
-      "event_location_name" : "2 km NW Roccamonfina (CE)",
-      "magnitude" : 3.6,
-      "time" : "2024-12-09 06:33:05Z",
-      "mag_author" : null,
-      "longitude" : 13.9618,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.9618, 41.2998 ]
-    },
-    "id" : "41110312"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 1.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 41.2998,
       "event_id" : 41003461,
       "contributor" : null,
       "mag_type" : "Mw",
@@ -10582,6 +10582,28 @@
       "coordinates" : [ 13.9618, 41.2998 ]
     },
     "id" : "41003461"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 1.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 41.2998,
+      "event_id" : 41110312,
+      "contributor" : null,
+      "mag_type" : "Mw",
+      "event_location_name" : "2 km NW Roccamonfina (CE)",
+      "magnitude" : 3.6,
+      "time" : "2024-12-09 06:33:05Z",
+      "mag_author" : null,
+      "longitude" : 13.9618,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.9618, 41.2998 ]
+    },
+    "id" : "41110312"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -26928,27 +26950,5 @@
       "coordinates" : [ 12.7973, 42.9592 ]
     },
     "id" : "40884131"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 8.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 46.0292,
-      "event_id" : 40883961,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "8 km E Paspardo (BS)",
-      "magnitude" : 1.2,
-      "time" : "2024-11-21 04:52:49Z",
-      "mag_author" : null,
-      "longitude" : 10.4742,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 10.4742, 46.0292 ]
-    },
-    "id" : "40883961"
   } ]
 }
