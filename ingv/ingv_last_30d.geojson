@@ -3,6 +3,50 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 11.7,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.1662,
+      "event_id" : 41177912,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km W Salle (PE)",
+      "magnitude" : 2.2,
+      "time" : "2024-12-21 02:48:50Z",
+      "mag_author" : null,
+      "longitude" : 13.9163,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.9163, 42.1662 ]
+    },
+    "id" : "41177912"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 66.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.2013,
+      "event_id" : 41177872,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "9 km NW Valfabbrica (PG)",
+      "magnitude" : 2.3,
+      "time" : "2024-12-21 02:37:31Z",
+      "mag_author" : null,
+      "longitude" : 12.5037,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.5037, 43.2013 ]
+    },
+    "id" : "41177872"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 16.5,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -10501,28 +10545,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 41.2998,
-      "event_id" : 41003461,
-      "contributor" : null,
-      "mag_type" : "Mw",
-      "event_location_name" : "2 km NW Roccamonfina (CE)",
-      "magnitude" : 3.6,
-      "time" : "2024-12-09 06:33:05Z",
-      "mag_author" : null,
-      "longitude" : 13.9618,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.9618, 41.2998 ]
-    },
-    "id" : "41003461"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 1.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 41.2998,
       "event_id" : 41110312,
       "contributor" : null,
       "mag_type" : "Mw",
@@ -10538,6 +10560,28 @@
       "coordinates" : [ 13.9618, 41.2998 ]
     },
     "id" : "41110312"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 1.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 41.2998,
+      "event_id" : 41003461,
+      "contributor" : null,
+      "mag_type" : "Mw",
+      "event_location_name" : "2 km NW Roccamonfina (CE)",
+      "magnitude" : 3.6,
+      "time" : "2024-12-09 06:33:05Z",
+      "mag_author" : null,
+      "longitude" : 13.9618,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.9618, 41.2998 ]
+    },
+    "id" : "41003461"
   }, {
     "type" : "Feature",
     "properties" : {
