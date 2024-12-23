@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 8.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.7883,
+      "event_id" : 41194272,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km NE Massa Martana (PG)",
+      "magnitude" : 1.7,
+      "time" : "2024-12-23 04:28:41Z",
+      "mag_author" : null,
+      "longitude" : 12.5332,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.5332, 42.7883 ]
+    },
+    "id" : "41194272"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 12.6,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -11931,28 +11953,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 41.2998,
-      "event_id" : 41003461,
-      "contributor" : null,
-      "mag_type" : "Mw",
-      "event_location_name" : "2 km NW Roccamonfina (CE)",
-      "magnitude" : 3.6,
-      "time" : "2024-12-09 06:33:05Z",
-      "mag_author" : null,
-      "longitude" : 13.9618,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.9618, 41.2998 ]
-    },
-    "id" : "41003461"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 1.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 41.2998,
       "event_id" : 41110312,
       "contributor" : null,
       "mag_type" : "Mw",
@@ -11968,6 +11968,28 @@
       "coordinates" : [ 13.9618, 41.2998 ]
     },
     "id" : "41110312"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 1.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 41.2998,
+      "event_id" : 41003461,
+      "contributor" : null,
+      "mag_type" : "Mw",
+      "event_location_name" : "2 km NW Roccamonfina (CE)",
+      "magnitude" : 3.6,
+      "time" : "2024-12-09 06:33:05Z",
+      "mag_author" : null,
+      "longitude" : 13.9618,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.9618, 41.2998 ]
+    },
+    "id" : "41003461"
   }, {
     "type" : "Feature",
     "properties" : {
