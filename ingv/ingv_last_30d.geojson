@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 15.7,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.1508,
+      "event_id" : 41233612,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km W Camerino (MC)",
+      "magnitude" : 0.9,
+      "time" : "2024-12-26 09:22:55Z",
+      "mag_author" : null,
+      "longitude" : 13.0248,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.0248, 43.1508 ]
+    },
+    "id" : "41233612"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 11.6,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -13757,28 +13779,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 41.2998,
-      "event_id" : 41003461,
-      "contributor" : null,
-      "mag_type" : "Mw",
-      "event_location_name" : "2 km NW Roccamonfina (CE)",
-      "magnitude" : 3.6,
-      "time" : "2024-12-09 06:33:05Z",
-      "mag_author" : null,
-      "longitude" : 13.9618,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.9618, 41.2998 ]
-    },
-    "id" : "41003461"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 1.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 41.2998,
       "event_id" : 41110312,
       "contributor" : null,
       "mag_type" : "Mw",
@@ -13794,6 +13794,28 @@
       "coordinates" : [ 13.9618, 41.2998 ]
     },
     "id" : "41110312"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 1.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 41.2998,
+      "event_id" : 41003461,
+      "contributor" : null,
+      "mag_type" : "Mw",
+      "event_location_name" : "2 km NW Roccamonfina (CE)",
+      "magnitude" : 3.6,
+      "time" : "2024-12-09 06:33:05Z",
+      "mag_author" : null,
+      "longitude" : 13.9618,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.9618, 41.2998 ]
+    },
+    "id" : "41003461"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -26400,49 +26422,5 @@
       "coordinates" : [ 14.7225, 38.7835 ]
     },
     "id" : "40933431"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 11.4,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.9887,
-      "event_id" : 40932991,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km W Monte Cavallo (MC)",
-      "magnitude" : 1.1,
-      "time" : "2024-11-26 10:26:14Z",
-      "mag_author" : null,
-      "longitude" : 12.9782,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.9782, 42.9887 ]
-    },
-    "id" : "40932991"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 11.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.9858,
-      "event_id" : 40933031,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km W Monte Cavallo (MC)",
-      "magnitude" : 0.7,
-      "time" : "2024-11-26 10:25:23Z",
-      "mag_author" : null,
-      "longitude" : 12.9753,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.9753, 42.9858 ]
-    },
-    "id" : "40933031"
   } ]
 }
