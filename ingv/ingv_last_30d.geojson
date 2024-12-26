@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 17.9,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 44.131,
+      "event_id" : 41231912,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km W Cesena (FC)",
+      "magnitude" : 1.8,
+      "time" : "2024-12-26 02:48:03Z",
+      "mag_author" : null,
+      "longitude" : 12.2153,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.2153, 44.131 ]
+    },
+    "id" : "41231912"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.8,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -13625,28 +13647,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 41.2998,
-      "event_id" : 41110312,
-      "contributor" : null,
-      "mag_type" : "Mw",
-      "event_location_name" : "2 km NW Roccamonfina (CE)",
-      "magnitude" : 3.6,
-      "time" : "2024-12-09 06:33:05Z",
-      "mag_author" : null,
-      "longitude" : 13.9618,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.9618, 41.2998 ]
-    },
-    "id" : "41110312"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 1.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 41.2998,
       "event_id" : 41003461,
       "contributor" : null,
       "mag_type" : "Mw",
@@ -13662,6 +13662,28 @@
       "coordinates" : [ 13.9618, 41.2998 ]
     },
     "id" : "41003461"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 1.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 41.2998,
+      "event_id" : 41110312,
+      "contributor" : null,
+      "mag_type" : "Mw",
+      "event_location_name" : "2 km NW Roccamonfina (CE)",
+      "magnitude" : 3.6,
+      "time" : "2024-12-09 06:33:05Z",
+      "mag_author" : null,
+      "longitude" : 13.9618,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.9618, 41.2998 ]
+    },
+    "id" : "41110312"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -26752,27 +26774,5 @@
       "coordinates" : [ 13.0152, 42.9803 ]
     },
     "id" : "40930831"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 12.7,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.9418,
-      "event_id" : 40930791,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km E Ussita (MC)",
-      "magnitude" : 0.7,
-      "time" : "2024-11-26 03:54:01Z",
-      "mag_author" : null,
-      "longitude" : 13.1635,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.1635, 42.9418 ]
-    },
-    "id" : "40930791"
   } ]
 }
