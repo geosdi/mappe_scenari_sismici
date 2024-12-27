@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.7,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 46.3075,
+      "event_id" : 41244822,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km N Lusevera (UD)",
+      "magnitude" : 1.0,
+      "time" : "2024-12-27 21:21:53Z",
+      "mag_author" : null,
+      "longitude" : 13.2472,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.2472, 46.3075 ]
+    },
+    "id" : "41244822"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 38.6,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -25916,49 +25938,5 @@
       "coordinates" : [ 12.8073, 42.9747 ]
     },
     "id" : "40941801"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 0.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 44.8803,
-      "event_id" : 40941761,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "6 km NW Finale Emilia (MO)",
-      "magnitude" : 2.2,
-      "time" : "2024-11-27 22:32:42Z",
-      "mag_author" : null,
-      "longitude" : 11.2717,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 11.2717, 44.8803 ]
-    },
-    "id" : "40941761"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 14.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.0305,
-      "event_id" : 40941731,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "6 km SW Serravalle di Chienti (MC)",
-      "magnitude" : 0.8,
-      "time" : "2024-11-27 22:31:20Z",
-      "mag_author" : null,
-      "longitude" : 12.8987,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.8987, 43.0305 ]
-    },
-    "id" : "40941731"
   } ]
 }
