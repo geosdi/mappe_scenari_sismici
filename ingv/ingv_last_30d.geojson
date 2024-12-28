@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 7.3,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.4955,
+      "event_id" : 41245132,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "6 km N Pietralunga (PG)",
+      "magnitude" : 1.0,
+      "time" : "2024-12-28 03:04:05Z",
+      "mag_author" : null,
+      "longitude" : 12.4477,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.4477, 43.4955 ]
+    },
+    "id" : "41245132"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 9.5,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -15099,28 +15121,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 41.2998,
-      "event_id" : 41110312,
-      "contributor" : null,
-      "mag_type" : "Mw",
-      "event_location_name" : "2 km NW Roccamonfina (CE)",
-      "magnitude" : 3.6,
-      "time" : "2024-12-09 06:33:05Z",
-      "mag_author" : null,
-      "longitude" : 13.9618,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.9618, 41.2998 ]
-    },
-    "id" : "41110312"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 1.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 41.2998,
       "event_id" : 41003461,
       "contributor" : null,
       "mag_type" : "Mw",
@@ -15136,6 +15136,28 @@
       "coordinates" : [ 13.9618, 41.2998 ]
     },
     "id" : "41003461"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 1.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 41.2998,
+      "event_id" : 41110312,
+      "contributor" : null,
+      "mag_type" : "Mw",
+      "event_location_name" : "2 km NW Roccamonfina (CE)",
+      "magnitude" : 3.6,
+      "time" : "2024-12-09 06:33:05Z",
+      "mag_author" : null,
+      "longitude" : 13.9618,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.9618, 41.2998 ]
+    },
+    "id" : "41110312"
   }, {
     "type" : "Feature",
     "properties" : {
