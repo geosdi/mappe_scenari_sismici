@@ -3,6 +3,94 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 11.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.7143,
+      "event_id" : 41252552,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km N Accumoli (RI)",
+      "magnitude" : 1.2,
+      "time" : "2024-12-29 14:33:55Z",
+      "mag_author" : null,
+      "longitude" : 13.2522,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.2522, 42.7143 ]
+    },
+    "id" : "41252552"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 10.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 40.4638,
+      "event_id" : 41252422,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "Tirreno Meridionale (MARE)",
+      "magnitude" : 2.2,
+      "time" : "2024-12-29 14:09:21Z",
+      "mag_author" : null,
+      "longitude" : 13.5992,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.5992, 40.4638 ]
+    },
+    "id" : "41252422"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 64.2,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 38.414,
+      "event_id" : 41252382,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "Tirreno Meridionale (MARE)",
+      "magnitude" : 1.6,
+      "time" : "2024-12-29 14:07:50Z",
+      "mag_author" : null,
+      "longitude" : 15.5538,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 15.5538, 38.414 ]
+    },
+    "id" : "41252382"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 5.7,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.9725,
+      "event_id" : 41252332,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "Costa Ligure centro-occidentale (Savona)",
+      "magnitude" : 1.3,
+      "time" : "2024-12-29 13:59:02Z",
+      "mag_author" : null,
+      "longitude" : 8.5718,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.5718, 43.9725 ]
+    },
+    "id" : "41252332"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 18.9,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -16177,28 +16265,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 41.2998,
-      "event_id" : 41110312,
-      "contributor" : null,
-      "mag_type" : "Mw",
-      "event_location_name" : "2 km NW Roccamonfina (CE)",
-      "magnitude" : 3.6,
-      "time" : "2024-12-09 06:33:05Z",
-      "mag_author" : null,
-      "longitude" : 13.9618,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.9618, 41.2998 ]
-    },
-    "id" : "41110312"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 1.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 41.2998,
       "event_id" : 41003461,
       "contributor" : null,
       "mag_type" : "Mw",
@@ -16214,6 +16280,28 @@
       "coordinates" : [ 13.9618, 41.2998 ]
     },
     "id" : "41003461"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 1.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 41.2998,
+      "event_id" : 41110312,
+      "contributor" : null,
+      "mag_type" : "Mw",
+      "event_location_name" : "2 km NW Roccamonfina (CE)",
+      "magnitude" : 3.6,
+      "time" : "2024-12-09 06:33:05Z",
+      "mag_author" : null,
+      "longitude" : 13.9618,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.9618, 41.2998 ]
+    },
+    "id" : "41110312"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -24112,71 +24200,5 @@
       "coordinates" : [ 13.4492, 43.0652 ]
     },
     "id" : "40954491"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 12.2,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.1252,
-      "event_id" : 40954341,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km SW Camerino (MC)",
-      "magnitude" : 0.9,
-      "time" : "2024-11-29 15:32:42Z",
-      "mag_author" : null,
-      "longitude" : 13.0507,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.0507, 43.1252 ]
-    },
-    "id" : "40954341"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.1,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.3518,
-      "event_id" : 40954111,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km SE Cingoli (MC)",
-      "magnitude" : 1.0,
-      "time" : "2024-11-29 14:48:07Z",
-      "mag_author" : null,
-      "longitude" : 13.2395,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.2395, 43.3518 ]
-    },
-    "id" : "40954111"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 20.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 39.2145,
-      "event_id" : 40953961,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km E Cellara (CS)",
-      "magnitude" : 2.1,
-      "time" : "2024-11-29 13:57:51Z",
-      "mag_author" : null,
-      "longitude" : 16.3757,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 16.3757, 39.2145 ]
-    },
-    "id" : "40953961"
   } ]
 }
