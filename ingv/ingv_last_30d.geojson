@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 11.1,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.0387,
+      "event_id" : 41259002,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km W Pieve Torina (MC)",
+      "magnitude" : 0.5,
+      "time" : "2024-12-30 22:55:00Z",
+      "mag_author" : null,
+      "longitude" : 13.0292,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.0292, 43.0387 ]
+    },
+    "id" : "41259002"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 16.8,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -17519,28 +17541,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 41.2998,
-      "event_id" : 41110312,
-      "contributor" : null,
-      "mag_type" : "Mw",
-      "event_location_name" : "2 km NW Roccamonfina (CE)",
-      "magnitude" : 3.6,
-      "time" : "2024-12-09 06:33:05Z",
-      "mag_author" : null,
-      "longitude" : 13.9618,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.9618, 41.2998 ]
-    },
-    "id" : "41110312"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 1.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 41.2998,
       "event_id" : 41003461,
       "contributor" : null,
       "mag_type" : "Mw",
@@ -17556,6 +17556,28 @@
       "coordinates" : [ 13.9618, 41.2998 ]
     },
     "id" : "41003461"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 1.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 41.2998,
+      "event_id" : 41110312,
+      "contributor" : null,
+      "mag_type" : "Mw",
+      "event_location_name" : "2 km NW Roccamonfina (CE)",
+      "magnitude" : 3.6,
+      "time" : "2024-12-09 06:33:05Z",
+      "mag_author" : null,
+      "longitude" : 13.9618,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.9618, 41.2998 ]
+    },
+    "id" : "41110312"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -24530,27 +24552,5 @@
       "coordinates" : [ 12.7495, 43.5053 ]
     },
     "id" : "40961941"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 7.6,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 46.0948,
-      "event_id" : 40961911,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "12 km W Porte di Rendena (TN)",
-      "magnitude" : 1.2,
-      "time" : "2024-12-01 00:04:28Z",
-      "mag_author" : null,
-      "longitude" : 10.5682,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 10.5682, 46.0948 ]
-    },
-    "id" : "40961911"
   } ]
 }
