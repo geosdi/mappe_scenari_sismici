@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 15.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 40.6908,
+      "event_id" : 41257252,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km NW San Gregorio Magno (SA)",
+      "magnitude" : 1.0,
+      "time" : "2024-12-30 13:45:34Z",
+      "mag_author" : null,
+      "longitude" : 15.3743,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 15.3743, 40.6908 ]
+    },
+    "id" : "41257252"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 12.2,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -17189,28 +17211,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 41.2998,
-      "event_id" : 41003461,
-      "contributor" : null,
-      "mag_type" : "Mw",
-      "event_location_name" : "2 km NW Roccamonfina (CE)",
-      "magnitude" : 3.6,
-      "time" : "2024-12-09 06:33:05Z",
-      "mag_author" : null,
-      "longitude" : 13.9618,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.9618, 41.2998 ]
-    },
-    "id" : "41003461"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 1.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 41.2998,
       "event_id" : 41110312,
       "contributor" : null,
       "mag_type" : "Mw",
@@ -17226,6 +17226,28 @@
       "coordinates" : [ 13.9618, 41.2998 ]
     },
     "id" : "41110312"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 1.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 41.2998,
+      "event_id" : 41003461,
+      "contributor" : null,
+      "mag_type" : "Mw",
+      "event_location_name" : "2 km NW Roccamonfina (CE)",
+      "magnitude" : 3.6,
+      "time" : "2024-12-09 06:33:05Z",
+      "mag_author" : null,
+      "longitude" : 13.9618,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.9618, 41.2998 ]
+    },
+    "id" : "41003461"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -24398,71 +24420,5 @@
       "coordinates" : [ 11.0218, 43.1323 ]
     },
     "id" : "40960151"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 5.469,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 18.7242,
-      "event_id" : 40959601,
-      "contributor" : null,
-      "mag_type" : "Mwp",
-      "event_location_name" : "Mexico [Sea]",
-      "magnitude" : 5.6,
-      "time" : "2024-11-30 15:08:45Z",
-      "mag_author" : null,
-      "longitude" : -108.708,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ -108.708, 18.7242 ]
-    },
-    "id" : "40959601"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 44.5272,
-      "event_id" : 40959481,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "9 km NW Acceglio (CN)",
-      "magnitude" : 1.7,
-      "time" : "2024-11-30 14:56:43Z",
-      "mag_author" : null,
-      "longitude" : 6.9082,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 6.9082, 44.5272 ]
-    },
-    "id" : "40959481"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.8,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 44.5213,
-      "event_id" : 40959401,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "9 km NW Acceglio (CN)",
-      "magnitude" : 1.7,
-      "time" : "2024-11-30 14:53:16Z",
-      "mag_author" : null,
-      "longitude" : 6.9035,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 6.9035, 44.5213 ]
-    },
-    "id" : "40959401"
   } ]
 }
