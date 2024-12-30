@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 12.2,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.6588,
+      "event_id" : 41256752,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km NW Ferentillo (TR)",
+      "magnitude" : 0.9,
+      "time" : "2024-12-30 11:09:30Z",
+      "mag_author" : null,
+      "longitude" : 12.7678,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.7678, 42.6588 ]
+    },
+    "id" : "41256752"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 9.6,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -24486,27 +24508,5 @@
       "coordinates" : [ 16.3688, 39.2158 ]
     },
     "id" : "40958541"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 14.2,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.3747,
-      "event_id" : 40958321,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "6 km NE Fabriano (AN)",
-      "magnitude" : 1.6,
-      "time" : "2024-11-30 12:20:39Z",
-      "mag_author" : null,
-      "longitude" : 12.9555,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.9555, 43.3747 ]
-    },
-    "id" : "40958321"
   } ]
 }
