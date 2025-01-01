@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 8.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.7418,
+      "event_id" : 41268222,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km E Spoleto (PG)",
+      "magnitude" : 1.6,
+      "time" : "2025-01-01 16:39:05Z",
+      "mag_author" : null,
+      "longitude" : 12.7582,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.7582, 42.7418 ]
+    },
+    "id" : "41268222"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 11.7,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -19675,28 +19697,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 41.2998,
-      "event_id" : 41110312,
-      "contributor" : null,
-      "mag_type" : "Mw",
-      "event_location_name" : "2 km NW Roccamonfina (CE)",
-      "magnitude" : 3.6,
-      "time" : "2024-12-09 06:33:05Z",
-      "mag_author" : null,
-      "longitude" : 13.9618,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.9618, 41.2998 ]
-    },
-    "id" : "41110312"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 1.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 41.2998,
       "event_id" : 41003461,
       "contributor" : null,
       "mag_type" : "Mw",
@@ -19712,6 +19712,28 @@
       "coordinates" : [ 13.9618, 41.2998 ]
     },
     "id" : "41003461"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 1.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 41.2998,
+      "event_id" : 41110312,
+      "contributor" : null,
+      "mag_type" : "Mw",
+      "event_location_name" : "2 km NW Roccamonfina (CE)",
+      "magnitude" : 3.6,
+      "time" : "2024-12-09 06:33:05Z",
+      "mag_author" : null,
+      "longitude" : 13.9618,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.9618, 41.2998 ]
+    },
+    "id" : "41110312"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -25366,27 +25388,5 @@
       "coordinates" : [ 12.7475, 43.4267 ]
     },
     "id" : "40969511"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.3,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.3548,
-      "event_id" : 40969481,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km E Gubbio (PG)",
-      "magnitude" : 0.6,
-      "time" : "2024-12-02 17:49:29Z",
-      "mag_author" : null,
-      "longitude" : 12.61,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.61, 43.3548 ]
-    },
-    "id" : "40969481"
   } ]
 }
