@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 8.9,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 44.9975,
+      "event_id" : 41287582,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km NW Salara (RO)",
+      "magnitude" : 2.2,
+      "time" : "2025-01-03 12:04:27Z",
+      "mag_author" : null,
+      "longitude" : 11.4023,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.4023, 44.9975 ]
+    },
+    "id" : "41287582"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 6.87,
       "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
       "catalog" : null,
@@ -21325,28 +21347,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 41.2998,
-      "event_id" : 41003461,
-      "contributor" : null,
-      "mag_type" : "Mw",
-      "event_location_name" : "2 km NW Roccamonfina (CE)",
-      "magnitude" : 3.6,
-      "time" : "2024-12-09 06:33:05Z",
-      "mag_author" : null,
-      "longitude" : 13.9618,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.9618, 41.2998 ]
-    },
-    "id" : "41003461"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 1.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 41.2998,
       "event_id" : 41110312,
       "contributor" : null,
       "mag_type" : "Mw",
@@ -21362,6 +21362,28 @@
       "coordinates" : [ 13.9618, 41.2998 ]
     },
     "id" : "41110312"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 1.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 41.2998,
+      "event_id" : 41003461,
+      "contributor" : null,
+      "mag_type" : "Mw",
+      "event_location_name" : "2 km NW Roccamonfina (CE)",
+      "magnitude" : 3.6,
+      "time" : "2024-12-09 06:33:05Z",
+      "mag_author" : null,
+      "longitude" : 13.9618,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.9618, 41.2998 ]
+    },
+    "id" : "41003461"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -25454,27 +25476,5 @@
       "coordinates" : [ 13.7385, 42.7923 ]
     },
     "id" : "41076832"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 12.1,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 45.8353,
-      "event_id" : 41076672,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km SE Trambileno (TN)",
-      "magnitude" : 0.8,
-      "time" : "2024-12-04 13:16:22Z",
-      "mag_author" : null,
-      "longitude" : 11.1088,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 11.1088, 45.8353 ]
-    },
-    "id" : "41076672"
   } ]
 }
