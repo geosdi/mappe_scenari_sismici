@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 8.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 46.481,
+      "event_id" : 41291482,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "V3 Tarvisio (ITALIA, AUSTRIA, SLOVENIA)",
+      "magnitude" : 1.7,
+      "time" : "2025-01-04 02:37:43Z",
+      "mag_author" : null,
+      "longitude" : 13.7718,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.7718, 46.481 ]
+    },
+    "id" : "41291482"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 8.9,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -25476,49 +25498,5 @@
       "coordinates" : [ 14.9438, 41.6807 ]
     },
     "id" : "41078742"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 0.26,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.820333,
-      "event_id" : 40979521,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 1.7,
-      "time" : "2024-12-05 03:46:27Z",
-      "mag_author" : null,
-      "longitude" : 14.143,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.143, 40.820333 ]
-    },
-    "id" : "40979521"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 0.71,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.820333,
-      "event_id" : 40979511,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 1.0,
-      "time" : "2024-12-05 03:44:02Z",
-      "mag_author" : null,
-      "longitude" : 14.141167,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.141167, 40.820333 ]
-    },
-    "id" : "40979511"
   } ]
 }
