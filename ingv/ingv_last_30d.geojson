@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 12.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.7123,
+      "event_id" : 41296062,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "Costa Marchigiana Anconetana (Ancona)",
+      "magnitude" : 1.1,
+      "time" : "2025-01-05 03:11:08Z",
+      "mag_author" : null,
+      "longitude" : 13.2313,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.2313, 43.7123 ]
+    },
+    "id" : "41296062"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 7.7,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -25630,27 +25652,5 @@
       "coordinates" : [ 14.135333, 40.8225 ]
     },
     "id" : "40987641"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 8.3,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.9543,
-      "event_id" : 40987461,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "1 km NW Ussita (MC)",
-      "magnitude" : 1.4,
-      "time" : "2024-12-06 04:14:49Z",
-      "mag_author" : null,
-      "longitude" : 13.132,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.132, 42.9543 ]
-    },
-    "id" : "40987461"
   } ]
 }
