@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.9648,
+      "event_id" : 41306432,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km E Foligno (PG)",
+      "magnitude" : 1.3,
+      "time" : "2025-01-06 22:43:32Z",
+      "mag_author" : null,
+      "longitude" : 12.7268,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.7268, 42.9648 ]
+    },
+    "id" : "41306432"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 12.3,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -1481,28 +1503,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 38.2988,
-      "event_id" : 41295672,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "Costa Siciliana nord-orientale (Messina)",
-      "magnitude" : 1.5,
-      "time" : "2025-01-04 20:57:00Z",
-      "mag_author" : null,
-      "longitude" : 15.4213,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 15.4213, 38.2988 ]
-    },
-    "id" : "41295672"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.9,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 38.2988,
       "event_id" : 41180291,
       "contributor" : null,
       "mag_type" : "ML",
@@ -1518,6 +1518,28 @@
       "coordinates" : [ 15.4213, 38.2988 ]
     },
     "id" : "41180291"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 9.9,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 38.2988,
+      "event_id" : 41295672,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "Costa Siciliana nord-orientale (Messina)",
+      "magnitude" : 1.5,
+      "time" : "2025-01-04 20:57:00Z",
+      "mag_author" : null,
+      "longitude" : 15.4213,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 15.4213, 38.2988 ]
+    },
+    "id" : "41295672"
   }, {
     "type" : "Feature",
     "properties" : {
