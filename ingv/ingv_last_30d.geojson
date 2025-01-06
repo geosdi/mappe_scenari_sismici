@@ -3,6 +3,50 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.1,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.9847,
+      "event_id" : 41303882,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km W Bolognola (MC)",
+      "magnitude" : 0.3,
+      "time" : "2025-01-06 12:32:40Z",
+      "mag_author" : null,
+      "longitude" : 13.1903,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.1903, 42.9847 ]
+    },
+    "id" : "41303882"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 9.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.0932,
+      "event_id" : 41303832,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km E Nocera Umbra (PG)",
+      "magnitude" : 1.5,
+      "time" : "2025-01-06 12:31:36Z",
+      "mag_author" : null,
+      "longitude" : 12.8432,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.8432, 43.0932 ]
+    },
+    "id" : "41303832"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 14.8,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -1767,28 +1811,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 42.8907,
-      "event_id" : 41176771,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km E Preci (PG)",
-      "magnitude" : 0.7,
-      "time" : "2025-01-04 07:21:02Z",
-      "mag_author" : null,
-      "longitude" : 13.0833,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.0833, 42.8907 ]
-    },
-    "id" : "41176771"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 11.8,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.8907,
       "event_id" : 41292092,
       "contributor" : null,
       "mag_type" : "ML",
@@ -1804,6 +1826,28 @@
       "coordinates" : [ 13.0833, 42.8907 ]
     },
     "id" : "41292092"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 11.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.8907,
+      "event_id" : 41176771,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km E Preci (PG)",
+      "magnitude" : 0.7,
+      "time" : "2025-01-04 07:21:02Z",
+      "mag_author" : null,
+      "longitude" : 13.0833,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.0833, 42.8907 ]
+    },
+    "id" : "41176771"
   }, {
     "type" : "Feature",
     "properties" : {
