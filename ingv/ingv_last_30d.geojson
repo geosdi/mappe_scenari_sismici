@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 373.047,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : 31.623,
+      "event_id" : 41308112,
+      "contributor" : null,
+      "mag_type" : "Mwp",
+      "event_location_name" : "Southeast of Honshu, Japan [Sea: Japan]",
+      "magnitude" : 5.5,
+      "time" : "2025-01-07 08:31:32Z",
+      "mag_author" : null,
+      "longitude" : 138.418,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 138.418, 31.623 ]
+    },
+    "id" : "41308112"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 9.7,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -1679,28 +1701,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 38.2988,
-      "event_id" : 41295672,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "Costa Siciliana nord-orientale (Messina)",
-      "magnitude" : 1.5,
-      "time" : "2025-01-04 20:57:00Z",
-      "mag_author" : null,
-      "longitude" : 15.4213,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 15.4213, 38.2988 ]
-    },
-    "id" : "41295672"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.9,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 38.2988,
       "event_id" : 41180291,
       "contributor" : null,
       "mag_type" : "ML",
@@ -1716,6 +1716,28 @@
       "coordinates" : [ 15.4213, 38.2988 ]
     },
     "id" : "41180291"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 9.9,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 38.2988,
+      "event_id" : 41295672,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "Costa Siciliana nord-orientale (Messina)",
+      "magnitude" : 1.5,
+      "time" : "2025-01-04 20:57:00Z",
+      "mag_author" : null,
+      "longitude" : 15.4213,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 15.4213, 38.2988 ]
+    },
+    "id" : "41295672"
   }, {
     "type" : "Feature",
     "properties" : {
