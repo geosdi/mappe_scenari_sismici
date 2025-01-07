@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 8.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 39.8962,
+      "event_id" : 41309492,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "6 km N Morano Calabro (CS)",
+      "magnitude" : 0.7,
+      "time" : "2025-01-07 11:03:20Z",
+      "mag_author" : null,
+      "longitude" : 16.12,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.12, 39.8962 ]
+    },
+    "id" : "41309492"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 1.6,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -2383,28 +2405,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 42.8907,
-      "event_id" : 41176771,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km E Preci (PG)",
-      "magnitude" : 0.7,
-      "time" : "2025-01-04 07:21:02Z",
-      "mag_author" : null,
-      "longitude" : 13.0833,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.0833, 42.8907 ]
-    },
-    "id" : "41176771"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 11.8,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.8907,
       "event_id" : 41292092,
       "contributor" : null,
       "mag_type" : "ML",
@@ -2420,6 +2420,28 @@
       "coordinates" : [ 13.0833, 42.8907 ]
     },
     "id" : "41292092"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 11.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.8907,
+      "event_id" : 41176771,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km E Preci (PG)",
+      "magnitude" : 0.7,
+      "time" : "2025-01-04 07:21:02Z",
+      "mag_author" : null,
+      "longitude" : 13.0833,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.0833, 42.8907 ]
+    },
+    "id" : "41176771"
   }, {
     "type" : "Feature",
     "properties" : {
