@@ -3,6 +3,50 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 15.2,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.3718,
+      "event_id" : 41312852,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km E Scoppito (AQ)",
+      "magnitude" : 1.7,
+      "time" : "2025-01-08 00:51:22Z",
+      "mag_author" : null,
+      "longitude" : 13.2967,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.2967, 42.3718 ]
+    },
+    "id" : "41312852"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 10.1,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.3752,
+      "event_id" : 41312832,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km E Scoppito (AQ)",
+      "magnitude" : 1.2,
+      "time" : "2025-01-08 00:49:25Z",
+      "mag_author" : null,
+      "longitude" : 13.3078,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.3078, 42.3752 ]
+    },
+    "id" : "41312832"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 11.23,
       "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
       "catalog" : null,
@@ -2207,28 +2251,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 38.2988,
-      "event_id" : 41295672,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "Costa Siciliana nord-orientale (Messina)",
-      "magnitude" : 1.5,
-      "time" : "2025-01-04 20:57:00Z",
-      "mag_author" : null,
-      "longitude" : 15.4213,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 15.4213, 38.2988 ]
-    },
-    "id" : "41295672"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.9,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 38.2988,
       "event_id" : 41180291,
       "contributor" : null,
       "mag_type" : "ML",
@@ -2244,6 +2266,28 @@
       "coordinates" : [ 15.4213, 38.2988 ]
     },
     "id" : "41180291"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 9.9,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 38.2988,
+      "event_id" : 41295672,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "Costa Siciliana nord-orientale (Messina)",
+      "magnitude" : 1.5,
+      "time" : "2025-01-04 20:57:00Z",
+      "mag_author" : null,
+      "longitude" : 15.4213,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 15.4213, 38.2988 ]
+    },
+    "id" : "41295672"
   }, {
     "type" : "Feature",
     "properties" : {
