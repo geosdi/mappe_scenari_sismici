@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 13.1,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.9453,
+      "event_id" : 41327622,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "6 km S Monte Cavallo (MC)",
+      "magnitude" : 1.3,
+      "time" : "2025-01-09 21:00:50Z",
+      "mag_author" : null,
+      "longitude" : 12.9892,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.9892, 42.9453 ]
+    },
+    "id" : "41327622"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 12.9,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -25564,27 +25586,5 @@
       "coordinates" : [ 12.9585, 43.0355 ]
     },
     "id" : "41116972"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.1595,
-      "event_id" : 41116942,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "4 km NE Buonconvento (SI)",
-      "magnitude" : 1.3,
-      "time" : "2024-12-10 22:12:38Z",
-      "mag_author" : null,
-      "longitude" : 11.5207,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 11.5207, 43.1595 ]
-    },
-    "id" : "41116942"
   } ]
 }
