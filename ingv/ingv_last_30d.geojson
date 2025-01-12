@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 22.1,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.0938,
+      "event_id" : 41221871,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km W Sant'Angelo in Pontano (MC)",
+      "magnitude" : 1.8,
+      "time" : "2025-01-12 00:10:32Z",
+      "mag_author" : null,
+      "longitude" : 13.377,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.377, 43.0938 ]
+    },
+    "id" : "41221871"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 37.5,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -25036,27 +25058,5 @@
       "coordinates" : [ 13.0282, 42.9973 ]
     },
     "id" : "41018791"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.3,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.8542,
-      "event_id" : 41018721,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km SE Preci (PG)",
-      "magnitude" : 0.7,
-      "time" : "2024-12-13 01:19:49Z",
-      "mag_author" : null,
-      "longitude" : 13.0517,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.0517, 42.8542 ]
-    },
-    "id" : "41018721"
   } ]
 }
