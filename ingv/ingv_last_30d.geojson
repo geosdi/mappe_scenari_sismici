@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.7538,
+      "event_id" : 41467952,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km S Norcia (PG)",
+      "magnitude" : 1.7,
+      "time" : "2025-01-13 12:07:30Z",
+      "mag_author" : null,
+      "longitude" : 13.0832,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.0832, 42.7538 ]
+    },
+    "id" : "41467952"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 8.3,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -95,28 +117,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 46.4363,
-      "event_id" : 41234651,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km NE Ampezzo (UD)",
-      "magnitude" : 1.1,
-      "time" : "2025-01-13 10:19:01Z",
-      "mag_author" : null,
-      "longitude" : 12.8263,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.8263, 46.4363 ]
-    },
-    "id" : "41234651"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 7.3,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 46.4363,
       "event_id" : 41467172,
       "contributor" : null,
       "mag_type" : "ML",
@@ -135,25 +135,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 6.5,
+      "depth_km" : 7.3,
       "author" : "SURVEY-INGV",
       "catalog" : null,
-      "latitude" : 46.4333,
-      "event_id" : 41466792,
+      "latitude" : 46.4363,
+      "event_id" : 41234651,
       "contributor" : null,
       "mag_type" : "ML",
       "event_location_name" : "3 km NE Ampezzo (UD)",
-      "magnitude" : 1.3,
-      "time" : "2025-01-13 09:35:16Z",
+      "magnitude" : 1.1,
+      "time" : "2025-01-13 10:19:01Z",
       "mag_author" : null,
-      "longitude" : 12.825,
+      "longitude" : 12.8263,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 12.825, 46.4333 ]
+      "coordinates" : [ 12.8263, 46.4363 ]
     },
-    "id" : "41466792"
+    "id" : "41234651"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -176,6 +176,28 @@
       "coordinates" : [ 12.825, 46.4333 ]
     },
     "id" : "41234281"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 6.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 46.4333,
+      "event_id" : 41466792,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km NE Ampezzo (UD)",
+      "magnitude" : 1.3,
+      "time" : "2025-01-13 09:35:16Z",
+      "mag_author" : null,
+      "longitude" : 12.825,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.825, 46.4333 ]
+    },
+    "id" : "41466792"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -7135,28 +7157,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 38.2988,
-      "event_id" : 41180291,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "Costa Siciliana nord-orientale (Messina)",
-      "magnitude" : 1.5,
-      "time" : "2025-01-04 20:57:00Z",
-      "mag_author" : null,
-      "longitude" : 15.4213,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 15.4213, 38.2988 ]
-    },
-    "id" : "41180291"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.9,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 38.2988,
       "event_id" : 41295672,
       "contributor" : null,
       "mag_type" : "ML",
@@ -7172,6 +7172,28 @@
       "coordinates" : [ 15.4213, 38.2988 ]
     },
     "id" : "41295672"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 9.9,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 38.2988,
+      "event_id" : 41180291,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "Costa Siciliana nord-orientale (Messina)",
+      "magnitude" : 1.5,
+      "time" : "2025-01-04 20:57:00Z",
+      "mag_author" : null,
+      "longitude" : 15.4213,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 15.4213, 38.2988 ]
+    },
+    "id" : "41180291"
   }, {
     "type" : "Feature",
     "properties" : {
