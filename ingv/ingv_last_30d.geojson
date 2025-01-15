@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 12.3,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 41.162,
+      "event_id" : 41481152,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km E Accadia (FG)",
+      "magnitude" : 1.7,
+      "time" : "2025-01-15 21:50:54Z",
+      "mag_author" : null,
+      "longitude" : 15.3542,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 15.3542, 41.162 ]
+    },
+    "id" : "41481152"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 67.969,
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
@@ -2053,28 +2075,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 46.4333,
-      "event_id" : 41466792,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km NE Ampezzo (UD)",
-      "magnitude" : 1.3,
-      "time" : "2025-01-13 09:35:16Z",
-      "mag_author" : null,
-      "longitude" : 12.825,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.825, 46.4333 ]
-    },
-    "id" : "41466792"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 6.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 46.4333,
       "event_id" : 41234281,
       "contributor" : null,
       "mag_type" : "ML",
@@ -2090,6 +2090,28 @@
       "coordinates" : [ 12.825, 46.4333 ]
     },
     "id" : "41234281"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 6.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 46.4333,
+      "event_id" : 41466792,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km NE Ampezzo (UD)",
+      "magnitude" : 1.3,
+      "time" : "2025-01-13 09:35:16Z",
+      "mag_author" : null,
+      "longitude" : 12.825,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.825, 46.4333 ]
+    },
+    "id" : "41466792"
   }, {
     "type" : "Feature",
     "properties" : {
