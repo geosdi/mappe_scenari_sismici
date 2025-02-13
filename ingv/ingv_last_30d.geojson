@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.7787,
+      "event_id" : 41687712,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km W Arquata del Tronto (AP)",
+      "magnitude" : 1.4,
+      "time" : "2025-02-13 05:41:50Z",
+      "mag_author" : null,
+      "longitude" : 13.2548,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.2548, 42.7787 ]
+    },
+    "id" : "41687712"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 7.4,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -161,28 +183,6 @@
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
       "latitude" : 40.832833,
-      "event_id" : 41418351,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 1.2,
-      "time" : "2025-02-13 02:03:54Z",
-      "mag_author" : null,
-      "longitude" : 14.1385,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.1385, 40.832833 ]
-    },
-    "id" : "41418351"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 2.56,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.832833,
       "event_id" : 41687142,
       "contributor" : null,
       "mag_type" : "Md",
@@ -201,25 +201,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 1.61,
+      "depth_km" : 2.56,
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
-      "latitude" : 40.824167,
-      "event_id" : 41418301,
+      "latitude" : 40.832833,
+      "event_id" : 41418351,
       "contributor" : null,
       "mag_type" : "Md",
       "event_location_name" : "Campi Flegrei",
-      "magnitude" : 1.3,
-      "time" : "2025-02-13 01:56:04Z",
+      "magnitude" : 1.2,
+      "time" : "2025-02-13 02:03:54Z",
       "mag_author" : null,
-      "longitude" : 14.151667,
+      "longitude" : 14.1385,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 14.151667, 40.824167 ]
+      "coordinates" : [ 14.1385, 40.832833 ]
     },
-    "id" : "41418301"
+    "id" : "41418351"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -242,6 +242,28 @@
       "coordinates" : [ 14.151667, 40.824167 ]
     },
     "id" : "41687062"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 1.61,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.824167,
+      "event_id" : 41418301,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 1.3,
+      "time" : "2025-02-13 01:56:04Z",
+      "mag_author" : null,
+      "longitude" : 14.151667,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.151667, 40.824167 ]
+    },
+    "id" : "41418301"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -513,28 +535,6 @@
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
       "latitude" : 40.831333,
-      "event_id" : 41686072,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 2.5,
-      "time" : "2025-02-12 22:27:14Z",
-      "mag_author" : null,
-      "longitude" : 14.149,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.149, 40.831333 ]
-    },
-    "id" : "41686072"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 2.1,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.831333,
       "event_id" : 41417571,
       "contributor" : null,
       "mag_type" : "Md",
@@ -550,6 +550,28 @@
       "coordinates" : [ 14.149, 40.831333 ]
     },
     "id" : "41417571"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 2.1,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.831333,
+      "event_id" : 41686072,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 2.5,
+      "time" : "2025-02-12 22:27:14Z",
+      "mag_author" : null,
+      "longitude" : 14.149,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.149, 40.831333 ]
+    },
+    "id" : "41686072"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -689,28 +711,6 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : 36.5309,
-      "event_id" : 41684852,
-      "contributor" : null,
-      "mag_type" : "mb",
-      "event_location_name" : "Dodecanese Islands, Greece [Sea: Greece]",
-      "magnitude" : 4.6,
-      "time" : "2025-02-12 16:44:28Z",
-      "mag_author" : null,
-      "longitude" : 25.7124,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 25.7124, 36.5309 ]
-    },
-    "id" : "41684852"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 12.109,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 36.5309,
       "event_id" : 41684792,
       "contributor" : null,
       "mag_type" : "mb",
@@ -726,6 +726,28 @@
       "coordinates" : [ 25.7124, 36.5309 ]
     },
     "id" : "41684792"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 12.109,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : 36.5309,
+      "event_id" : 41684852,
+      "contributor" : null,
+      "mag_type" : "mb",
+      "event_location_name" : "Dodecanese Islands, Greece [Sea: Greece]",
+      "magnitude" : 4.6,
+      "time" : "2025-02-12 16:44:28Z",
+      "mag_author" : null,
+      "longitude" : 25.7124,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.7124, 36.5309 ]
+    },
+    "id" : "41684852"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -975,28 +997,6 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : 36.3621,
-      "event_id" : 41681802,
-      "contributor" : null,
-      "mag_type" : "mb",
-      "event_location_name" : "Dodecanese Islands, Greece [Sea: Greece]",
-      "magnitude" : 5.0,
-      "time" : "2025-02-12 09:20:48Z",
-      "mag_author" : null,
-      "longitude" : 25.1947,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 25.1947, 36.3621 ]
-    },
-    "id" : "41681802"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 32.422,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 36.3621,
       "event_id" : 41681712,
       "contributor" : null,
       "mag_type" : "mb",
@@ -1015,25 +1015,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 19.336,
+      "depth_km" : 32.422,
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
-      "latitude" : 36.4764,
-      "event_id" : 41681652,
+      "latitude" : 36.3621,
+      "event_id" : 41681802,
       "contributor" : null,
       "mag_type" : "mb",
       "event_location_name" : "Dodecanese Islands, Greece [Sea: Greece]",
-      "magnitude" : 4.9,
-      "time" : "2025-02-12 09:15:10Z",
+      "magnitude" : 5.0,
+      "time" : "2025-02-12 09:20:48Z",
       "mag_author" : null,
-      "longitude" : 25.5454,
+      "longitude" : 25.1947,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 25.5454, 36.4764 ]
+      "coordinates" : [ 25.1947, 36.3621 ]
     },
-    "id" : "41681652"
+    "id" : "41681802"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -1056,6 +1056,28 @@
       "coordinates" : [ 25.5454, 36.4764 ]
     },
     "id" : "41681762"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 19.336,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : 36.4764,
+      "event_id" : 41681652,
+      "contributor" : null,
+      "mag_type" : "mb",
+      "event_location_name" : "Dodecanese Islands, Greece [Sea: Greece]",
+      "magnitude" : 4.9,
+      "time" : "2025-02-12 09:15:10Z",
+      "mag_author" : null,
+      "longitude" : 25.5454,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.5454, 36.4764 ]
+    },
+    "id" : "41681652"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -1283,28 +1305,6 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : 36.4887,
-      "event_id" : 41679852,
-      "contributor" : null,
-      "mag_type" : "mb",
-      "event_location_name" : "Dodecanese Islands, Greece [Sea: Greece]",
-      "magnitude" : 4.5,
-      "time" : "2025-02-12 04:21:06Z",
-      "mag_author" : null,
-      "longitude" : 25.6069,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 25.6069, 36.4887 ]
-    },
-    "id" : "41679852"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 16.797,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 36.4887,
       "event_id" : 41679922,
       "contributor" : null,
       "mag_type" : "mb",
@@ -1320,6 +1320,28 @@
       "coordinates" : [ 25.6069, 36.4887 ]
     },
     "id" : "41679922"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 16.797,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : 36.4887,
+      "event_id" : 41679852,
+      "contributor" : null,
+      "mag_type" : "mb",
+      "event_location_name" : "Dodecanese Islands, Greece [Sea: Greece]",
+      "magnitude" : 4.5,
+      "time" : "2025-02-12 04:21:06Z",
+      "mag_author" : null,
+      "longitude" : 25.6069,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.6069, 36.4887 ]
+    },
+    "id" : "41679852"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -1679,28 +1701,6 @@
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
       "latitude" : 40.825167,
-      "event_id" : 41411011,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Vesuvio",
-      "magnitude" : 1.2,
-      "time" : "2025-02-11 21:18:12Z",
-      "mag_author" : null,
-      "longitude" : 14.429167,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.429167, 40.825167 ]
-    },
-    "id" : "41411011"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 0.25,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.825167,
       "event_id" : 41678812,
       "contributor" : null,
       "mag_type" : "Md",
@@ -1716,6 +1716,28 @@
       "coordinates" : [ 14.429167, 40.825167 ]
     },
     "id" : "41678812"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 0.25,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.825167,
+      "event_id" : 41411011,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Vesuvio",
+      "magnitude" : 1.2,
+      "time" : "2025-02-11 21:18:12Z",
+      "mag_author" : null,
+      "longitude" : 14.429167,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.429167, 40.825167 ]
+    },
+    "id" : "41411011"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -1943,28 +1965,6 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : 36.7172,
-      "event_id" : 41678102,
-      "contributor" : null,
-      "mag_type" : "mb",
-      "event_location_name" : "Dodecanese Islands, Greece [Sea: Greece]",
-      "magnitude" : 4.5,
-      "time" : "2025-02-11 17:40:23Z",
-      "mag_author" : null,
-      "longitude" : 25.7695,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 25.7695, 36.7172 ]
-    },
-    "id" : "41678102"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 23.438,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 36.7172,
       "event_id" : 41678182,
       "contributor" : null,
       "mag_type" : "mb",
@@ -1980,6 +1980,28 @@
       "coordinates" : [ 25.7695, 36.7172 ]
     },
     "id" : "41678182"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 23.438,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : 36.7172,
+      "event_id" : 41678102,
+      "contributor" : null,
+      "mag_type" : "mb",
+      "event_location_name" : "Dodecanese Islands, Greece [Sea: Greece]",
+      "magnitude" : 4.5,
+      "time" : "2025-02-11 17:40:23Z",
+      "mag_author" : null,
+      "longitude" : 25.7695,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.7695, 36.7172 ]
+    },
+    "id" : "41678102"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -2009,28 +2031,6 @@
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
       "latitude" : 40.838833,
-      "event_id" : 41677022,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 1.2,
-      "time" : "2025-02-11 15:55:02Z",
-      "mag_author" : null,
-      "longitude" : 14.132833,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.132833, 40.838833 ]
-    },
-    "id" : "41677022"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 2.58,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.838833,
       "event_id" : 41409621,
       "contributor" : null,
       "mag_type" : "Md",
@@ -2046,6 +2046,28 @@
       "coordinates" : [ 14.132833, 40.838833 ]
     },
     "id" : "41409621"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 2.58,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.838833,
+      "event_id" : 41677022,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 1.2,
+      "time" : "2025-02-11 15:55:02Z",
+      "mag_author" : null,
+      "longitude" : 14.132833,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.132833, 40.838833 ]
+    },
+    "id" : "41677022"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -2229,28 +2251,6 @@
       "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
       "catalog" : null,
       "latitude" : 37.65,
-      "event_id" : 41676402,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km NE Ragalna (CT)",
-      "magnitude" : 1.6,
-      "time" : "2025-02-11 13:52:16Z",
-      "mag_author" : null,
-      "longitude" : 14.957,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.957, 37.65 ]
-    },
-    "id" : "41676402"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 7.01,
-      "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
-      "catalog" : null,
-      "latitude" : 37.65,
       "event_id" : 41408841,
       "contributor" : null,
       "mag_type" : "ML",
@@ -2266,6 +2266,28 @@
       "coordinates" : [ 14.957, 37.65 ]
     },
     "id" : "41408841"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 7.01,
+      "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
+      "catalog" : null,
+      "latitude" : 37.65,
+      "event_id" : 41676402,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km NE Ragalna (CT)",
+      "magnitude" : 1.6,
+      "time" : "2025-02-11 13:52:16Z",
+      "mag_author" : null,
+      "longitude" : 14.957,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.957, 37.65 ]
+    },
+    "id" : "41676402"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -2801,28 +2823,6 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : 36.6152,
-      "event_id" : 41672492,
-      "contributor" : null,
-      "mag_type" : "mb",
-      "event_location_name" : "Dodecanese Islands, Greece [Sea: Greece]",
-      "magnitude" : 4.6,
-      "time" : "2025-02-11 06:39:58Z",
-      "mag_author" : null,
-      "longitude" : 25.7854,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 25.7854, 36.6152 ]
-    },
-    "id" : "41672492"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 8.984,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 36.6152,
       "event_id" : 41672462,
       "contributor" : null,
       "mag_type" : "mb",
@@ -2838,6 +2838,28 @@
       "coordinates" : [ 25.7854, 36.6152 ]
     },
     "id" : "41672462"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 8.984,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : 36.6152,
+      "event_id" : 41672492,
+      "contributor" : null,
+      "mag_type" : "mb",
+      "event_location_name" : "Dodecanese Islands, Greece [Sea: Greece]",
+      "magnitude" : 4.6,
+      "time" : "2025-02-11 06:39:58Z",
+      "mag_author" : null,
+      "longitude" : 25.7854,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.7854, 36.6152 ]
+    },
+    "id" : "41672492"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -2867,28 +2889,6 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : 36.624,
-      "event_id" : 41672152,
-      "contributor" : null,
-      "mag_type" : "mb",
-      "event_location_name" : "Dodecanese Islands, Greece [Sea: Greece]",
-      "magnitude" : 4.7,
-      "time" : "2025-02-11 05:14:32Z",
-      "mag_author" : null,
-      "longitude" : 25.7937,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 25.7937, 36.624 ]
-    },
-    "id" : "41672152"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 11.523,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 36.624,
       "event_id" : 41672072,
       "contributor" : null,
       "mag_type" : "mb",
@@ -2904,6 +2904,28 @@
       "coordinates" : [ 25.7937, 36.624 ]
     },
     "id" : "41672072"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 11.523,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : 36.624,
+      "event_id" : 41672152,
+      "contributor" : null,
+      "mag_type" : "mb",
+      "event_location_name" : "Dodecanese Islands, Greece [Sea: Greece]",
+      "magnitude" : 4.7,
+      "time" : "2025-02-11 05:14:32Z",
+      "mag_author" : null,
+      "longitude" : 25.7937,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.7937, 36.624 ]
+    },
+    "id" : "41672152"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -3241,28 +3263,6 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : 36.5537,
-      "event_id" : 41671032,
-      "contributor" : null,
-      "mag_type" : "Mwp",
-      "event_location_name" : "Dodecanese Islands, Greece [Sea: Greece]",
-      "magnitude" : 5.4,
-      "time" : "2025-02-10 22:37:27Z",
-      "mag_author" : null,
-      "longitude" : 25.6931,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 25.6931, 36.5537 ]
-    },
-    "id" : "41671032"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 11.523,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 36.5537,
       "event_id" : 41670772,
       "contributor" : null,
       "mag_type" : "Mwp",
@@ -3278,6 +3278,28 @@
       "coordinates" : [ 25.6931, 36.5537 ]
     },
     "id" : "41670772"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 11.523,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : 36.5537,
+      "event_id" : 41671032,
+      "contributor" : null,
+      "mag_type" : "Mwp",
+      "event_location_name" : "Dodecanese Islands, Greece [Sea: Greece]",
+      "magnitude" : 5.4,
+      "time" : "2025-02-10 22:37:27Z",
+      "mag_author" : null,
+      "longitude" : 25.6931,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.6931, 36.5537 ]
+    },
+    "id" : "41671032"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -3351,28 +3373,6 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : 36.5889,
-      "event_id" : 41670462,
-      "contributor" : null,
-      "mag_type" : "Mwp",
-      "event_location_name" : "Dodecanese Islands, Greece [Sea: Greece]",
-      "magnitude" : 5.4,
-      "time" : "2025-02-10 20:16:30Z",
-      "mag_author" : null,
-      "longitude" : 25.7036,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 25.7036, 36.5889 ]
-    },
-    "id" : "41670462"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.18,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 36.5889,
       "event_id" : 41670412,
       "contributor" : null,
       "mag_type" : "Mwp",
@@ -3388,6 +3388,28 @@
       "coordinates" : [ 25.7036, 36.5889 ]
     },
     "id" : "41670412"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 9.18,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : 36.5889,
+      "event_id" : 41670462,
+      "contributor" : null,
+      "mag_type" : "Mwp",
+      "event_location_name" : "Dodecanese Islands, Greece [Sea: Greece]",
+      "magnitude" : 5.4,
+      "time" : "2025-02-10 20:16:30Z",
+      "mag_author" : null,
+      "longitude" : 25.7036,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.7036, 36.5889 ]
+    },
+    "id" : "41670462"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -4803,28 +4825,6 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : -17.4832,
-      "event_id" : 41664322,
-      "contributor" : null,
-      "mag_type" : "Mwp",
-      "event_location_name" : "Vanuatu Islands [Sea: Vanuatu]",
-      "magnitude" : 6.2,
-      "time" : "2025-02-10 00:09:43Z",
-      "mag_author" : null,
-      "longitude" : 167.945,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 167.945, -17.4832 ]
-    },
-    "id" : "41664322"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 8.984,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : -17.4832,
       "event_id" : 41664312,
       "contributor" : null,
       "mag_type" : "Mwp",
@@ -4840,6 +4840,28 @@
       "coordinates" : [ 167.945, -17.4832 ]
     },
     "id" : "41664312"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 8.984,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : -17.4832,
+      "event_id" : 41664322,
+      "contributor" : null,
+      "mag_type" : "Mwp",
+      "event_location_name" : "Vanuatu Islands [Sea: Vanuatu]",
+      "magnitude" : 6.2,
+      "time" : "2025-02-10 00:09:43Z",
+      "mag_author" : null,
+      "longitude" : 167.945,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 167.945, -17.4832 ]
+    },
+    "id" : "41664322"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -5089,28 +5111,6 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : 36.515,
-      "event_id" : 41396791,
-      "contributor" : null,
-      "mag_type" : "Mwp",
-      "event_location_name" : "Dodecanese Islands, Greece [Sea: Greece]",
-      "magnitude" : 5.5,
-      "time" : "2025-02-09 19:05:40Z",
-      "mag_author" : null,
-      "longitude" : 25.6487,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 25.6487, 36.515 ]
-    },
-    "id" : "41396791"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 19.727,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 36.515,
       "event_id" : 41663452,
       "contributor" : null,
       "mag_type" : "Mwp",
@@ -5126,6 +5126,28 @@
       "coordinates" : [ 25.6487, 36.515 ]
     },
     "id" : "41663452"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 19.727,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : 36.515,
+      "event_id" : 41396791,
+      "contributor" : null,
+      "mag_type" : "Mwp",
+      "event_location_name" : "Dodecanese Islands, Greece [Sea: Greece]",
+      "magnitude" : 5.5,
+      "time" : "2025-02-09 19:05:40Z",
+      "mag_author" : null,
+      "longitude" : 25.6487,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.6487, 36.515 ]
+    },
+    "id" : "41396791"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -5243,28 +5265,6 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : 36.4465,
-      "event_id" : 41662562,
-      "contributor" : null,
-      "mag_type" : "mb",
-      "event_location_name" : "Dodecanese Islands, Greece [Sea: Greece]",
-      "magnitude" : 4.7,
-      "time" : "2025-02-09 15:16:31Z",
-      "mag_author" : null,
-      "longitude" : 25.6069,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 25.6069, 36.4465 ]
-    },
-    "id" : "41662562"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 12.109,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 36.4465,
       "event_id" : 41662502,
       "contributor" : null,
       "mag_type" : "mb",
@@ -5280,6 +5280,28 @@
       "coordinates" : [ 25.6069, 36.4465 ]
     },
     "id" : "41662502"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 12.109,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : 36.4465,
+      "event_id" : 41662562,
+      "contributor" : null,
+      "mag_type" : "mb",
+      "event_location_name" : "Dodecanese Islands, Greece [Sea: Greece]",
+      "magnitude" : 4.7,
+      "time" : "2025-02-09 15:16:31Z",
+      "mag_author" : null,
+      "longitude" : 25.6069,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.6069, 36.4465 ]
+    },
+    "id" : "41662562"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -5507,28 +5529,6 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : 36.5168,
-      "event_id" : 41661592,
-      "contributor" : null,
-      "mag_type" : "mb",
-      "event_location_name" : "Dodecanese Islands, Greece [Sea: Greece]",
-      "magnitude" : 4.8,
-      "time" : "2025-02-09 11:59:46Z",
-      "mag_author" : null,
-      "longitude" : 25.6069,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 25.6069, 36.5168 ]
-    },
-    "id" : "41661592"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 8.984,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 36.5168,
       "event_id" : 41661622,
       "contributor" : null,
       "mag_type" : "mb",
@@ -5544,6 +5544,28 @@
       "coordinates" : [ 25.6069, 36.5168 ]
     },
     "id" : "41661622"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 8.984,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : 36.5168,
+      "event_id" : 41661592,
+      "contributor" : null,
+      "mag_type" : "mb",
+      "event_location_name" : "Dodecanese Islands, Greece [Sea: Greece]",
+      "magnitude" : 4.8,
+      "time" : "2025-02-09 11:59:46Z",
+      "mag_author" : null,
+      "longitude" : 25.6069,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.6069, 36.5168 ]
+    },
+    "id" : "41661592"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -5639,28 +5661,6 @@
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
       "latitude" : 40.831333,
-      "event_id" : 41394461,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 1.1,
-      "time" : "2025-02-09 10:50:02Z",
-      "mag_author" : null,
-      "longitude" : 14.112667,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.112667, 40.831333 ]
-    },
-    "id" : "41394461"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 3.62,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.831333,
       "event_id" : 41661022,
       "contributor" : null,
       "mag_type" : "Md",
@@ -5676,6 +5676,28 @@
       "coordinates" : [ 14.112667, 40.831333 ]
     },
     "id" : "41661022"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 3.62,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.831333,
+      "event_id" : 41394461,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 1.1,
+      "time" : "2025-02-09 10:50:02Z",
+      "mag_author" : null,
+      "longitude" : 14.112667,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.112667, 40.831333 ]
+    },
+    "id" : "41394461"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -7179,28 +7201,6 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : 36.4711,
-      "event_id" : 41655412,
-      "contributor" : null,
-      "mag_type" : "mb",
-      "event_location_name" : "Dodecanese Islands, Greece [Sea: Greece]",
-      "magnitude" : 4.9,
-      "time" : "2025-02-08 09:00:42Z",
-      "mag_author" : null,
-      "longitude" : 25.5691,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 25.5691, 36.4711 ]
-    },
-    "id" : "41655412"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 8.594,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 36.4711,
       "event_id" : 41655302,
       "contributor" : null,
       "mag_type" : "mb",
@@ -7216,6 +7216,28 @@
       "coordinates" : [ 25.5691, 36.4711 ]
     },
     "id" : "41655302"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 8.594,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : 36.4711,
+      "event_id" : 41655412,
+      "contributor" : null,
+      "mag_type" : "mb",
+      "event_location_name" : "Dodecanese Islands, Greece [Sea: Greece]",
+      "magnitude" : 4.9,
+      "time" : "2025-02-08 09:00:42Z",
+      "mag_author" : null,
+      "longitude" : 25.5691,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.5691, 36.4711 ]
+    },
+    "id" : "41655412"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -8433,28 +8455,6 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : 36.123,
-      "event_id" : 41383341,
-      "contributor" : null,
-      "mag_type" : "mb",
-      "event_location_name" : "Dodecanese Islands, Greece [Sea: Greece]",
-      "magnitude" : 4.7,
-      "time" : "2025-02-07 15:16:55Z",
-      "mag_author" : null,
-      "longitude" : 25.3257,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 25.3257, 36.123 ]
-    },
-    "id" : "41383341"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 21.484,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 36.123,
       "event_id" : 41649742,
       "contributor" : null,
       "mag_type" : "mb",
@@ -8495,25 +8495,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 0.82,
-      "author" : "SURVEY-INGV-OV#SiSmi",
+      "depth_km" : 21.484,
+      "author" : "SURVEY-INGV-A",
       "catalog" : null,
-      "latitude" : 40.818167,
-      "event_id" : 41648952,
+      "latitude" : 36.123,
+      "event_id" : 41383341,
       "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Vesuvio",
-      "magnitude" : 2.0,
-      "time" : "2025-02-07 15:11:05Z",
+      "mag_type" : "mb",
+      "event_location_name" : "Dodecanese Islands, Greece [Sea: Greece]",
+      "magnitude" : 4.7,
+      "time" : "2025-02-07 15:16:55Z",
       "mag_author" : null,
-      "longitude" : 14.426333,
+      "longitude" : 25.3257,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 14.426333, 40.818167 ]
+      "coordinates" : [ 25.3257, 36.123 ]
     },
-    "id" : "41648952"
+    "id" : "41383341"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -8536,6 +8536,28 @@
       "coordinates" : [ 14.426333, 40.818167 ]
     },
     "id" : "41383391"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 0.82,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.818167,
+      "event_id" : 41648952,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Vesuvio",
+      "magnitude" : 2.0,
+      "time" : "2025-02-07 15:11:05Z",
+      "mag_author" : null,
+      "longitude" : 14.426333,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.426333, 40.818167 ]
+    },
+    "id" : "41648952"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -8697,28 +8719,6 @@
       "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
       "catalog" : null,
       "latitude" : 38.537,
-      "event_id" : 41647942,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "Isole Eolie (Messina)",
-      "magnitude" : 1.7,
-      "time" : "2025-02-07 11:51:03Z",
-      "mag_author" : null,
-      "longitude" : 14.717,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.717, 38.537 ]
-    },
-    "id" : "41647942"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 11.79,
-      "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
-      "catalog" : null,
-      "latitude" : 38.537,
       "event_id" : 41381921,
       "contributor" : null,
       "mag_type" : "ML",
@@ -8734,6 +8734,28 @@
       "coordinates" : [ 14.717, 38.537 ]
     },
     "id" : "41381921"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 11.79,
+      "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
+      "catalog" : null,
+      "latitude" : 38.537,
+      "event_id" : 41647942,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "Isole Eolie (Messina)",
+      "magnitude" : 1.7,
+      "time" : "2025-02-07 11:51:03Z",
+      "mag_author" : null,
+      "longitude" : 14.717,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.717, 38.537 ]
+    },
+    "id" : "41647942"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -8763,28 +8785,6 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : -24.2332,
-      "event_id" : 41647592,
-      "contributor" : null,
-      "mag_type" : "Mwp",
-      "event_location_name" : "South of Tonga Islands [Sea: Tonga]",
-      "magnitude" : 6.0,
-      "time" : "2025-02-07 10:27:00Z",
-      "mag_author" : null,
-      "longitude" : -175.412,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ -175.412, -24.2332 ]
-    },
-    "id" : "41647592"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 94.922,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : -24.2332,
       "event_id" : 41381541,
       "contributor" : null,
       "mag_type" : "Mwp",
@@ -8800,6 +8800,28 @@
       "coordinates" : [ -175.412, -24.2332 ]
     },
     "id" : "41381541"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 94.922,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : -24.2332,
+      "event_id" : 41647592,
+      "contributor" : null,
+      "mag_type" : "Mwp",
+      "event_location_name" : "South of Tonga Islands [Sea: Tonga]",
+      "magnitude" : 6.0,
+      "time" : "2025-02-07 10:27:00Z",
+      "mag_author" : null,
+      "longitude" : -175.412,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -175.412, -24.2332 ]
+    },
+    "id" : "41647592"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -8829,28 +8851,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 39.7408,
-      "event_id" : 41647072,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km NE Grisolia (CS)",
-      "magnitude" : 2.5,
-      "time" : "2025-02-07 08:10:38Z",
-      "mag_author" : null,
-      "longitude" : 15.8797,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 15.8797, 39.7408 ]
-    },
-    "id" : "41647072"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 66.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 39.7408,
       "event_id" : 41381031,
       "contributor" : null,
       "mag_type" : "ML",
@@ -8866,6 +8866,28 @@
       "coordinates" : [ 15.8797, 39.7408 ]
     },
     "id" : "41381031"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 66.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 39.7408,
+      "event_id" : 41647072,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km NE Grisolia (CS)",
+      "magnitude" : 2.5,
+      "time" : "2025-02-07 08:10:38Z",
+      "mag_author" : null,
+      "longitude" : 15.8797,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 15.8797, 39.7408 ]
+    },
+    "id" : "41647072"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -9093,28 +9115,6 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : -9.51328,
-      "event_id" : 41645962,
-      "contributor" : null,
-      "mag_type" : "Mwp",
-      "event_location_name" : "Cocos Is. [Sea]",
-      "magnitude" : 5.8,
-      "time" : "2025-02-07 04:31:59Z",
-      "mag_author" : null,
-      "longitude" : 97.6148,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 97.6148, -9.51328 ]
-    },
-    "id" : "41645962"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 14.844,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : -9.51328,
       "event_id" : 41379991,
       "contributor" : null,
       "mag_type" : "Mwp",
@@ -9130,6 +9130,28 @@
       "coordinates" : [ 97.6148, -9.51328 ]
     },
     "id" : "41379991"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 14.844,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : -9.51328,
+      "event_id" : 41645962,
+      "contributor" : null,
+      "mag_type" : "Mwp",
+      "event_location_name" : "Cocos Is. [Sea]",
+      "magnitude" : 5.8,
+      "time" : "2025-02-07 04:31:59Z",
+      "mag_author" : null,
+      "longitude" : 97.6148,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 97.6148, -9.51328 ]
+    },
+    "id" : "41645962"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -9203,28 +9225,6 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : 36.5836,
-      "event_id" : 41379581,
-      "contributor" : null,
-      "mag_type" : "mb",
-      "event_location_name" : "Dodecanese Islands, Greece [Sea: Greece]",
-      "magnitude" : 4.5,
-      "time" : "2025-02-07 02:10:35Z",
-      "mag_author" : null,
-      "longitude" : 25.8311,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 25.8311, 36.5836 ]
-    },
-    "id" : "41379581"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 8.594,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 36.5836,
       "event_id" : 41645622,
       "contributor" : null,
       "mag_type" : "mb",
@@ -9240,6 +9240,28 @@
       "coordinates" : [ 25.8311, 36.5836 ]
     },
     "id" : "41645622"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 8.594,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : 36.5836,
+      "event_id" : 41379581,
+      "contributor" : null,
+      "mag_type" : "mb",
+      "event_location_name" : "Dodecanese Islands, Greece [Sea: Greece]",
+      "magnitude" : 4.5,
+      "time" : "2025-02-07 02:10:35Z",
+      "mag_author" : null,
+      "longitude" : 25.8311,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.8311, 36.5836 ]
+    },
+    "id" : "41379581"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -10655,28 +10677,6 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : 36.3867,
-      "event_id" : 41374181,
-      "contributor" : null,
-      "mag_type" : "mb",
-      "event_location_name" : "Dodecanese Islands, Greece [Sea: Greece]",
-      "magnitude" : 4.7,
-      "time" : "2025-02-06 06:22:01Z",
-      "mag_author" : null,
-      "longitude" : 25.4092,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 25.4092, 36.3867 ]
-    },
-    "id" : "41374181"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 14.844,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 36.3867,
       "event_id" : 41639882,
       "contributor" : null,
       "mag_type" : "mb",
@@ -10695,25 +10695,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 16.797,
+      "depth_km" : 14.844,
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
-      "latitude" : 36.5168,
-      "event_id" : 41639692,
+      "latitude" : 36.3867,
+      "event_id" : 41374181,
       "contributor" : null,
       "mag_type" : "mb",
       "event_location_name" : "Dodecanese Islands, Greece [Sea: Greece]",
-      "magnitude" : 4.8,
-      "time" : "2025-02-06 05:51:53Z",
+      "magnitude" : 4.7,
+      "time" : "2025-02-06 06:22:01Z",
       "mag_author" : null,
-      "longitude" : 25.2158,
+      "longitude" : 25.4092,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 25.2158, 36.5168 ]
+      "coordinates" : [ 25.4092, 36.3867 ]
     },
-    "id" : "41639692"
+    "id" : "41374181"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -10736,6 +10736,28 @@
       "coordinates" : [ 25.2158, 36.5168 ]
     },
     "id" : "41374041"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 16.797,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : 36.5168,
+      "event_id" : 41639692,
+      "contributor" : null,
+      "mag_type" : "mb",
+      "event_location_name" : "Dodecanese Islands, Greece [Sea: Greece]",
+      "magnitude" : 4.8,
+      "time" : "2025-02-06 05:51:53Z",
+      "mag_author" : null,
+      "longitude" : 25.2158,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.2158, 36.5168 ]
+    },
+    "id" : "41639692"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -10765,28 +10787,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 46.0237,
-      "event_id" : 41373801,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km SE Lentiai (BL)",
-      "magnitude" : 1.4,
-      "time" : "2025-02-06 03:47:02Z",
-      "mag_author" : null,
-      "longitude" : 12.0427,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.0427, 46.0237 ]
-    },
-    "id" : "41373801"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 46.0237,
       "event_id" : 41639412,
       "contributor" : null,
       "mag_type" : "ML",
@@ -10802,6 +10802,28 @@
       "coordinates" : [ 12.0427, 46.0237 ]
     },
     "id" : "41639412"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 10.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 46.0237,
+      "event_id" : 41373801,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km SE Lentiai (BL)",
+      "magnitude" : 1.4,
+      "time" : "2025-02-06 03:47:02Z",
+      "mag_author" : null,
+      "longitude" : 12.0427,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.0427, 46.0237 ]
+    },
+    "id" : "41373801"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -10985,28 +11007,6 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : 36.3023,
-      "event_id" : 41639242,
-      "contributor" : null,
-      "mag_type" : "mb",
-      "event_location_name" : "Dodecanese Islands, Greece [Sea: Greece]",
-      "magnitude" : 4.5,
-      "time" : "2025-02-06 02:52:49Z",
-      "mag_author" : null,
-      "longitude" : 25.1279,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 25.1279, 36.3023 ]
-    },
-    "id" : "41639242"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 5.469,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 36.3023,
       "event_id" : 41373521,
       "contributor" : null,
       "mag_type" : "mb",
@@ -11025,25 +11025,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 32.422,
+      "depth_km" : 5.469,
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
-      "latitude" : 36.5027,
-      "event_id" : 41639172,
+      "latitude" : 36.3023,
+      "event_id" : 41639242,
       "contributor" : null,
       "mag_type" : "mb",
       "event_location_name" : "Dodecanese Islands, Greece [Sea: Greece]",
-      "magnitude" : 4.7,
-      "time" : "2025-02-06 02:45:59Z",
+      "magnitude" : 4.5,
+      "time" : "2025-02-06 02:52:49Z",
       "mag_author" : null,
-      "longitude" : 25.6245,
+      "longitude" : 25.1279,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 25.6245, 36.5027 ]
+      "coordinates" : [ 25.1279, 36.3023 ]
     },
-    "id" : "41639172"
+    "id" : "41639242"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -11069,25 +11069,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 18.359,
+      "depth_km" : 32.422,
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
-      "latitude" : 36.4184,
-      "event_id" : 41638892,
+      "latitude" : 36.5027,
+      "event_id" : 41639172,
       "contributor" : null,
       "mag_type" : "mb",
       "event_location_name" : "Dodecanese Islands, Greece [Sea: Greece]",
       "magnitude" : 4.7,
-      "time" : "2025-02-06 02:27:33Z",
+      "time" : "2025-02-06 02:45:59Z",
       "mag_author" : null,
-      "longitude" : 25.3424,
+      "longitude" : 25.6245,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 25.3424, 36.4184 ]
+      "coordinates" : [ 25.6245, 36.5027 ]
     },
-    "id" : "41638892"
+    "id" : "41639172"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -11110,6 +11110,28 @@
       "coordinates" : [ 25.3424, 36.4184 ]
     },
     "id" : "41373371"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 18.359,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : 36.4184,
+      "event_id" : 41638892,
+      "contributor" : null,
+      "mag_type" : "mb",
+      "event_location_name" : "Dodecanese Islands, Greece [Sea: Greece]",
+      "magnitude" : 4.7,
+      "time" : "2025-02-06 02:27:33Z",
+      "mag_author" : null,
+      "longitude" : 25.3424,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.3424, 36.4184 ]
+    },
+    "id" : "41638892"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -11249,28 +11271,6 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : 36.4184,
-      "event_id" : 41638612,
-      "contributor" : null,
-      "mag_type" : "mb",
-      "event_location_name" : "Dodecanese Islands, Greece [Sea: Greece]",
-      "magnitude" : 4.5,
-      "time" : "2025-02-05 23:16:44Z",
-      "mag_author" : null,
-      "longitude" : 25.6772,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 25.6772, 36.4184 ]
-    },
-    "id" : "41638612"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.547,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 36.4184,
       "event_id" : 41373091,
       "contributor" : null,
       "mag_type" : "mb",
@@ -11286,6 +11286,28 @@
       "coordinates" : [ 25.6772, 36.4184 ]
     },
     "id" : "41373091"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 10.547,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : 36.4184,
+      "event_id" : 41638612,
+      "contributor" : null,
+      "mag_type" : "mb",
+      "event_location_name" : "Dodecanese Islands, Greece [Sea: Greece]",
+      "magnitude" : 4.5,
+      "time" : "2025-02-05 23:16:44Z",
+      "mag_author" : null,
+      "longitude" : 25.6772,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.6772, 36.4184 ]
+    },
+    "id" : "41638612"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -11381,28 +11403,6 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : 36.5168,
-      "event_id" : 41638092,
-      "contributor" : null,
-      "mag_type" : "Mwp",
-      "event_location_name" : "Dodecanese Islands, Greece [Sea: Greece]",
-      "magnitude" : 5.4,
-      "time" : "2025-02-05 19:09:39Z",
-      "mag_author" : null,
-      "longitude" : 25.6588,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 25.6588, 36.5168 ]
-    },
-    "id" : "41638092"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 8.984,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 36.5168,
       "event_id" : 41372531,
       "contributor" : null,
       "mag_type" : "Mwp",
@@ -11418,6 +11418,28 @@
       "coordinates" : [ 25.6588, 36.5168 ]
     },
     "id" : "41372531"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 8.984,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : 36.5168,
+      "event_id" : 41638092,
+      "contributor" : null,
+      "mag_type" : "Mwp",
+      "event_location_name" : "Dodecanese Islands, Greece [Sea: Greece]",
+      "magnitude" : 5.4,
+      "time" : "2025-02-05 19:09:39Z",
+      "mag_author" : null,
+      "longitude" : 25.6588,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.6588, 36.5168 ]
+    },
+    "id" : "41638092"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -11579,28 +11601,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 42.7837,
-      "event_id" : 41370511,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "1 km S Norcia (PG)",
-      "magnitude" : 1.0,
-      "time" : "2025-02-05 12:19:53Z",
-      "mag_author" : null,
-      "longitude" : 13.0922,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.0922, 42.7837 ]
-    },
-    "id" : "41370511"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.8,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.7837,
       "event_id" : 41635962,
       "contributor" : null,
       "mag_type" : "ML",
@@ -11616,6 +11616,28 @@
       "coordinates" : [ 13.0922, 42.7837 ]
     },
     "id" : "41635962"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 10.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.7837,
+      "event_id" : 41370511,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "1 km S Norcia (PG)",
+      "magnitude" : 1.0,
+      "time" : "2025-02-05 12:19:53Z",
+      "mag_author" : null,
+      "longitude" : 13.0922,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.0922, 42.7837 ]
+    },
+    "id" : "41370511"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -11667,28 +11689,6 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : 36.4184,
-      "event_id" : 41370121,
-      "contributor" : null,
-      "mag_type" : "mb",
-      "event_location_name" : "Dodecanese Islands, Greece [Sea: Greece]",
-      "magnitude" : 4.7,
-      "time" : "2025-02-05 11:33:52Z",
-      "mag_author" : null,
-      "longitude" : 25.5744,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 25.5744, 36.4184 ]
-    },
-    "id" : "41370121"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 18.359,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 36.4184,
       "event_id" : 41635652,
       "contributor" : null,
       "mag_type" : "mb",
@@ -11704,6 +11704,28 @@
       "coordinates" : [ 25.5744, 36.4184 ]
     },
     "id" : "41635652"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 18.359,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : 36.4184,
+      "event_id" : 41370121,
+      "contributor" : null,
+      "mag_type" : "mb",
+      "event_location_name" : "Dodecanese Islands, Greece [Sea: Greece]",
+      "magnitude" : 4.7,
+      "time" : "2025-02-05 11:33:52Z",
+      "mag_author" : null,
+      "longitude" : 25.5744,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.5744, 36.4184 ]
+    },
+    "id" : "41370121"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -11777,28 +11799,6 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : 36.4553,
-      "event_id" : 41369941,
-      "contributor" : null,
-      "mag_type" : "mb",
-      "event_location_name" : "Dodecanese Islands, Greece [Sea: Greece]",
-      "magnitude" : 4.7,
-      "time" : "2025-02-05 11:09:04Z",
-      "mag_author" : null,
-      "longitude" : 25.345,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 25.345, 36.4553 ]
-    },
-    "id" : "41369941"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 17.773,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 36.4553,
       "event_id" : 41635542,
       "contributor" : null,
       "mag_type" : "mb",
@@ -11817,25 +11817,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 32.422,
+      "depth_km" : 17.773,
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
-      "latitude" : 36.334,
-      "event_id" : 41635522,
+      "latitude" : 36.4553,
+      "event_id" : 41369941,
       "contributor" : null,
       "mag_type" : "mb",
       "event_location_name" : "Dodecanese Islands, Greece [Sea: Greece]",
-      "magnitude" : 4.6,
-      "time" : "2025-02-05 10:35:15Z",
+      "magnitude" : 4.7,
+      "time" : "2025-02-05 11:09:04Z",
       "mag_author" : null,
-      "longitude" : 25.2158,
+      "longitude" : 25.345,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 25.2158, 36.334 ]
+      "coordinates" : [ 25.345, 36.4553 ]
     },
-    "id" : "41635522"
+    "id" : "41369941"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -11861,25 +11861,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 2.58,
-      "author" : "SURVEY-INGV-OV#SiSmi",
+      "depth_km" : 32.422,
+      "author" : "SURVEY-INGV-A",
       "catalog" : null,
-      "latitude" : 40.8285,
-      "event_id" : 41634642,
+      "latitude" : 36.334,
+      "event_id" : 41635522,
       "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 2.7,
-      "time" : "2025-02-05 10:00:32Z",
+      "mag_type" : "mb",
+      "event_location_name" : "Dodecanese Islands, Greece [Sea: Greece]",
+      "magnitude" : 4.6,
+      "time" : "2025-02-05 10:35:15Z",
       "mag_author" : null,
-      "longitude" : 14.148833,
+      "longitude" : 25.2158,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 14.148833, 40.8285 ]
+      "coordinates" : [ 25.2158, 36.334 ]
     },
-    "id" : "41634642"
+    "id" : "41635522"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -11905,25 +11905,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 1.54,
+      "depth_km" : 2.58,
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
-      "latitude" : 40.826167,
-      "event_id" : 41369291,
+      "latitude" : 40.8285,
+      "event_id" : 41634642,
       "contributor" : null,
       "mag_type" : "Md",
       "event_location_name" : "Campi Flegrei",
-      "magnitude" : 1.1,
-      "time" : "2025-02-05 09:43:50Z",
+      "magnitude" : 2.7,
+      "time" : "2025-02-05 10:00:32Z",
       "mag_author" : null,
-      "longitude" : 14.151667,
+      "longitude" : 14.148833,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 14.151667, 40.826167 ]
+      "coordinates" : [ 14.148833, 40.8285 ]
     },
-    "id" : "41369291"
+    "id" : "41634642"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -11949,25 +11949,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 1.68,
+      "depth_km" : 1.54,
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
-      "latitude" : 40.825833,
-      "event_id" : 41633982,
+      "latitude" : 40.826167,
+      "event_id" : 41369291,
       "contributor" : null,
       "mag_type" : "Md",
       "event_location_name" : "Campi Flegrei",
-      "magnitude" : 1.0,
-      "time" : "2025-02-05 08:33:19Z",
+      "magnitude" : 1.1,
+      "time" : "2025-02-05 09:43:50Z",
       "mag_author" : null,
-      "longitude" : 14.146,
+      "longitude" : 14.151667,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 14.146, 40.825833 ]
+      "coordinates" : [ 14.151667, 40.826167 ]
     },
-    "id" : "41633982"
+    "id" : "41369291"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -11990,6 +11990,28 @@
       "coordinates" : [ 14.146, 40.825833 ]
     },
     "id" : "41368801"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 1.68,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.825833,
+      "event_id" : 41633982,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 1.0,
+      "time" : "2025-02-05 08:33:19Z",
+      "mag_author" : null,
+      "longitude" : 14.146,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.146, 40.825833 ]
+    },
+    "id" : "41633982"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -12041,28 +12063,6 @@
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
       "latitude" : 40.830833,
-      "event_id" : 41368551,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 1.9,
-      "time" : "2025-02-05 08:10:40Z",
-      "mag_author" : null,
-      "longitude" : 14.1535,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.1535, 40.830833 ]
-    },
-    "id" : "41368551"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 2.79,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.830833,
       "event_id" : 41633692,
       "contributor" : null,
       "mag_type" : "Md",
@@ -12078,6 +12078,28 @@
       "coordinates" : [ 14.1535, 40.830833 ]
     },
     "id" : "41633692"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 2.79,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.830833,
+      "event_id" : 41368551,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 1.9,
+      "time" : "2025-02-05 08:10:40Z",
+      "mag_author" : null,
+      "longitude" : 14.1535,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.1535, 40.830833 ]
+    },
+    "id" : "41368551"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -12129,28 +12151,6 @@
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
       "latitude" : 40.829333,
-      "event_id" : 41633422,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 3.1,
-      "time" : "2025-02-05 07:52:02Z",
-      "mag_author" : null,
-      "longitude" : 14.151667,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.151667, 40.829333 ]
-    },
-    "id" : "41633422"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 2.67,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.829333,
       "event_id" : 41368371,
       "contributor" : null,
       "mag_type" : "Md",
@@ -12166,6 +12166,28 @@
       "coordinates" : [ 14.151667, 40.829333 ]
     },
     "id" : "41368371"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 2.67,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.829333,
+      "event_id" : 41633422,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 3.1,
+      "time" : "2025-02-05 07:52:02Z",
+      "mag_author" : null,
+      "longitude" : 14.151667,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.151667, 40.829333 ]
+    },
+    "id" : "41633422"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -12239,28 +12261,6 @@
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
       "latitude" : 40.824833,
-      "event_id" : 41633452,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 1.0,
-      "time" : "2025-02-05 07:38:39Z",
-      "mag_author" : null,
-      "longitude" : 14.144167,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.144167, 40.824833 ]
-    },
-    "id" : "41633452"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 1.56,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.824833,
       "event_id" : 41368211,
       "contributor" : null,
       "mag_type" : "Md",
@@ -12276,6 +12276,28 @@
       "coordinates" : [ 14.144167, 40.824833 ]
     },
     "id" : "41368211"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 1.56,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.824833,
+      "event_id" : 41633452,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 1.0,
+      "time" : "2025-02-05 07:38:39Z",
+      "mag_author" : null,
+      "longitude" : 14.144167,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.144167, 40.824833 ]
+    },
+    "id" : "41633452"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -12371,28 +12393,6 @@
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
       "latitude" : 40.831333,
-      "event_id" : 41368191,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 1.4,
-      "time" : "2025-02-05 07:35:53Z",
-      "mag_author" : null,
-      "longitude" : 14.147833,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.147833, 40.831333 ]
-    },
-    "id" : "41368191"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 2.52,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.831333,
       "event_id" : 41633432,
       "contributor" : null,
       "mag_type" : "Md",
@@ -12411,25 +12411,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 2.46,
+      "depth_km" : 2.52,
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
-      "latitude" : 40.8275,
-      "event_id" : 41632742,
+      "latitude" : 40.831333,
+      "event_id" : 41368191,
       "contributor" : null,
       "mag_type" : "Md",
       "event_location_name" : "Campi Flegrei",
-      "magnitude" : 1.6,
-      "time" : "2025-02-05 07:35:24Z",
+      "magnitude" : 1.4,
+      "time" : "2025-02-05 07:35:53Z",
       "mag_author" : null,
-      "longitude" : 14.144833,
+      "longitude" : 14.147833,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 14.144833, 40.8275 ]
+      "coordinates" : [ 14.147833, 40.831333 ]
     },
-    "id" : "41632742"
+    "id" : "41368191"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -12455,25 +12455,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 2.72,
+      "depth_km" : 2.46,
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
-      "latitude" : 40.831333,
-      "event_id" : 41367981,
+      "latitude" : 40.8275,
+      "event_id" : 41632742,
       "contributor" : null,
       "mag_type" : "Md",
       "event_location_name" : "Campi Flegrei",
-      "magnitude" : 2.6,
-      "time" : "2025-02-05 07:32:17Z",
+      "magnitude" : 1.6,
+      "time" : "2025-02-05 07:35:24Z",
       "mag_author" : null,
-      "longitude" : 14.147,
+      "longitude" : 14.144833,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 14.147, 40.831333 ]
+      "coordinates" : [ 14.144833, 40.8275 ]
     },
-    "id" : "41367981"
+    "id" : "41632742"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -12496,6 +12496,28 @@
       "coordinates" : [ 14.147833, 40.830833 ]
     },
     "id" : "41632702"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 2.72,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.831333,
+      "event_id" : 41367981,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 2.6,
+      "time" : "2025-02-05 07:32:17Z",
+      "mag_author" : null,
+      "longitude" : 14.147,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.147, 40.831333 ]
+    },
+    "id" : "41367981"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -12635,28 +12657,6 @@
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
       "latitude" : 40.829667,
-      "event_id" : 41368351,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 1.3,
-      "time" : "2025-02-05 07:25:56Z",
-      "mag_author" : null,
-      "longitude" : 14.145667,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.145667, 40.829667 ]
-    },
-    "id" : "41368351"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 2.15,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.829667,
       "event_id" : 41632412,
       "contributor" : null,
       "mag_type" : "Md",
@@ -12672,6 +12672,28 @@
       "coordinates" : [ 14.145667, 40.829667 ]
     },
     "id" : "41632412"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 2.15,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.829667,
+      "event_id" : 41368351,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 1.3,
+      "time" : "2025-02-05 07:25:56Z",
+      "mag_author" : null,
+      "longitude" : 14.145667,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.145667, 40.829667 ]
+    },
+    "id" : "41368351"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -12745,28 +12767,6 @@
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
       "latitude" : 40.828333,
-      "event_id" : 41367471,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 1.4,
-      "time" : "2025-02-05 07:21:44Z",
-      "mag_author" : null,
-      "longitude" : 14.1475,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.1475, 40.828333 ]
-    },
-    "id" : "41367471"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 2.97,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.828333,
       "event_id" : 41632262,
       "contributor" : null,
       "mag_type" : "Md",
@@ -12782,6 +12782,28 @@
       "coordinates" : [ 14.1475, 40.828333 ]
     },
     "id" : "41632262"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 2.97,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.828333,
+      "event_id" : 41367471,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 1.4,
+      "time" : "2025-02-05 07:21:44Z",
+      "mag_author" : null,
+      "longitude" : 14.1475,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.1475, 40.828333 ]
+    },
+    "id" : "41367471"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -13603,28 +13625,6 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : 36.5309,
-      "event_id" : 41365551,
-      "contributor" : null,
-      "mag_type" : "mb",
-      "event_location_name" : "Dodecanese Islands, Greece [Sea: Greece]",
-      "magnitude" : 4.7,
-      "time" : "2025-02-04 20:00:24Z",
-      "mag_author" : null,
-      "longitude" : 25.8486,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 25.8486, 36.5309 ]
-    },
-    "id" : "41365551"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 8.984,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 36.5309,
       "event_id" : 41630442,
       "contributor" : null,
       "mag_type" : "mb",
@@ -13640,6 +13640,28 @@
       "coordinates" : [ 25.8486, 36.5309 ]
     },
     "id" : "41630442"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 8.984,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : 36.5309,
+      "event_id" : 41365551,
+      "contributor" : null,
+      "mag_type" : "mb",
+      "event_location_name" : "Dodecanese Islands, Greece [Sea: Greece]",
+      "magnitude" : 4.7,
+      "time" : "2025-02-04 20:00:24Z",
+      "mag_author" : null,
+      "longitude" : 25.8486,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.8486, 36.5309 ]
+    },
+    "id" : "41365551"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -14307,28 +14329,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 43.0262,
-      "event_id" : 41362201,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "1 km SW Sarnano (MC)",
-      "magnitude" : 1.6,
-      "time" : "2025-02-04 10:01:52Z",
-      "mag_author" : null,
-      "longitude" : 13.2902,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.2902, 43.0262 ]
-    },
-    "id" : "41362201"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 24.6,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.0262,
       "event_id" : 41626952,
       "contributor" : null,
       "mag_type" : "ML",
@@ -14344,6 +14344,28 @@
       "coordinates" : [ 13.2902, 43.0262 ]
     },
     "id" : "41626952"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 24.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.0262,
+      "event_id" : 41362201,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "1 km SW Sarnano (MC)",
+      "magnitude" : 1.6,
+      "time" : "2025-02-04 10:01:52Z",
+      "mag_author" : null,
+      "longitude" : 13.2902,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.2902, 43.0262 ]
+    },
+    "id" : "41362201"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -14769,28 +14791,6 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : 36.5256,
-      "event_id" : 41360691,
-      "contributor" : null,
-      "mag_type" : "mb",
-      "event_location_name" : "Dodecanese Islands, Greece [Sea: Greece]",
-      "magnitude" : 5.0,
-      "time" : "2025-02-04 02:46:08Z",
-      "mag_author" : null,
-      "longitude" : 25.7353,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 25.7353, 36.5256 ]
-    },
-    "id" : "41360691"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 12.305,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 36.5256,
       "event_id" : 41625392,
       "contributor" : null,
       "mag_type" : "mb",
@@ -14806,6 +14806,28 @@
       "coordinates" : [ 25.7353, 36.5256 ]
     },
     "id" : "41625392"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 12.305,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : 36.5256,
+      "event_id" : 41360691,
+      "contributor" : null,
+      "mag_type" : "mb",
+      "event_location_name" : "Dodecanese Islands, Greece [Sea: Greece]",
+      "magnitude" : 5.0,
+      "time" : "2025-02-04 02:46:08Z",
+      "mag_author" : null,
+      "longitude" : 25.7353,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.7353, 36.5256 ]
+    },
+    "id" : "41360691"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -15187,28 +15209,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 43.2685,
-      "event_id" : 41624392,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "6 km NW Monteroni d'Arbia (SI)",
-      "magnitude" : 1.7,
-      "time" : "2025-02-03 21:05:31Z",
-      "mag_author" : null,
-      "longitude" : 11.3688,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 11.3688, 43.2685 ]
-    },
-    "id" : "41624392"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.2685,
       "event_id" : 41359861,
       "contributor" : null,
       "mag_type" : "ML",
@@ -15224,6 +15224,28 @@
       "coordinates" : [ 11.3688, 43.2685 ]
     },
     "id" : "41359861"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 9.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.2685,
+      "event_id" : 41624392,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "6 km NW Monteroni d'Arbia (SI)",
+      "magnitude" : 1.7,
+      "time" : "2025-02-03 21:05:31Z",
+      "mag_author" : null,
+      "longitude" : 11.3688,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.3688, 43.2685 ]
+    },
+    "id" : "41624392"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -15253,28 +15275,6 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : 36.5027,
-      "event_id" : 41624382,
-      "contributor" : null,
-      "mag_type" : "mb",
-      "event_location_name" : "Dodecanese Islands, Greece [Sea: Greece]",
-      "magnitude" : 4.6,
-      "time" : "2025-02-03 20:39:18Z",
-      "mag_author" : null,
-      "longitude" : 25.701,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 25.701, 36.5027 ]
-    },
-    "id" : "41624382"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 21.484,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 36.5027,
       "event_id" : 41359811,
       "contributor" : null,
       "mag_type" : "mb",
@@ -15290,6 +15290,28 @@
       "coordinates" : [ 25.701, 36.5027 ]
     },
     "id" : "41359811"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 21.484,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : 36.5027,
+      "event_id" : 41624382,
+      "contributor" : null,
+      "mag_type" : "mb",
+      "event_location_name" : "Dodecanese Islands, Greece [Sea: Greece]",
+      "magnitude" : 4.6,
+      "time" : "2025-02-03 20:39:18Z",
+      "mag_author" : null,
+      "longitude" : 25.701,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.701, 36.5027 ]
+    },
+    "id" : "41624382"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -15473,28 +15495,6 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : 36.4992,
-      "event_id" : 41623812,
-      "contributor" : null,
-      "mag_type" : "mb",
-      "event_location_name" : "Dodecanese Islands, Greece [Sea: Greece]",
-      "magnitude" : 4.7,
-      "time" : "2025-02-03 17:45:02Z",
-      "mag_author" : null,
-      "longitude" : 25.7379,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 25.7379, 36.4992 ]
-    },
-    "id" : "41623812"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 14.844,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 36.4992,
       "event_id" : 41359191,
       "contributor" : null,
       "mag_type" : "mb",
@@ -15510,6 +15510,28 @@
       "coordinates" : [ 25.7379, 36.4992 ]
     },
     "id" : "41359191"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 14.844,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : 36.4992,
+      "event_id" : 41623812,
+      "contributor" : null,
+      "mag_type" : "mb",
+      "event_location_name" : "Dodecanese Islands, Greece [Sea: Greece]",
+      "magnitude" : 4.7,
+      "time" : "2025-02-03 17:45:02Z",
+      "mag_author" : null,
+      "longitude" : 25.7379,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.7379, 36.4992 ]
+    },
+    "id" : "41623812"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -15781,28 +15803,6 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : 36.1512,
-      "event_id" : 41357721,
-      "contributor" : null,
-      "mag_type" : "mb",
-      "event_location_name" : "Dodecanese Islands, Greece [Sea: Greece]",
-      "magnitude" : 4.8,
-      "time" : "2025-02-03 11:50:48Z",
-      "mag_author" : null,
-      "longitude" : 25.701,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 25.701, 36.1512 ]
-    },
-    "id" : "41357721"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 15.234,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 36.1512,
       "event_id" : 41622332,
       "contributor" : null,
       "mag_type" : "mb",
@@ -15818,6 +15818,28 @@
       "coordinates" : [ 25.701, 36.1512 ]
     },
     "id" : "41622332"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 15.234,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : 36.1512,
+      "event_id" : 41357721,
+      "contributor" : null,
+      "mag_type" : "mb",
+      "event_location_name" : "Dodecanese Islands, Greece [Sea: Greece]",
+      "magnitude" : 4.8,
+      "time" : "2025-02-03 11:50:48Z",
+      "mag_author" : null,
+      "longitude" : 25.701,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.701, 36.1512 ]
+    },
+    "id" : "41357721"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -16045,28 +16067,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 43.5188,
-      "event_id" : 41621062,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km S Cagli (PU)",
-      "magnitude" : 1.0,
-      "time" : "2025-02-03 08:44:13Z",
-      "mag_author" : null,
-      "longitude" : 12.6512,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.6512, 43.5188 ]
-    },
-    "id" : "41621062"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 6.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.5188,
       "event_id" : 41356651,
       "contributor" : null,
       "mag_type" : "ML",
@@ -16082,6 +16082,28 @@
       "coordinates" : [ 12.6512, 43.5188 ]
     },
     "id" : "41356651"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 6.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.5188,
+      "event_id" : 41621062,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km S Cagli (PU)",
+      "magnitude" : 1.0,
+      "time" : "2025-02-03 08:44:13Z",
+      "mag_author" : null,
+      "longitude" : 12.6512,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.6512, 43.5188 ]
+    },
+    "id" : "41621062"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -16221,28 +16243,6 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : 38.86,
-      "event_id" : 41620762,
-      "contributor" : null,
-      "mag_type" : "mb",
-      "event_location_name" : "Greece [Sea]",
-      "magnitude" : 4.9,
-      "time" : "2025-02-03 08:01:03Z",
-      "mag_author" : null,
-      "longitude" : 24.4753,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 24.4753, 38.86 ]
-    },
-    "id" : "41620762"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 13.867,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 38.86,
       "event_id" : 41356331,
       "contributor" : null,
       "mag_type" : "mb",
@@ -16258,6 +16258,28 @@
       "coordinates" : [ 24.4753, 38.86 ]
     },
     "id" : "41356331"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 13.867,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : 38.86,
+      "event_id" : 41620762,
+      "contributor" : null,
+      "mag_type" : "mb",
+      "event_location_name" : "Greece [Sea]",
+      "magnitude" : 4.9,
+      "time" : "2025-02-03 08:01:03Z",
+      "mag_author" : null,
+      "longitude" : 24.4753,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.4753, 38.86 ]
+    },
+    "id" : "41620762"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -16441,28 +16463,6 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : 36.5889,
-      "event_id" : 41355301,
-      "contributor" : null,
-      "mag_type" : "mb",
-      "event_location_name" : "Dodecanese Islands, Greece [Sea: Greece]",
-      "magnitude" : 4.6,
-      "time" : "2025-02-02 23:54:44Z",
-      "mag_author" : null,
-      "longitude" : 25.6931,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 25.6931, 36.5889 ]
-    },
-    "id" : "41355301"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.18,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 36.5889,
       "event_id" : 41620242,
       "contributor" : null,
       "mag_type" : "mb",
@@ -16478,6 +16478,28 @@
       "coordinates" : [ 25.6931, 36.5889 ]
     },
     "id" : "41620242"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 9.18,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : 36.5889,
+      "event_id" : 41355301,
+      "contributor" : null,
+      "mag_type" : "mb",
+      "event_location_name" : "Dodecanese Islands, Greece [Sea: Greece]",
+      "magnitude" : 4.6,
+      "time" : "2025-02-02 23:54:44Z",
+      "mag_author" : null,
+      "longitude" : 25.6931,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.6931, 36.5889 ]
+    },
+    "id" : "41355301"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -16991,28 +17013,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 43.2767,
-      "event_id" : 41354281,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "6 km SE Siena (SI)",
-      "magnitude" : 1.2,
-      "time" : "2025-02-02 18:31:52Z",
-      "mag_author" : null,
-      "longitude" : 11.3788,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 11.3788, 43.2767 ]
-    },
-    "id" : "41354281"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.3,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.2767,
       "event_id" : 41618532,
       "contributor" : null,
       "mag_type" : "ML",
@@ -17028,6 +17028,28 @@
       "coordinates" : [ 11.3788, 43.2767 ]
     },
     "id" : "41618532"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 9.3,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.2767,
+      "event_id" : 41354281,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "6 km SE Siena (SI)",
+      "magnitude" : 1.2,
+      "time" : "2025-02-02 18:31:52Z",
+      "mag_author" : null,
+      "longitude" : 11.3788,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.3788, 43.2767 ]
+    },
+    "id" : "41354281"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -17475,28 +17497,6 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : 36.4043,
-      "event_id" : 41616562,
-      "contributor" : null,
-      "mag_type" : "mb",
-      "event_location_name" : "Dodecanese Islands, Greece [Sea: Greece]",
-      "magnitude" : 4.7,
-      "time" : "2025-02-02 12:55:44Z",
-      "mag_author" : null,
-      "longitude" : 25.5955,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 25.5955, 36.4043 ]
-    },
-    "id" : "41616562"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 15.234,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 36.4043,
       "event_id" : 41352321,
       "contributor" : null,
       "mag_type" : "mb",
@@ -17512,6 +17512,28 @@
       "coordinates" : [ 25.5955, 36.4043 ]
     },
     "id" : "41352321"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 15.234,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : 36.4043,
+      "event_id" : 41616562,
+      "contributor" : null,
+      "mag_type" : "mb",
+      "event_location_name" : "Dodecanese Islands, Greece [Sea: Greece]",
+      "magnitude" : 4.7,
+      "time" : "2025-02-02 12:55:44Z",
+      "mag_author" : null,
+      "longitude" : 25.5955,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.5955, 36.4043 ]
+    },
+    "id" : "41616562"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -18927,28 +18949,6 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : -0.907031,
-      "event_id" : 41344931,
-      "contributor" : null,
-      "mag_type" : "Mwp",
-      "event_location_name" : "Ecuador",
-      "magnitude" : 5.7,
-      "time" : "2025-01-31 23:02:31Z",
-      "mag_author" : null,
-      "longitude" : -77.7727,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ -77.7727, -0.907031 ]
-    },
-    "id" : "41344931"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 17.969,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : -0.907031,
       "event_id" : 41608752,
       "contributor" : null,
       "mag_type" : "Mwp",
@@ -18964,6 +18964,28 @@
       "coordinates" : [ -77.7727, -0.907031 ]
     },
     "id" : "41608752"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 17.969,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : -0.907031,
+      "event_id" : 41344931,
+      "contributor" : null,
+      "mag_type" : "Mwp",
+      "event_location_name" : "Ecuador",
+      "magnitude" : 5.7,
+      "time" : "2025-01-31 23:02:31Z",
+      "mag_author" : null,
+      "longitude" : -77.7727,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -77.7727, -0.907031 ]
+    },
+    "id" : "41344931"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -20225,28 +20247,6 @@
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
       "latitude" : 40.828167,
-      "event_id" : 41601432,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 1.0,
-      "time" : "2025-01-30 17:32:00Z",
-      "mag_author" : null,
-      "longitude" : 14.140167,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.140167, 40.828167 ]
-    },
-    "id" : "41601432"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 2.64,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.828167,
       "event_id" : 41338431,
       "contributor" : null,
       "mag_type" : "Md",
@@ -20262,6 +20262,28 @@
       "coordinates" : [ 14.140167, 40.828167 ]
     },
     "id" : "41338431"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 2.64,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.828167,
+      "event_id" : 41601432,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 1.0,
+      "time" : "2025-01-30 17:32:00Z",
+      "mag_author" : null,
+      "longitude" : 14.140167,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.140167, 40.828167 ]
+    },
+    "id" : "41601432"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -25307,28 +25329,6 @@
       "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
       "catalog" : null,
       "latitude" : 37.636,
-      "event_id" : 41289291,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "1 km NE Ragalna (CT)",
-      "magnitude" : 2.2,
-      "time" : "2025-01-24 16:28:14Z",
-      "mag_author" : null,
-      "longitude" : 14.942,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.942, 37.636 ]
-    },
-    "id" : "41289291"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 2.32,
-      "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
-      "catalog" : null,
-      "latitude" : 37.636,
       "event_id" : 41548902,
       "contributor" : null,
       "mag_type" : "ML",
@@ -25344,6 +25344,28 @@
       "coordinates" : [ 14.942, 37.636 ]
     },
     "id" : "41548902"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 2.32,
+      "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
+      "catalog" : null,
+      "latitude" : 37.636,
+      "event_id" : 41289291,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "1 km NE Ragalna (CT)",
+      "magnitude" : 2.2,
+      "time" : "2025-01-24 16:28:14Z",
+      "mag_author" : null,
+      "longitude" : 14.942,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.942, 37.636 ]
+    },
+    "id" : "41289291"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -26891,28 +26913,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 43.021,
-      "event_id" : 41278631,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km SW Pieve Torina (MC)",
-      "magnitude" : 0.6,
-      "time" : "2025-01-22 14:13:41Z",
-      "mag_author" : null,
-      "longitude" : 13.0263,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.0263, 43.021 ]
-    },
-    "id" : "41278631"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 11.9,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.021,
       "event_id" : 41537742,
       "contributor" : null,
       "mag_type" : "ML",
@@ -26931,25 +26931,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 10.8,
+      "depth_km" : 11.9,
       "author" : "SURVEY-INGV",
       "catalog" : null,
-      "latitude" : 42.7992,
-      "event_id" : 41278501,
+      "latitude" : 43.021,
+      "event_id" : 41278631,
       "contributor" : null,
       "mag_type" : "ML",
-      "event_location_name" : "2 km E Norcia (PG)",
-      "magnitude" : 1.0,
-      "time" : "2025-01-22 13:45:50Z",
+      "event_location_name" : "3 km SW Pieve Torina (MC)",
+      "magnitude" : 0.6,
+      "time" : "2025-01-22 14:13:41Z",
       "mag_author" : null,
-      "longitude" : 13.121,
+      "longitude" : 13.0263,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 13.121, 42.7992 ]
+      "coordinates" : [ 13.0263, 43.021 ]
     },
-    "id" : "41278501"
+    "id" : "41278631"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -26972,6 +26972,28 @@
       "coordinates" : [ 13.121, 42.7992 ]
     },
     "id" : "41537552"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 10.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.7992,
+      "event_id" : 41278501,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km E Norcia (PG)",
+      "magnitude" : 1.0,
+      "time" : "2025-01-22 13:45:50Z",
+      "mag_author" : null,
+      "longitude" : 13.121,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.121, 42.7992 ]
+    },
+    "id" : "41278501"
   }, {
     "type" : "Feature",
     "properties" : {
