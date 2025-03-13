@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 7.7,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.2272,
+      "event_id" : 41913122,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km NE Castelnuovo di Val di Cecina (PI)",
+      "magnitude" : 1.7,
+      "time" : "2025-03-13 09:15:56Z",
+      "mag_author" : null,
+      "longitude" : 10.9473,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.9473, 43.2272 ]
+    },
+    "id" : "41913122"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 25.3,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -1613,28 +1635,6 @@
       "author" : "SURVEY-INGV-OV#WESSEL",
       "catalog" : null,
       "latitude" : 40.840333,
-      "event_id" : 41606221,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 1.0,
-      "time" : "2025-03-12 05:27:55Z",
-      "mag_author" : null,
-      "longitude" : 14.137333,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.137333, 40.840333 ]
-    },
-    "id" : "41606221"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 1.27,
-      "author" : "SURVEY-INGV-OV#WESSEL",
-      "catalog" : null,
-      "latitude" : 40.840333,
       "event_id" : 41901192,
       "contributor" : null,
       "mag_type" : "Md",
@@ -1650,6 +1650,28 @@
       "coordinates" : [ 14.137333, 40.840333 ]
     },
     "id" : "41901192"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 1.27,
+      "author" : "SURVEY-INGV-OV#WESSEL",
+      "catalog" : null,
+      "latitude" : 40.840333,
+      "event_id" : 41606221,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 1.0,
+      "time" : "2025-03-12 05:27:55Z",
+      "mag_author" : null,
+      "longitude" : 14.137333,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.137333, 40.840333 ]
+    },
+    "id" : "41606221"
   }, {
     "type" : "Feature",
     "properties" : {
