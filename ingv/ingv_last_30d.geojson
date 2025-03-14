@@ -3,6 +3,50 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.7,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 38.9282,
+      "event_id" : 41922592,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "1 km E Marcellinara (CZ)",
+      "magnitude" : 1.1,
+      "time" : "2025-03-14 02:05:19Z",
+      "mag_author" : null,
+      "longitude" : 16.5062,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.5062, 38.9282 ]
+    },
+    "id" : "41922592"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 8.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.2058,
+      "event_id" : 41922562,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km N Fiuminata (MC)",
+      "magnitude" : 0.3,
+      "time" : "2025-03-14 02:03:40Z",
+      "mag_author" : null,
+      "longitude" : 12.9292,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.9292, 43.2058 ]
+    },
+    "id" : "41922562"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.4,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -2229,28 +2273,6 @@
       "author" : "SURVEY-INGV-OV#WESSEL",
       "catalog" : null,
       "latitude" : 40.840167,
-      "event_id" : 41606161,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 1.7,
-      "time" : "2025-03-12 05:25:19Z",
-      "mag_author" : null,
-      "longitude" : 14.137667,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.137667, 40.840167 ]
-    },
-    "id" : "41606161"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 1.85,
-      "author" : "SURVEY-INGV-OV#WESSEL",
-      "catalog" : null,
-      "latitude" : 40.840167,
       "event_id" : 41901152,
       "contributor" : null,
       "mag_type" : "Md",
@@ -2266,6 +2288,28 @@
       "coordinates" : [ 14.137667, 40.840167 ]
     },
     "id" : "41901152"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 1.85,
+      "author" : "SURVEY-INGV-OV#WESSEL",
+      "catalog" : null,
+      "latitude" : 40.840167,
+      "event_id" : 41606161,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 1.7,
+      "time" : "2025-03-12 05:25:19Z",
+      "mag_author" : null,
+      "longitude" : 14.137667,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.137667, 40.840167 ]
+    },
+    "id" : "41606161"
   }, {
     "type" : "Feature",
     "properties" : {
