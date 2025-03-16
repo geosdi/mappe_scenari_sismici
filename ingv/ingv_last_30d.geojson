@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.3,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.2463,
+      "event_id" : 41655721,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "1 km NW Rocca di Cambio (AQ)",
+      "magnitude" : 2.0,
+      "time" : "2025-03-16 10:35:36Z",
+      "mag_author" : null,
+      "longitude" : 13.4848,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.4848, 42.2463 ]
+    },
+    "id" : "41655721"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 5.3,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -5419,28 +5441,6 @@
       "author" : "SURVEY-INGV-OV#WESSEL",
       "catalog" : null,
       "latitude" : 40.840167,
-      "event_id" : 41901152,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 1.7,
-      "time" : "2025-03-12 05:25:19Z",
-      "mag_author" : null,
-      "longitude" : 14.137667,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.137667, 40.840167 ]
-    },
-    "id" : "41901152"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 1.85,
-      "author" : "SURVEY-INGV-OV#WESSEL",
-      "catalog" : null,
-      "latitude" : 40.840167,
       "event_id" : 41606161,
       "contributor" : null,
       "mag_type" : "Md",
@@ -5456,6 +5456,28 @@
       "coordinates" : [ 14.137667, 40.840167 ]
     },
     "id" : "41606161"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 1.85,
+      "author" : "SURVEY-INGV-OV#WESSEL",
+      "catalog" : null,
+      "latitude" : 40.840167,
+      "event_id" : 41901152,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 1.7,
+      "time" : "2025-03-12 05:25:19Z",
+      "mag_author" : null,
+      "longitude" : 14.137667,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.137667, 40.840167 ]
+    },
+    "id" : "41901152"
   }, {
     "type" : "Feature",
     "properties" : {
