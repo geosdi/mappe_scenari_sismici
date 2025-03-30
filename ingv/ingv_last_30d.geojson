@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 12.3,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.4945,
+      "event_id" : 42176712,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "7 km E Capitignano (AQ)",
+      "magnitude" : 0.9,
+      "time" : "2025-03-30 18:02:37Z",
+      "mag_author" : null,
+      "longitude" : 13.3733,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.3733, 42.4945 ]
+    },
+    "id" : "42176712"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.2,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -39842,27 +39864,5 @@
       "coordinates" : [ 12.7158, 43.9578 ]
     },
     "id" : "41815922"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 39.7,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 37.4183,
-      "event_id" : 41815722,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "Mar Ionio Meridionale (MARE)",
-      "magnitude" : 3.6,
-      "time" : "2025-02-28 20:09:39Z",
-      "mag_author" : null,
-      "longitude" : 19.9567,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 19.9567, 37.4183 ]
-    },
-    "id" : "41815722"
   } ]
 }
