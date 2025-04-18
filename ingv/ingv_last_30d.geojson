@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.9478,
+      "event_id" : 42469562,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "1 km N Camaiore (LU)",
+      "magnitude" : 1.7,
+      "time" : "2025-04-18 09:47:51Z",
+      "mag_author" : null,
+      "longitude" : 10.3048,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.3048, 43.9478 ]
+    },
+    "id" : "42469562"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 7.8,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -31702,27 +31724,5 @@
       "coordinates" : [ 15.3333, 37.2182 ]
     },
     "id" : "41986362"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 45.8002,
-      "event_id" : 41986312,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "6 km SE Valpelline (AO)",
-      "magnitude" : 0.6,
-      "time" : "2025-03-19 12:00:39Z",
-      "mag_author" : null,
-      "longitude" : 7.393,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 7.393, 45.8002 ]
-    },
-    "id" : "41986312"
   } ]
 }
