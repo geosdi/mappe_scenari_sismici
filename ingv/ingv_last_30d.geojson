@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 12.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.6428,
+      "event_id" : 42474722,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km SE Urbania (PU)",
+      "magnitude" : 0.4,
+      "time" : "2025-04-18 20:53:29Z",
+      "mag_author" : null,
+      "longitude" : 12.5483,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.5483, 43.6428 ]
+    },
+    "id" : "42474722"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.5,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -31438,49 +31460,5 @@
       "coordinates" : [ 16.4897, 38.9588 ]
     },
     "id" : "41990922"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 19.4,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.4987,
-      "event_id" : 41990842,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km E Arcevia (AN)",
-      "magnitude" : 0.6,
-      "time" : "2025-03-19 23:02:01Z",
-      "mag_author" : null,
-      "longitude" : 12.9752,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.9752, 43.4987 ]
-    },
-    "id" : "41990842"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.9,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 38.9422,
-      "event_id" : 41990832,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "1 km SE Miglierina (CZ)",
-      "magnitude" : 1.4,
-      "time" : "2025-03-19 23:01:19Z",
-      "mag_author" : null,
-      "longitude" : 16.4807,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 16.4807, 38.9422 ]
-    },
-    "id" : "41990832"
   } ]
 }
