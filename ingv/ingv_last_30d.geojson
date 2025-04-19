@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 11.3,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 45.8323,
+      "event_id" : 42483372,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km SW Roana (VI)",
+      "magnitude" : 1.1,
+      "time" : "2025-04-19 20:29:15Z",
+      "mag_author" : null,
+      "longitude" : 11.4555,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.4555, 45.8323 ]
+    },
+    "id" : "42483372"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 13.77,
       "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
       "catalog" : null,
@@ -30712,27 +30734,5 @@
       "coordinates" : [ 16.5852, 38.8965 ]
     },
     "id" : "41700851"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 16.6,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 37.9713,
-      "event_id" : 41700761,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "6 km SW San Fratello (ME)",
-      "magnitude" : 1.6,
-      "time" : "2025-03-20 22:32:20Z",
-      "mag_author" : null,
-      "longitude" : 14.5562,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.5562, 37.9713 ]
-    },
-    "id" : "41700761"
   } ]
 }
