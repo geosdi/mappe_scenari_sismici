@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 11.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.1188,
+      "event_id" : 42477532,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km SE Camerino (MC)",
+      "magnitude" : 0.7,
+      "time" : "2025-04-19 08:57:58Z",
+      "mag_author" : null,
+      "longitude" : 13.1037,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.1037, 43.1188 ]
+    },
+    "id" : "42477532"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 13.8,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -30800,49 +30822,5 @@
       "coordinates" : [ 16.5067, 38.9572 ]
     },
     "id" : "41695561"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.2072,
-      "event_id" : 41695511,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "6 km NE Valfabbrica (PG)",
-      "magnitude" : 0.9,
-      "time" : "2025-03-20 11:30:03Z",
-      "mag_author" : null,
-      "longitude" : 12.627,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.627, 43.2072 ]
-    },
-    "id" : "41695511"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.1,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 38.9582,
-      "event_id" : 41695371,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "1 km N Tiriolo (CZ)",
-      "magnitude" : 2.8,
-      "time" : "2025-03-20 11:29:14Z",
-      "mag_author" : null,
-      "longitude" : 16.5092,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 16.5092, 38.9582 ]
-    },
-    "id" : "41695371"
   } ]
 }
