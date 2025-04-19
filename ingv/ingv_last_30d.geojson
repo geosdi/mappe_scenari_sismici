@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 11.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.9422,
+      "event_id" : 42475072,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "6 km NE Sellano (PG)",
+      "magnitude" : 0.9,
+      "time" : "2025-04-19 00:22:50Z",
+      "mag_author" : null,
+      "longitude" : 12.9542,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.9542, 42.9422 ]
+    },
+    "id" : "42475072"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 9.9,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -31218,27 +31240,5 @@
       "coordinates" : [ 16.4967, 38.9592 ]
     },
     "id" : "41991572"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.6,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 38.9593,
-      "event_id" : 41991522,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km NW Tiriolo (CZ)",
-      "magnitude" : 1.8,
-      "time" : "2025-03-20 02:33:48Z",
-      "mag_author" : null,
-      "longitude" : 16.4928,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 16.4928, 38.9593 ]
-    },
-    "id" : "41991522"
   } ]
 }
