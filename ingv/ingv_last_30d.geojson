@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 16.2,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 41.6728,
+      "event_id" : 42484182,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "6 km NW Manfredonia (FG)",
+      "magnitude" : 1.3,
+      "time" : "2025-04-20 00:03:28Z",
+      "mag_author" : null,
+      "longitude" : 15.8807,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 15.8807, 41.6728 ]
+    },
+    "id" : "42484182"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 24.1,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -30492,49 +30514,5 @@
       "coordinates" : [ 13.0778, 43.2898 ]
     },
     "id" : "41701471"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 11.1,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 45.7972,
-      "event_id" : 41701411,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "6 km N Quart (AO)",
-      "magnitude" : 1.0,
-      "time" : "2025-03-21 02:07:29Z",
-      "mag_author" : null,
-      "longitude" : 7.4143,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 7.4143, 45.7972 ]
-    },
-    "id" : "41701411"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.7,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 38.9543,
-      "event_id" : 41701381,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "1 km NE Tiriolo (CZ)",
-      "magnitude" : 1.3,
-      "time" : "2025-03-21 02:06:40Z",
-      "mag_author" : null,
-      "longitude" : 16.521,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 16.521, 38.9543 ]
-    },
-    "id" : "41701381"
   } ]
 }
