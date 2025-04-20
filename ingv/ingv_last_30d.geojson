@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 3.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 46.3208,
+      "event_id" : 42484212,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "Confine Italia-Slovenia (SLOVENIA)",
+      "magnitude" : 1.1,
+      "time" : "2025-04-20 00:18:26Z",
+      "mag_author" : null,
+      "longitude" : 13.5498,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.5498, 46.3208 ]
+    },
+    "id" : "42484212"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 16.2,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -30492,27 +30514,5 @@
       "coordinates" : [ 7.417, 45.8107 ]
     },
     "id" : "41701541"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 8.4,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.2898,
-      "event_id" : 41701471,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "6 km N Gagliole (MC)",
-      "magnitude" : 1.2,
-      "time" : "2025-03-21 02:25:34Z",
-      "mag_author" : null,
-      "longitude" : 13.0778,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.0778, 43.2898 ]
-    },
-    "id" : "41701471"
   } ]
 }
