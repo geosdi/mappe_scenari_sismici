@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.9,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.6473,
+      "event_id" : 42491302,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km SE Sant'Angelo in Vado (PU)",
+      "magnitude" : 1.0,
+      "time" : "2025-04-20 20:53:24Z",
+      "mag_author" : null,
+      "longitude" : 12.4267,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.4267, 43.6473 ]
+    },
+    "id" : "42491302"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 0.4,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -29524,27 +29546,5 @@
       "coordinates" : [ 12.725, 43.2182 ]
     },
     "id" : "41709101"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.8037,
-      "event_id" : 41709051,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km E Norcia (PG)",
-      "magnitude" : 1.2,
-      "time" : "2025-03-21 22:57:55Z",
-      "mag_author" : null,
-      "longitude" : 13.1248,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.1248, 42.8037 ]
-    },
-    "id" : "41709051"
   } ]
 }
