@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.3,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.3538,
+      "event_id" : 42485622,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km W Gubbio (PG)",
+      "magnitude" : 0.7,
+      "time" : "2025-04-20 06:53:43Z",
+      "mag_author" : null,
+      "longitude" : 12.5348,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.5348, 43.3538 ]
+    },
+    "id" : "42485622"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.1,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -30250,27 +30272,5 @@
       "coordinates" : [ 13.0753, 43.2918 ]
     },
     "id" : "41704091"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.4,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.9572,
-      "event_id" : 41703941,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km N Visso (MC)",
-      "magnitude" : 1.4,
-      "time" : "2025-03-21 09:05:15Z",
-      "mag_author" : null,
-      "longitude" : 13.0987,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.0987, 42.9572 ]
-    },
-    "id" : "41703941"
   } ]
 }
