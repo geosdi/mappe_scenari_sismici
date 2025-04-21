@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.0148,
+      "event_id" : 42495982,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "7 km SE Valtopina (PG)",
+      "magnitude" : 1.6,
+      "time" : "2025-04-21 11:06:27Z",
+      "mag_author" : null,
+      "longitude" : 12.8213,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.8213, 43.0148 ]
+    },
+    "id" : "42495982"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 9.0,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -29194,27 +29216,5 @@
       "coordinates" : [ 13.0743, 43.071 ]
     },
     "id" : "41713901"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.9,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 44.4132,
-      "event_id" : 41713641,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km W Pradleves (CN)",
-      "magnitude" : 2.2,
-      "time" : "2025-03-22 13:17:03Z",
-      "mag_author" : null,
-      "longitude" : 7.2647,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 7.2647, 44.4132 ]
-    },
-    "id" : "41713641"
   } ]
 }
