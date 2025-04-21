@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.2,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.1527,
+      "event_id" : 42492022,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km W Valfabbrica (PG)",
+      "magnitude" : 1.1,
+      "time" : "2025-04-21 03:14:06Z",
+      "mag_author" : null,
+      "longitude" : 12.5762,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.5762, 43.1527 ]
+    },
+    "id" : "42492022"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 8.0,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -29458,27 +29480,5 @@
       "coordinates" : [ 15.5725, 40.2187 ]
     },
     "id" : "41710101"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 6.7,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.1055,
-      "event_id" : 41709721,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "6 km SW Monterotondo Marittimo (GR)",
-      "magnitude" : 1.7,
-      "time" : "2025-03-22 05:19:54Z",
-      "mag_author" : null,
-      "longitude" : 10.8162,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 10.8162, 43.1055 ]
-    },
-    "id" : "41709721"
   } ]
 }
