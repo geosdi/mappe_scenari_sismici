@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 13.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.4833,
+      "event_id" : 42491872,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km E Cantiano (PU)",
+      "magnitude" : 1.5,
+      "time" : "2025-04-21 01:33:06Z",
+      "mag_author" : null,
+      "longitude" : 12.6887,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.6887, 43.4833 ]
+    },
+    "id" : "42491872"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 27.7,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -29392,27 +29414,5 @@
       "coordinates" : [ 15.505, 41.9488 ]
     },
     "id" : "41709551"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 22.1,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 37.1813,
-      "event_id" : 41709511,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km N Vizzini (CT)",
-      "magnitude" : 2.4,
-      "time" : "2025-03-22 03:36:20Z",
-      "mag_author" : null,
-      "longitude" : 14.7502,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.7502, 37.1813 ]
-    },
-    "id" : "41709511"
   } ]
 }
