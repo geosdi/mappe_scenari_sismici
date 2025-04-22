@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 40.6802,
+      "event_id" : 42502712,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km N Potenza (PZ)",
+      "magnitude" : 0.7,
+      "time" : "2025-04-22 00:36:52Z",
+      "mag_author" : null,
+      "longitude" : 15.8137,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 15.8137, 40.6802 ]
+    },
+    "id" : "42502712"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 9.0,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -29084,27 +29106,5 @@
       "coordinates" : [ 12.7717, 43.2323 ]
     },
     "id" : "41717641"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.9,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 38.9297,
-      "event_id" : 41717481,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "1 km W Marcellinara (CZ)",
-      "magnitude" : 1.7,
-      "time" : "2025-03-23 02:50:03Z",
-      "mag_author" : null,
-      "longitude" : 16.4792,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 16.4792, 38.9297 ]
-    },
-    "id" : "41717481"
   } ]
 }
