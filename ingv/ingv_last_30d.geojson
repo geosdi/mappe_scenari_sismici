@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 11.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.7405,
+      "event_id" : 42526522,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km N Accumoli (RI)",
+      "magnitude" : 0.7,
+      "time" : "2025-04-23 19:18:06Z",
+      "mag_author" : null,
+      "longitude" : 13.2423,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.2423, 42.7405 ]
+    },
+    "id" : "42526522"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.4,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -28776,27 +28798,5 @@
       "coordinates" : [ 14.926, 38.0898 ]
     },
     "id" : "42138982"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 2.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 45.9705,
-      "event_id" : 42138912,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "Slovenia (SLOVENIA)",
-      "magnitude" : 1.2,
-      "time" : "2025-03-24 21:23:19Z",
-      "mag_author" : null,
-      "longitude" : 14.2957,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.2957, 45.9705 ]
-    },
-    "id" : "42138912"
   } ]
 }
