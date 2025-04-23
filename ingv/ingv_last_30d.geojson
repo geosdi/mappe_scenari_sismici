@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.4,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 45.8112,
+      "event_id" : 42526492,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "6 km SE Oyace (AO)",
+      "magnitude" : 0.4,
+      "time" : "2025-04-23 19:12:20Z",
+      "mag_author" : null,
+      "longitude" : 7.4353,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.4353, 45.8112 ]
+    },
+    "id" : "42526492"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.7,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -28776,27 +28798,5 @@
       "coordinates" : [ 14.2957, 45.9705 ]
     },
     "id" : "42138912"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 16.3,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 38.0748,
-      "event_id" : 42138832,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km NE Raccuja (ME)",
-      "magnitude" : 0.8,
-      "time" : "2025-03-24 21:17:08Z",
-      "mag_author" : null,
-      "longitude" : 14.9237,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.9237, 38.0748 ]
-    },
-    "id" : "42138832"
   } ]
 }
