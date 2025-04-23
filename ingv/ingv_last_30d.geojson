@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.3,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.7788,
+      "event_id" : 42527412,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km N Spoleto (PG)",
+      "magnitude" : 1.2,
+      "time" : "2025-04-23 23:19:16Z",
+      "mag_author" : null,
+      "longitude" : 12.7403,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.7403, 42.7788 ]
+    },
+    "id" : "42527412"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 15.2,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -28776,27 +28798,5 @@
       "coordinates" : [ 16.4827, 38.9648 ]
     },
     "id" : "42139642"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.8,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 40.6692,
-      "event_id" : 42139572,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km NE Potenza (PZ)",
-      "magnitude" : 1.5,
-      "time" : "2025-03-25 01:49:47Z",
-      "mag_author" : null,
-      "longitude" : 15.8283,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 15.8283, 40.6692 ]
-    },
-    "id" : "42139572"
   } ]
 }
