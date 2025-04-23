@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.273,
+      "event_id" : 42514712,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km NE Monteroni d'Arbia (SI)",
+      "magnitude" : 0.8,
+      "time" : "2025-04-23 01:50:00Z",
+      "mag_author" : null,
+      "longitude" : 11.4482,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.4482, 43.273 ]
+    },
+    "id" : "42514712"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 9.2,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -28864,49 +28886,5 @@
       "coordinates" : [ 12.8852, 43.1213 ]
     },
     "id" : "42025582"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 14.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.1793,
-      "event_id" : 42025262,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "1 km E Pioraco (MC)",
-      "magnitude" : 1.1,
-      "time" : "2025-03-24 04:01:01Z",
-      "mag_author" : null,
-      "longitude" : 13.0017,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.0017, 43.1793 ]
-    },
-    "id" : "42025262"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 25.3,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 44.2073,
-      "event_id" : 42025212,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "5 km E Forlimpopoli (FC)",
-      "magnitude" : 1.9,
-      "time" : "2025-03-24 03:59:31Z",
-      "mag_author" : null,
-      "longitude" : 12.1838,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.1838, 44.2073 ]
-    },
-    "id" : "42025212"
   } ]
 }
