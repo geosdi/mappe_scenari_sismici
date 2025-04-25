@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.8802,
+      "event_id" : 42538632,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "1 km E Preci (PG)",
+      "magnitude" : 0.9,
+      "time" : "2025-04-25 08:54:16Z",
+      "mag_author" : null,
+      "longitude" : 13.0492,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.0492, 42.8802 ]
+    },
+    "id" : "42538632"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 9.4,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -645,28 +667,6 @@
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
       "latitude" : 40.836333,
-      "event_id" : 42535822,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 2.1,
-      "time" : "2025-04-24 20:26:07Z",
-      "mag_author" : null,
-      "longitude" : 14.118333,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.118333, 40.836333 ]
-    },
-    "id" : "42535822"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 2.44,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.836333,
       "event_id" : 42535952,
       "contributor" : null,
       "mag_type" : "Md",
@@ -682,6 +682,28 @@
       "coordinates" : [ 14.118333, 40.836333 ]
     },
     "id" : "42535952"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 2.44,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.836333,
+      "event_id" : 42535822,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 2.1,
+      "time" : "2025-04-24 20:26:07Z",
+      "mag_author" : null,
+      "longitude" : 14.118333,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.118333, 40.836333 ]
+    },
+    "id" : "42535822"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -28820,27 +28842,5 @@
       "coordinates" : [ 13.2052, 42.6112 ]
     },
     "id" : "42150292"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 8.3,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 46.1143,
-      "event_id" : 42150272,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km W Fornace (TN)",
-      "magnitude" : 0.6,
-      "time" : "2025-03-26 11:07:10Z",
-      "mag_author" : null,
-      "longitude" : 11.1773,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 11.1773, 46.1143 ]
-    },
-    "id" : "42150272"
   } ]
 }
