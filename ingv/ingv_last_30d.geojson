@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 11.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 40.1765,
+      "event_id" : 42538922,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "7 km NE Lagonegro (PZ)",
+      "magnitude" : 1.4,
+      "time" : "2025-04-25 09:28:02Z",
+      "mag_author" : null,
+      "longitude" : 15.8033,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 15.8033, 40.1765 ]
+    },
+    "id" : "42538922"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.0,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -667,28 +689,6 @@
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
       "latitude" : 40.836333,
-      "event_id" : 42535822,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 2.1,
-      "time" : "2025-04-24 20:26:07Z",
-      "mag_author" : null,
-      "longitude" : 14.118333,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.118333, 40.836333 ]
-    },
-    "id" : "42535822"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 2.44,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.836333,
       "event_id" : 42535952,
       "contributor" : null,
       "mag_type" : "Md",
@@ -704,6 +704,28 @@
       "coordinates" : [ 14.118333, 40.836333 ]
     },
     "id" : "42535952"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 2.44,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.836333,
+      "event_id" : 42535822,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 2.1,
+      "time" : "2025-04-24 20:26:07Z",
+      "mag_author" : null,
+      "longitude" : 14.118333,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.118333, 40.836333 ]
+    },
+    "id" : "42535822"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -28754,27 +28776,5 @@
       "coordinates" : [ 15.7457, 38.2592 ]
     },
     "id" : "42150562"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 7.4,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 44.1263,
-      "event_id" : 42150492,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "1 km S Pieve Fosciana (LU)",
-      "magnitude" : 1.0,
-      "time" : "2025-03-26 11:36:18Z",
-      "mag_author" : null,
-      "longitude" : 10.4128,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 10.4128, 44.1263 ]
-    },
-    "id" : "42150492"
   } ]
 }
