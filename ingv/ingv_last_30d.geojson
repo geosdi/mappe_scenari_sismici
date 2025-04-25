@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 12.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 39.3813,
+      "event_id" : 42537672,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km SE Rose (CS)",
+      "magnitude" : 0.8,
+      "time" : "2025-04-25 06:42:51Z",
+      "mag_author" : null,
+      "longitude" : 16.3313,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.3313, 39.3813 ]
+    },
+    "id" : "42537672"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 2.62,
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
@@ -28864,27 +28886,5 @@
       "coordinates" : [ 15.732, 38.232 ]
     },
     "id" : "42149182"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 7.1,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.4032,
-      "event_id" : 42148652,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "6 km NW Gubbio (PG)",
-      "magnitude" : 0.6,
-      "time" : "2025-03-26 08:56:35Z",
-      "mag_author" : null,
-      "longitude" : 12.552,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.552, 43.4032 ]
-    },
-    "id" : "42148652"
   } ]
 }
