@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 11.3,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 40.1768,
+      "event_id" : 42539002,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "7 km NE Lagonegro (PZ)",
+      "magnitude" : 1.2,
+      "time" : "2025-04-25 09:36:39Z",
+      "mag_author" : null,
+      "longitude" : 15.8033,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 15.8033, 40.1768 ]
+    },
+    "id" : "42539002"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 5.3,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -711,28 +733,6 @@
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
       "latitude" : 40.836333,
-      "event_id" : 42535822,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 2.1,
-      "time" : "2025-04-24 20:26:07Z",
-      "mag_author" : null,
-      "longitude" : 14.118333,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.118333, 40.836333 ]
-    },
-    "id" : "42535822"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 2.44,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.836333,
       "event_id" : 42535952,
       "contributor" : null,
       "mag_type" : "Md",
@@ -748,6 +748,28 @@
       "coordinates" : [ 14.118333, 40.836333 ]
     },
     "id" : "42535952"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 2.44,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.836333,
+      "event_id" : 42535822,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 2.1,
+      "time" : "2025-04-24 20:26:07Z",
+      "mag_author" : null,
+      "longitude" : 14.118333,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.118333, 40.836333 ]
+    },
+    "id" : "42535822"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -28776,27 +28798,5 @@
       "coordinates" : [ 15.7357, 38.2643 ]
     },
     "id" : "42150622"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 16.3,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 38.2592,
-      "event_id" : 42150562,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "Stretto di Messina (Reggio di Calabria, Messina)",
-      "magnitude" : 2.2,
-      "time" : "2025-03-26 11:45:26Z",
-      "mag_author" : null,
-      "longitude" : 15.7457,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 15.7457, 38.2592 ]
-    },
-    "id" : "42150562"
   } ]
 }
