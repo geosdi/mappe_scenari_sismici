@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 8.9,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.5368,
+      "event_id" : 42541642,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km E Jesi (AN)",
+      "magnitude" : 1.2,
+      "time" : "2025-04-25 12:55:59Z",
+      "mag_author" : null,
+      "longitude" : 13.2857,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.2857, 43.5368 ]
+    },
+    "id" : "42541642"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.0,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -28776,27 +28798,5 @@
       "coordinates" : [ 15.7542, 38.2615 ]
     },
     "id" : "42153482"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.7,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 46.0913,
-      "event_id" : 42153262,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "Confine Italia-Svizzera (SVIZZERA)",
-      "magnitude" : 1.8,
-      "time" : "2025-03-26 15:11:57Z",
-      "mag_author" : null,
-      "longitude" : 7.4292,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 7.4292, 46.0913 ]
-    },
-    "id" : "42153262"
   } ]
 }
