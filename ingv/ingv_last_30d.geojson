@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 38.1268,
+      "event_id" : 42551852,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km SW Terme Vigliatore (ME)",
+      "magnitude" : 1.2,
+      "time" : "2025-04-26 17:40:30Z",
+      "mag_author" : null,
+      "longitude" : 15.1483,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 15.1483, 38.1268 ]
+    },
+    "id" : "42551852"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 9.2,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -29018,27 +29040,5 @@
       "coordinates" : [ 7.4528, 45.8017 ]
     },
     "id" : "42161372"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 11.6,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.9678,
-      "event_id" : 42161292,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km SE Monte Cavallo (MC)",
-      "magnitude" : 1.4,
-      "time" : "2025-03-27 19:50:42Z",
-      "mag_author" : null,
-      "longitude" : 13.0273,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.0273, 42.9678 ]
-    },
-    "id" : "42161292"
   } ]
 }
