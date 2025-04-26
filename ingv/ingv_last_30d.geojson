@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 6.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 41.0327,
+      "event_id" : 42552362,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "1 km W Rotondi (AV)",
+      "magnitude" : 1.5,
+      "time" : "2025-04-26 19:11:48Z",
+      "mag_author" : null,
+      "longitude" : 14.5877,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.5877, 41.0327 ]
+    },
+    "id" : "42552362"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 12.2,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -2669,28 +2691,6 @@
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
       "latitude" : 40.836333,
-      "event_id" : 42535952,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 2.1,
-      "time" : "2025-04-24 20:26:07Z",
-      "mag_author" : null,
-      "longitude" : 14.118333,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.118333, 40.836333 ]
-    },
-    "id" : "42535952"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 2.44,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.836333,
       "event_id" : 42535822,
       "contributor" : null,
       "mag_type" : "Md",
@@ -2706,6 +2706,28 @@
       "coordinates" : [ 14.118333, 40.836333 ]
     },
     "id" : "42535822"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 2.44,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.836333,
+      "event_id" : 42535952,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 2.1,
+      "time" : "2025-04-24 20:26:07Z",
+      "mag_author" : null,
+      "longitude" : 14.118333,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.118333, 40.836333 ]
+    },
+    "id" : "42535952"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -29018,27 +29040,5 @@
       "coordinates" : [ 16.589, 39.1775 ]
     },
     "id" : "42161502"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.8,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.7648,
-      "event_id" : 42161422,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km NE Urbino (PU)",
-      "magnitude" : 1.6,
-      "time" : "2025-03-27 21:19:04Z",
-      "mag_author" : null,
-      "longitude" : 12.6728,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.6728, 43.7648 ]
-    },
-    "id" : "42161422"
   } ]
 }
