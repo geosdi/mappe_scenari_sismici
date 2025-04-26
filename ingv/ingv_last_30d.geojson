@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 7.2,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.4922,
+      "event_id" : 42547312,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "8 km NW Pietralunga (PG)",
+      "magnitude" : 0.5,
+      "time" : "2025-04-26 07:50:06Z",
+      "mag_author" : null,
+      "longitude" : 12.37,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.37, 43.4922 ]
+    },
+    "id" : "42547312"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 8.8,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -29150,27 +29172,5 @@
       "coordinates" : [ 13.3072, 42.6703 ]
     },
     "id" : "42157882"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 5.4,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.4252,
-      "event_id" : 42157792,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "6 km E Pietralunga (PG)",
-      "magnitude" : 0.0,
-      "time" : "2025-03-27 10:19:52Z",
-      "mag_author" : null,
-      "longitude" : 12.5022,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.5022, 43.4252 ]
-    },
-    "id" : "42157792"
   } ]
 }
