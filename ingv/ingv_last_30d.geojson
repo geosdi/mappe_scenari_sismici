@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.8227,
+      "event_id" : 42554182,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km NW Norcia (PG)",
+      "magnitude" : 1.5,
+      "time" : "2025-04-27 05:40:08Z",
+      "mag_author" : null,
+      "longitude" : 13.047,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.047, 42.8227 ]
+    },
+    "id" : "42554182"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 9.1,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -29392,27 +29414,5 @@
       "coordinates" : [ 13.0313, 43.0712 ]
     },
     "id" : "42163452"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 20.2,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.1937,
-      "event_id" : 42162662,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km NW Pioraco (MC)",
-      "magnitude" : 1.1,
-      "time" : "2025-03-28 07:51:21Z",
-      "mag_author" : null,
-      "longitude" : 12.9633,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.9633, 43.1937 ]
-    },
-    "id" : "42162662"
   } ]
 }
