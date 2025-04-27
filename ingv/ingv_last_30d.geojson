@@ -47,6 +47,28 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 5.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.4143,
+      "event_id" : 42557542,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km NE Scheggia e Pascelupo (PG)",
+      "magnitude" : 0.7,
+      "time" : "2025-04-27 14:41:33Z",
+      "mag_author" : null,
+      "longitude" : 12.6912,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.6912, 43.4143 ]
+    },
+    "id" : "42557542"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 11.6,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -29370,27 +29392,5 @@
       "coordinates" : [ 15.5495, 41.932 ]
     },
     "id" : "42166212"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 21.094,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 0.667969,
-      "event_id" : 42166202,
-      "contributor" : null,
-      "mag_type" : "Mwp",
-      "event_location_name" : "Brazil [Sea]",
-      "magnitude" : 6.5,
-      "time" : "2025-03-28 17:17:33Z",
-      "mag_author" : null,
-      "longitude" : -29.7633,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ -29.7633, 0.667969 ]
-    },
-    "id" : "42166202"
   } ]
 }
