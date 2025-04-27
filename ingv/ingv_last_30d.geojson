@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 11.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.0207,
+      "event_id" : 42557072,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km NE Monte Cavallo (MC)",
+      "magnitude" : 0.5,
+      "time" : "2025-04-27 13:05:39Z",
+      "mag_author" : null,
+      "longitude" : 13.0155,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.0155, 43.0207 ]
+    },
+    "id" : "42557072"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.3,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -29436,49 +29458,5 @@
       "coordinates" : [ 12.8217, 46.4377 ]
     },
     "id" : "42165382"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 6.24,
-      "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
-      "catalog" : null,
-      "latitude" : 37.725,
-      "event_id" : 42165462,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "10 km N Ragalna (CT)",
-      "magnitude" : 1.8,
-      "time" : "2025-03-28 15:18:01Z",
-      "mag_author" : null,
-      "longitude" : 14.947,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.947, 37.725 ]
-    },
-    "id" : "42165462"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 5.94,
-      "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
-      "catalog" : null,
-      "latitude" : 37.733,
-      "event_id" : 42165262,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "11 km SE Bronte (CT)",
-      "magnitude" : 1.6,
-      "time" : "2025-03-28 15:16:00Z",
-      "mag_author" : null,
-      "longitude" : 14.938,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.938, 37.733 ]
-    },
-    "id" : "42165262"
   } ]
 }
