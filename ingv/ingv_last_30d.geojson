@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 1.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.3473,
+      "event_id" : 42559062,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "1 km S Gubbio (PG)",
+      "magnitude" : 0.5,
+      "time" : "2025-04-27 17:20:03Z",
+      "mag_author" : null,
+      "longitude" : 12.5793,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.5793, 43.3473 ]
+    },
+    "id" : "42559062"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 9.8,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -3901,28 +3923,6 @@
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
       "latitude" : 40.836333,
-      "event_id" : 42535822,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 2.1,
-      "time" : "2025-04-24 20:26:07Z",
-      "mag_author" : null,
-      "longitude" : 14.118333,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.118333, 40.836333 ]
-    },
-    "id" : "42535822"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 2.44,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.836333,
       "event_id" : 42535952,
       "contributor" : null,
       "mag_type" : "Md",
@@ -3938,6 +3938,28 @@
       "coordinates" : [ 14.118333, 40.836333 ]
     },
     "id" : "42535952"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 2.44,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.836333,
+      "event_id" : 42535822,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 2.1,
+      "time" : "2025-04-24 20:26:07Z",
+      "mag_author" : null,
+      "longitude" : 14.118333,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.118333, 40.836333 ]
+    },
+    "id" : "42535822"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -29436,27 +29458,5 @@
       "coordinates" : [ 15.5485, 41.9603 ]
     },
     "id" : "42166672"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 4.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 41.9675,
-      "event_id" : 42166512,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "Costa Garganica (Foggia)",
-      "magnitude" : 3.7,
-      "time" : "2025-03-28 19:26:32Z",
-      "mag_author" : null,
-      "longitude" : 15.5405,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 15.5405, 41.9675 ]
-    },
-    "id" : "42166512"
   } ]
 }
