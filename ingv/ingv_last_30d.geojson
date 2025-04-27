@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.7468,
+      "event_id" : 42554962,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km NE Cascia (PG)",
+      "magnitude" : 1.1,
+      "time" : "2025-04-27 07:52:20Z",
+      "mag_author" : null,
+      "longitude" : 13.0412,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.0412, 42.7468 ]
+    },
+    "id" : "42554962"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 7.8,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -29458,27 +29480,5 @@
       "coordinates" : [ 15.4902, 37.6492 ]
     },
     "id" : "42163682"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 4.22,
-      "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
-      "catalog" : null,
-      "latitude" : 37.731,
-      "event_id" : 42163542,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "11 km SE Bronte (CT)",
-      "magnitude" : 2.0,
-      "time" : "2025-03-28 10:20:26Z",
-      "mag_author" : null,
-      "longitude" : 14.932,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.932, 37.731 ]
-    },
-    "id" : "42163542"
   } ]
 }
