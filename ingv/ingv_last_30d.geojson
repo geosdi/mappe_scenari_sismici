@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 11.3,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.7952,
+      "event_id" : 42575462,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "8 km E Norcia (PG)",
+      "magnitude" : 1.1,
+      "time" : "2025-04-29 12:56:41Z",
+      "mag_author" : null,
+      "longitude" : 13.1962,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.1962, 42.7952 ]
+    },
+    "id" : "42575462"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.4,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -29568,27 +29590,5 @@
       "coordinates" : [ 12.8413, 43.0277 ]
     },
     "id" : "42175592"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 14.844,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : -20.4258,
-      "event_id" : 42175482,
-      "contributor" : null,
-      "mag_type" : "Mwp",
-      "event_location_name" : "Tonga Islands [Sea: Tonga]",
-      "magnitude" : 6.5,
-      "time" : "2025-03-30 15:04:56Z",
-      "mag_author" : null,
-      "longitude" : -173.799,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ -173.799, -20.4258 ]
-    },
-    "id" : "42175482"
   } ]
 }
