@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 8.984,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : -48.4207,
+      "event_id" : 42575982,
+      "contributor" : null,
+      "mag_type" : "Mwp",
+      "event_location_name" : "Off west coast of South Island, New Zealand [Sea: New Zealand]",
+      "magnitude" : 6.2,
+      "time" : "2025-04-29 13:16:32Z",
+      "mag_author" : null,
+      "longitude" : 165.352,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 165.352, -48.4207 ]
+    },
+    "id" : "42575982"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 11.3,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -29546,27 +29568,5 @@
       "coordinates" : [ 16.1647, 39.7837 ]
     },
     "id" : "42175712"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 44.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 36.7867,
-      "event_id" : 42175622,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "Mar Ionio Meridionale (MARE)",
-      "magnitude" : 3.4,
-      "time" : "2025-03-30 15:31:34Z",
-      "mag_author" : null,
-      "longitude" : 17.7627,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 17.7627, 36.7867 ]
-    },
-    "id" : "42175622"
   } ]
 }
