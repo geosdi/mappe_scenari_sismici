@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 5.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 41.3188,
+      "event_id" : 42579812,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km SE Conca della Campania (CE)",
+      "magnitude" : 1.0,
+      "time" : "2025-04-30 02:14:57Z",
+      "mag_author" : null,
+      "longitude" : 13.9982,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.9982, 41.3188 ]
+    },
+    "id" : "42579812"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 7.9,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -29502,27 +29524,5 @@
       "coordinates" : [ 13.2617, 43.1835 ]
     },
     "id" : "42178042"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.7,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 39.8857,
-      "event_id" : 42178012,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "7 km NE Morano Calabro (CS)",
-      "magnitude" : 0.9,
-      "time" : "2025-03-31 05:18:58Z",
-      "mag_author" : null,
-      "longitude" : 16.1962,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 16.1962, 39.8857 ]
-    },
-    "id" : "42178012"
   } ]
 }
