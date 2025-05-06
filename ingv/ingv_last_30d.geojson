@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 6.2,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.4608,
+      "event_id" : 42635232,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km NE Pietralunga (PG)",
+      "magnitude" : 0.6,
+      "time" : "2025-05-06 03:52:56Z",
+      "mag_author" : null,
+      "longitude" : 12.4733,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.4733, 43.4608 ]
+    },
+    "id" : "42635232"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 4.03,
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
@@ -28292,27 +28314,5 @@
       "coordinates" : [ 13.0488, 43.0058 ]
     },
     "id" : "42357912"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.1,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.0892,
-      "event_id" : 42357842,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km SE Nocera Umbra (PG)",
-      "magnitude" : 0.6,
-      "time" : "2025-04-06 06:01:30Z",
-      "mag_author" : null,
-      "longitude" : 12.8315,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.8315, 43.0892 ]
-    },
-    "id" : "42357842"
   } ]
 }
