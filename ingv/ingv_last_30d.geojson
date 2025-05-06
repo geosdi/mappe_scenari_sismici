@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 12.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 45.3908,
+      "event_id" : 42634932,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "France",
+      "magnitude" : 3.4,
+      "time" : "2025-05-06 01:40:08Z",
+      "mag_author" : null,
+      "longitude" : 5.9717,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 5.9717, 45.3908 ]
+    },
+    "id" : "42634932"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 12.2,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -28314,27 +28336,5 @@
       "coordinates" : [ 14.8062, 41.5818 ]
     },
     "id" : "42357622"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 25.8,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 41.5708,
-      "event_id" : 42357602,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km E Toro (CB)",
-      "magnitude" : 0.9,
-      "time" : "2025-04-06 03:57:04Z",
-      "mag_author" : null,
-      "longitude" : 14.7892,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.7892, 41.5708 ]
-    },
-    "id" : "42357602"
   } ]
 }
