@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 2.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.0622,
+      "event_id" : 42647952,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km W Serravalle di Chienti (MC)",
+      "magnitude" : 0.7,
+      "time" : "2025-05-07 15:33:40Z",
+      "mag_author" : null,
+      "longitude" : 12.893,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.893, 43.0622 ]
+    },
+    "id" : "42647952"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 15.5,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -28160,27 +28182,5 @@
       "coordinates" : [ 12.5768, 43.537 ]
     },
     "id" : "42372642"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 41.0618,
-      "event_id" : 42372602,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "Tirreno Centrale (MARE)",
-      "magnitude" : 2.4,
-      "time" : "2025-04-07 17:37:23Z",
-      "mag_author" : null,
-      "longitude" : 10.2502,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 10.2502, 41.0618 ]
-    },
-    "id" : "42372602"
   } ]
 }
