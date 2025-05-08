@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 11.3,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.0552,
+      "event_id" : 42651892,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km NW Fiastra (MC)",
+      "magnitude" : 0.7,
+      "time" : "2025-05-08 06:25:34Z",
+      "mag_author" : null,
+      "longitude" : 13.1297,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.1297, 43.0552 ]
+    },
+    "id" : "42651892"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 9.8,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -1701,28 +1723,6 @@
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
       "latitude" : 40.801833,
-      "event_id" : 42065421,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 2.3,
-      "time" : "2025-05-06 03:04:11Z",
-      "mag_author" : null,
-      "longitude" : 14.124833,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.124833, 40.801833 ]
-    },
-    "id" : "42065421"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 4.03,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.801833,
       "event_id" : 42635152,
       "contributor" : null,
       "mag_type" : "Md",
@@ -1738,6 +1738,28 @@
       "coordinates" : [ 14.124833, 40.801833 ]
     },
     "id" : "42635152"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 4.03,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.801833,
+      "event_id" : 42065421,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 2.3,
+      "time" : "2025-05-06 03:04:11Z",
+      "mag_author" : null,
+      "longitude" : 14.124833,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.124833, 40.801833 ]
+    },
+    "id" : "42065421"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -28204,49 +28226,5 @@
       "coordinates" : [ 15.5753, 38.0725 ]
     },
     "id" : "42376402"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 17.2,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.5863,
-      "event_id" : 42376242,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "6 km NW Crognaleto (TE)",
-      "magnitude" : 2.0,
-      "time" : "2025-04-08 08:35:55Z",
-      "mag_author" : null,
-      "longitude" : 13.4308,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.4308, 42.5863 ]
-    },
-    "id" : "42376242"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 0.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 38.064,
-      "event_id" : 42376212,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "Stretto di Messina (Reggio di Calabria, Messina)",
-      "magnitude" : 1.5,
-      "time" : "2025-04-08 08:34:17Z",
-      "mag_author" : null,
-      "longitude" : 15.5745,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 15.5745, 38.064 ]
-    },
-    "id" : "42376212"
   } ]
 }
