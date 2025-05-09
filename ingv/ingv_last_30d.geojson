@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 17.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 41.6885,
+      "event_id" : 42658622,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "8 km E San Giovanni Rotondo (FG)",
+      "magnitude" : 1.6,
+      "time" : "2025-05-09 00:21:02Z",
+      "mag_author" : null,
+      "longitude" : 15.8198,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 15.8198, 41.6885 ]
+    },
+    "id" : "42658622"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.7,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -28072,27 +28094,5 @@
       "coordinates" : [ 15.4523, 41.8707 ]
     },
     "id" : "42382362"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 11.1,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.9613,
-      "event_id" : 42382282,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km SW Monte Cavallo (MC)",
-      "magnitude" : 0.9,
-      "time" : "2025-04-09 02:29:06Z",
-      "mag_author" : null,
-      "longitude" : 12.9613,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.9613, 42.9613 ]
-    },
-    "id" : "42382282"
   } ]
 }
