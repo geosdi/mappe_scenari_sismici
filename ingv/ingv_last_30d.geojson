@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 7.1,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 38.0367,
+      "event_id" : 42672002,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km N Novara di Sicilia (ME)",
+      "magnitude" : 1.1,
+      "time" : "2025-05-10 17:16:32Z",
+      "mag_author" : null,
+      "longitude" : 15.1338,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 15.1338, 38.0367 ]
+    },
+    "id" : "42672002"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 11.4,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -3989,28 +4011,6 @@
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
       "latitude" : 40.801833,
-      "event_id" : 42635152,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 2.3,
-      "time" : "2025-05-06 03:04:11Z",
-      "mag_author" : null,
-      "longitude" : 14.124833,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.124833, 40.801833 ]
-    },
-    "id" : "42635152"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 4.03,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.801833,
       "event_id" : 42065421,
       "contributor" : null,
       "mag_type" : "Md",
@@ -4026,6 +4026,28 @@
       "coordinates" : [ 14.124833, 40.801833 ]
     },
     "id" : "42065421"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 4.03,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.801833,
+      "event_id" : 42635152,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 2.3,
+      "time" : "2025-05-06 03:04:11Z",
+      "mag_author" : null,
+      "longitude" : 14.124833,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.124833, 40.801833 ]
+    },
+    "id" : "42635152"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -27874,27 +27896,5 @@
       "coordinates" : [ 13.6297, 41.4422 ]
     },
     "id" : "42398962"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 8.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 45.8028,
-      "event_id" : 42398932,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "6 km SE Oyace (AO)",
-      "magnitude" : 0.5,
-      "time" : "2025-04-10 19:22:18Z",
-      "mag_author" : null,
-      "longitude" : 7.4297,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 7.4297, 45.8028 ]
-    },
-    "id" : "42398932"
   } ]
 }
