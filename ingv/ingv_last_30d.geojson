@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.7,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.3367,
+      "event_id" : 42680112,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km E Cerreto d'Esi (AN)",
+      "magnitude" : 1.5,
+      "time" : "2025-05-11 16:54:30Z",
+      "mag_author" : null,
+      "longitude" : 13.0382,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.0382, 43.3367 ]
+    },
+    "id" : "42680112"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 261.7,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -16331,28 +16353,6 @@
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
       "latitude" : 40.836333,
-      "event_id" : 42535952,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 2.1,
-      "time" : "2025-04-24 20:26:07Z",
-      "mag_author" : null,
-      "longitude" : 14.118333,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.118333, 40.836333 ]
-    },
-    "id" : "42535952"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 2.44,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.836333,
       "event_id" : 42535822,
       "contributor" : null,
       "mag_type" : "Md",
@@ -16368,6 +16368,28 @@
       "coordinates" : [ 14.118333, 40.836333 ]
     },
     "id" : "42535822"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 2.44,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.836333,
+      "event_id" : 42535952,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 2.1,
+      "time" : "2025-04-24 20:26:07Z",
+      "mag_author" : null,
+      "longitude" : 14.118333,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.118333, 40.836333 ]
+    },
+    "id" : "42535952"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -28248,27 +28270,5 @@
       "coordinates" : [ 7.615, 43.9537 ]
     },
     "id" : "42408472"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 14.2,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.402,
-      "event_id" : 42408072,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km E Scheggia e Pascelupo (PG)",
-      "magnitude" : 0.6,
-      "time" : "2025-04-11 19:01:24Z",
-      "mag_author" : null,
-      "longitude" : 12.7062,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.7062, 43.402 ]
-    },
-    "id" : "42408072"
   } ]
 }
