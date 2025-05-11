@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.8488,
+      "event_id" : 42673642,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km N Cerreto di Spoleto (PG)",
+      "magnitude" : 0.5,
+      "time" : "2025-05-11 00:02:12Z",
+      "mag_author" : null,
+      "longitude" : 12.9193,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.9193, 42.8488 ]
+    },
+    "id" : "42673642"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 12.4,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -27940,27 +27962,5 @@
       "coordinates" : [ 7.5955, 45.4318 ]
     },
     "id" : "42399762"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 17.8,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.227,
-      "event_id" : 42399652,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "7 km NW Fiuminata (MC)",
-      "magnitude" : 0.7,
-      "time" : "2025-04-11 02:18:56Z",
-      "mag_author" : null,
-      "longitude" : 12.8702,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.8702, 43.227 ]
-    },
-    "id" : "42399652"
   } ]
 }
