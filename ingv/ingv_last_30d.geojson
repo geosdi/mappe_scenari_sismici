@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 11.3,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.9378,
+      "event_id" : 42727692,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km W Visso (MC)",
+      "magnitude" : 0.6,
+      "time" : "2025-05-15 23:12:55Z",
+      "mag_author" : null,
+      "longitude" : 13.0237,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.0237, 42.9378 ]
+    },
+    "id" : "42727692"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 12.5,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -29678,27 +29700,5 @@
       "coordinates" : [ 99.5906, -47.7914 ]
     },
     "id" : "42443202"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 48.5,
-      "author" : "BULLETIN-INGV",
-      "catalog" : null,
-      "latitude" : 37.5698,
-      "event_id" : 42442972,
-      "contributor" : null,
-      "mag_type" : "Mw",
-      "event_location_name" : "Mar Ionio Meridionale (MARE)",
-      "magnitude" : 4.4,
-      "time" : "2025-04-16 01:26:08Z",
-      "mag_author" : null,
-      "longitude" : 16.086,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 16.086, 37.5698 ]
-    },
-    "id" : "42442972"
   } ]
 }
