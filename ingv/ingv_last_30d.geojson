@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 14.4,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.4645,
+      "event_id" : 42727272,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km SE Cantiano (PU)",
+      "magnitude" : 0.4,
+      "time" : "2025-05-15 21:39:25Z",
+      "mag_author" : null,
+      "longitude" : 12.6507,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.6507, 43.4645 ]
+    },
+    "id" : "42727272"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 9.6,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -3813,28 +3835,6 @@
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
       "latitude" : 40.829,
-      "event_id" : 42697472,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 2.1,
-      "time" : "2025-05-13 10:06:44Z",
-      "mag_author" : null,
-      "longitude" : 14.1095,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.1095, 40.829 ]
-    },
-    "id" : "42697472"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 2.26,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.829,
       "event_id" : 42122981,
       "contributor" : null,
       "mag_type" : "Md",
@@ -3850,6 +3850,28 @@
       "coordinates" : [ 14.1095, 40.829 ]
     },
     "id" : "42122981"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 2.26,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.829,
+      "event_id" : 42697472,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 2.1,
+      "time" : "2025-05-13 10:06:44Z",
+      "mag_author" : null,
+      "longitude" : 14.1095,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.1095, 40.829 ]
+    },
+    "id" : "42697472"
   }, {
     "type" : "Feature",
     "properties" : {
