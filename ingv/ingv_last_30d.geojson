@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.9,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 44.0872,
+      "event_id" : 42728112,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km SW Palazzuolo sul Senio (FI)",
+      "magnitude" : 0.8,
+      "time" : "2025-05-16 00:44:03Z",
+      "mag_author" : null,
+      "longitude" : 11.5143,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.5143, 44.0872 ]
+    },
+    "id" : "42728112"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 16.9,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -29788,27 +29810,5 @@
       "coordinates" : [ 13.0222, 42.9245 ]
     },
     "id" : "42443302"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.0052,
-      "event_id" : 42443272,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "10 km SW Serravalle di Chienti (MC)",
-      "magnitude" : 2.4,
-      "time" : "2025-04-16 02:56:52Z",
-      "mag_author" : null,
-      "longitude" : 12.8678,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.8678, 43.0052 ]
-    },
-    "id" : "42443272"
   } ]
 }
