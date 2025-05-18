@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 8.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.856,
+      "event_id" : 42745462,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "6 km SE Castelsantangelo sul Nera (MC)",
+      "magnitude" : 0.9,
+      "time" : "2025-05-18 01:18:30Z",
+      "mag_author" : null,
+      "longitude" : 13.2083,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.2083, 42.856 ]
+    },
+    "id" : "42745462"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 26.1,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -13405,28 +13427,6 @@
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
       "latitude" : 40.801833,
-      "event_id" : 42065421,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 2.3,
-      "time" : "2025-05-06 03:04:11Z",
-      "mag_author" : null,
-      "longitude" : 14.124833,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.124833, 40.801833 ]
-    },
-    "id" : "42065421"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 4.03,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.801833,
       "event_id" : 42635152,
       "contributor" : null,
       "mag_type" : "Md",
@@ -13442,6 +13442,28 @@
       "coordinates" : [ 14.124833, 40.801833 ]
     },
     "id" : "42635152"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 4.03,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.801833,
+      "event_id" : 42065421,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 2.3,
+      "time" : "2025-05-06 03:04:11Z",
+      "mag_author" : null,
+      "longitude" : 14.124833,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.124833, 40.801833 ]
+    },
+    "id" : "42065421"
   }, {
     "type" : "Feature",
     "properties" : {
