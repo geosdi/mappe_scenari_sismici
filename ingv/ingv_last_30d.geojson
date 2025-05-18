@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.7,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.9152,
+      "event_id" : 42750692,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km S Visso (MC)",
+      "magnitude" : 1.2,
+      "time" : "2025-05-18 12:19:27Z",
+      "mag_author" : null,
+      "longitude" : 13.0953,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.0953, 42.9152 ]
+    },
+    "id" : "42750692"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 9.5,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -22,6 +44,28 @@
       "coordinates" : [ 12.7002, 43.4197 ]
     },
     "id" : "42750642"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 7.9,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 38.3713,
+      "event_id" : 42750412,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "Isole Eolie (Messina)",
+      "magnitude" : 0.6,
+      "time" : "2025-05-18 11:53:50Z",
+      "mag_author" : null,
+      "longitude" : 14.8947,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.8947, 38.3713 ]
+    },
+    "id" : "42750412"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -14021,28 +14065,6 @@
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
       "latitude" : 40.801833,
-      "event_id" : 42065421,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 2.3,
-      "time" : "2025-05-06 03:04:11Z",
-      "mag_author" : null,
-      "longitude" : 14.124833,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.124833, 40.801833 ]
-    },
-    "id" : "42065421"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 4.03,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.801833,
       "event_id" : 42635152,
       "contributor" : null,
       "mag_type" : "Md",
@@ -14058,6 +14080,28 @@
       "coordinates" : [ 14.124833, 40.801833 ]
     },
     "id" : "42635152"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 4.03,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.801833,
+      "event_id" : 42065421,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 2.3,
+      "time" : "2025-05-06 03:04:11Z",
+      "mag_author" : null,
+      "longitude" : 14.124833,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.124833, 40.801833 ]
+    },
+    "id" : "42065421"
   }, {
     "type" : "Feature",
     "properties" : {
