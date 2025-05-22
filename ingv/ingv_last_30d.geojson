@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 24.7,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.1537,
+      "event_id" : 42782052,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "1 km SE Belforte del Chienti (MC)",
+      "magnitude" : 1.0,
+      "time" : "2025-05-22 01:49:39Z",
+      "mag_author" : null,
+      "longitude" : 13.2463,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.2463, 43.1537 ]
+    },
+    "id" : "42782052"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 22.6,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -17365,28 +17387,6 @@
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
       "latitude" : 40.801833,
-      "event_id" : 42635152,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 2.3,
-      "time" : "2025-05-06 03:04:11Z",
-      "mag_author" : null,
-      "longitude" : 14.124833,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.124833, 40.801833 ]
-    },
-    "id" : "42635152"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 4.03,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.801833,
       "event_id" : 42065421,
       "contributor" : null,
       "mag_type" : "Md",
@@ -17402,6 +17402,28 @@
       "coordinates" : [ 14.124833, 40.801833 ]
     },
     "id" : "42065421"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 4.03,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.801833,
+      "event_id" : 42635152,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 2.3,
+      "time" : "2025-05-06 03:04:11Z",
+      "mag_author" : null,
+      "longitude" : 14.124833,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.124833, 40.801833 ]
+    },
+    "id" : "42635152"
   }, {
     "type" : "Feature",
     "properties" : {
