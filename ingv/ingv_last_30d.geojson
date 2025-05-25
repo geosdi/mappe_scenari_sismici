@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.7,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.4428,
+      "event_id" : 42812672,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km S Cantiano (PU)",
+      "magnitude" : 1.0,
+      "time" : "2025-05-25 02:09:32Z",
+      "mag_author" : null,
+      "longitude" : 12.6188,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.6188, 43.4428 ]
+    },
+    "id" : "42812672"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 11.0,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -31306,27 +31328,5 @@
       "coordinates" : [ 12.7693, 43.8367 ]
     },
     "id" : "42537042"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.2,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.3208,
-      "event_id" : 42536852,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km SW Gubbio (PG)",
-      "magnitude" : 0.8,
-      "time" : "2025-04-25 04:14:10Z",
-      "mag_author" : null,
-      "longitude" : 12.5417,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.5417, 43.3208 ]
-    },
-    "id" : "42536852"
   } ]
 }
