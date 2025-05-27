@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 12.4,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 46.6563,
+      "event_id" : 42253181,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "1 km S Sluderno (BZ)",
+      "magnitude" : 0.9,
+      "time" : "2025-05-27 23:30:44Z",
+      "mag_author" : null,
+      "longitude" : 10.5897,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.5897, 46.6563 ]
+    },
+    "id" : "42253181"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.3,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -30272,27 +30294,5 @@
       "coordinates" : [ 7.0337, 45.8527 ]
     },
     "id" : "42560782"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 13.4,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.8265,
-      "event_id" : 42560752,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "7 km NE Norcia (PG)",
-      "magnitude" : 0.8,
-      "time" : "2025-04-28 01:39:53Z",
-      "mag_author" : null,
-      "longitude" : 13.1657,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.1657, 42.8265 ]
-    },
-    "id" : "42560752"
   } ]
 }
