@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 11.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.9318,
+      "event_id" : 42254651,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km W Visso (MC)",
+      "magnitude" : 0.8,
+      "time" : "2025-05-28 07:47:04Z",
+      "mag_author" : null,
+      "longitude" : 13.0442,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.0442, 42.9318 ]
+    },
+    "id" : "42254651"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 15.3,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -30140,27 +30162,5 @@
       "coordinates" : [ 11.1933, 46.1287 ]
     },
     "id" : "42564292"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.9,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 46.1303,
-      "event_id" : 42564182,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km SW Albiano (TN)",
-      "magnitude" : 0.9,
-      "time" : "2025-04-28 09:56:58Z",
-      "mag_author" : null,
-      "longitude" : 11.1747,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 11.1747, 46.1303 ]
-    },
-    "id" : "42564182"
   } ]
 }
