@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 6.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 46.51,
+      "event_id" : 42259751,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "V3 Tarvisio (ITALIA, AUSTRIA, SLOVENIA)",
+      "magnitude" : 1.5,
+      "time" : "2025-05-28 17:04:21Z",
+      "mag_author" : null,
+      "longitude" : 13.9562,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.9562, 46.51 ]
+    },
+    "id" : "42259751"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 7.6,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -17233,28 +17255,6 @@
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
       "latitude" : 40.829,
-      "event_id" : 42122981,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 2.1,
-      "time" : "2025-05-13 10:06:44Z",
-      "mag_author" : null,
-      "longitude" : 14.1095,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.1095, 40.829 ]
-    },
-    "id" : "42122981"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 2.26,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.829,
       "event_id" : 42697472,
       "contributor" : null,
       "mag_type" : "Md",
@@ -17270,6 +17270,28 @@
       "coordinates" : [ 14.1095, 40.829 ]
     },
     "id" : "42697472"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 2.26,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.829,
+      "event_id" : 42122981,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 2.1,
+      "time" : "2025-05-13 10:06:44Z",
+      "mag_author" : null,
+      "longitude" : 14.1095,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.1095, 40.829 ]
+    },
+    "id" : "42122981"
   }, {
     "type" : "Feature",
     "properties" : {
