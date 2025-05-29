@@ -3,6 +3,50 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 7.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 46.6115,
+      "event_id" : 42265261,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "V3 Tarvisio (ITALIA, AUSTRIA, SLOVENIA)",
+      "magnitude" : 1.2,
+      "time" : "2025-05-29 10:37:20Z",
+      "mag_author" : null,
+      "longitude" : 13.8817,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.8817, 46.6115 ]
+    },
+    "id" : "42265261"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 11.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.3838,
+      "event_id" : 42264941,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km SW Scheggia e Pascelupo (PG)",
+      "magnitude" : 0.7,
+      "time" : "2025-05-29 10:12:29Z",
+      "mag_author" : null,
+      "longitude" : 12.6343,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.6343, 43.3838 ]
+    },
+    "id" : "42264941"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 8.6,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -25065,28 +25109,6 @@
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
       "latitude" : 40.801833,
-      "event_id" : 42635152,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 2.3,
-      "time" : "2025-05-06 03:04:11Z",
-      "mag_author" : null,
-      "longitude" : 14.124833,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.124833, 40.801833 ]
-    },
-    "id" : "42635152"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 4.03,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.801833,
       "event_id" : 42065421,
       "contributor" : null,
       "mag_type" : "Md",
@@ -25102,6 +25124,28 @@
       "coordinates" : [ 14.124833, 40.801833 ]
     },
     "id" : "42065421"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 4.03,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.801833,
+      "event_id" : 42635152,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 2.3,
+      "time" : "2025-05-06 03:04:11Z",
+      "mag_author" : null,
+      "longitude" : 14.124833,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.124833, 40.801833 ]
+    },
+    "id" : "42635152"
   }, {
     "type" : "Feature",
     "properties" : {
