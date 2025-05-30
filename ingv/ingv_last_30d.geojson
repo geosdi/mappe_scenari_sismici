@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.3,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 41.8405,
+      "event_id" : 42271351,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km NE Pescasseroli (AQ)",
+      "magnitude" : 2.9,
+      "time" : "2025-05-30 00:06:55Z",
+      "mag_author" : null,
+      "longitude" : 13.8368,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.8368, 41.8405 ]
+    },
+    "id" : "42271351"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 17.3,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -18729,28 +18751,6 @@
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
       "latitude" : 40.829,
-      "event_id" : 42122981,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 2.1,
-      "time" : "2025-05-13 10:06:44Z",
-      "mag_author" : null,
-      "longitude" : 14.1095,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.1095, 40.829 ]
-    },
-    "id" : "42122981"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 2.26,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.829,
       "event_id" : 42697472,
       "contributor" : null,
       "mag_type" : "Md",
@@ -18766,6 +18766,28 @@
       "coordinates" : [ 14.1095, 40.829 ]
     },
     "id" : "42697472"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 2.26,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.829,
+      "event_id" : 42122981,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 2.1,
+      "time" : "2025-05-13 10:06:44Z",
+      "mag_author" : null,
+      "longitude" : 14.1095,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.1095, 40.829 ]
+    },
+    "id" : "42122981"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -30800,49 +30822,5 @@
       "coordinates" : [ 13.1853, 42.8522 ]
     },
     "id" : "42579872"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 5.6,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 41.3188,
-      "event_id" : 42579812,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km SE Conca della Campania (CE)",
-      "magnitude" : 1.0,
-      "time" : "2025-04-30 02:14:57Z",
-      "mag_author" : null,
-      "longitude" : 13.9982,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.9982, 41.3188 ]
-    },
-    "id" : "42579812"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 7.9,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.1952,
-      "event_id" : 42579792,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "7 km N Montieri (GR)",
-      "magnitude" : 1.6,
-      "time" : "2025-04-30 02:13:39Z",
-      "mag_author" : null,
-      "longitude" : 11.018,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 11.018, 43.1952 ]
-    },
-    "id" : "42579792"
   } ]
 }
