@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.3,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.5222,
+      "event_id" : 42917152,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km SE San Giustino (PG)",
+      "magnitude" : 0.7,
+      "time" : "2025-06-03 19:07:45Z",
+      "mag_author" : null,
+      "longitude" : 12.2202,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.2202, 43.5222 ]
+    },
+    "id" : "42917152"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.1,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -1283,28 +1305,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 46.1948,
-      "event_id" : 42899272,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km NE Chies d'Alpago (BL)",
-      "magnitude" : 1.1,
-      "time" : "2025-06-01 19:37:07Z",
-      "mag_author" : null,
-      "longitude" : 12.4303,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.4303, 46.1948 ]
-    },
-    "id" : "42899272"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 8.6,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 46.1948,
       "event_id" : 42300341,
       "contributor" : null,
       "mag_type" : "ML",
@@ -1320,6 +1320,28 @@
       "coordinates" : [ 12.4303, 46.1948 ]
     },
     "id" : "42300341"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 8.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 46.1948,
+      "event_id" : 42899272,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km NE Chies d'Alpago (BL)",
+      "magnitude" : 1.1,
+      "time" : "2025-06-01 19:37:07Z",
+      "mag_author" : null,
+      "longitude" : 12.4303,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.4303, 46.1948 ]
+    },
+    "id" : "42899272"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -30734,27 +30756,5 @@
       "coordinates" : [ 13.3962, 42.4652 ]
     },
     "id" : "42622662"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.4,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.9082,
-      "event_id" : 42622462,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km NE Castelsantangelo sul Nera (MC)",
-      "magnitude" : 1.6,
-      "time" : "2025-05-04 21:11:59Z",
-      "mag_author" : null,
-      "longitude" : 13.1688,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.1688, 42.9082 ]
-    },
-    "id" : "42622462"
   } ]
 }
