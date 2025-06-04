@@ -3,6 +3,50 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.4,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 44.1367,
+      "event_id" : 42918802,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "7 km NE Marradi (FI)",
+      "magnitude" : 0.7,
+      "time" : "2025-06-04 06:21:57Z",
+      "mag_author" : null,
+      "longitude" : 11.647,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.647, 44.1367 ]
+    },
+    "id" : "42918802"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 9.3,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 41.9302,
+      "event_id" : 42918722,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "Costa Garganica (Foggia)",
+      "magnitude" : 0.8,
+      "time" : "2025-06-04 06:17:41Z",
+      "mag_author" : null,
+      "longitude" : 15.4538,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 15.4538, 41.9302 ]
+    },
+    "id" : "42918722"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 3.68,
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
@@ -1591,28 +1635,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 46.1948,
-      "event_id" : 42899272,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km NE Chies d'Alpago (BL)",
-      "magnitude" : 1.1,
-      "time" : "2025-06-01 19:37:07Z",
-      "mag_author" : null,
-      "longitude" : 12.4303,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.4303, 46.1948 ]
-    },
-    "id" : "42899272"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 8.6,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 46.1948,
       "event_id" : 42300341,
       "contributor" : null,
       "mag_type" : "ML",
@@ -1628,6 +1650,28 @@
       "coordinates" : [ 12.4303, 46.1948 ]
     },
     "id" : "42300341"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 8.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 46.1948,
+      "event_id" : 42899272,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km NE Chies d'Alpago (BL)",
+      "magnitude" : 1.1,
+      "time" : "2025-06-01 19:37:07Z",
+      "mag_author" : null,
+      "longitude" : 12.4303,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.4303, 46.1948 ]
+    },
+    "id" : "42899272"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -30037,28 +30081,6 @@
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
       "latitude" : 40.801833,
-      "event_id" : 42635152,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 2.3,
-      "time" : "2025-05-06 03:04:11Z",
-      "mag_author" : null,
-      "longitude" : 14.124833,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.124833, 40.801833 ]
-    },
-    "id" : "42635152"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 4.03,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.801833,
       "event_id" : 42065421,
       "contributor" : null,
       "mag_type" : "Md",
@@ -30074,6 +30096,28 @@
       "coordinates" : [ 14.124833, 40.801833 ]
     },
     "id" : "42065421"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 4.03,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.801833,
+      "event_id" : 42635152,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 2.3,
+      "time" : "2025-05-06 03:04:11Z",
+      "mag_author" : null,
+      "longitude" : 14.124833,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.124833, 40.801833 ]
+    },
+    "id" : "42635152"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -30712,27 +30756,5 @@
       "coordinates" : [ 15.6368, 41.6168 ]
     },
     "id" : "42627132"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 260.938,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 16.3547,
-      "event_id" : 42626722,
-      "contributor" : null,
-      "mag_type" : "Mwp",
-      "event_location_name" : "Chiapas, Mexico [Land: Mexico]",
-      "magnitude" : 5.8,
-      "time" : "2025-05-05 08:28:13Z",
-      "mag_author" : null,
-      "longitude" : -92.5828,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ -92.5828, 16.3547 ]
-    },
-    "id" : "42626722"
   } ]
 }
