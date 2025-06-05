@@ -3,6 +3,50 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.152,
+      "event_id" : 42929712,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km W Valfabbrica (PG)",
+      "magnitude" : 1.1,
+      "time" : "2025-06-05 08:53:54Z",
+      "mag_author" : null,
+      "longitude" : 12.5402,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.5402, 43.152 ]
+    },
+    "id" : "42929712"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 2.78,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.8005,
+      "event_id" : 42929662,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 1.5,
+      "time" : "2025-06-05 08:51:50Z",
+      "mag_author" : null,
+      "longitude" : 14.1275,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.1275, 40.8005 ]
+    },
+    "id" : "42929662"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 5.5,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -24295,28 +24339,6 @@
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
       "latitude" : 40.829,
-      "event_id" : 42122981,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 2.1,
-      "time" : "2025-05-13 10:06:44Z",
-      "mag_author" : null,
-      "longitude" : 14.1095,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.1095, 40.829 ]
-    },
-    "id" : "42122981"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 2.26,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.829,
       "event_id" : 42697472,
       "contributor" : null,
       "mag_type" : "Md",
@@ -24332,6 +24354,28 @@
       "coordinates" : [ 14.1095, 40.829 ]
     },
     "id" : "42697472"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 2.26,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.829,
+      "event_id" : 42122981,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 2.1,
+      "time" : "2025-05-13 10:06:44Z",
+      "mag_author" : null,
+      "longitude" : 14.1095,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.1095, 40.829 ]
+    },
+    "id" : "42122981"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -31020,27 +31064,5 @@
       "coordinates" : [ 15.9683, 37.9755 ]
     },
     "id" : "42638762"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 12.1,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.9482,
-      "event_id" : 42638682,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "6 km SW Monte Cavallo (MC)",
-      "magnitude" : 0.9,
-      "time" : "2025-05-06 11:02:16Z",
-      "mag_author" : null,
-      "longitude" : 12.9707,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.9707, 42.9482 ]
-    },
-    "id" : "42638682"
   } ]
 }
