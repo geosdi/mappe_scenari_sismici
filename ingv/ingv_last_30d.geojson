@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 8.594,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : 5.44922,
+      "event_id" : 42926602,
+      "contributor" : null,
+      "mag_type" : "Mwp",
+      "event_location_name" : "South of Panama [Sea: Panama]",
+      "magnitude" : 5.7,
+      "time" : "2025-06-05 00:09:19Z",
+      "mag_author" : null,
+      "longitude" : -82.6945,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -82.6945, 5.44922 ]
+    },
+    "id" : "42926602"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 11.6,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -2361,28 +2383,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 46.1948,
-      "event_id" : 42899272,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km NE Chies d'Alpago (BL)",
-      "magnitude" : 1.1,
-      "time" : "2025-06-01 19:37:07Z",
-      "mag_author" : null,
-      "longitude" : 12.4303,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.4303, 46.1948 ]
-    },
-    "id" : "42899272"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 8.6,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 46.1948,
       "event_id" : 42300341,
       "contributor" : null,
       "mag_type" : "ML",
@@ -2398,6 +2398,28 @@
       "coordinates" : [ 12.4303, 46.1948 ]
     },
     "id" : "42300341"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 8.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 46.1948,
+      "event_id" : 42899272,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km NE Chies d'Alpago (BL)",
+      "magnitude" : 1.1,
+      "time" : "2025-06-01 19:37:07Z",
+      "mag_author" : null,
+      "longitude" : 12.4303,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.4303, 46.1948 ]
+    },
+    "id" : "42899272"
   }, {
     "type" : "Feature",
     "properties" : {
