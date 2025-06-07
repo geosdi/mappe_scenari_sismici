@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 46.0665,
+      "event_id" : 42953512,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "Confine Italia-Svizzera (SVIZZERA)",
+      "magnitude" : 1.1,
+      "time" : "2025-06-07 15:38:10Z",
+      "mag_author" : null,
+      "longitude" : 7.3848,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.3848, 46.0665 ]
+    },
+    "id" : "42953512"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 0.09,
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
@@ -2185,28 +2207,6 @@
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
       "latitude" : 40.829833,
-      "event_id" : 42927912,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 1.0,
-      "time" : "2025-06-05 04:43:58Z",
-      "mag_author" : null,
-      "longitude" : 14.148833,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.148833, 40.829833 ]
-    },
-    "id" : "42927912"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 2.36,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.829833,
       "event_id" : 42326341,
       "contributor" : null,
       "mag_type" : "Md",
@@ -2222,6 +2222,28 @@
       "coordinates" : [ 14.148833, 40.829833 ]
     },
     "id" : "42326341"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 2.36,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.829833,
+      "event_id" : 42927912,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 1.0,
+      "time" : "2025-06-05 04:43:58Z",
+      "mag_author" : null,
+      "longitude" : 14.148833,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.148833, 40.829833 ]
+    },
+    "id" : "42927912"
   }, {
     "type" : "Feature",
     "properties" : {
