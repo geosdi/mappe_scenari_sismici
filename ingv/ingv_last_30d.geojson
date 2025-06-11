@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 39.1218,
+      "event_id" : 42989402,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km E Petilia Policastro (KR)",
+      "magnitude" : 0.6,
+      "time" : "2025-06-11 03:54:50Z",
+      "mag_author" : null,
+      "longitude" : 16.8327,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.8327, 39.1218 ]
+    },
+    "id" : "42989402"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.0,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -31416,27 +31438,5 @@
       "coordinates" : [ 13.2662, 42.6003 ]
     },
     "id" : "42683352"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 8.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 40.2648,
-      "event_id" : 42683312,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km NE Sarconi (PZ)",
-      "magnitude" : 1.2,
-      "time" : "2025-05-12 07:01:41Z",
-      "mag_author" : null,
-      "longitude" : 15.8992,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 15.8992, 40.2648 ]
-    },
-    "id" : "42683312"
   } ]
 }
