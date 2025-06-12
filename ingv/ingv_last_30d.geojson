@@ -3,6 +3,50 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.1,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.8213,
+      "event_id" : 42398391,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km N Norcia (PG)",
+      "magnitude" : 0.8,
+      "time" : "2025-06-12 20:34:37Z",
+      "mag_author" : null,
+      "longitude" : 13.1033,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.1033, 42.8213 ]
+    },
+    "id" : "42398391"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 7.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 41.3078,
+      "event_id" : 42398361,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "Costa Barlettana (Barletta)",
+      "magnitude" : 1.1,
+      "time" : "2025-06-12 20:25:15Z",
+      "mag_author" : null,
+      "longitude" : 16.4067,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.4067, 41.3078 ]
+    },
+    "id" : "42398361"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 12.1,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -7685,28 +7729,6 @@
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
       "latitude" : 40.829833,
-      "event_id" : 42927912,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 1.0,
-      "time" : "2025-06-05 04:43:58Z",
-      "mag_author" : null,
-      "longitude" : 14.148833,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.148833, 40.829833 ]
-    },
-    "id" : "42927912"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 2.36,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.829833,
       "event_id" : 42326341,
       "contributor" : null,
       "mag_type" : "Md",
@@ -7722,6 +7744,28 @@
       "coordinates" : [ 14.148833, 40.829833 ]
     },
     "id" : "42326341"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 2.36,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.829833,
+      "event_id" : 42927912,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 1.0,
+      "time" : "2025-06-05 04:43:58Z",
+      "mag_author" : null,
+      "longitude" : 14.148833,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.148833, 40.829833 ]
+    },
+    "id" : "42927912"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -10281,28 +10325,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 46.1948,
-      "event_id" : 42899272,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km NE Chies d'Alpago (BL)",
-      "magnitude" : 1.1,
-      "time" : "2025-06-01 19:37:07Z",
-      "mag_author" : null,
-      "longitude" : 12.4303,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.4303, 46.1948 ]
-    },
-    "id" : "42899272"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 8.6,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 46.1948,
       "event_id" : 42300341,
       "contributor" : null,
       "mag_type" : "ML",
@@ -10318,6 +10340,28 @@
       "coordinates" : [ 12.4303, 46.1948 ]
     },
     "id" : "42300341"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 8.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 46.1948,
+      "event_id" : 42899272,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km NE Chies d'Alpago (BL)",
+      "magnitude" : 1.1,
+      "time" : "2025-06-01 19:37:07Z",
+      "mag_author" : null,
+      "longitude" : 12.4303,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.4303, 46.1948 ]
+    },
+    "id" : "42899272"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -30888,27 +30932,5 @@
       "coordinates" : [ 12.7335, 42.8483 ]
     },
     "id" : "42707212"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.9,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.3137,
-      "event_id" : 42707162,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km SE Gubbio (PG)",
-      "magnitude" : 1.2,
-      "time" : "2025-05-13 23:04:21Z",
-      "mag_author" : null,
-      "longitude" : 12.5987,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.5987, 43.3137 ]
-    },
-    "id" : "42707162"
   } ]
 }
