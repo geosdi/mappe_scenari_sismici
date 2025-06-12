@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.7,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.2618,
+      "event_id" : 42398701,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "8 km SE Umbertide (PG)",
+      "magnitude" : 0.9,
+      "time" : "2025-06-12 23:41:06Z",
+      "mag_author" : null,
+      "longitude" : 12.3997,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.3997, 43.2618 ]
+    },
+    "id" : "42398701"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 20.8,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -10413,28 +10435,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 46.1948,
-      "event_id" : 42300341,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km NE Chies d'Alpago (BL)",
-      "magnitude" : 1.1,
-      "time" : "2025-06-01 19:37:07Z",
-      "mag_author" : null,
-      "longitude" : 12.4303,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.4303, 46.1948 ]
-    },
-    "id" : "42300341"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 8.6,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 46.1948,
       "event_id" : 42899272,
       "contributor" : null,
       "mag_type" : "ML",
@@ -10450,6 +10450,28 @@
       "coordinates" : [ 12.4303, 46.1948 ]
     },
     "id" : "42899272"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 8.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 46.1948,
+      "event_id" : 42300341,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km NE Chies d'Alpago (BL)",
+      "magnitude" : 1.1,
+      "time" : "2025-06-01 19:37:07Z",
+      "mag_author" : null,
+      "longitude" : 12.4303,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.4303, 46.1948 ]
+    },
+    "id" : "42300341"
   }, {
     "type" : "Feature",
     "properties" : {
