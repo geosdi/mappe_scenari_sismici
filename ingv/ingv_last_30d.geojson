@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.7,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 46.3502,
+      "event_id" : 42405651,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km S Amaro (UD)",
+      "magnitude" : 1.1,
+      "time" : "2025-06-13 17:32:53Z",
+      "mag_author" : null,
+      "longitude" : 13.1005,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.1005, 46.3502 ]
+    },
+    "id" : "42405651"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 11.1,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -29766,27 +29788,5 @@
       "coordinates" : [ 13.1347, 42.9557 ]
     },
     "id" : "42717122"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.8,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 46.1272,
-      "event_id" : 42716882,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "Confine Italia-Svizzera (SVIZZERA)",
-      "magnitude" : 1.1,
-      "time" : "2025-05-14 20:06:28Z",
-      "mag_author" : null,
-      "longitude" : 7.5038,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 7.5038, 46.1272 ]
-    },
-    "id" : "42716882"
   } ]
 }
