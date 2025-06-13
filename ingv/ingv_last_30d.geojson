@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.1,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 38.3872,
+      "event_id" : 42406931,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km SE Rizziconi (RC)",
+      "magnitude" : 1.3,
+      "time" : "2025-06-13 23:01:33Z",
+      "mag_author" : null,
+      "longitude" : 15.9898,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 15.9898, 38.3872 ]
+    },
+    "id" : "42406931"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.2,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -29876,27 +29898,5 @@
       "coordinates" : [ 13.2388, 43.0127 ]
     },
     "id" : "42717502"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 6.2,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.3998,
-      "event_id" : 42717452,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "7 km NW Gubbio (PG)",
-      "magnitude" : 0.2,
-      "time" : "2025-05-15 01:10:18Z",
-      "mag_author" : null,
-      "longitude" : 12.5115,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.5115, 43.3998 ]
-    },
-    "id" : "42717452"
   } ]
 }
