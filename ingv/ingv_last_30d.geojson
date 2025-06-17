@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 12.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.599,
+      "event_id" : 42450571,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "7 km W Cittareale (RI)",
+      "magnitude" : 1.3,
+      "time" : "2025-06-17 19:38:35Z",
+      "mag_author" : null,
+      "longitude" : 13.0823,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.0823, 42.599 ]
+    },
+    "id" : "42450571"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.3,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -9467,28 +9489,6 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : -47.6508,
-      "event_id" : 42957202,
-      "contributor" : null,
-      "mag_type" : "Mwp",
-      "event_location_name" : "Western Indian-Antarctic Ridge [Sea]",
-      "magnitude" : 6.2,
-      "time" : "2025-06-07 23:20:48Z",
-      "mag_author" : null,
-      "longitude" : 115.961,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 115.961, -47.6508 ]
-    },
-    "id" : "42957202"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 11.719,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : -47.6508,
       "event_id" : 42352711,
       "contributor" : null,
       "mag_type" : "Mwp",
@@ -9504,6 +9504,28 @@
       "coordinates" : [ 115.961, -47.6508 ]
     },
     "id" : "42352711"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 11.719,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : -47.6508,
+      "event_id" : 42957202,
+      "contributor" : null,
+      "mag_type" : "Mwp",
+      "event_location_name" : "Western Indian-Antarctic Ridge [Sea]",
+      "magnitude" : 6.2,
+      "time" : "2025-06-07 23:20:48Z",
+      "mag_author" : null,
+      "longitude" : 115.961,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 115.961, -47.6508 ]
+    },
+    "id" : "42957202"
   }, {
     "type" : "Feature",
     "properties" : {
