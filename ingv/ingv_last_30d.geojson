@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 11.9,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 41.6512,
+      "event_id" : 42443691,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km N Casalvieri (FR)",
+      "magnitude" : 2.0,
+      "time" : "2025-06-17 09:47:12Z",
+      "mag_author" : null,
+      "longitude" : 13.7158,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.7158, 41.6512 ]
+    },
+    "id" : "42443691"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 13.2,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -28820,27 +28842,5 @@
       "coordinates" : [ 12.7002, 43.4197 ]
     },
     "id" : "42750642"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 7.9,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 38.3713,
-      "event_id" : 42750412,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "Isole Eolie (Messina)",
-      "magnitude" : 0.6,
-      "time" : "2025-05-18 11:53:50Z",
-      "mag_author" : null,
-      "longitude" : 14.8947,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.8947, 38.3713 ]
-    },
-    "id" : "42750412"
   } ]
 }
