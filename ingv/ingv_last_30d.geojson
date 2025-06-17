@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.3,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 44.0802,
+      "event_id" : 42448701,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km SW Palazzuolo sul Senio (FI)",
+      "magnitude" : 0.7,
+      "time" : "2025-06-17 16:11:57Z",
+      "mag_author" : null,
+      "longitude" : 11.5195,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.5195, 44.0802 ]
+    },
+    "id" : "42448701"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 12.109,
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
@@ -9291,28 +9313,6 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : -47.6508,
-      "event_id" : 42352711,
-      "contributor" : null,
-      "mag_type" : "Mwp",
-      "event_location_name" : "Western Indian-Antarctic Ridge [Sea]",
-      "magnitude" : 6.2,
-      "time" : "2025-06-07 23:20:48Z",
-      "mag_author" : null,
-      "longitude" : 115.961,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 115.961, -47.6508 ]
-    },
-    "id" : "42352711"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 11.719,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : -47.6508,
       "event_id" : 42957202,
       "contributor" : null,
       "mag_type" : "Mwp",
@@ -9328,6 +9328,28 @@
       "coordinates" : [ 115.961, -47.6508 ]
     },
     "id" : "42957202"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 11.719,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : -47.6508,
+      "event_id" : 42352711,
+      "contributor" : null,
+      "mag_type" : "Mwp",
+      "event_location_name" : "Western Indian-Antarctic Ridge [Sea]",
+      "magnitude" : 6.2,
+      "time" : "2025-06-07 23:20:48Z",
+      "mag_author" : null,
+      "longitude" : 115.961,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 115.961, -47.6508 ]
+    },
+    "id" : "42352711"
   }, {
     "type" : "Feature",
     "properties" : {
