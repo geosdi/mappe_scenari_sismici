@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.2,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.1655,
+      "event_id" : 43141332,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "8 km NW Nocera Umbra (PG)",
+      "magnitude" : 1.7,
+      "time" : "2025-06-19 15:52:22Z",
+      "mag_author" : null,
+      "longitude" : 12.7245,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.7245, 43.1655 ]
+    },
+    "id" : "43141332"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 57.8,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -1481,28 +1503,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 40.4463,
-      "event_id" : 43121462,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km SW Atena Lucana (SA)",
-      "magnitude" : 1.9,
-      "time" : "2025-06-18 07:19:27Z",
-      "mag_author" : null,
-      "longitude" : 15.5427,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 15.5427, 40.4463 ]
-    },
-    "id" : "43121462"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 8.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 40.4463,
       "event_id" : 42454111,
       "contributor" : null,
       "mag_type" : "ML",
@@ -1518,6 +1518,28 @@
       "coordinates" : [ 15.5427, 40.4463 ]
     },
     "id" : "42454111"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 8.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 40.4463,
+      "event_id" : 43121462,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km SW Atena Lucana (SA)",
+      "magnitude" : 1.9,
+      "time" : "2025-06-18 07:19:27Z",
+      "mag_author" : null,
+      "longitude" : 15.5427,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 15.5427, 40.4463 ]
+    },
+    "id" : "43121462"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -1657,28 +1679,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 46.4408,
-      "event_id" : 42451521,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km W Raveo (UD)",
-      "magnitude" : 1.6,
-      "time" : "2025-06-18 03:20:55Z",
-      "mag_author" : null,
-      "longitude" : 12.8273,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.8273, 46.4408 ]
-    },
-    "id" : "42451521"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 6.8,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 46.4408,
       "event_id" : 43118612,
       "contributor" : null,
       "mag_type" : "ML",
@@ -1697,25 +1697,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 0.9,
-      "author" : "SURVEY-INGV-OV#SiSmi",
+      "depth_km" : 6.8,
+      "author" : "SURVEY-INGV",
       "catalog" : null,
-      "latitude" : 40.8195,
-      "event_id" : 43118582,
+      "latitude" : 46.4408,
+      "event_id" : 42451521,
       "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 1.0,
-      "time" : "2025-06-18 03:00:06Z",
+      "mag_type" : "ML",
+      "event_location_name" : "3 km W Raveo (UD)",
+      "magnitude" : 1.6,
+      "time" : "2025-06-18 03:20:55Z",
       "mag_author" : null,
-      "longitude" : 14.138,
+      "longitude" : 12.8273,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 14.138, 40.8195 ]
+      "coordinates" : [ 12.8273, 46.4408 ]
     },
-    "id" : "43118582"
+    "id" : "42451521"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -1738,6 +1738,28 @@
       "coordinates" : [ 14.138, 40.8195 ]
     },
     "id" : "42451501"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 0.9,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.8195,
+      "event_id" : 43118582,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 1.0,
+      "time" : "2025-06-18 03:00:06Z",
+      "mag_author" : null,
+      "longitude" : 14.138,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.138, 40.8195 ]
+    },
+    "id" : "43118582"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -14241,28 +14263,6 @@
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
       "latitude" : 40.8275,
-      "event_id" : 42927262,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 2.3,
-      "time" : "2025-06-05 04:44:48Z",
-      "mag_author" : null,
-      "longitude" : 14.149,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.149, 40.8275 ]
-    },
-    "id" : "42927262"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 2.92,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.8275,
       "event_id" : 42927242,
       "contributor" : null,
       "mag_type" : "Md",
@@ -14281,25 +14281,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 2.36,
+      "depth_km" : 2.92,
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
-      "latitude" : 40.829833,
-      "event_id" : 42326341,
+      "latitude" : 40.8275,
+      "event_id" : 42927262,
       "contributor" : null,
       "mag_type" : "Md",
       "event_location_name" : "Campi Flegrei",
-      "magnitude" : 1.0,
-      "time" : "2025-06-05 04:43:58Z",
+      "magnitude" : 2.3,
+      "time" : "2025-06-05 04:44:48Z",
       "mag_author" : null,
-      "longitude" : 14.148833,
+      "longitude" : 14.149,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 14.148833, 40.829833 ]
+      "coordinates" : [ 14.149, 40.8275 ]
     },
-    "id" : "42326341"
+    "id" : "42927262"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -14322,6 +14322,28 @@
       "coordinates" : [ 14.148833, 40.829833 ]
     },
     "id" : "42927912"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 2.36,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.829833,
+      "event_id" : 42326341,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 1.0,
+      "time" : "2025-06-05 04:43:58Z",
+      "mag_author" : null,
+      "longitude" : 14.148833,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.148833, 40.829833 ]
+    },
+    "id" : "42326341"
   }, {
     "type" : "Feature",
     "properties" : {
