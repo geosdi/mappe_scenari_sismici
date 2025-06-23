@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 3.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 41.2727,
+      "event_id" : 43177292,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km E Roccamonfina (CE)",
+      "magnitude" : 1.8,
+      "time" : "2025-06-23 07:13:06Z",
+      "mag_author" : null,
+      "longitude" : 14.0243,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.0243, 41.2727 ]
+    },
+    "id" : "43177292"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.6,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -5617,28 +5639,6 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : 15.1242,
-      "event_id" : 43123582,
-      "contributor" : null,
-      "mag_type" : "Mwp",
-      "event_location_name" : "Near coast of Chiapas, Mexico [Sea: Mexico]",
-      "magnitude" : 6.1,
-      "time" : "2025-06-18 09:49:30Z",
-      "mag_author" : null,
-      "longitude" : -93.8133,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ -93.8133, 15.1242 ]
-    },
-    "id" : "43123582"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 64.844,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 15.1242,
       "event_id" : 42456121,
       "contributor" : null,
       "mag_type" : "Mwp",
@@ -5654,6 +5654,28 @@
       "coordinates" : [ -93.8133, 15.1242 ]
     },
     "id" : "42456121"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 64.844,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : 15.1242,
+      "event_id" : 43123582,
+      "contributor" : null,
+      "mag_type" : "Mwp",
+      "event_location_name" : "Near coast of Chiapas, Mexico [Sea: Mexico]",
+      "magnitude" : 6.1,
+      "time" : "2025-06-18 09:49:30Z",
+      "mag_author" : null,
+      "longitude" : -93.8133,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -93.8133, 15.1242 ]
+    },
+    "id" : "43123582"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -29832,27 +29854,5 @@
       "coordinates" : [ 16.0733, 38.0017 ]
     },
     "id" : "42807032"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 11.4,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.0048,
-      "event_id" : 42806672,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "1 km NW Monte Cavallo (MC)",
-      "magnitude" : 0.6,
-      "time" : "2025-05-24 09:55:18Z",
-      "mag_author" : null,
-      "longitude" : 12.9908,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.9908, 43.0048 ]
-    },
-    "id" : "42806672"
   } ]
 }
