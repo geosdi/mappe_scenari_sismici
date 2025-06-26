@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 39.9977,
+      "event_id" : 43233902,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km NW Viggianello (PZ)",
+      "magnitude" : 1.4,
+      "time" : "2025-06-26 06:41:00Z",
+      "mag_author" : null,
+      "longitude" : 16.0655,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.0655, 39.9977 ]
+    },
+    "id" : "43233902"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 13.3,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -29656,27 +29678,5 @@
       "coordinates" : [ 15.8393, 38.1588 ]
     },
     "id" : "42245581"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 14.3,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 41.5473,
-      "event_id" : 42245201,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km W Terelle (FR)",
-      "magnitude" : 1.3,
-      "time" : "2025-05-27 08:46:39Z",
-      "mag_author" : null,
-      "longitude" : 13.7418,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.7418, 41.5473 ]
-    },
-    "id" : "42245201"
   } ]
 }
