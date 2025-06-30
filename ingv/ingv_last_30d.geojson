@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 7.9,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.7347,
+      "event_id" : 43274182,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km E Sant'Anatolia di Narco (PG)",
+      "magnitude" : 0.9,
+      "time" : "2025-06-30 19:17:17Z",
+      "mag_author" : null,
+      "longitude" : 12.8608,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.8608, 42.7347 ]
+    },
+    "id" : "43274182"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 7.7,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -12503,28 +12525,6 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : 15.1242,
-      "event_id" : 43123582,
-      "contributor" : null,
-      "mag_type" : "Mwp",
-      "event_location_name" : "Near coast of Chiapas, Mexico [Sea: Mexico]",
-      "magnitude" : 6.1,
-      "time" : "2025-06-18 09:49:30Z",
-      "mag_author" : null,
-      "longitude" : -93.8133,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ -93.8133, 15.1242 ]
-    },
-    "id" : "43123582"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 64.844,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 15.1242,
       "event_id" : 42456121,
       "contributor" : null,
       "mag_type" : "Mwp",
@@ -12540,6 +12540,28 @@
       "coordinates" : [ -93.8133, 15.1242 ]
     },
     "id" : "42456121"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 64.844,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : 15.1242,
+      "event_id" : 43123582,
+      "contributor" : null,
+      "mag_type" : "Mwp",
+      "event_location_name" : "Near coast of Chiapas, Mexico [Sea: Mexico]",
+      "magnitude" : 6.1,
+      "time" : "2025-06-18 09:49:30Z",
+      "mag_author" : null,
+      "longitude" : -93.8133,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -93.8133, 15.1242 ]
+    },
+    "id" : "43123582"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -12767,28 +12789,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 41.8183,
-      "event_id" : 42451581,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km W Capracotta (IS)",
-      "magnitude" : 1.6,
-      "time" : "2025-06-18 03:41:39Z",
-      "mag_author" : null,
-      "longitude" : 14.2197,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.2197, 41.8183 ]
-    },
-    "id" : "42451581"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 20.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 41.8183,
       "event_id" : 43118652,
       "contributor" : null,
       "mag_type" : "ML",
@@ -12807,25 +12807,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 6.8,
+      "depth_km" : 20.5,
       "author" : "SURVEY-INGV",
       "catalog" : null,
-      "latitude" : 46.4408,
-      "event_id" : 42451521,
+      "latitude" : 41.8183,
+      "event_id" : 42451581,
       "contributor" : null,
       "mag_type" : "ML",
-      "event_location_name" : "3 km W Raveo (UD)",
+      "event_location_name" : "4 km W Capracotta (IS)",
       "magnitude" : 1.6,
-      "time" : "2025-06-18 03:20:55Z",
+      "time" : "2025-06-18 03:41:39Z",
       "mag_author" : null,
-      "longitude" : 12.8273,
+      "longitude" : 14.2197,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 12.8273, 46.4408 ]
+      "coordinates" : [ 14.2197, 41.8183 ]
     },
-    "id" : "42451521"
+    "id" : "42451581"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -12848,6 +12848,28 @@
       "coordinates" : [ 12.8273, 46.4408 ]
     },
     "id" : "43118612"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 6.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 46.4408,
+      "event_id" : 42451521,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km W Raveo (UD)",
+      "magnitude" : 1.6,
+      "time" : "2025-06-18 03:20:55Z",
+      "mag_author" : null,
+      "longitude" : 12.8273,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.8273, 46.4408 ]
+    },
+    "id" : "42451521"
   }, {
     "type" : "Feature",
     "properties" : {
