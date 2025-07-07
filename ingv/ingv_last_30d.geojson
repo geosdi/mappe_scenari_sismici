@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 7.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.5198,
+      "event_id" : 43344472,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km S Cagli (PU)",
+      "magnitude" : 0.9,
+      "time" : "2025-07-07 06:52:35Z",
+      "mag_author" : null,
+      "longitude" : 12.6542,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.6542, 43.5198 ]
+    },
+    "id" : "43344472"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 5.0,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -28541,28 +28563,6 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : -47.6508,
-      "event_id" : 42352711,
-      "contributor" : null,
-      "mag_type" : "Mwp",
-      "event_location_name" : "Western Indian-Antarctic Ridge [Sea]",
-      "magnitude" : 6.2,
-      "time" : "2025-06-07 23:20:48Z",
-      "mag_author" : null,
-      "longitude" : 115.961,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 115.961, -47.6508 ]
-    },
-    "id" : "42352711"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 11.719,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : -47.6508,
       "event_id" : 42957202,
       "contributor" : null,
       "mag_type" : "Mwp",
@@ -28578,6 +28578,28 @@
       "coordinates" : [ 115.961, -47.6508 ]
     },
     "id" : "42957202"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 11.719,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : -47.6508,
+      "event_id" : 42352711,
+      "contributor" : null,
+      "mag_type" : "Mwp",
+      "event_location_name" : "Western Indian-Antarctic Ridge [Sea]",
+      "magnitude" : 6.2,
+      "time" : "2025-06-07 23:20:48Z",
+      "mag_author" : null,
+      "longitude" : 115.961,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 115.961, -47.6508 ]
+    },
+    "id" : "42352711"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -29238,27 +29260,5 @@
       "coordinates" : [ 13.088, 42.7763 ]
     },
     "id" : "42949762"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 3.75,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.803667,
-      "event_id" : 42949022,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 1.2,
-      "time" : "2025-06-07 09:01:41Z",
-      "mag_author" : null,
-      "longitude" : 14.112333,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.112333, 40.803667 ]
-    },
-    "id" : "42949022"
   } ]
 }
