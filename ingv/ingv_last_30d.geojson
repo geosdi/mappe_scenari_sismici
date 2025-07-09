@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.7,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.4158,
+      "event_id" : 43377102,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "8 km NW Gubbio (PG)",
+      "magnitude" : 0.3,
+      "time" : "2025-07-09 17:49:31Z",
+      "mag_author" : null,
+      "longitude" : 12.5377,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.5377, 43.4158 ]
+    },
+    "id" : "43377102"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 13.8,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -28864,27 +28886,5 @@
       "coordinates" : [ 12.9917, 42.8798 ]
     },
     "id" : "42975912"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 21.47,
-      "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
-      "catalog" : null,
-      "latitude" : 37.716,
-      "event_id" : 42975832,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "7 km NE Adrano (CT)",
-      "magnitude" : 1.8,
-      "time" : "2025-06-09 19:56:19Z",
-      "mag_author" : null,
-      "longitude" : 14.877,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.877, 37.716 ]
-    },
-    "id" : "42975832"
   } ]
 }
