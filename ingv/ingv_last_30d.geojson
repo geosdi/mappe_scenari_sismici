@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.2,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.8983,
+      "event_id" : 43460182,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km NE Preci (PG)",
+      "magnitude" : 1.2,
+      "time" : "2025-07-19 07:15:16Z",
+      "mag_author" : null,
+      "longitude" : 13.0568,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.0568, 42.8983 ]
+    },
+    "id" : "43460182"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.7,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -28402,27 +28424,5 @@
       "coordinates" : [ 12.6872, 43.4567 ]
     },
     "id" : "43135972"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.4,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.4823,
-      "event_id" : 43135852,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "7 km E Città di Castello (PG)",
-      "magnitude" : 0.6,
-      "time" : "2025-06-19 09:23:15Z",
-      "mag_author" : null,
-      "longitude" : 12.317,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.317, 43.4823 ]
-    },
-    "id" : "43135852"
   } ]
 }
