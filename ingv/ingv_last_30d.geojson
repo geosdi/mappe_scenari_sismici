@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.4,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.8077,
+      "event_id" : 43486862,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km N Norcia (PG)",
+      "magnitude" : 1.7,
+      "time" : "2025-07-21 22:30:18Z",
+      "mag_author" : null,
+      "longitude" : 13.099,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.099, 42.8077 ]
+    },
+    "id" : "43486862"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 4.9,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -27082,27 +27104,5 @@
       "coordinates" : [ 13.3335, 42.7572 ]
     },
     "id" : "43167492"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 16.9,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.6518,
-      "event_id" : 43167452,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km S Trecastelli (AN)",
-      "magnitude" : 0.8,
-      "time" : "2025-06-22 01:05:28Z",
-      "mag_author" : null,
-      "longitude" : 13.1013,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.1013, 43.6518 ]
-    },
-    "id" : "43167452"
   } ]
 }
