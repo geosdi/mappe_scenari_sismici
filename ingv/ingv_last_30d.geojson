@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 44.2,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 38.5513,
+      "event_id" : 43475442,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km SE Serra San Bruno (VV)",
+      "magnitude" : 1.7,
+      "time" : "2025-07-21 00:00:23Z",
+      "mag_author" : null,
+      "longitude" : 16.3493,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.3493, 38.5513 ]
+    },
+    "id" : "43475442"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 8.3,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -27060,49 +27082,5 @@
       "coordinates" : [ 14.125167, 40.837333 ]
     },
     "id" : "43158092"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.8,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 38.0383,
-      "event_id" : 43158042,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km SE San Piero Patti (ME)",
-      "magnitude" : 0.8,
-      "time" : "2025-06-21 02:12:51Z",
-      "mag_author" : null,
-      "longitude" : 14.9815,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.9815, 38.0383 ]
-    },
-    "id" : "43158042"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.9,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 45.9345,
-      "event_id" : 43158002,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "Slovenia (SLOVENIA)",
-      "magnitude" : 1.8,
-      "time" : "2025-06-21 02:11:19Z",
-      "mag_author" : null,
-      "longitude" : 14.2507,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.2507, 45.9345 ]
-    },
-    "id" : "43158002"
   } ]
 }
