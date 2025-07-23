@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 45.3473,
+      "event_id" : 43508482,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "Confine Italia-Francia (FRANCIA)",
+      "magnitude" : 0.8,
+      "time" : "2025-07-23 23:09:11Z",
+      "mag_author" : null,
+      "longitude" : 6.5662,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.5662, 45.3473 ]
+    },
+    "id" : "43508482"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 7.2,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -26906,27 +26928,5 @@
       "coordinates" : [ 12.7093, 43.3523 ]
     },
     "id" : "43185562"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 14.3,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.7758,
-      "event_id" : 43185482,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km E Arquata del Tronto (AP)",
-      "magnitude" : 0.8,
-      "time" : "2025-06-24 01:22:03Z",
-      "mag_author" : null,
-      "longitude" : 13.3342,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.3342, 42.7758 ]
-    },
-    "id" : "43185482"
   } ]
 }
