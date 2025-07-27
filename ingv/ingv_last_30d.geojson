@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.3,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.4987,
+      "event_id" : 43547562,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "7 km NW Pietralunga (PG)",
+      "magnitude" : 0.2,
+      "time" : "2025-07-27 20:18:42Z",
+      "mag_author" : null,
+      "longitude" : 12.4102,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.4102, 43.4987 ]
+    },
+    "id" : "43547562"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 6.1,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -26356,27 +26378,5 @@
       "coordinates" : [ 13.1357, 42.7965 ]
     },
     "id" : "43250102"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 0.1,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.820667,
-      "event_id" : 43250082,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Vesuvio",
-      "magnitude" : 1.0,
-      "time" : "2025-06-27 22:24:00Z",
-      "mag_author" : null,
-      "longitude" : 14.426,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.426, 40.820667 ]
-    },
-    "id" : "43250082"
   } ]
 }
