@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 13.9,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.5493,
+      "event_id" : 43563462,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km E Crognaleto (TE)",
+      "magnitude" : 1.0,
+      "time" : "2025-07-29 13:58:08Z",
+      "mag_author" : null,
+      "longitude" : 13.5023,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.5023, 42.5493 ]
+    },
+    "id" : "43563462"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 15.2,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -26378,27 +26400,5 @@
       "coordinates" : [ 16.3943, 39.5597 ]
     },
     "id" : "43264792"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.1378,
-      "event_id" : 43264152,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km SW Valfabbrica (PG)",
-      "magnitude" : 0.9,
-      "time" : "2025-06-29 16:03:28Z",
-      "mag_author" : null,
-      "longitude" : 12.5592,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.5592, 43.1378 ]
-    },
-    "id" : "43264152"
   } ]
 }
