@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.3,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.1582,
+      "event_id" : 43561502,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km S Serrapetrona (MC)",
+      "magnitude" : 0.8,
+      "time" : "2025-07-29 10:05:20Z",
+      "mag_author" : null,
+      "longitude" : 13.1863,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.1863, 43.1582 ]
+    },
+    "id" : "43561502"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.8,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -26356,27 +26378,5 @@
       "coordinates" : [ 14.0987, 42.0658 ]
     },
     "id" : "43262792"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.9,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.9572,
-      "event_id" : 43262662,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km NW Visso (MC)",
-      "magnitude" : 0.8,
-      "time" : "2025-06-29 12:13:18Z",
-      "mag_author" : null,
-      "longitude" : 13.0693,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.0693, 42.9572 ]
-    },
-    "id" : "43262662"
   } ]
 }
