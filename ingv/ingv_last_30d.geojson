@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 30.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 37.6567,
+      "event_id" : 43570702,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km SE Resuttano (CL)",
+      "magnitude" : 2.2,
+      "time" : "2025-07-30 08:25:56Z",
+      "mag_author" : null,
+      "longitude" : 14.049,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.049, 37.6567 ]
+    },
+    "id" : "43570702"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 8.9,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -26554,27 +26576,5 @@
       "coordinates" : [ 14.116333, 40.7945 ]
     },
     "id" : "43270672"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 4.44,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.7975,
-      "event_id" : 43270512,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 2.2,
-      "time" : "2025-06-30 10:51:17Z",
-      "mag_author" : null,
-      "longitude" : 14.117,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.117, 40.7975 ]
-    },
-    "id" : "43270512"
   } ]
 }
