@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 12.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.0238,
+      "event_id" : 43586992,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km N Monte Cavallo (MC)",
+      "magnitude" : 0.6,
+      "time" : "2025-07-31 17:51:32Z",
+      "mag_author" : null,
+      "longitude" : 13.0105,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.0105, 43.0238 ]
+    },
+    "id" : "43586992"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 7.1,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -26818,27 +26840,5 @@
       "coordinates" : [ 6.6743, 44.5603 ]
     },
     "id" : "43282482"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 7.7,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.4377,
-      "event_id" : 43282362,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km E Pietralunga (PG)",
-      "magnitude" : 0.5,
-      "time" : "2025-07-01 19:58:14Z",
-      "mag_author" : null,
-      "longitude" : 12.4822,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.4822, 43.4377 ]
-    },
-    "id" : "43282362"
   } ]
 }
