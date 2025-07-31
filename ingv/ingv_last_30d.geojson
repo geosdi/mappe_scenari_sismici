@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.3338,
+      "event_id" : 43587542,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km SE Gubbio (PG)",
+      "magnitude" : 0.8,
+      "time" : "2025-07-31 19:55:24Z",
+      "mag_author" : null,
+      "longitude" : 12.5997,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.5997, 43.3338 ]
+    },
+    "id" : "43587542"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 5.8,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -26818,27 +26840,5 @@
       "coordinates" : [ 12.769, 42.5027 ]
     },
     "id" : "43282902"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 12.6,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.6428,
-      "event_id" : 43282782,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "1 km S Monteleone di Spoleto (PG)",
-      "magnitude" : 1.5,
-      "time" : "2025-07-01 22:01:56Z",
-      "mag_author" : null,
-      "longitude" : 12.9493,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.9493, 42.6428 ]
-    },
-    "id" : "43282782"
   } ]
 }
