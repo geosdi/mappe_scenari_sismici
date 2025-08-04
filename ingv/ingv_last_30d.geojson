@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.1,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.2253,
+      "event_id" : 43625872,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "8 km NW Valfabbrica (PG)",
+      "magnitude" : 1.0,
+      "time" : "2025-08-04 10:19:48Z",
+      "mag_author" : null,
+      "longitude" : 12.5747,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.5747, 43.2253 ]
+    },
+    "id" : "43625872"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.0,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -26466,27 +26488,5 @@
       "coordinates" : [ 7.5623, 45.8243 ]
     },
     "id" : "43327632"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 13.4,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.9908,
-      "event_id" : 43323952,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km SW Acquacanina (MC)",
-      "magnitude" : 1.0,
-      "time" : "2025-07-05 12:37:28Z",
-      "mag_author" : null,
-      "longitude" : 13.1503,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.1503, 42.9908 ]
-    },
-    "id" : "43323952"
   } ]
 }
