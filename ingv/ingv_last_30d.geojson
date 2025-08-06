@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.9,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.795,
+      "event_id" : 43644612,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km W Pratovecchio Stia (AR)",
+      "magnitude" : 0.7,
+      "time" : "2025-08-06 13:56:26Z",
+      "mag_author" : null,
+      "longitude" : 11.6787,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.6787, 43.795 ]
+    },
+    "id" : "43644612"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.9,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -26136,27 +26158,5 @@
       "coordinates" : [ 13.0518, 42.9958 ]
     },
     "id" : "43353562"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 14.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.0007,
-      "event_id" : 43353292,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km E Monte Cavallo (MC)",
-      "magnitude" : 0.3,
-      "time" : "2025-07-07 16:06:19Z",
-      "mag_author" : null,
-      "longitude" : 13.0537,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.0537, 43.0007 ]
-    },
-    "id" : "43353292"
   } ]
 }
