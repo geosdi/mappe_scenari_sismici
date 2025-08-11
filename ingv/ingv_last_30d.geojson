@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 13.7,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.0485,
+      "event_id" : 43696762,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km S Serravalle di Chienti (MC)",
+      "magnitude" : 0.7,
+      "time" : "2025-08-11 17:30:27Z",
+      "mag_author" : null,
+      "longitude" : 12.9567,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.9567, 43.0485 ]
+    },
+    "id" : "43696762"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 3.05,
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
@@ -26246,27 +26268,5 @@
       "coordinates" : [ 15.4533, 38.4663 ]
     },
     "id" : "43405192"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 14.4,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 38.3187,
-      "event_id" : 43404892,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km E Molochio (RC)",
-      "magnitude" : 1.7,
-      "time" : "2025-07-12 19:45:24Z",
-      "mag_author" : null,
-      "longitude" : 16.0768,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 16.0768, 38.3187 ]
-    },
-    "id" : "43404892"
   } ]
 }
