@@ -3,6 +3,50 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 41.303,
+      "event_id" : 43724192,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km NE Cerreto Sannita (BN)",
+      "magnitude" : 1.1,
+      "time" : "2025-08-13 18:54:30Z",
+      "mag_author" : null,
+      "longitude" : 14.5745,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.5745, 41.303 ]
+    },
+    "id" : "43724192"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 7.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.8348,
+      "event_id" : 43724132,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "9 km SE Castelsantangelo sul Nera (MC)",
+      "magnitude" : 1.0,
+      "time" : "2025-08-13 18:51:09Z",
+      "mag_author" : null,
+      "longitude" : 13.2192,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.2192, 42.8348 ]
+    },
+    "id" : "43724132"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 24.6,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -25806,27 +25850,5 @@
       "coordinates" : [ 13.054, 42.8345 ]
     },
     "id" : "43422382"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 102.344,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 46.4555,
-      "event_id" : 43422072,
-      "contributor" : null,
-      "mag_type" : "Mwp",
-      "event_location_name" : "Kuril Islands, Russia [Sea: Russia]",
-      "magnitude" : 5.7,
-      "time" : "2025-07-14 21:38:03Z",
-      "mag_author" : null,
-      "longitude" : 151.428,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 151.428, 46.4555 ]
-    },
-    "id" : "43422072"
   } ]
 }
