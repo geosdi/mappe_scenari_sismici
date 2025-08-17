@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.3,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.4572,
+      "event_id" : 43773802,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "11 km SW Crognaleto (TE)",
+      "magnitude" : 0.9,
+      "time" : "2025-08-17 00:03:54Z",
+      "mag_author" : null,
+      "longitude" : 13.4373,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.4373, 42.4572 ]
+    },
+    "id" : "43773802"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 18.359,
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
@@ -26598,27 +26620,5 @@
       "coordinates" : [ 13.0377, 47.5078 ]
     },
     "id" : "43449932"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.3,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 38.9562,
-      "event_id" : 43449882,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km E Pianopoli (CZ)",
-      "magnitude" : 2.0,
-      "time" : "2025-07-18 02:12:30Z",
-      "mag_author" : null,
-      "longitude" : 16.4287,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 16.4287, 38.9562 ]
-    },
-    "id" : "43449882"
   } ]
 }
