@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 25.1,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.8565,
+      "event_id" : 43794542,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km N Montegallo (AP)",
+      "magnitude" : 2.0,
+      "time" : "2025-08-18 17:16:25Z",
+      "mag_author" : null,
+      "longitude" : 13.3375,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.3375, 42.8565 ]
+    },
+    "id" : "43794542"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 9.2,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -26510,27 +26532,5 @@
       "coordinates" : [ 13.2392, 42.7898 ]
     },
     "id" : "43465362"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 13.1,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.4348,
-      "event_id" : 43465312,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "1 km E Pizzoli (AQ)",
-      "magnitude" : 0.9,
-      "time" : "2025-07-19 19:23:19Z",
-      "mag_author" : null,
-      "longitude" : 13.3067,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.3067, 42.4348 ]
-    },
-    "id" : "43465312"
   } ]
 }
