@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 15.7,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.5173,
+      "event_id" : 43797802,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km E Frontone (PU)",
+      "magnitude" : 1.1,
+      "time" : "2025-08-19 02:58:29Z",
+      "mag_author" : null,
+      "longitude" : 12.7675,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.7675, 43.5173 ]
+    },
+    "id" : "43797802"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 2.54,
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
@@ -26730,27 +26752,5 @@
       "coordinates" : [ 16.2228, 41.3593 ]
     },
     "id" : "43466912"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.7,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.3518,
-      "event_id" : 43466762,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km E Gubbio (PG)",
-      "magnitude" : 0.8,
-      "time" : "2025-07-20 05:06:45Z",
-      "mag_author" : null,
-      "longitude" : 12.6002,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.6002, 43.3518 ]
-    },
-    "id" : "43466762"
   } ]
 }
