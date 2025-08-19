@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 2.54,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.820667,
+      "event_id" : 43797742,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 1.2,
+      "time" : "2025-08-19 02:22:20Z",
+      "mag_author" : null,
+      "longitude" : 14.1345,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.1345, 40.820667 ]
+    },
+    "id" : "43797742"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 4.2,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -26796,27 +26818,5 @@
       "coordinates" : [ 12.5967, 43.3512 ]
     },
     "id" : "43466582"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 7.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.3508,
-      "event_id" : 43466562,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km E Gubbio (PG)",
-      "magnitude" : 1.8,
-      "time" : "2025-07-20 04:28:04Z",
-      "mag_author" : null,
-      "longitude" : 12.5988,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.5988, 43.3508 ]
-    },
-    "id" : "43466562"
   } ]
 }
