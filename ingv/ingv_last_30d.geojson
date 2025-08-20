@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 7.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 44.4873,
+      "event_id" : 43808612,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km W San Damiano Macra (CN)",
+      "magnitude" : 0.9,
+      "time" : "2025-08-20 01:16:21Z",
+      "mag_author" : null,
+      "longitude" : 7.2203,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.2203, 44.4873 ]
+    },
+    "id" : "43808612"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.2,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -26686,27 +26708,5 @@
       "coordinates" : [ 13.0537, 42.6277 ]
     },
     "id" : "43475942"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 12.2,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 41.78,
-      "event_id" : 43475892,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km SW Pescasseroli (AQ)",
-      "magnitude" : 0.8,
-      "time" : "2025-07-21 03:24:27Z",
-      "mag_author" : null,
-      "longitude" : 13.7508,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.7508, 41.78 ]
-    },
-    "id" : "43475892"
   } ]
 }
