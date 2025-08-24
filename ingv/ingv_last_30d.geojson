@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 6.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 39.2523,
+      "event_id" : 43856912,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km N Belvedere di Spinello (KR)",
+      "magnitude" : 1.2,
+      "time" : "2025-08-24 11:34:58Z",
+      "mag_author" : null,
+      "longitude" : 16.8757,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.8757, 39.2523 ]
+    },
+    "id" : "43856912"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.9,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -26466,27 +26488,5 @@
       "coordinates" : [ 6.6817, 44.5637 ]
     },
     "id" : "43523562"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.7,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.9638,
-      "event_id" : 43523482,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "10 km NW Sellano (PG)",
-      "magnitude" : 0.7,
-      "time" : "2025-07-25 13:46:12Z",
-      "mag_author" : null,
-      "longitude" : 12.865,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.865, 42.9638 ]
-    },
-    "id" : "43523482"
   } ]
 }
