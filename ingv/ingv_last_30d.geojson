@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 15.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.014,
+      "event_id" : 43858452,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km N Monte Cavallo (MC)",
+      "magnitude" : 0.7,
+      "time" : "2025-08-24 16:20:04Z",
+      "mag_author" : null,
+      "longitude" : 13.0068,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.0068, 43.014 ]
+    },
+    "id" : "43858452"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 7.5,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -26400,27 +26422,5 @@
       "coordinates" : [ 11.7617, 42.7925 ]
     },
     "id" : "43525742"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 16.4,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.1972,
-      "event_id" : 43525712,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "6 km W Fiuminata (MC)",
-      "magnitude" : 2.3,
-      "time" : "2025-07-25 18:29:05Z",
-      "mag_author" : null,
-      "longitude" : 12.8605,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.8605, 43.1972 ]
-    },
-    "id" : "43525712"
   } ]
 }
