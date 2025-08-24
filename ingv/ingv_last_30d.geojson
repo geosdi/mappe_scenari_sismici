@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 7.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 45.7952,
+      "event_id" : 43857602,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "Confine Slovenia-Croazia (SLOVENIA, CROAZIA)",
+      "magnitude" : 1.9,
+      "time" : "2025-08-24 13:57:24Z",
+      "mag_author" : null,
+      "longitude" : 15.2167,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 15.2167, 45.7952 ]
+    },
+    "id" : "43857602"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 2.81,
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
@@ -26488,27 +26510,5 @@
       "coordinates" : [ 12.6802, 43.1142 ]
     },
     "id" : "43524822"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.4,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.652,
-      "event_id" : 43524772,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km N Amatrice (RI)",
-      "magnitude" : 1.6,
-      "time" : "2025-07-25 16:39:36Z",
-      "mag_author" : null,
-      "longitude" : 13.2885,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.2885, 42.652 ]
-    },
-    "id" : "43524772"
   } ]
 }
