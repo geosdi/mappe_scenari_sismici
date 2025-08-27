@@ -3,6 +3,50 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 5.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.9843,
+      "event_id" : 43885012,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "1 km S Monte Cavallo (MC)",
+      "magnitude" : 0.4,
+      "time" : "2025-08-27 10:32:42Z",
+      "mag_author" : null,
+      "longitude" : 13.0,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.0, 42.9843 ]
+    },
+    "id" : "43885012"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 6.4,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 44.7507,
+      "event_id" : 43884932,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km S Bettola (PC)",
+      "magnitude" : 2.5,
+      "time" : "2025-08-27 10:23:57Z",
+      "mag_author" : null,
+      "longitude" : 9.6077,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 9.6077, 44.7507 ]
+    },
+    "id" : "43884932"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 13.9,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -975,28 +1019,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 41.4693,
-      "event_id" : 43883882,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "2 km NE Pontecorvo (FR)",
-      "magnitude" : 1.7,
-      "time" : "2025-08-26 19:45:46Z",
-      "mag_author" : null,
-      "longitude" : 13.6868,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.6868, 41.4693 ]
-    },
-    "id" : "43883882"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 3.3,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 41.4693,
       "event_id" : 43127341,
       "contributor" : null,
       "mag_type" : "Md",
@@ -1012,6 +1034,28 @@
       "coordinates" : [ 13.6868, 41.4693 ]
     },
     "id" : "43127341"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 3.3,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 41.4693,
+      "event_id" : 43883882,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "2 km NE Pontecorvo (FR)",
+      "magnitude" : 1.7,
+      "time" : "2025-08-26 19:45:46Z",
+      "mag_author" : null,
+      "longitude" : 13.6868,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.6868, 41.4693 ]
+    },
+    "id" : "43883882"
   }, {
     "type" : "Feature",
     "properties" : {
