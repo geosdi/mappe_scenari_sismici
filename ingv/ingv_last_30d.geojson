@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 21.1,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 37.1275,
+      "event_id" : 43888632,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "Costa Siracusana (Siracusa)",
+      "magnitude" : 1.3,
+      "time" : "2025-08-27 17:36:16Z",
+      "mag_author" : null,
+      "longitude" : 15.3232,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 15.3232, 37.1275 ]
+    },
+    "id" : "43888632"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 0.29,
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
@@ -1833,28 +1855,6 @@
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
       "latitude" : 40.8245,
-      "event_id" : 43869962,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 1.2,
-      "time" : "2025-08-26 05:44:42Z",
-      "mag_author" : null,
-      "longitude" : 14.151667,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.151667, 40.8245 ]
-    },
-    "id" : "43869962"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 1.55,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.8245,
       "event_id" : 43869582,
       "contributor" : null,
       "mag_type" : "Md",
@@ -1870,6 +1870,28 @@
       "coordinates" : [ 14.151667, 40.8245 ]
     },
     "id" : "43869582"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 1.55,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.8245,
+      "event_id" : 43869962,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 1.2,
+      "time" : "2025-08-26 05:44:42Z",
+      "mag_author" : null,
+      "longitude" : 14.151667,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.151667, 40.8245 ]
+    },
+    "id" : "43869962"
   }, {
     "type" : "Feature",
     "properties" : {
