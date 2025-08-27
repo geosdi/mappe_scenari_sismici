@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 16.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 38.1338,
+      "event_id" : 43889042,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km W Montagnareale (ME)",
+      "magnitude" : 1.4,
+      "time" : "2025-08-27 20:16:13Z",
+      "mag_author" : null,
+      "longitude" : 14.914,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.914, 38.1338 ]
+    },
+    "id" : "43889042"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.1,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -1305,28 +1327,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 41.4693,
-      "event_id" : 43127341,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "2 km NE Pontecorvo (FR)",
-      "magnitude" : 1.7,
-      "time" : "2025-08-26 19:45:46Z",
-      "mag_author" : null,
-      "longitude" : 13.6868,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.6868, 41.4693 ]
-    },
-    "id" : "43127341"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 3.3,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 41.4693,
       "event_id" : 43883882,
       "contributor" : null,
       "mag_type" : "Md",
@@ -1342,6 +1342,28 @@
       "coordinates" : [ 13.6868, 41.4693 ]
     },
     "id" : "43883882"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 3.3,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 41.4693,
+      "event_id" : 43127341,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "2 km NE Pontecorvo (FR)",
+      "magnitude" : 1.7,
+      "time" : "2025-08-26 19:45:46Z",
+      "mag_author" : null,
+      "longitude" : 13.6868,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.6868, 41.4693 ]
+    },
+    "id" : "43127341"
   }, {
     "type" : "Feature",
     "properties" : {
