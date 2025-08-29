@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.7775,
+      "event_id" : 43908522,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "6 km SE Cerreto di Spoleto (PG)",
+      "magnitude" : 1.3,
+      "time" : "2025-08-29 23:15:06Z",
+      "mag_author" : null,
+      "longitude" : 12.9548,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.9548, 42.7775 ]
+    },
+    "id" : "43908522"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.9,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -4803,28 +4825,6 @@
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
       "latitude" : 40.826833,
-      "event_id" : 43857742,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 2.0,
-      "time" : "2025-08-24 13:54:53Z",
-      "mag_author" : null,
-      "longitude" : 14.077333,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.077333, 40.826833 ]
-    },
-    "id" : "43857742"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 2.81,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.826833,
       "event_id" : 43105681,
       "contributor" : null,
       "mag_type" : "Md",
@@ -4840,6 +4840,28 @@
       "coordinates" : [ 14.077333, 40.826833 ]
     },
     "id" : "43105681"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 2.81,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.826833,
+      "event_id" : 43857742,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 2.0,
+      "time" : "2025-08-24 13:54:53Z",
+      "mag_author" : null,
+      "longitude" : 14.077333,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.077333, 40.826833 ]
+    },
+    "id" : "43857742"
   }, {
     "type" : "Feature",
     "properties" : {
