@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.4733,
+      "event_id" : 43919622,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km W Cantiano (PU)",
+      "magnitude" : 0.7,
+      "time" : "2025-08-31 00:16:04Z",
+      "mag_author" : null,
+      "longitude" : 12.5633,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.5633, 43.4733 ]
+    },
+    "id" : "43919622"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 28.6,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -25718,49 +25740,5 @@
       "coordinates" : [ 160.116, 51.9398 ]
     },
     "id" : "43588932"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.4,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.1283,
-      "event_id" : 43588882,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km SW Valfabbrica (PG)",
-      "magnitude" : 0.8,
-      "time" : "2025-08-01 02:24:49Z",
-      "mag_author" : null,
-      "longitude" : 12.5528,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.5528, 43.1283 ]
-    },
-    "id" : "43588882"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 2.63,
-      "author" : "SURVEY-INGV-OV#SeismoWeb",
-      "catalog" : null,
-      "latitude" : 40.815667,
-      "event_id" : 43588852,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 1.1,
-      "time" : "2025-08-01 02:24:24Z",
-      "mag_author" : null,
-      "longitude" : 14.096833,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.096833, 40.815667 ]
-    },
-    "id" : "43588852"
   } ]
 }
