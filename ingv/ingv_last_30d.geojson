@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 22.4,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 41.8493,
+      "event_id" : 43935602,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km E San Nicandro Garganico (FG)",
+      "magnitude" : 1.3,
+      "time" : "2025-09-01 23:06:26Z",
+      "mag_author" : null,
+      "longitude" : 15.6115,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 15.6115, 41.8493 ]
+    },
+    "id" : "43935602"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 12.2,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -8411,28 +8433,6 @@
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
       "latitude" : 40.826833,
-      "event_id" : 43857742,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 2.0,
-      "time" : "2025-08-24 13:54:53Z",
-      "mag_author" : null,
-      "longitude" : 14.077333,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.077333, 40.826833 ]
-    },
-    "id" : "43857742"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 2.81,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.826833,
       "event_id" : 43105681,
       "contributor" : null,
       "mag_type" : "Md",
@@ -8448,6 +8448,28 @@
       "coordinates" : [ 14.077333, 40.826833 ]
     },
     "id" : "43105681"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 2.81,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.826833,
+      "event_id" : 43857742,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 2.0,
+      "time" : "2025-08-24 13:54:53Z",
+      "mag_author" : null,
+      "longitude" : 14.077333,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.077333, 40.826833 ]
+    },
+    "id" : "43857742"
   }, {
     "type" : "Feature",
     "properties" : {
