@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 44.0298,
+      "event_id" : 43946222,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km SE Rocca San Casciano (FC)",
+      "magnitude" : 1.0,
+      "time" : "2025-09-03 05:38:22Z",
+      "mag_author" : null,
+      "longitude" : 11.8632,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.8632, 44.0298 ]
+    },
+    "id" : "43946222"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 12.3,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -27434,27 +27456,5 @@
       "coordinates" : [ 12.7735, 42.7857 ]
     },
     "id" : "43624602"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.6,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 44.1688,
-      "event_id" : 43624262,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km NE Castiglione dei Pepoli (BO)",
-      "magnitude" : 0.8,
-      "time" : "2025-08-04 07:47:39Z",
-      "mag_author" : null,
-      "longitude" : 11.1913,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 11.1913, 44.1688 ]
-    },
-    "id" : "43624262"
   } ]
 }
