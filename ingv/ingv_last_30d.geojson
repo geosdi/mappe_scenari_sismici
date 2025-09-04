@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.7,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 44.0532,
+      "event_id" : 43954932,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km E Rocca San Casciano (FC)",
+      "magnitude" : 1.2,
+      "time" : "2025-09-04 07:00:39Z",
+      "mag_author" : null,
+      "longitude" : 11.9042,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.9042, 44.0532 ]
+    },
+    "id" : "43954932"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 8.4,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -10787,28 +10809,6 @@
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
       "latitude" : 40.826833,
-      "event_id" : 43105681,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 2.0,
-      "time" : "2025-08-24 13:54:53Z",
-      "mag_author" : null,
-      "longitude" : 14.077333,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.077333, 40.826833 ]
-    },
-    "id" : "43105681"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 2.81,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.826833,
       "event_id" : 43857742,
       "contributor" : null,
       "mag_type" : "Md",
@@ -10824,6 +10824,28 @@
       "coordinates" : [ 14.077333, 40.826833 ]
     },
     "id" : "43857742"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 2.81,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.826833,
+      "event_id" : 43105681,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 2.0,
+      "time" : "2025-08-24 13:54:53Z",
+      "mag_author" : null,
+      "longitude" : 14.077333,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.077333, 40.826833 ]
+    },
+    "id" : "43105681"
   }, {
     "type" : "Feature",
     "properties" : {
