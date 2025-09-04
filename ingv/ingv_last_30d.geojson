@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 15.4,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 44.124,
+      "event_id" : 43959682,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km NE Cutigliano (PT)",
+      "magnitude" : 1.4,
+      "time" : "2025-09-04 16:04:46Z",
+      "mag_author" : null,
+      "longitude" : 10.8037,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.8037, 44.124 ]
+    },
+    "id" : "43959682"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.0,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -9929,28 +9951,6 @@
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
       "latitude" : 40.8245,
-      "event_id" : 43869582,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 1.2,
-      "time" : "2025-08-26 05:44:42Z",
-      "mag_author" : null,
-      "longitude" : 14.151667,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.151667, 40.8245 ]
-    },
-    "id" : "43869582"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 1.55,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.8245,
       "event_id" : 43869962,
       "contributor" : null,
       "mag_type" : "Md",
@@ -9966,6 +9966,28 @@
       "coordinates" : [ 14.151667, 40.8245 ]
     },
     "id" : "43869962"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 1.55,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.8245,
+      "event_id" : 43869582,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 1.2,
+      "time" : "2025-08-26 05:44:42Z",
+      "mag_author" : null,
+      "longitude" : 14.151667,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.151667, 40.8245 ]
+    },
+    "id" : "43869582"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -28138,27 +28160,5 @@
       "coordinates" : [ 15.598, 39.4613 ]
     },
     "id" : "43638632"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.7,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.7725,
-      "event_id" : 43638552,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km E Vallo di Nera (PG)",
-      "magnitude" : 1.3,
-      "time" : "2025-08-05 18:15:06Z",
-      "mag_author" : null,
-      "longitude" : 12.9028,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.9028, 42.7725 ]
-    },
-    "id" : "43638552"
   } ]
 }
