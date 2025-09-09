@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 8.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 44.0273,
+      "event_id" : 43238061,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km SE Rocca San Casciano (FC)",
+      "magnitude" : 1.2,
+      "time" : "2025-09-09 15:56:29Z",
+      "mag_author" : null,
+      "longitude" : 11.868,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.868, 44.0273 ]
+    },
+    "id" : "43238061"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 9.2,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -15891,28 +15913,6 @@
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
       "latitude" : 40.826833,
-      "event_id" : 43105681,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 2.0,
-      "time" : "2025-08-24 13:54:53Z",
-      "mag_author" : null,
-      "longitude" : 14.077333,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.077333, 40.826833 ]
-    },
-    "id" : "43105681"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 2.81,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.826833,
       "event_id" : 43857742,
       "contributor" : null,
       "mag_type" : "Md",
@@ -15928,6 +15928,28 @@
       "coordinates" : [ 14.077333, 40.826833 ]
     },
     "id" : "43857742"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 2.81,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.826833,
+      "event_id" : 43105681,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 2.0,
+      "time" : "2025-08-24 13:54:53Z",
+      "mag_author" : null,
+      "longitude" : 14.077333,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.077333, 40.826833 ]
+    },
+    "id" : "43105681"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -28490,27 +28512,5 @@
       "coordinates" : [ 8.3473, 46.5383 ]
     },
     "id" : "43687952"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 14.4,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.1382,
-      "event_id" : 43687862,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km W Camerino (MC)",
-      "magnitude" : 1.0,
-      "time" : "2025-08-10 18:03:37Z",
-      "mag_author" : null,
-      "longitude" : 13.0397,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.0397, 43.1382 ]
-    },
-    "id" : "43687862"
   } ]
 }
