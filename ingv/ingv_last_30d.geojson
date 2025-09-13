@@ -3,6 +3,50 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 13.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 41.1725,
+      "event_id" : 43265291,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km E Sant'Arcangelo Trimonte (BN)",
+      "magnitude" : 2.2,
+      "time" : "2025-09-13 02:33:56Z",
+      "mag_author" : null,
+      "longitude" : 14.9585,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.9585, 41.1725 ]
+    },
+    "id" : "43265291"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 6.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.8858,
+      "event_id" : 43265261,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "1 km SE Castelsantangelo sul Nera (MC)",
+      "magnitude" : 0.7,
+      "time" : "2025-09-13 02:21:56Z",
+      "mag_author" : null,
+      "longitude" : 13.1637,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.1637, 42.8858 ]
+    },
+    "id" : "43265261"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 5.4,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -18157,28 +18201,6 @@
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
       "latitude" : 40.8245,
-      "event_id" : 43869582,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 1.2,
-      "time" : "2025-08-26 05:44:42Z",
-      "mag_author" : null,
-      "longitude" : 14.151667,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.151667, 40.8245 ]
-    },
-    "id" : "43869582"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 1.55,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.8245,
       "event_id" : 43869962,
       "contributor" : null,
       "mag_type" : "Md",
@@ -18194,6 +18216,28 @@
       "coordinates" : [ 14.151667, 40.8245 ]
     },
     "id" : "43869962"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 1.55,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.8245,
+      "event_id" : 43869582,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 1.2,
+      "time" : "2025-08-26 05:44:42Z",
+      "mag_author" : null,
+      "longitude" : 14.151667,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.151667, 40.8245 ]
+    },
+    "id" : "43869582"
   }, {
     "type" : "Feature",
     "properties" : {
