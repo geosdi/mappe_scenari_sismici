@@ -3,6 +3,50 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 38.2978,
+      "event_id" : 44055142,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "Costa Siciliana nord-orientale (Messina)",
+      "magnitude" : 0.9,
+      "time" : "2025-09-16 00:04:12Z",
+      "mag_author" : null,
+      "longitude" : 15.4232,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 15.4232, 38.2978 ]
+    },
+    "id" : "44055142"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 13.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.4712,
+      "event_id" : 44055092,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "6 km NE Pizzoli (AQ)",
+      "magnitude" : 1.0,
+      "time" : "2025-09-15 23:55:56Z",
+      "mag_author" : null,
+      "longitude" : 13.3542,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.3542, 42.4712 ]
+    },
+    "id" : "44055092"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.2,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -579,28 +623,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 43.5112,
-      "event_id" : 43280931,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km S Cagli (PU)",
-      "magnitude" : 0.6,
-      "time" : "2025-09-15 07:14:45Z",
-      "mag_author" : null,
-      "longitude" : 12.651,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.651, 43.5112 ]
-    },
-    "id" : "43280931"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 5.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.5112,
       "event_id" : 44049192,
       "contributor" : null,
       "mag_type" : "ML",
@@ -616,6 +638,28 @@
       "coordinates" : [ 12.651, 43.5112 ]
     },
     "id" : "44049192"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 5.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.5112,
+      "event_id" : 43280931,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km S Cagli (PU)",
+      "magnitude" : 0.6,
+      "time" : "2025-09-15 07:14:45Z",
+      "mag_author" : null,
+      "longitude" : 12.651,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.651, 43.5112 ]
+    },
+    "id" : "43280931"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -20225,28 +20269,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 41.4693,
-      "event_id" : 43127341,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "2 km NE Pontecorvo (FR)",
-      "magnitude" : 1.7,
-      "time" : "2025-08-26 19:45:46Z",
-      "mag_author" : null,
-      "longitude" : 13.6868,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.6868, 41.4693 ]
-    },
-    "id" : "43127341"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 3.3,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 41.4693,
       "event_id" : 43883882,
       "contributor" : null,
       "mag_type" : "Md",
@@ -20262,6 +20284,28 @@
       "coordinates" : [ 13.6868, 41.4693 ]
     },
     "id" : "43883882"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 3.3,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 41.4693,
+      "event_id" : 43127341,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "2 km NE Pontecorvo (FR)",
+      "magnitude" : 1.7,
+      "time" : "2025-08-26 19:45:46Z",
+      "mag_author" : null,
+      "longitude" : 13.6868,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.6868, 41.4693 ]
+    },
+    "id" : "43127341"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -20863,28 +20907,6 @@
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
       "latitude" : 40.8245,
-      "event_id" : 43869582,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 1.2,
-      "time" : "2025-08-26 05:44:42Z",
-      "mag_author" : null,
-      "longitude" : 14.151667,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.151667, 40.8245 ]
-    },
-    "id" : "43869582"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 1.55,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.8245,
       "event_id" : 43869962,
       "contributor" : null,
       "mag_type" : "Md",
@@ -20900,6 +20922,28 @@
       "coordinates" : [ 14.151667, 40.8245 ]
     },
     "id" : "43869962"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 1.55,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.8245,
+      "event_id" : 43869582,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 1.2,
+      "time" : "2025-08-26 05:44:42Z",
+      "mag_author" : null,
+      "longitude" : 14.151667,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.151667, 40.8245 ]
+    },
+    "id" : "43869582"
   }, {
     "type" : "Feature",
     "properties" : {
