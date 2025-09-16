@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 13.2,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.9977,
+      "event_id" : 44056842,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km E Monte Cavallo (MC)",
+      "magnitude" : 1.2,
+      "time" : "2025-09-16 07:40:29Z",
+      "mag_author" : null,
+      "longitude" : 13.0313,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.0313, 42.9977 ]
+    },
+    "id" : "44056842"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 4.4,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -777,28 +799,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 44.0295,
-      "event_id" : 44049642,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "6 km W Piteglio (PT)",
-      "magnitude" : 0.9,
-      "time" : "2025-09-15 07:59:34Z",
-      "mag_author" : null,
-      "longitude" : 10.6923,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 10.6923, 44.0295 ]
-    },
-    "id" : "44049642"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 5.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 44.0295,
       "event_id" : 43281341,
       "contributor" : null,
       "mag_type" : "ML",
@@ -814,6 +814,28 @@
       "coordinates" : [ 10.6923, 44.0295 ]
     },
     "id" : "43281341"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 5.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 44.0295,
+      "event_id" : 44049642,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "6 km W Piteglio (PT)",
+      "magnitude" : 0.9,
+      "time" : "2025-09-15 07:59:34Z",
+      "mag_author" : null,
+      "longitude" : 10.6923,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.6923, 44.0295 ]
+    },
+    "id" : "44049642"
   }, {
     "type" : "Feature",
     "properties" : {
