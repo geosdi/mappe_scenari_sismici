@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 4.4,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.9167,
+      "event_id" : 44056612,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km E Castelsantangelo sul Nera (MC)",
+      "magnitude" : 0.7,
+      "time" : "2025-09-16 06:56:27Z",
+      "mag_author" : null,
+      "longitude" : 13.2062,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.2062, 42.9167 ]
+    },
+    "id" : "44056612"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 12.5,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -755,28 +777,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 44.0295,
-      "event_id" : 44049642,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "6 km W Piteglio (PT)",
-      "magnitude" : 0.9,
-      "time" : "2025-09-15 07:59:34Z",
-      "mag_author" : null,
-      "longitude" : 10.6923,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 10.6923, 44.0295 ]
-    },
-    "id" : "44049642"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 5.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 44.0295,
       "event_id" : 43281341,
       "contributor" : null,
       "mag_type" : "ML",
@@ -798,22 +798,22 @@
       "depth_km" : 5.0,
       "author" : "SURVEY-INGV",
       "catalog" : null,
-      "latitude" : 43.5112,
-      "event_id" : 43280931,
+      "latitude" : 44.0295,
+      "event_id" : 44049642,
       "contributor" : null,
       "mag_type" : "ML",
-      "event_location_name" : "4 km S Cagli (PU)",
-      "magnitude" : 0.6,
-      "time" : "2025-09-15 07:14:45Z",
+      "event_location_name" : "6 km W Piteglio (PT)",
+      "magnitude" : 0.9,
+      "time" : "2025-09-15 07:59:34Z",
       "mag_author" : null,
-      "longitude" : 12.651,
+      "longitude" : 10.6923,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 12.651, 43.5112 ]
+      "coordinates" : [ 10.6923, 44.0295 ]
     },
-    "id" : "43280931"
+    "id" : "44049642"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -836,6 +836,28 @@
       "coordinates" : [ 12.651, 43.5112 ]
     },
     "id" : "44049192"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 5.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.5112,
+      "event_id" : 43280931,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km S Cagli (PU)",
+      "magnitude" : 0.6,
+      "time" : "2025-09-15 07:14:45Z",
+      "mag_author" : null,
+      "longitude" : 12.651,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.651, 43.5112 ]
+    },
+    "id" : "43280931"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -21083,28 +21105,6 @@
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
       "latitude" : 40.8245,
-      "event_id" : 43869962,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 1.2,
-      "time" : "2025-08-26 05:44:42Z",
-      "mag_author" : null,
-      "longitude" : 14.151667,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.151667, 40.8245 ]
-    },
-    "id" : "43869962"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 1.55,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.8245,
       "event_id" : 43869582,
       "contributor" : null,
       "mag_type" : "Md",
@@ -21120,6 +21120,28 @@
       "coordinates" : [ 14.151667, 40.8245 ]
     },
     "id" : "43869582"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 1.55,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.8245,
+      "event_id" : 43869962,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 1.2,
+      "time" : "2025-08-26 05:44:42Z",
+      "mag_author" : null,
+      "longitude" : 14.151667,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.151667, 40.8245 ]
+    },
+    "id" : "43869962"
   }, {
     "type" : "Feature",
     "properties" : {
