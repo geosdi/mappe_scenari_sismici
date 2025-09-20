@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 8.1,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.7868,
+      "event_id" : 44091842,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "1 km NE Massa Martana (PG)",
+      "magnitude" : 3.8,
+      "time" : "2025-09-20 21:11:39Z",
+      "mag_author" : null,
+      "longitude" : 12.5302,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.5302, 42.7868 ]
+    },
+    "id" : "44091842"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 2.59,
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
@@ -5727,28 +5749,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 43.0418,
-      "event_id" : 44049082,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km SE Valtopina (PG)",
-      "magnitude" : 1.3,
-      "time" : "2025-09-15 07:06:04Z",
-      "mag_author" : null,
-      "longitude" : 12.7882,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.7882, 43.0418 ]
-    },
-    "id" : "44049082"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.3,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.0418,
       "event_id" : 43280831,
       "contributor" : null,
       "mag_type" : "ML",
@@ -5764,6 +5764,28 @@
       "coordinates" : [ 12.7882, 43.0418 ]
     },
     "id" : "43280831"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 10.3,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.0418,
+      "event_id" : 44049082,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km SE Valtopina (PG)",
+      "magnitude" : 1.3,
+      "time" : "2025-09-15 07:06:04Z",
+      "mag_author" : null,
+      "longitude" : 12.7882,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.7882, 43.0418 ]
+    },
+    "id" : "44049082"
   }, {
     "type" : "Feature",
     "properties" : {
