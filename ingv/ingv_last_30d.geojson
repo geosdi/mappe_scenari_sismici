@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.6703,
+      "event_id" : 44100402,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km SE Badia Tedalda (AR)",
+      "magnitude" : 0.7,
+      "time" : "2025-09-22 02:10:46Z",
+      "mag_author" : null,
+      "longitude" : 12.2252,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.2252, 43.6703 ]
+    },
+    "id" : "44100402"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 2.0,
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
@@ -95,28 +117,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 40.3793,
-      "event_id" : 44100112,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km E Teggiano (SA)",
-      "magnitude" : 0.3,
-      "time" : "2025-09-22 00:53:43Z",
-      "mag_author" : null,
-      "longitude" : 15.5683,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 15.5683, 40.3793 ]
-    },
-    "id" : "44100112"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 16.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 40.3793,
       "event_id" : 43328961,
       "contributor" : null,
       "mag_type" : "ML",
@@ -132,6 +132,28 @@
       "coordinates" : [ 15.5683, 40.3793 ]
     },
     "id" : "43328961"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 16.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 40.3793,
+      "event_id" : 44100112,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km E Teggiano (SA)",
+      "magnitude" : 0.3,
+      "time" : "2025-09-22 00:53:43Z",
+      "mag_author" : null,
+      "longitude" : 15.5683,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 15.5683, 40.3793 ]
+    },
+    "id" : "44100112"
   }, {
     "type" : "Feature",
     "properties" : {
