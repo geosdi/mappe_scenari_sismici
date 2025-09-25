@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.9,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.0112,
+      "event_id" : 44127942,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "10 km SE Valtopina (PG)",
+      "magnitude" : 0.8,
+      "time" : "2025-09-25 10:19:51Z",
+      "mag_author" : null,
+      "longitude" : 12.8545,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.8545, 43.0112 ]
+    },
+    "id" : "44127942"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 5.1,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -579,28 +601,6 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : 9.75586,
-      "event_id" : 44123041,
-      "contributor" : null,
-      "mag_type" : "Mwp",
-      "event_location_name" : "Venezuela",
-      "magnitude" : 6.3,
-      "time" : "2025-09-24 22:21:55Z",
-      "mag_author" : null,
-      "longitude" : -70.8645,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ -70.8645, 9.75586 ]
-    },
-    "id" : "44123041"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.547,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 9.75586,
       "event_id" : 44124642,
       "contributor" : null,
       "mag_type" : "Mwp",
@@ -616,6 +616,28 @@
       "coordinates" : [ -70.8645, 9.75586 ]
     },
     "id" : "44124642"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 10.547,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : 9.75586,
+      "event_id" : 44123041,
+      "contributor" : null,
+      "mag_type" : "Mwp",
+      "event_location_name" : "Venezuela",
+      "magnitude" : 6.3,
+      "time" : "2025-09-24 22:21:55Z",
+      "mag_author" : null,
+      "longitude" : -70.8645,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -70.8645, 9.75586 ]
+    },
+    "id" : "44123041"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -31680,27 +31702,5 @@
       "coordinates" : [ 15.284, 40.8397 ]
     },
     "id" : "43874822"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 64.844,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 12.7898,
-      "event_id" : 43874382,
-      "contributor" : null,
-      "mag_type" : "Mwp",
-      "event_location_name" : "Guatemala [Sea]",
-      "magnitude" : 5.5,
-      "time" : "2025-08-26 12:25:29Z",
-      "mag_author" : null,
-      "longitude" : -91.062,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ -91.062, 12.7898 ]
-    },
-    "id" : "43874382"
   } ]
 }
