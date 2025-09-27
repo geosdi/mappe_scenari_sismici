@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.0543,
+      "event_id" : 44281972,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "1 km SW Pievebovigliana (MC)",
+      "magnitude" : 0.8,
+      "time" : "2025-09-27 10:29:23Z",
+      "mag_author" : null,
+      "longitude" : 13.0732,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.0732, 43.0543 ]
+    },
+    "id" : "44281972"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 11.4,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -2449,28 +2471,6 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : 9.75586,
-      "event_id" : 44123041,
-      "contributor" : null,
-      "mag_type" : "Mwp",
-      "event_location_name" : "Venezuela",
-      "magnitude" : 6.3,
-      "time" : "2025-09-24 22:21:55Z",
-      "mag_author" : null,
-      "longitude" : -70.8645,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ -70.8645, 9.75586 ]
-    },
-    "id" : "44123041"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.547,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 9.75586,
       "event_id" : 44124642,
       "contributor" : null,
       "mag_type" : "Mwp",
@@ -2486,6 +2486,28 @@
       "coordinates" : [ -70.8645, 9.75586 ]
     },
     "id" : "44124642"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 10.547,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : 9.75586,
+      "event_id" : 44123041,
+      "contributor" : null,
+      "mag_type" : "Mwp",
+      "event_location_name" : "Venezuela",
+      "magnitude" : 6.3,
+      "time" : "2025-09-24 22:21:55Z",
+      "mag_author" : null,
+      "longitude" : -70.8645,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -70.8645, 9.75586 ]
+    },
+    "id" : "44123041"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -14659,28 +14681,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 42.9557,
-      "event_id" : 44041502,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km NW Visso (MC)",
-      "magnitude" : 0.7,
-      "time" : "2025-09-14 07:14:49Z",
-      "mag_author" : null,
-      "longitude" : 13.0648,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.0648, 42.9557 ]
-    },
-    "id" : "44041502"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.9,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.9557,
       "event_id" : 43273951,
       "contributor" : null,
       "mag_type" : "ML",
@@ -14699,25 +14699,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 4.688,
-      "author" : "SURVEY-INGV-A",
+      "depth_km" : 9.9,
+      "author" : "SURVEY-INGV",
       "catalog" : null,
-      "latitude" : 6.79219,
-      "event_id" : 43274001,
+      "latitude" : 42.9557,
+      "event_id" : 44041502,
       "contributor" : null,
-      "mag_type" : "Mwp",
-      "event_location_name" : "Northern Colombia [Land: Colombia]",
-      "magnitude" : 5.5,
-      "time" : "2025-09-14 07:12:12Z",
+      "mag_type" : "ML",
+      "event_location_name" : "3 km NW Visso (MC)",
+      "magnitude" : 0.7,
+      "time" : "2025-09-14 07:14:49Z",
       "mag_author" : null,
-      "longitude" : -76.1203,
+      "longitude" : 13.0648,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ -76.1203, 6.79219 ]
+      "coordinates" : [ 13.0648, 42.9557 ]
     },
-    "id" : "43274001"
+    "id" : "44041502"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -14740,6 +14740,28 @@
       "coordinates" : [ -76.1203, 6.79219 ]
     },
     "id" : "44041542"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 4.688,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : 6.79219,
+      "event_id" : 43274001,
+      "contributor" : null,
+      "mag_type" : "Mwp",
+      "event_location_name" : "Northern Colombia [Land: Colombia]",
+      "magnitude" : 5.5,
+      "time" : "2025-09-14 07:12:12Z",
+      "mag_author" : null,
+      "longitude" : -76.1203,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.1203, 6.79219 ]
+    },
+    "id" : "43274001"
   }, {
     "type" : "Feature",
     "properties" : {
