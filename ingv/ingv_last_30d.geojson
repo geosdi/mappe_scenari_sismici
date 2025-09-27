@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 26.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 37.0547,
+      "event_id" : 44285982,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "Mar Ionio Meridionale (MARE)",
+      "magnitude" : 2.7,
+      "time" : "2025-09-27 18:55:59Z",
+      "mag_author" : null,
+      "longitude" : 16.1048,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.1048, 37.0547 ]
+    },
+    "id" : "44285982"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 22.9,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -15099,28 +15121,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 42.9557,
-      "event_id" : 44041502,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km NW Visso (MC)",
-      "magnitude" : 0.7,
-      "time" : "2025-09-14 07:14:49Z",
-      "mag_author" : null,
-      "longitude" : 13.0648,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.0648, 42.9557 ]
-    },
-    "id" : "44041502"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.9,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.9557,
       "event_id" : 43273951,
       "contributor" : null,
       "mag_type" : "ML",
@@ -15139,25 +15139,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 4.688,
-      "author" : "SURVEY-INGV-A",
+      "depth_km" : 9.9,
+      "author" : "SURVEY-INGV",
       "catalog" : null,
-      "latitude" : 6.79219,
-      "event_id" : 44041542,
+      "latitude" : 42.9557,
+      "event_id" : 44041502,
       "contributor" : null,
-      "mag_type" : "Mwp",
-      "event_location_name" : "Northern Colombia [Land: Colombia]",
-      "magnitude" : 5.5,
-      "time" : "2025-09-14 07:12:12Z",
+      "mag_type" : "ML",
+      "event_location_name" : "3 km NW Visso (MC)",
+      "magnitude" : 0.7,
+      "time" : "2025-09-14 07:14:49Z",
       "mag_author" : null,
-      "longitude" : -76.1203,
+      "longitude" : 13.0648,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ -76.1203, 6.79219 ]
+      "coordinates" : [ 13.0648, 42.9557 ]
     },
-    "id" : "44041542"
+    "id" : "44041502"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -15180,6 +15180,28 @@
       "coordinates" : [ -76.1203, 6.79219 ]
     },
     "id" : "43274001"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 4.688,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : 6.79219,
+      "event_id" : 44041542,
+      "contributor" : null,
+      "mag_type" : "Mwp",
+      "event_location_name" : "Northern Colombia [Land: Colombia]",
+      "magnitude" : 5.5,
+      "time" : "2025-09-14 07:12:12Z",
+      "mag_author" : null,
+      "longitude" : -76.1203,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.1203, 6.79219 ]
+    },
+    "id" : "44041542"
   }, {
     "type" : "Feature",
     "properties" : {
