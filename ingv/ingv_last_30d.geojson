@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.2,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.6992,
+      "event_id" : 44310952,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km E Accumoli (RI)",
+      "magnitude" : 1.7,
+      "time" : "2025-10-01 14:40:38Z",
+      "mag_author" : null,
+      "longitude" : 13.2972,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.2972, 42.6992 ]
+    },
+    "id" : "44310952"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 13.5,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -469,28 +491,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 43.3332,
-      "event_id" : 44160371,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km SW Gubbio (PG)",
-      "magnitude" : 0.8,
-      "time" : "2025-09-30 21:18:55Z",
-      "mag_author" : null,
-      "longitude" : 12.5407,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.5407, 43.3332 ]
-    },
-    "id" : "44160371"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.6,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.3332,
       "event_id" : 44305002,
       "contributor" : null,
       "mag_type" : "ML",
@@ -506,6 +506,28 @@
       "coordinates" : [ 12.5407, 43.3332 ]
     },
     "id" : "44305002"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 10.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.3332,
+      "event_id" : 44160371,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km SW Gubbio (PG)",
+      "magnitude" : 0.8,
+      "time" : "2025-09-30 21:18:55Z",
+      "mag_author" : null,
+      "longitude" : 12.5407,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.5407, 43.3332 ]
+    },
+    "id" : "44160371"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -16485,28 +16507,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 43.5112,
-      "event_id" : 44049192,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km S Cagli (PU)",
-      "magnitude" : 0.6,
-      "time" : "2025-09-15 07:14:45Z",
-      "mag_author" : null,
-      "longitude" : 12.651,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.651, 43.5112 ]
-    },
-    "id" : "44049192"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 5.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.5112,
       "event_id" : 43280931,
       "contributor" : null,
       "mag_type" : "ML",
@@ -16525,25 +16525,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 10.3,
+      "depth_km" : 5.0,
       "author" : "SURVEY-INGV",
       "catalog" : null,
-      "latitude" : 43.0418,
-      "event_id" : 44049082,
+      "latitude" : 43.5112,
+      "event_id" : 44049192,
       "contributor" : null,
       "mag_type" : "ML",
-      "event_location_name" : "3 km SE Valtopina (PG)",
-      "magnitude" : 1.3,
-      "time" : "2025-09-15 07:06:04Z",
+      "event_location_name" : "4 km S Cagli (PU)",
+      "magnitude" : 0.6,
+      "time" : "2025-09-15 07:14:45Z",
       "mag_author" : null,
-      "longitude" : 12.7882,
+      "longitude" : 12.651,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 12.7882, 43.0418 ]
+      "coordinates" : [ 12.651, 43.5112 ]
     },
-    "id" : "44049082"
+    "id" : "44049192"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -16566,6 +16566,28 @@
       "coordinates" : [ 12.7882, 43.0418 ]
     },
     "id" : "43280831"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 10.3,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.0418,
+      "event_id" : 44049082,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km SE Valtopina (PG)",
+      "magnitude" : 1.3,
+      "time" : "2025-09-15 07:06:04Z",
+      "mag_author" : null,
+      "longitude" : 12.7882,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.7882, 43.0418 ]
+    },
+    "id" : "44049082"
   }, {
     "type" : "Feature",
     "properties" : {
