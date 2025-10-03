@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 44.0423,
+      "event_id" : 44334132,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km SE Rocca San Casciano (FC)",
+      "magnitude" : 1.3,
+      "time" : "2025-10-03 10:35:47Z",
+      "mag_author" : null,
+      "longitude" : 11.8623,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.8623, 44.0423 ]
+    },
+    "id" : "44334132"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 12.4,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -997,28 +1019,6 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : 40.783,
-      "event_id" : 44320362,
-      "contributor" : null,
-      "mag_type" : "Mwp",
-      "event_location_name" : "Turkey [Sea]",
-      "magnitude" : 5.3,
-      "time" : "2025-10-02 11:55:05Z",
-      "mag_author" : null,
-      "longitude" : 27.8833,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 27.8833, 40.783 ]
-    },
-    "id" : "44320362"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 19.727,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 40.783,
       "event_id" : 44173831,
       "contributor" : null,
       "mag_type" : "Mwp",
@@ -1034,6 +1034,28 @@
       "coordinates" : [ 27.8833, 40.783 ]
     },
     "id" : "44173831"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 19.727,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : 40.783,
+      "event_id" : 44320362,
+      "contributor" : null,
+      "mag_type" : "Mwp",
+      "event_location_name" : "Turkey [Sea]",
+      "magnitude" : 5.3,
+      "time" : "2025-10-02 11:55:05Z",
+      "mag_author" : null,
+      "longitude" : 27.8833,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.8833, 40.783 ]
+    },
+    "id" : "44320362"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -30690,27 +30712,5 @@
       "coordinates" : [ 15.596, 41.9677 ]
     },
     "id" : "43949942"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 11.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 46.3222,
-      "event_id" : 43949852,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "9 km NE Claut (PN)",
-      "magnitude" : 1.2,
-      "time" : "2025-09-03 12:44:55Z",
-      "mag_author" : null,
-      "longitude" : 12.595,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.595, 46.3222 ]
-    },
-    "id" : "43949852"
   } ]
 }
