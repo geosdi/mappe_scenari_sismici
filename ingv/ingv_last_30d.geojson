@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.939,
+      "event_id" : 44399492,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km E Ussita (MC)",
+      "magnitude" : 0.6,
+      "time" : "2025-10-11 10:31:47Z",
+      "mag_author" : null,
+      "longitude" : 13.1688,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.1688, 42.939 ]
+    },
+    "id" : "44399492"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 11.1,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -15319,28 +15341,6 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : 9.75586,
-      "event_id" : 44123041,
-      "contributor" : null,
-      "mag_type" : "Mwp",
-      "event_location_name" : "Venezuela",
-      "magnitude" : 6.3,
-      "time" : "2025-09-24 22:21:55Z",
-      "mag_author" : null,
-      "longitude" : -70.8645,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ -70.8645, 9.75586 ]
-    },
-    "id" : "44123041"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.547,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 9.75586,
       "event_id" : 44124642,
       "contributor" : null,
       "mag_type" : "Mwp",
@@ -15356,6 +15356,28 @@
       "coordinates" : [ -70.8645, 9.75586 ]
     },
     "id" : "44124642"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 10.547,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : 9.75586,
+      "event_id" : 44123041,
+      "contributor" : null,
+      "mag_type" : "Mwp",
+      "event_location_name" : "Venezuela",
+      "magnitude" : 6.3,
+      "time" : "2025-09-24 22:21:55Z",
+      "mag_author" : null,
+      "longitude" : -70.8645,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -70.8645, 9.75586 ]
+    },
+    "id" : "44123041"
   }, {
     "type" : "Feature",
     "properties" : {
