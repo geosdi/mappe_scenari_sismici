@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 2.4,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 40.2983,
+      "event_id" : 44429302,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km NE Montesano sulla Marcellana (SA)",
+      "magnitude" : 0.5,
+      "time" : "2025-10-15 08:44:38Z",
+      "mag_author" : null,
+      "longitude" : 15.72,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 15.72, 40.2983 ]
+    },
+    "id" : "44429302"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 21.5,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -1151,28 +1173,6 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : 7.37578,
-      "event_id" : 44418772,
-      "contributor" : null,
-      "mag_type" : "Mwp",
-      "event_location_name" : "Philippines [Sea]",
-      "magnitude" : 5.7,
-      "time" : "2025-10-14 02:00:10Z",
-      "mag_author" : null,
-      "longitude" : 127.118,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 127.118, 7.37578 ]
-    },
-    "id" : "44418772"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 19.531,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 7.37578,
       "event_id" : 44264961,
       "contributor" : null,
       "mag_type" : "Mwp",
@@ -1188,6 +1188,28 @@
       "coordinates" : [ 127.118, 7.37578 ]
     },
     "id" : "44264961"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 19.531,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : 7.37578,
+      "event_id" : 44418772,
+      "contributor" : null,
+      "mag_type" : "Mwp",
+      "event_location_name" : "Philippines [Sea]",
+      "magnitude" : 5.7,
+      "time" : "2025-10-14 02:00:10Z",
+      "mag_author" : null,
+      "longitude" : 127.118,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 127.118, 7.37578 ]
+    },
+    "id" : "44418772"
   }, {
     "type" : "Feature",
     "properties" : {
