@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 15.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 45.7897,
+      "event_id" : 44448642,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km S Brentonico (TN)",
+      "magnitude" : 1.2,
+      "time" : "2025-10-17 15:53:38Z",
+      "mag_author" : null,
+      "longitude" : 10.968,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.968, 45.7897 ]
+    },
+    "id" : "44448642"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 20.4,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -22645,28 +22667,6 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : 9.75586,
-      "event_id" : 44123041,
-      "contributor" : null,
-      "mag_type" : "Mwp",
-      "event_location_name" : "Venezuela",
-      "magnitude" : 6.3,
-      "time" : "2025-09-24 22:21:55Z",
-      "mag_author" : null,
-      "longitude" : -70.8645,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ -70.8645, 9.75586 ]
-    },
-    "id" : "44123041"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.547,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 9.75586,
       "event_id" : 44124642,
       "contributor" : null,
       "mag_type" : "Mwp",
@@ -22682,6 +22682,28 @@
       "coordinates" : [ -70.8645, 9.75586 ]
     },
     "id" : "44124642"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 10.547,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : 9.75586,
+      "event_id" : 44123041,
+      "contributor" : null,
+      "mag_type" : "Mwp",
+      "event_location_name" : "Venezuela",
+      "magnitude" : 6.3,
+      "time" : "2025-09-24 22:21:55Z",
+      "mag_author" : null,
+      "longitude" : -70.8645,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -70.8645, 9.75586 ]
+    },
+    "id" : "44123041"
   }, {
     "type" : "Feature",
     "properties" : {
