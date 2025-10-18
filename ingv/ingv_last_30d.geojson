@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.2,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.1318,
+      "event_id" : 44454702,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "1 km E Montieri (GR)",
+      "magnitude" : 1.1,
+      "time" : "2025-10-18 15:07:09Z",
+      "mag_author" : null,
+      "longitude" : 11.0243,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.0243, 43.1318 ]
+    },
+    "id" : "44454702"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 7.4,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -30448,27 +30470,5 @@
       "coordinates" : [ 135.517, -3.49102 ]
     },
     "id" : "44075972"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 8.1,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.4638,
-      "event_id" : 44075712,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "6 km W Pietralunga (PG)",
-      "magnitude" : 1.4,
-      "time" : "2025-09-18 17:21:21Z",
-      "mag_author" : null,
-      "longitude" : 12.3713,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.3713, 43.4638 ]
-    },
-    "id" : "44075712"
   } ]
 }
