@@ -3,6 +3,50 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.2,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 44.0873,
+      "event_id" : 44459222,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km NW Mendatica (IM)",
+      "magnitude" : 0.7,
+      "time" : "2025-10-19 08:17:21Z",
+      "mag_author" : null,
+      "longitude" : 7.789,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.789, 44.0873 ]
+    },
+    "id" : "44459222"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 2.88,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.837,
+      "event_id" : 44459192,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 1.0,
+      "time" : "2025-10-19 08:08:40Z",
+      "mag_author" : null,
+      "longitude" : 14.119,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.119, 40.837 ]
+    },
+    "id" : "44459192"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 4.1,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -6475,28 +6519,6 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : 7.37578,
-      "event_id" : 44418772,
-      "contributor" : null,
-      "mag_type" : "Mwp",
-      "event_location_name" : "Philippines [Sea]",
-      "magnitude" : 5.7,
-      "time" : "2025-10-14 02:00:10Z",
-      "mag_author" : null,
-      "longitude" : 127.118,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 127.118, 7.37578 ]
-    },
-    "id" : "44418772"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 19.531,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 7.37578,
       "event_id" : 44264961,
       "contributor" : null,
       "mag_type" : "Mwp",
@@ -6512,6 +6534,28 @@
       "coordinates" : [ 127.118, 7.37578 ]
     },
     "id" : "44264961"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 19.531,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : 7.37578,
+      "event_id" : 44418772,
+      "contributor" : null,
+      "mag_type" : "Mwp",
+      "event_location_name" : "Philippines [Sea]",
+      "magnitude" : 5.7,
+      "time" : "2025-10-14 02:00:10Z",
+      "mag_author" : null,
+      "longitude" : 127.118,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 127.118, 7.37578 ]
+    },
+    "id" : "44418772"
   }, {
     "type" : "Feature",
     "properties" : {
