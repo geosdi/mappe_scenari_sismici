@@ -1697,6 +1697,28 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 0.1,
+      "author" : "BULLETIN-INGV",
+      "catalog" : null,
+      "latitude" : 42.8343,
+      "event_id" : 44459582,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "Costa Toscana meridionale (Grosseto)",
+      "magnitude" : 1.0,
+      "time" : "2025-10-19 09:04:08Z",
+      "mag_author" : null,
+      "longitude" : 10.6257,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.6257, 42.8343 ]
+    },
+    "id" : "44459582"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 9.2,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -8213,28 +8235,6 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : 7.37578,
-      "event_id" : 44418772,
-      "contributor" : null,
-      "mag_type" : "Mwp",
-      "event_location_name" : "Philippines [Sea]",
-      "magnitude" : 5.7,
-      "time" : "2025-10-14 02:00:10Z",
-      "mag_author" : null,
-      "longitude" : 127.118,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 127.118, 7.37578 ]
-    },
-    "id" : "44418772"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 19.531,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 7.37578,
       "event_id" : 44264961,
       "contributor" : null,
       "mag_type" : "Mwp",
@@ -8250,6 +8250,28 @@
       "coordinates" : [ 127.118, 7.37578 ]
     },
     "id" : "44264961"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 19.531,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : 7.37578,
+      "event_id" : 44418772,
+      "contributor" : null,
+      "mag_type" : "Mwp",
+      "event_location_name" : "Philippines [Sea]",
+      "magnitude" : 5.7,
+      "time" : "2025-10-14 02:00:10Z",
+      "mag_author" : null,
+      "longitude" : 127.118,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 127.118, 7.37578 ]
+    },
+    "id" : "44418772"
   }, {
     "type" : "Feature",
     "properties" : {
