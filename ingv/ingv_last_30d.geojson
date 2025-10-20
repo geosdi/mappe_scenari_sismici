@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.8982,
+      "event_id" : 44472042,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km W Sellano (PG)",
+      "magnitude" : 1.2,
+      "time" : "2025-10-20 21:37:39Z",
+      "mag_author" : null,
+      "longitude" : 12.8873,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.8873, 42.8982 ]
+    },
+    "id" : "44472042"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 9.9,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -31130,27 +31152,5 @@
       "coordinates" : [ 11.9748, 38.1918 ]
     },
     "id" : "44092522"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 12.9,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.4667,
-      "event_id" : 44092412,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km E Barete (AQ)",
-      "magnitude" : 0.7,
-      "time" : "2025-09-20 23:51:49Z",
-      "mag_author" : null,
-      "longitude" : 13.3298,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.3298, 42.4667 ]
-    },
-    "id" : "44092412"
   } ]
 }
