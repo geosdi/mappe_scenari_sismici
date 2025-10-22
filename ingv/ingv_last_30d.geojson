@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 23.3,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.0463,
+      "event_id" : 44484482,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km NW Sarnano (MC)",
+      "magnitude" : 2.0,
+      "time" : "2025-10-22 18:58:59Z",
+      "mag_author" : null,
+      "longitude" : 13.2802,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.2802, 43.0463 ]
+    },
+    "id" : "44484482"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 16.8,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -1481,28 +1503,6 @@
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
       "latitude" : 40.8305,
-      "event_id" : 44472962,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 1.0,
-      "time" : "2025-10-21 05:13:10Z",
-      "mag_author" : null,
-      "longitude" : 14.134,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.134, 40.8305 ]
-    },
-    "id" : "44472962"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 1.94,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.8305,
       "event_id" : 44473002,
       "contributor" : null,
       "mag_type" : "Md",
@@ -1518,6 +1518,28 @@
       "coordinates" : [ 14.134, 40.8305 ]
     },
     "id" : "44473002"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 1.94,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.8305,
+      "event_id" : 44472962,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 1.0,
+      "time" : "2025-10-21 05:13:10Z",
+      "mag_author" : null,
+      "longitude" : 14.134,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.134, 40.8305 ]
+    },
+    "id" : "44472962"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -30426,27 +30448,5 @@
       "coordinates" : [ 12.8568, 42.8788 ]
     },
     "id" : "44109472"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 8.7,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.6242,
-      "event_id" : 44109452,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km W Amatrice (RI)",
-      "magnitude" : 0.4,
-      "time" : "2025-09-22 21:06:11Z",
-      "mag_author" : null,
-      "longitude" : 13.2395,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.2395, 42.6242 ]
-    },
-    "id" : "44109452"
   } ]
 }
