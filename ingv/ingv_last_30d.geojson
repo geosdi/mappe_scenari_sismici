@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 15.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.7467,
+      "event_id" : 44531952,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km W Spoleto (PG)",
+      "magnitude" : 0.9,
+      "time" : "2025-10-26 12:55:17Z",
+      "mag_author" : null,
+      "longitude" : 12.7063,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.7063, 42.7467 ]
+    },
+    "id" : "44531952"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 9.0,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -13625,28 +13647,6 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : 7.37578,
-      "event_id" : 44418772,
-      "contributor" : null,
-      "mag_type" : "Mwp",
-      "event_location_name" : "Philippines [Sea]",
-      "magnitude" : 5.7,
-      "time" : "2025-10-14 02:00:10Z",
-      "mag_author" : null,
-      "longitude" : 127.118,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 127.118, 7.37578 ]
-    },
-    "id" : "44418772"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 19.531,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 7.37578,
       "event_id" : 44264961,
       "contributor" : null,
       "mag_type" : "Mwp",
@@ -13662,6 +13662,28 @@
       "coordinates" : [ 127.118, 7.37578 ]
     },
     "id" : "44264961"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 19.531,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : 7.37578,
+      "event_id" : 44418772,
+      "contributor" : null,
+      "mag_type" : "Mwp",
+      "event_location_name" : "Philippines [Sea]",
+      "magnitude" : 5.7,
+      "time" : "2025-10-14 02:00:10Z",
+      "mag_author" : null,
+      "longitude" : 127.118,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 127.118, 7.37578 ]
+    },
+    "id" : "44418772"
   }, {
     "type" : "Feature",
     "properties" : {
