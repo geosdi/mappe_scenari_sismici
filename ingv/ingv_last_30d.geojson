@@ -3,6 +3,72 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 8.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.2847,
+      "event_id" : 44524992,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "11 km SW Gubbio (PG)",
+      "magnitude" : 0.8,
+      "time" : "2025-10-26 01:41:13Z",
+      "mag_author" : null,
+      "longitude" : 12.4812,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.4812, 43.2847 ]
+    },
+    "id" : "44524992"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 10.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.7923,
+      "event_id" : 44524892,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "6 km E Norcia (PG)",
+      "magnitude" : 0.9,
+      "time" : "2025-10-26 01:28:15Z",
+      "mag_author" : null,
+      "longitude" : 13.1722,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.1722, 42.7923 ]
+    },
+    "id" : "44524892"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 13.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 40.9623,
+      "event_id" : 44524672,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "1 km W Montefredane (AV)",
+      "magnitude" : 2.1,
+      "time" : "2025-10-26 00:45:40Z",
+      "mag_author" : null,
+      "longitude" : 14.8043,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.8043, 40.9623 ]
+    },
+    "id" : "44524672"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 7.6,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -22,6 +88,28 @@
       "coordinates" : [ 11.6353, 44.0872 ]
     },
     "id" : "44524632"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 6.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 44.0853,
+      "event_id" : 44524612,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km NE Marradi (FI)",
+      "magnitude" : 2.2,
+      "time" : "2025-10-26 00:40:37Z",
+      "mag_author" : null,
+      "longitude" : 11.6342,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.6342, 44.0853 ]
+    },
+    "id" : "44524612"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -4517,28 +4605,6 @@
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
       "latitude" : 40.8305,
-      "event_id" : 44472962,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 1.0,
-      "time" : "2025-10-21 05:13:10Z",
-      "mag_author" : null,
-      "longitude" : 14.134,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.134, 40.8305 ]
-    },
-    "id" : "44472962"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 1.94,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.8305,
       "event_id" : 44473002,
       "contributor" : null,
       "mag_type" : "Md",
@@ -4554,6 +4620,28 @@
       "coordinates" : [ 14.134, 40.8305 ]
     },
     "id" : "44473002"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 1.94,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.8305,
+      "event_id" : 44472962,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 1.0,
+      "time" : "2025-10-21 05:13:10Z",
+      "mag_author" : null,
+      "longitude" : 14.134,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.134, 40.8305 ]
+    },
+    "id" : "44472962"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -13229,28 +13317,6 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : 7.37578,
-      "event_id" : 44264961,
-      "contributor" : null,
-      "mag_type" : "Mwp",
-      "event_location_name" : "Philippines [Sea]",
-      "magnitude" : 5.7,
-      "time" : "2025-10-14 02:00:10Z",
-      "mag_author" : null,
-      "longitude" : 127.118,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 127.118, 7.37578 ]
-    },
-    "id" : "44264961"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 19.531,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 7.37578,
       "event_id" : 44418772,
       "contributor" : null,
       "mag_type" : "Mwp",
@@ -13266,6 +13332,28 @@
       "coordinates" : [ 127.118, 7.37578 ]
     },
     "id" : "44418772"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 19.531,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : 7.37578,
+      "event_id" : 44264961,
+      "contributor" : null,
+      "mag_type" : "Mwp",
+      "event_location_name" : "Philippines [Sea]",
+      "magnitude" : 5.7,
+      "time" : "2025-10-14 02:00:10Z",
+      "mag_author" : null,
+      "longitude" : 127.118,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 127.118, 7.37578 ]
+    },
+    "id" : "44264961"
   }, {
     "type" : "Feature",
     "properties" : {
