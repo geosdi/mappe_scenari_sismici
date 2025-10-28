@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 8.2,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 47.3622,
+      "event_id" : 44551332,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "Confine Austria-Germania (AUSTRIA, GERMANIA)",
+      "magnitude" : 1.9,
+      "time" : "2025-10-28 18:20:11Z",
+      "mag_author" : null,
+      "longitude" : 11.7647,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.7647, 47.3622 ]
+    },
+    "id" : "44551332"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 16.6,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -15385,28 +15407,6 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : 7.37578,
-      "event_id" : 44264961,
-      "contributor" : null,
-      "mag_type" : "Mwp",
-      "event_location_name" : "Philippines [Sea]",
-      "magnitude" : 5.7,
-      "time" : "2025-10-14 02:00:10Z",
-      "mag_author" : null,
-      "longitude" : 127.118,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 127.118, 7.37578 ]
-    },
-    "id" : "44264961"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 19.531,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 7.37578,
       "event_id" : 44418772,
       "contributor" : null,
       "mag_type" : "Mwp",
@@ -15422,6 +15422,28 @@
       "coordinates" : [ 127.118, 7.37578 ]
     },
     "id" : "44418772"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 19.531,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : 7.37578,
+      "event_id" : 44264961,
+      "contributor" : null,
+      "mag_type" : "Mwp",
+      "event_location_name" : "Philippines [Sea]",
+      "magnitude" : 5.7,
+      "time" : "2025-10-14 02:00:10Z",
+      "mag_author" : null,
+      "longitude" : 127.118,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 127.118, 7.37578 ]
+    },
+    "id" : "44264961"
   }, {
     "type" : "Feature",
     "properties" : {
