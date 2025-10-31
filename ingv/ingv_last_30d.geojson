@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.7,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.6852,
+      "event_id" : 44571452,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km W Accumoli (RI)",
+      "magnitude" : 0.6,
+      "time" : "2025-10-31 17:07:46Z",
+      "mag_author" : null,
+      "longitude" : 13.1982,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.1982, 42.6852 ]
+    },
+    "id" : "44571452"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 11.9,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -29311,28 +29333,6 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : 40.783,
-      "event_id" : 44173831,
-      "contributor" : null,
-      "mag_type" : "Mwp",
-      "event_location_name" : "Turkey [Sea]",
-      "magnitude" : 5.3,
-      "time" : "2025-10-02 11:55:05Z",
-      "mag_author" : null,
-      "longitude" : 27.8833,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 27.8833, 40.783 ]
-    },
-    "id" : "44173831"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 19.727,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 40.783,
       "event_id" : 44320362,
       "contributor" : null,
       "mag_type" : "Mwp",
@@ -29348,6 +29348,28 @@
       "coordinates" : [ 27.8833, 40.783 ]
     },
     "id" : "44320362"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 19.727,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : 40.783,
+      "event_id" : 44173831,
+      "contributor" : null,
+      "mag_type" : "Mwp",
+      "event_location_name" : "Turkey [Sea]",
+      "magnitude" : 5.3,
+      "time" : "2025-10-02 11:55:05Z",
+      "mag_author" : null,
+      "longitude" : 27.8833,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.8833, 40.783 ]
+    },
+    "id" : "44173831"
   }, {
     "type" : "Feature",
     "properties" : {
