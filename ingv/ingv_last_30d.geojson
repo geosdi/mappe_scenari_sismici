@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.4,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.9708,
+      "event_id" : 44611852,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km SE Monte Cavallo (MC)",
+      "magnitude" : 1.2,
+      "time" : "2025-11-07 00:15:43Z",
+      "mag_author" : null,
+      "longitude" : 13.0302,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.0302, 42.9708 ]
+    },
+    "id" : "44611852"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.1,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -14813,28 +14835,6 @@
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
       "latitude" : 40.8305,
-      "event_id" : 44472962,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 1.0,
-      "time" : "2025-10-21 05:13:10Z",
-      "mag_author" : null,
-      "longitude" : 14.134,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.134, 40.8305 ]
-    },
-    "id" : "44472962"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 1.94,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.8305,
       "event_id" : 44473002,
       "contributor" : null,
       "mag_type" : "Md",
@@ -14850,6 +14850,28 @@
       "coordinates" : [ 14.134, 40.8305 ]
     },
     "id" : "44473002"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 1.94,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.8305,
+      "event_id" : 44472962,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 1.0,
+      "time" : "2025-10-21 05:13:10Z",
+      "mag_author" : null,
+      "longitude" : 14.134,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.134, 40.8305 ]
+    },
+    "id" : "44472962"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -30448,27 +30470,5 @@
       "coordinates" : [ 12.8612, 42.738 ]
     },
     "id" : "44371522"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 29.33,
-      "author" : "SURVEY-INGV-CT#SeismPicker_Analyst-OE",
-      "catalog" : null,
-      "latitude" : 37.769,
-      "event_id" : 44380672,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "9 km E Bronte (CT)",
-      "magnitude" : 2.0,
-      "time" : "2025-10-08 01:28:09Z",
-      "mag_author" : null,
-      "longitude" : 14.929,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.929, 37.769 ]
-    },
-    "id" : "44380672"
   } ]
 }
