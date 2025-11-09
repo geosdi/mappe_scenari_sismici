@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 11.4,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.0405,
+      "event_id" : 44627302,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km E Avezzano (AQ)",
+      "magnitude" : 1.8,
+      "time" : "2025-11-09 22:19:30Z",
+      "mag_author" : null,
+      "longitude" : 13.4687,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.4687, 42.0405 ]
+    },
+    "id" : "44627302"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 11.1,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -30162,27 +30184,5 @@
       "coordinates" : [ 10.9225, 44.0572 ]
     },
     "id" : "44394882"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 7.1,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.4647,
-      "event_id" : 44394852,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km N Pietralunga (PG)",
-      "magnitude" : 0.5,
-      "time" : "2025-10-10 23:26:55Z",
-      "mag_author" : null,
-      "longitude" : 12.4358,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.4358, 43.4647 ]
-    },
-    "id" : "44394852"
   } ]
 }
