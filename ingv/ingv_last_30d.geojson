@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.105,
+      "event_id" : 44710732,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km NW Bastia Umbra (PG)",
+      "magnitude" : 1.4,
+      "time" : "2025-11-21 17:42:19Z",
+      "mag_author" : null,
+      "longitude" : 12.5222,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.5222, 43.105 ]
+    },
+    "id" : "44710732"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 9.8,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -27610,27 +27632,5 @@
       "coordinates" : [ 12.7828, 36.6397 ]
     },
     "id" : "44484552"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 23.3,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.0463,
-      "event_id" : 44484482,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km NW Sarnano (MC)",
-      "magnitude" : 2.0,
-      "time" : "2025-10-22 18:58:59Z",
-      "mag_author" : null,
-      "longitude" : 13.2802,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.2802, 43.0463 ]
-    },
-    "id" : "44484482"
   } ]
 }
