@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 6.3,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 47.1992,
+      "event_id" : 44713432,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "Confine Austria-Germania (AUSTRIA, GERMANIA)",
+      "magnitude" : 1.5,
+      "time" : "2025-11-22 16:01:04Z",
+      "mag_author" : null,
+      "longitude" : 10.9872,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.9872, 47.1992 ]
+    },
+    "id" : "44713432"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 11.7,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -293,28 +315,6 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : 49.507,
-      "event_id" : 44711252,
-      "contributor" : null,
-      "mag_type" : "Mwp",
-      "event_location_name" : "East of Kuril Islands, Russia [Sea: Russia]",
-      "magnitude" : 5.8,
-      "time" : "2025-11-21 22:38:10Z",
-      "mag_author" : null,
-      "longitude" : 158.566,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 158.566, 49.507 ]
-    },
-    "id" : "44711252"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 0.781,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 49.507,
       "event_id" : 44526671,
       "contributor" : null,
       "mag_type" : "Mwp",
@@ -330,6 +330,28 @@
       "coordinates" : [ 158.566, 49.507 ]
     },
     "id" : "44526671"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 0.781,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : 49.507,
+      "event_id" : 44711252,
+      "contributor" : null,
+      "mag_type" : "Mwp",
+      "event_location_name" : "East of Kuril Islands, Russia [Sea: Russia]",
+      "magnitude" : 5.8,
+      "time" : "2025-11-21 22:38:10Z",
+      "mag_author" : null,
+      "longitude" : 158.566,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 158.566, 49.507 ]
+    },
+    "id" : "44711252"
   }, {
     "type" : "Feature",
     "properties" : {
