@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 24.2,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.1007,
+      "event_id" : 44715742,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km W Sant'Angelo in Pontano (MC)",
+      "magnitude" : 1.6,
+      "time" : "2025-11-23 11:36:18Z",
+      "mag_author" : null,
+      "longitude" : 13.3683,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.3683, 43.1007 ]
+    },
+    "id" : "44715742"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 13.4,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -799,28 +821,6 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : 49.507,
-      "event_id" : 44711252,
-      "contributor" : null,
-      "mag_type" : "Mwp",
-      "event_location_name" : "East of Kuril Islands, Russia [Sea: Russia]",
-      "magnitude" : 5.8,
-      "time" : "2025-11-21 22:38:10Z",
-      "mag_author" : null,
-      "longitude" : 158.566,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 158.566, 49.507 ]
-    },
-    "id" : "44711252"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 0.781,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 49.507,
       "event_id" : 44526671,
       "contributor" : null,
       "mag_type" : "Mwp",
@@ -836,6 +836,28 @@
       "coordinates" : [ 158.566, 49.507 ]
     },
     "id" : "44526671"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 0.781,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : 49.507,
+      "event_id" : 44711252,
+      "contributor" : null,
+      "mag_type" : "Mwp",
+      "event_location_name" : "East of Kuril Islands, Russia [Sea: Russia]",
+      "magnitude" : 5.8,
+      "time" : "2025-11-21 22:38:10Z",
+      "mag_author" : null,
+      "longitude" : 158.566,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 158.566, 49.507 ]
+    },
+    "id" : "44711252"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -27280,27 +27302,5 @@
       "coordinates" : [ 13.1088, 42.9495 ]
     },
     "id" : "44509922"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 1.14,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.834167,
-      "event_id" : 44509322,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 1.0,
-      "time" : "2025-10-24 12:44:12Z",
-      "mag_author" : null,
-      "longitude" : 14.129167,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.129167, 40.834167 ]
-    },
-    "id" : "44509322"
   } ]
 }
