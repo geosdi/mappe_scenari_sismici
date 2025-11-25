@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 12.4,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.0828,
+      "event_id" : 44730392,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km E Serravalle di Chienti (MC)",
+      "magnitude" : 1.0,
+      "time" : "2025-11-25 22:04:13Z",
+      "mag_author" : null,
+      "longitude" : 12.9923,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.9923, 43.0828 ]
+    },
+    "id" : "44730392"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 2.06,
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
@@ -26048,49 +26070,5 @@
       "coordinates" : [ 13.3982, 42.4583 ]
     },
     "id" : "44538042"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 11.1,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.9257,
-      "event_id" : 44537632,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "6 km NW Sellano (PG)",
-      "magnitude" : 0.8,
-      "time" : "2025-10-26 23:09:35Z",
-      "mag_author" : null,
-      "longitude" : 12.8762,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.8762, 42.9257 ]
-    },
-    "id" : "44537632"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 12.8,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.4487,
-      "event_id" : 44537592,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "8 km E Pizzoli (AQ)",
-      "magnitude" : 1.3,
-      "time" : "2025-10-26 23:07:55Z",
-      "mag_author" : null,
-      "longitude" : 13.3975,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.3975, 42.4487 ]
-    },
-    "id" : "44537592"
   } ]
 }
