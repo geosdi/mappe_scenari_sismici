@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 12.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 44.3888,
+      "event_id" : 44737472,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km S Pradleves (CN)",
+      "magnitude" : 1.4,
+      "time" : "2025-11-27 13:13:14Z",
+      "mag_author" : null,
+      "longitude" : 7.2753,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.2753, 44.3888 ]
+    },
+    "id" : "44737472"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.0,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -26246,27 +26268,5 @@
       "coordinates" : [ 129.959, -6.70078 ]
     },
     "id" : "44550152"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.6,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.853,
-      "event_id" : 44550112,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km NE Cerreto di Spoleto (PG)",
-      "magnitude" : 0.9,
-      "time" : "2025-10-28 14:35:53Z",
-      "mag_author" : null,
-      "longitude" : 12.9388,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.9388, 42.853 ]
-    },
-    "id" : "44550112"
   } ]
 }
