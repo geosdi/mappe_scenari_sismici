@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 12.47,
+      "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
+      "catalog" : null,
+      "latitude" : 38.492,
+      "event_id" : 44743562,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "Isole Eolie (Messina)",
+      "magnitude" : 1.8,
+      "time" : "2025-11-29 02:41:30Z",
+      "mag_author" : null,
+      "longitude" : 14.769,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.769, 38.492 ]
+    },
+    "id" : "44743562"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 30.5,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -4979,28 +5001,6 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : 49.507,
-      "event_id" : 44711252,
-      "contributor" : null,
-      "mag_type" : "Mwp",
-      "event_location_name" : "East of Kuril Islands, Russia [Sea: Russia]",
-      "magnitude" : 5.8,
-      "time" : "2025-11-21 22:38:10Z",
-      "mag_author" : null,
-      "longitude" : 158.566,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 158.566, 49.507 ]
-    },
-    "id" : "44711252"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 0.781,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 49.507,
       "event_id" : 44526671,
       "contributor" : null,
       "mag_type" : "Mwp",
@@ -5016,6 +5016,28 @@
       "coordinates" : [ 158.566, 49.507 ]
     },
     "id" : "44526671"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 0.781,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : 49.507,
+      "event_id" : 44711252,
+      "contributor" : null,
+      "mag_type" : "Mwp",
+      "event_location_name" : "East of Kuril Islands, Russia [Sea: Russia]",
+      "magnitude" : 5.8,
+      "time" : "2025-11-21 22:38:10Z",
+      "mag_author" : null,
+      "longitude" : 158.566,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 158.566, 49.507 ]
+    },
+    "id" : "44711252"
   }, {
     "type" : "Feature",
     "properties" : {
