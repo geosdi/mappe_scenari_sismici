@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 4.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.4382,
+      "event_id" : 44763272,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "6 km W Pietralunga (PG)",
+      "magnitude" : 0.6,
+      "time" : "2025-12-04 12:40:35Z",
+      "mag_author" : null,
+      "longitude" : 12.3692,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.3692, 43.4382 ]
+    },
+    "id" : "44763272"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 4.5,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -9401,28 +9423,6 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : 49.507,
-      "event_id" : 44526671,
-      "contributor" : null,
-      "mag_type" : "Mwp",
-      "event_location_name" : "East of Kuril Islands, Russia [Sea: Russia]",
-      "magnitude" : 5.8,
-      "time" : "2025-11-21 22:38:10Z",
-      "mag_author" : null,
-      "longitude" : 158.566,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 158.566, 49.507 ]
-    },
-    "id" : "44526671"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 0.781,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 49.507,
       "event_id" : 44711252,
       "contributor" : null,
       "mag_type" : "Mwp",
@@ -9438,6 +9438,28 @@
       "coordinates" : [ 158.566, 49.507 ]
     },
     "id" : "44711252"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 0.781,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : 49.507,
+      "event_id" : 44526671,
+      "contributor" : null,
+      "mag_type" : "Mwp",
+      "event_location_name" : "East of Kuril Islands, Russia [Sea: Russia]",
+      "magnitude" : 5.8,
+      "time" : "2025-11-21 22:38:10Z",
+      "mag_author" : null,
+      "longitude" : 158.566,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 158.566, 49.507 ]
+    },
+    "id" : "44526671"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -25982,27 +26004,5 @@
       "coordinates" : [ 14.722, 38.577 ]
     },
     "id" : "44597912"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.84,
-      "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
-      "catalog" : null,
-      "latitude" : 38.535,
-      "event_id" : 44597562,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "Isole Eolie (Messina)",
-      "magnitude" : 1.9,
-      "time" : "2025-11-04 14:03:19Z",
-      "mag_author" : null,
-      "longitude" : 14.718,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.718, 38.535 ]
-    },
-    "id" : "44597562"
   } ]
 }
