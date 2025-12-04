@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 12.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.0182,
+      "event_id" : 44762732,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km SE Fiordimonte (MC)",
+      "magnitude" : 1.1,
+      "time" : "2025-12-04 10:05:48Z",
+      "mag_author" : null,
+      "longitude" : 13.1173,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.1173, 43.0182 ]
+    },
+    "id" : "44762732"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 9.8,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -26114,27 +26136,5 @@
       "coordinates" : [ 12.2172, 43.6253 ]
     },
     "id" : "44596182"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.8,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.6507,
-      "event_id" : 44596112,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km W Borgo Pace (PU)",
-      "magnitude" : 1.0,
-      "time" : "2025-11-04 11:16:32Z",
-      "mag_author" : null,
-      "longitude" : 12.2292,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.2292, 43.6507 ]
-    },
-    "id" : "44596112"
   } ]
 }
