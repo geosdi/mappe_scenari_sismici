@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 6.3,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.8143,
+      "event_id" : 44764682,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km NW Verghereto (FC)",
+      "magnitude" : 2.0,
+      "time" : "2025-12-05 00:26:49Z",
+      "mag_author" : null,
+      "longitude" : 11.9868,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.9868, 43.8143 ]
+    },
+    "id" : "44764682"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 9.5,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -25828,27 +25850,5 @@
       "coordinates" : [ 15.1125, 38.2548 ]
     },
     "id" : "44600372"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 1.42,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.828167,
-      "event_id" : 44600302,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 1.0,
-      "time" : "2025-11-05 01:36:19Z",
-      "mag_author" : null,
-      "longitude" : 14.149,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.149, 40.828167 ]
-    },
-    "id" : "44600302"
   } ]
 }
