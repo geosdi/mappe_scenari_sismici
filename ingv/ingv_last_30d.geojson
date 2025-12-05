@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 5.2,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.8252,
+      "event_id" : 44764812,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km S Bagno di Romagna (FC)",
+      "magnitude" : 2.3,
+      "time" : "2025-12-05 01:13:03Z",
+      "mag_author" : null,
+      "longitude" : 11.9703,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.9703, 43.8252 ]
+    },
+    "id" : "44764812"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 15.6,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -2427,28 +2449,6 @@
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
       "latitude" : 40.833333,
-      "event_id" : 44752852,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 1.7,
-      "time" : "2025-12-01 12:59:28Z",
-      "mag_author" : null,
-      "longitude" : 14.151667,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.151667, 40.833333 ]
-    },
-    "id" : "44752852"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 2.29,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.833333,
       "event_id" : 44753062,
       "contributor" : null,
       "mag_type" : "Md",
@@ -2464,6 +2464,28 @@
       "coordinates" : [ 14.151667, 40.833333 ]
     },
     "id" : "44753062"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 2.29,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.833333,
+      "event_id" : 44752852,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 1.7,
+      "time" : "2025-12-01 12:59:28Z",
+      "mag_author" : null,
+      "longitude" : 14.151667,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.151667, 40.833333 ]
+    },
+    "id" : "44752852"
   }, {
     "type" : "Feature",
     "properties" : {
