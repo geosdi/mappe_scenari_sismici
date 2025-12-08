@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.9908,
+      "event_id" : 44778272,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km W Bolognola (MC)",
+      "magnitude" : 0.8,
+      "time" : "2025-12-08 18:55:08Z",
+      "mag_author" : null,
+      "longitude" : 13.1843,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.1843, 42.9908 ]
+    },
+    "id" : "44778272"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.5,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -5353,28 +5375,6 @@
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
       "latitude" : 40.833333,
-      "event_id" : 44753062,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 1.8,
-      "time" : "2025-12-01 12:59:28Z",
-      "mag_author" : null,
-      "longitude" : 14.151667,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.151667, 40.833333 ]
-    },
-    "id" : "44753062"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 2.29,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.833333,
       "event_id" : 44752852,
       "contributor" : null,
       "mag_type" : "Md",
@@ -5390,6 +5390,28 @@
       "coordinates" : [ 14.151667, 40.833333 ]
     },
     "id" : "44752852"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 2.29,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.833333,
+      "event_id" : 44753062,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 1.8,
+      "time" : "2025-12-01 12:59:28Z",
+      "mag_author" : null,
+      "longitude" : 14.151667,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.151667, 40.833333 ]
+    },
+    "id" : "44753062"
   }, {
     "type" : "Feature",
     "properties" : {
