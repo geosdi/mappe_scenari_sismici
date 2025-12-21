@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 2.15,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.826167,
+      "event_id" : 44831262,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 1.3,
+      "time" : "2025-12-21 16:33:14Z",
+      "mag_author" : null,
+      "longitude" : 14.141667,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.141667, 40.826167 ]
+    },
+    "id" : "44831262"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 6.5,
       "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
       "catalog" : null,
@@ -23606,27 +23628,5 @@
       "coordinates" : [ 14.1237, 41.4883 ]
     },
     "id" : "44710972"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.8,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.105,
-      "event_id" : 44710732,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km NW Bastia Umbra (PG)",
-      "magnitude" : 1.4,
-      "time" : "2025-11-21 17:42:19Z",
-      "mag_author" : null,
-      "longitude" : 12.5222,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.5222, 43.105 ]
-    },
-    "id" : "44710732"
   } ]
 }
