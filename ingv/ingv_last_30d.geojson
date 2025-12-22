@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 13.9,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.57,
+      "event_id" : 44832832,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "6 km SE Cittareale (RI)",
+      "magnitude" : 1.3,
+      "time" : "2025-12-22 03:25:06Z",
+      "mag_author" : null,
+      "longitude" : 13.1992,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.1992, 42.57 ]
+    },
+    "id" : "44832832"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.1,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -24112,27 +24134,5 @@
       "coordinates" : [ 7.4167, 45.7938 ]
     },
     "id" : "44711862"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 0.04,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.819667,
-      "event_id" : 44711652,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Vesuvio",
-      "magnitude" : 1.1,
-      "time" : "2025-11-22 04:31:41Z",
-      "mag_author" : null,
-      "longitude" : 14.423333,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.423333, 40.819667 ]
-    },
-    "id" : "44711652"
   } ]
 }
