@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.2,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.292,
+      "event_id" : 44855752,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "7 km S Gubbio (PG)",
+      "magnitude" : 0.9,
+      "time" : "2025-12-29 06:44:01Z",
+      "mag_author" : null,
+      "longitude" : 12.5643,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.5643, 43.292 ]
+    },
+    "id" : "44855752"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 12.6,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -21809,28 +21831,6 @@
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
       "latitude" : 40.833333,
-      "event_id" : 44752852,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 1.7,
-      "time" : "2025-12-01 12:59:28Z",
-      "mag_author" : null,
-      "longitude" : 14.151667,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.151667, 40.833333 ]
-    },
-    "id" : "44752852"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 2.29,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.833333,
       "event_id" : 44753062,
       "contributor" : null,
       "mag_type" : "Md",
@@ -21846,6 +21846,28 @@
       "coordinates" : [ 14.151667, 40.833333 ]
     },
     "id" : "44753062"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 2.29,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.833333,
+      "event_id" : 44752852,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 1.7,
+      "time" : "2025-12-01 12:59:28Z",
+      "mag_author" : null,
+      "longitude" : 14.151667,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.151667, 40.833333 ]
+    },
+    "id" : "44752852"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -24156,27 +24178,5 @@
       "coordinates" : [ 13.2622, 42.7332 ]
     },
     "id" : "44744772"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 12.109,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : -52.2738,
-      "event_id" : 44744232,
-      "contributor" : null,
-      "mag_type" : "Mwp",
-      "event_location_name" : "West of Macquarie Island [Sea]",
-      "magnitude" : 5.9,
-      "time" : "2025-11-29 08:03:54Z",
-      "mag_author" : null,
-      "longitude" : 151.552,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 151.552, -52.2738 ]
-    },
-    "id" : "44744232"
   } ]
 }
