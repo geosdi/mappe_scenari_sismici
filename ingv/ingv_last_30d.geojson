@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 3.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.8108,
+      "event_id" : 44868002,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km SW Montegallo (AP)",
+      "magnitude" : 0.8,
+      "time" : "2025-12-30 16:44:59Z",
+      "mag_author" : null,
+      "longitude" : 13.313,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.313, 42.8108 ]
+    },
+    "id" : "44868002"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 9.1,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -22,6 +44,28 @@
       "coordinates" : [ 12.0788, 43.5905 ]
     },
     "id" : "44867922"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 0.51,
+      "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
+      "catalog" : null,
+      "latitude" : 37.748,
+      "event_id" : 44867952,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "9 km W Milo (CT)",
+      "magnitude" : 2.2,
+      "time" : "2025-12-30 16:33:11Z",
+      "mag_author" : null,
+      "longitude" : 15.017,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 15.017, 37.748 ]
+    },
+    "id" : "44867952"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -25483,28 +25527,6 @@
       "author" : "SURVEY-INGV-OV#SiSmi",
       "catalog" : null,
       "latitude" : 40.833333,
-      "event_id" : 44752852,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Campi Flegrei",
-      "magnitude" : 1.7,
-      "time" : "2025-12-01 12:59:28Z",
-      "mag_author" : null,
-      "longitude" : 14.151667,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.151667, 40.833333 ]
-    },
-    "id" : "44752852"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 2.29,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.833333,
       "event_id" : 44753062,
       "contributor" : null,
       "mag_type" : "Md",
@@ -25520,6 +25542,28 @@
       "coordinates" : [ 14.151667, 40.833333 ]
     },
     "id" : "44753062"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 2.29,
+      "author" : "SURVEY-INGV-OV#SiSmi",
+      "catalog" : null,
+      "latitude" : 40.833333,
+      "event_id" : 44752852,
+      "contributor" : null,
+      "mag_type" : "Md",
+      "event_location_name" : "Campi Flegrei",
+      "magnitude" : 1.7,
+      "time" : "2025-12-01 12:59:28Z",
+      "mag_author" : null,
+      "longitude" : 14.151667,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.151667, 40.833333 ]
+    },
+    "id" : "44752852"
   }, {
     "type" : "Feature",
     "properties" : {
