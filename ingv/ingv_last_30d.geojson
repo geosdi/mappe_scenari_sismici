@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.5873,
+      "event_id" : 44871842,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km W Sansepolcro (AR)",
+      "magnitude" : 0.8,
+      "time" : "2025-12-31 13:19:58Z",
+      "mag_author" : null,
+      "longitude" : 12.0887,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.0887, 43.5873 ]
+    },
+    "id" : "44871842"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 27.8,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -26642,27 +26664,5 @@
       "coordinates" : [ 14.113167, 40.838 ]
     },
     "id" : "44753692"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 14.1,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.0848,
-      "event_id" : 44753292,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km W Muccia (MC)",
-      "magnitude" : 1.4,
-      "time" : "2025-12-01 14:26:44Z",
-      "mag_author" : null,
-      "longitude" : 12.9978,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.9978, 43.0848 ]
-    },
-    "id" : "44753292"
   } ]
 }
