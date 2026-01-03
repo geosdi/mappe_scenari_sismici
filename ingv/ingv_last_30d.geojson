@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.7,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.8272,
+      "event_id" : 44893852,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km E Cerreto di Spoleto (PG)",
+      "magnitude" : 1.1,
+      "time" : "2026-01-03 06:31:52Z",
+      "mag_author" : null,
+      "longitude" : 12.9527,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.9527, 42.8272 ]
+    },
+    "id" : "44893852"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 23.7,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -28952,27 +28974,5 @@
       "coordinates" : [ 12.9053, 42.9687 ]
     },
     "id" : "44762542"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 8.594,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 41.0555,
-      "event_id" : 44762142,
-      "contributor" : null,
-      "mag_type" : "Mwp",
-      "event_location_name" : "China [Land]",
-      "magnitude" : 6.0,
-      "time" : "2025-12-04 07:44:09Z",
-      "mag_author" : null,
-      "longitude" : 78.4031,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 78.4031, 41.0555 ]
-    },
-    "id" : "44762142"
   } ]
 }
