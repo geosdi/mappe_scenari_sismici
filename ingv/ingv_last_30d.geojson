@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 8.4,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 38.3075,
+      "event_id" : 44909802,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "Costa Siciliana nord-orientale (Messina)",
+      "magnitude" : 1.9,
+      "time" : "2026-01-05 13:11:34Z",
+      "mag_author" : null,
+      "longitude" : 15.4262,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 15.4262, 38.3075 ]
+    },
+    "id" : "44909802"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 4.21,
       "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
       "catalog" : null,
@@ -31086,27 +31108,5 @@
       "coordinates" : [ 11.9758, 43.816 ]
     },
     "id" : "44770862"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 8.1,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.0647,
-      "event_id" : 44770812,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km W Valtopina (PG)",
-      "magnitude" : 1.0,
-      "time" : "2025-12-06 14:28:30Z",
-      "mag_author" : null,
-      "longitude" : 12.7278,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.7278, 43.0647 ]
-    },
-    "id" : "44770812"
   } ]
 }
