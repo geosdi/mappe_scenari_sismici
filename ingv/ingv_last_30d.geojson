@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 8.1,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.2102,
+      "event_id" : 44911492,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "6 km S Radicondoli (SI)",
+      "magnitude" : 1.2,
+      "time" : "2026-01-05 23:43:46Z",
+      "mag_author" : null,
+      "longitude" : 11.042,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.042, 43.2102 ]
+    },
+    "id" : "44911492"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.0,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -31306,27 +31328,5 @@
       "coordinates" : [ 12.3902, 43.4967 ]
     },
     "id" : "44771902"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.4,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 44.2618,
-      "event_id" : 44771862,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km S Vinadio (CN)",
-      "magnitude" : 0.4,
-      "time" : "2025-12-07 00:51:14Z",
-      "mag_author" : null,
-      "longitude" : 7.1628,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 7.1628, 44.2618 ]
-    },
-    "id" : "44771862"
   } ]
 }
