@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 8.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.7073,
+      "event_id" : 44950302,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km NW Acquasparta (TR)",
+      "magnitude" : 1.1,
+      "time" : "2026-01-14 14:16:03Z",
+      "mag_author" : null,
+      "longitude" : 12.5373,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.5373, 42.7073 ]
+    },
+    "id" : "44950302"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 30.0,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -29832,27 +29854,5 @@
       "coordinates" : [ 15.5238, 41.9598 ]
     },
     "id" : "44807602"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 7.3,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.7023,
-      "event_id" : 44807552,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km W Scheggino (PG)",
-      "magnitude" : 1.0,
-      "time" : "2025-12-15 15:27:41Z",
-      "mag_author" : null,
-      "longitude" : 12.8048,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.8048, 42.7023 ]
-    },
-    "id" : "44807552"
   } ]
 }
