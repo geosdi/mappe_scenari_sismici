@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.9797,
+      "event_id" : 44956762,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "11 km NW Sellano (PG)",
+      "magnitude" : 0.6,
+      "time" : "2026-01-15 21:37:44Z",
+      "mag_author" : null,
+      "longitude" : 12.8612,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.8612, 42.9797 ]
+    },
+    "id" : "44956762"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.0,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -30404,27 +30426,5 @@
       "coordinates" : [ 13.2503, 42.7167 ]
     },
     "id" : "44812312"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 41.9,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.7407,
-      "event_id" : 44812262,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km SW Petriano (PU)",
-      "magnitude" : 1.6,
-      "time" : "2025-12-16 22:44:38Z",
-      "mag_author" : null,
-      "longitude" : 12.7068,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.7068, 43.7407 ]
-    },
-    "id" : "44812262"
   } ]
 }
