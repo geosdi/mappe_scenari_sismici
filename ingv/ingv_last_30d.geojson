@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 15.4,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 39.0233,
+      "event_id" : 44997922,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km NE Serrastretta (CZ)",
+      "magnitude" : 1.3,
+      "time" : "2026-01-24 18:45:06Z",
+      "mag_author" : null,
+      "longitude" : 16.4403,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.4403, 39.0233 ]
+    },
+    "id" : "44997922"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 24.9,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -33308,27 +33330,5 @@
       "coordinates" : [ 12.7023, 43.4227 ]
     },
     "id" : "44844252"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 0.17,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.823167,
-      "event_id" : 44844322,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Vesuvio",
-      "magnitude" : 1.3,
-      "time" : "2025-12-25 19:54:40Z",
-      "mag_author" : null,
-      "longitude" : 14.424667,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.424667, 40.823167 ]
-    },
-    "id" : "44844322"
   } ]
 }
