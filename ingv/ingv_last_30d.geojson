@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 45.8545,
+      "event_id" : 45001922,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "8 km NE Courmayeur (AO)",
+      "magnitude" : 1.2,
+      "time" : "2026-01-25 23:05:36Z",
+      "mag_author" : null,
+      "longitude" : 7.0207,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.0207, 45.8545 ]
+    },
+    "id" : "45001922"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 9.5,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -33814,27 +33836,5 @@
       "coordinates" : [ 14.98, 37.9397 ]
     },
     "id" : "44847062"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 14.844,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : -5.40703,
-      "event_id" : 44847012,
-      "contributor" : null,
-      "mag_type" : "Mwp",
-      "event_location_name" : "Southern Sumatera, Indonesia [Land: Indonesia]",
-      "magnitude" : 5.9,
-      "time" : "2025-12-27 00:22:33Z",
-      "mag_author" : null,
-      "longitude" : 102.396,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 102.396, -5.40703 ]
-    },
-    "id" : "44847012"
   } ]
 }
