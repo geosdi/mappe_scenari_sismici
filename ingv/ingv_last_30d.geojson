@@ -3,6 +3,50 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 7.1,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.4407,
+      "event_id" : 44812971,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "8 km W Pietralunga (PG)",
+      "magnitude" : 1.0,
+      "time" : "2026-01-28 15:02:41Z",
+      "mag_author" : null,
+      "longitude" : 12.3377,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.3377, 43.4407 ]
+    },
+    "id" : "44812971"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 9.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 44.2043,
+      "event_id" : 44812901,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km SE Riolunato (MO)",
+      "magnitude" : 1.7,
+      "time" : "2026-01-28 14:59:21Z",
+      "mag_author" : null,
+      "longitude" : 10.6823,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.6823, 44.2043 ]
+    },
+    "id" : "44812901"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 11.1,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -1280,28 +1324,6 @@
     "type" : "Feature",
     "properties" : {
       "depth_km" : 6.4,
-      "author" : "rei-rev-origin#REI",
-      "catalog" : null,
-      "latitude" : 43.4042,
-      "event_id" : 44805501,
-      "contributor" : null,
-      "mag_type" : null,
-      "event_location_name" : "5 km S Serra San Quirico (AN)",
-      "magnitude" : null,
-      "time" : "2026-01-27 00:21:02Z",
-      "mag_author" : null,
-      "longitude" : 12.9983,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.9983, 43.4042 ]
-    },
-    "id" : "44805501"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 6.4,
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 43.4042,
@@ -1320,6 +1342,28 @@
       "coordinates" : [ 12.9983, 43.4042 ]
     },
     "id" : "44803411"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 6.4,
+      "author" : "rei-rev-origin#REI",
+      "catalog" : null,
+      "latitude" : 43.4042,
+      "event_id" : 44805501,
+      "contributor" : null,
+      "mag_type" : null,
+      "event_location_name" : "5 km S Serra San Quirico (AN)",
+      "magnitude" : null,
+      "time" : "2026-01-27 00:21:02Z",
+      "mag_author" : null,
+      "longitude" : 12.9983,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.9983, 43.4042 ]
+    },
+    "id" : "44805501"
   }, {
     "type" : "Feature",
     "properties" : {
