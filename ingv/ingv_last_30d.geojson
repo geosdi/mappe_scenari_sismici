@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 25.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 40.631,
+      "event_id" : 44809991,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km N Grottole (MT)",
+      "magnitude" : 1.5,
+      "time" : "2026-01-28 07:49:51Z",
+      "mag_author" : null,
+      "longitude" : 16.3865,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.3865, 40.631 ]
+    },
+    "id" : "44809991"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 9.5,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -33374,27 +33396,5 @@
       "coordinates" : [ 12.0652, 43.5715 ]
     },
     "id" : "44856702"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.2,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.5698,
-      "event_id" : 44856682,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km NE Anghiari (AR)",
-      "magnitude" : 1.6,
-      "time" : "2025-12-29 08:58:33Z",
-      "mag_author" : null,
-      "longitude" : 12.073,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.073, 43.5698 ]
-    },
-    "id" : "44856682"
   } ]
 }
