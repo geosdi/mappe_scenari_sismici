@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 13.3,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.4897,
+      "event_id" : 44819981,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km SW Frontone (PU)",
+      "magnitude" : 1.1,
+      "time" : "2026-01-29 20:40:43Z",
+      "mag_author" : null,
+      "longitude" : 12.7002,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.7002, 43.4897 ]
+    },
+    "id" : "44819981"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 6.3,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -2380,28 +2402,6 @@
     "type" : "Feature",
     "properties" : {
       "depth_km" : 6.4,
-      "author" : "rei-rev-origin#REI",
-      "catalog" : null,
-      "latitude" : 43.4042,
-      "event_id" : 44805501,
-      "contributor" : null,
-      "mag_type" : null,
-      "event_location_name" : "5 km S Serra San Quirico (AN)",
-      "magnitude" : null,
-      "time" : "2026-01-27 00:21:02Z",
-      "mag_author" : null,
-      "longitude" : 12.9983,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.9983, 43.4042 ]
-    },
-    "id" : "44805501"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 6.4,
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 43.4042,
@@ -2420,6 +2420,28 @@
       "coordinates" : [ 12.9983, 43.4042 ]
     },
     "id" : "44803411"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 6.4,
+      "author" : "rei-rev-origin#REI",
+      "catalog" : null,
+      "latitude" : 43.4042,
+      "event_id" : 44805501,
+      "contributor" : null,
+      "mag_type" : null,
+      "event_location_name" : "5 km S Serra San Quirico (AN)",
+      "magnitude" : null,
+      "time" : "2026-01-27 00:21:02Z",
+      "mag_author" : null,
+      "longitude" : 12.9983,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.9983, 43.4042 ]
+    },
+    "id" : "44805501"
   }, {
     "type" : "Feature",
     "properties" : {
