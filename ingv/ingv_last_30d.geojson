@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 45.2813,
+      "event_id" : 44820931,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km SW Balme (TO)",
+      "magnitude" : 0.8,
+      "time" : "2026-01-30 05:16:22Z",
+      "mag_author" : null,
+      "longitude" : 7.1763,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.1763, 45.2813 ]
+    },
+    "id" : "44820931"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 9.3,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -30844,27 +30866,5 @@
       "coordinates" : [ 12.201, 43.2792 ]
     },
     "id" : "44870192"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 11.1,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.4327,
-      "event_id" : 44870082,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km SW Serra San Quirico (AN)",
-      "magnitude" : 1.4,
-      "time" : "2025-12-31 06:26:47Z",
-      "mag_author" : null,
-      "longitude" : 12.9875,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.9875, 43.4327 ]
-    },
-    "id" : "44870082"
   } ]
 }
