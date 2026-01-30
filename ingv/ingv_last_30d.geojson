@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 13.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.068,
+      "event_id" : 44820701,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km SW Muccia (MC)",
+      "magnitude" : 0.8,
+      "time" : "2026-01-30 02:29:16Z",
+      "mag_author" : null,
+      "longitude" : 13.0268,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.0268, 43.068 ]
+    },
+    "id" : "44820701"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 12.1,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -2710,28 +2732,6 @@
     "type" : "Feature",
     "properties" : {
       "depth_km" : 6.4,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.4042,
-      "event_id" : 44803411,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km S Serra San Quirico (AN)",
-      "magnitude" : 0.1,
-      "time" : "2026-01-27 00:21:02Z",
-      "mag_author" : null,
-      "longitude" : 12.9983,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.9983, 43.4042 ]
-    },
-    "id" : "44803411"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 6.4,
       "author" : "rei-rev-origin#REI",
       "catalog" : null,
       "latitude" : 43.4042,
@@ -2750,6 +2750,28 @@
       "coordinates" : [ 12.9983, 43.4042 ]
     },
     "id" : "44805501"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 6.4,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.4042,
+      "event_id" : 44803411,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km S Serra San Quirico (AN)",
+      "magnitude" : 0.1,
+      "time" : "2026-01-27 00:21:02Z",
+      "mag_author" : null,
+      "longitude" : 12.9983,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.9983, 43.4042 ]
+    },
+    "id" : "44803411"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -30976,27 +30998,5 @@
       "coordinates" : [ 15.065, 37.739 ]
     },
     "id" : "44869632"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 7.54,
-      "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
-      "catalog" : null,
-      "latitude" : 37.743,
-      "event_id" : 44869542,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km W Milo (CT)",
-      "magnitude" : 1.5,
-      "time" : "2025-12-31 04:11:35Z",
-      "mag_author" : null,
-      "longitude" : 15.064,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 15.064, 37.743 ]
-    },
-    "id" : "44869542"
   } ]
 }
