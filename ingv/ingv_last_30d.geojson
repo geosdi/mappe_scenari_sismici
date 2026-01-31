@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.0498,
+      "event_id" : 44824771,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "1 km E Pieve Torina (MC)",
+      "magnitude" : 1.0,
+      "time" : "2026-01-31 02:12:03Z",
+      "mag_author" : null,
+      "longitude" : 13.064,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.064, 43.0498 ]
+    },
+    "id" : "44824771"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 23.9,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -29634,27 +29656,5 @@
       "coordinates" : [ 12.0928, 43.5825 ]
     },
     "id" : "44874952"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.1,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.583,
-      "event_id" : 44874882,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km W Sansepolcro (AR)",
-      "magnitude" : 1.2,
-      "time" : "2026-01-01 03:48:10Z",
-      "mag_author" : null,
-      "longitude" : 12.0862,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.0862, 43.583 ]
-    },
-    "id" : "44874882"
   } ]
 }
