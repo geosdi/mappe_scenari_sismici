@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 12.4,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 44.4107,
+      "event_id" : 44835141,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km SW Pradleves (CN)",
+      "magnitude" : 1.9,
+      "time" : "2026-02-02 18:01:55Z",
+      "mag_author" : null,
+      "longitude" : 7.2665,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.2665, 44.4107 ]
+    },
+    "id" : "44835141"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.1,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -5394,28 +5416,6 @@
     "type" : "Feature",
     "properties" : {
       "depth_km" : 6.4,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.4042,
-      "event_id" : 44803411,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km S Serra San Quirico (AN)",
-      "magnitude" : 0.1,
-      "time" : "2026-01-27 00:21:02Z",
-      "mag_author" : null,
-      "longitude" : 12.9983,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.9983, 43.4042 ]
-    },
-    "id" : "44803411"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 6.4,
       "author" : "rei-rev-origin#REI",
       "catalog" : null,
       "latitude" : 43.4042,
@@ -5434,6 +5434,28 @@
       "coordinates" : [ 12.9983, 43.4042 ]
     },
     "id" : "44805501"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 6.4,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.4042,
+      "event_id" : 44803411,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km S Serra San Quirico (AN)",
+      "magnitude" : 0.1,
+      "time" : "2026-01-27 00:21:02Z",
+      "mag_author" : null,
+      "longitude" : 12.9983,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.9983, 43.4042 ]
+    },
+    "id" : "44803411"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -28424,27 +28446,5 @@
       "coordinates" : [ 12.0862, 43.5947 ]
     },
     "id" : "44898382"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.9,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.5817,
-      "event_id" : 44898292,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km W Sansepolcro (AR)",
-      "magnitude" : 0.7,
-      "time" : "2026-01-03 19:23:44Z",
-      "mag_author" : null,
-      "longitude" : 12.0877,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.0877, 43.5817 ]
-    },
-    "id" : "44898292"
   } ]
 }
