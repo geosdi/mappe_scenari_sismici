@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 11.1,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 44.249,
+      "event_id" : 44832191,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km NW Sillano Giuncugnano (LU)",
+      "magnitude" : 1.5,
+      "time" : "2026-02-02 03:19:45Z",
+      "mag_author" : null,
+      "longitude" : 10.2602,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.2602, 44.249 ]
+    },
+    "id" : "44832191"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 34.1,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -28798,49 +28820,5 @@
       "coordinates" : [ 12.0907, 43.5793 ]
     },
     "id" : "44892732"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.5822,
-      "event_id" : 44892582,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km W Sansepolcro (AR)",
-      "magnitude" : 0.9,
-      "time" : "2026-01-03 04:29:40Z",
-      "mag_author" : null,
-      "longitude" : 12.0947,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.0947, 43.5822 ]
-    },
-    "id" : "44892582"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.6,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.5862,
-      "event_id" : 44892552,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km W Sansepolcro (AR)",
-      "magnitude" : 1.7,
-      "time" : "2026-01-03 04:28:56Z",
-      "mag_author" : null,
-      "longitude" : 12.0923,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.0923, 43.5862 ]
-    },
-    "id" : "44892552"
   } ]
 }
