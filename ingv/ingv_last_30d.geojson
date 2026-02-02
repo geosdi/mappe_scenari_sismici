@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.6948,
+      "event_id" : 44832221,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km W Accumoli (RI)",
+      "magnitude" : 1.3,
+      "time" : "2026-02-02 03:50:22Z",
+      "mag_author" : null,
+      "longitude" : 13.2052,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.2052, 42.6948 ]
+    },
+    "id" : "44832221"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 11.1,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -28622,27 +28644,5 @@
       "coordinates" : [ 12.0943, 43.5803 ]
     },
     "id" : "44893152"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.5885,
-      "event_id" : 44893082,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km W Sansepolcro (AR)",
-      "magnitude" : 0.4,
-      "time" : "2026-01-03 05:00:00Z",
-      "mag_author" : null,
-      "longitude" : 12.0902,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.0902, 43.5885 ]
-    },
-    "id" : "44893082"
   } ]
 }
