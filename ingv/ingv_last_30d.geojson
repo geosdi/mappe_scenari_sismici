@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.9447,
+      "event_id" : 44860651,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "Ussita (MC)",
+      "magnitude" : 0.7,
+      "time" : "2026-02-08 03:00:50Z",
+      "mag_author" : null,
+      "longitude" : 13.1342,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.1342, 42.9447 ]
+    },
+    "id" : "44860651"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 9.5,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -25608,27 +25630,5 @@
       "coordinates" : [ 15.444, 40.6583 ]
     },
     "id" : "44921502"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 7.2,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 40.2318,
-      "event_id" : 44921362,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "Albania [Land]",
-      "magnitude" : 2.8,
-      "time" : "2026-01-09 04:06:42Z",
-      "mag_author" : null,
-      "longitude" : 20.2148,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 20.2148, 40.2318 ]
-    },
-    "id" : "44921362"
   } ]
 }
