@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 8.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.8133,
+      "event_id" : 44884441,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km W Norcia (PG)",
+      "magnitude" : 1.6,
+      "time" : "2026-02-14 04:56:21Z",
+      "mag_author" : null,
+      "longitude" : 13.0358,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.0358, 42.8133 ]
+    },
+    "id" : "44884441"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 11.8,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -25960,27 +25982,5 @@
       "coordinates" : [ 12.3768, 43.4587 ]
     },
     "id" : "44953382"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 15.43,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 38.6701,
-      "event_id" : 44953042,
-      "contributor" : null,
-      "mag_type" : "mb",
-      "event_location_name" : "Mar Ionio Settentrionale (MARE)",
-      "magnitude" : 4.3,
-      "time" : "2026-01-15 06:02:09Z",
-      "mag_author" : null,
-      "longitude" : 18.0505,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 18.0505, 38.6701 ]
-    },
-    "id" : "44953042"
   } ]
 }
