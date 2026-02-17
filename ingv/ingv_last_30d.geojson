@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 46.3438,
+      "event_id" : 44896971,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km E Venzone (UD)",
+      "magnitude" : 1.1,
+      "time" : "2026-02-17 11:35:32Z",
+      "mag_author" : null,
+      "longitude" : 13.1807,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.1807, 46.3438 ]
+    },
+    "id" : "44896971"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.6,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -24112,49 +24134,5 @@
       "coordinates" : [ 13.2998, 42.5083 ]
     },
     "id" : "44968332"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 18.2,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 38.1282,
-      "event_id" : 44968192,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km NE Sant'Angelo di Brolo (ME)",
-      "magnitude" : 1.4,
-      "time" : "2026-01-18 12:57:00Z",
-      "mag_author" : null,
-      "longitude" : 14.8935,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.8935, 38.1282 ]
-    },
-    "id" : "44968192"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.8,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.7832,
-      "event_id" : 44968162,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km W Arquata del Tronto (AP)",
-      "magnitude" : 1.5,
-      "time" : "2026-01-18 12:55:18Z",
-      "mag_author" : null,
-      "longitude" : 13.2537,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.2537, 42.7832 ]
-    },
-    "id" : "44968162"
   } ]
 }
