@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 14.9,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 41.5888,
+      "event_id" : 44915421,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "1 km N Casalciprano (CB)",
+      "magnitude" : 1.6,
+      "time" : "2026-02-21 00:14:41Z",
+      "mag_author" : null,
+      "longitude" : 14.5298,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.5298, 41.5888 ]
+    },
+    "id" : "44915421"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 16.0,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -22220,49 +22242,5 @@
       "coordinates" : [ 13.0257, 42.9297 ]
     },
     "id" : "44985132"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.9358,
-      "event_id" : 44985112,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km W Visso (MC)",
-      "magnitude" : 1.0,
-      "time" : "2026-01-22 01:23:07Z",
-      "mag_author" : null,
-      "longitude" : 13.0225,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.0225, 42.9358 ]
-    },
-    "id" : "44985112"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.8,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.9287,
-      "event_id" : 44985072,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km W Visso (MC)",
-      "magnitude" : 1.3,
-      "time" : "2026-01-22 01:22:42Z",
-      "mag_author" : null,
-      "longitude" : 13.0232,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.0232, 42.9287 ]
-    },
-    "id" : "44985072"
   } ]
 }
