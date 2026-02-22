@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 44.5637,
+      "event_id" : 44920651,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km E Mombaldone (AT)",
+      "magnitude" : 1.2,
+      "time" : "2026-02-22 13:18:14Z",
+      "mag_author" : null,
+      "longitude" : 8.3553,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.3553, 44.5637 ]
+    },
+    "id" : "44920651"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 40.9,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -21846,27 +21868,5 @@
       "coordinates" : [ 16.4327, 39.0333 ]
     },
     "id" : "44992372"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 12.8,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.0263,
-      "event_id" : 44992172,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km NW Monte Cavallo (MC)",
-      "magnitude" : 1.1,
-      "time" : "2026-01-23 14:29:26Z",
-      "mag_author" : null,
-      "longitude" : 12.9703,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.9703, 43.0263 ]
-    },
-    "id" : "44992172"
   } ]
 }
