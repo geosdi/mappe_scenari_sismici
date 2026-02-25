@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.1705,
+      "event_id" : 44932281,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "7 km N Nocera Umbra (PG)",
+      "magnitude" : 0.5,
+      "time" : "2026-02-25 01:37:39Z",
+      "mag_author" : null,
+      "longitude" : 12.805,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.805, 43.1705 ]
+    },
+    "id" : "44932281"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 3.5,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -20420,28 +20442,6 @@
     "type" : "Feature",
     "properties" : {
       "depth_km" : 6.4,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.4042,
-      "event_id" : 44803411,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km S Serra San Quirico (AN)",
-      "magnitude" : 0.1,
-      "time" : "2026-01-27 00:21:02Z",
-      "mag_author" : null,
-      "longitude" : 12.9983,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.9983, 43.4042 ]
-    },
-    "id" : "44803411"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 6.4,
       "author" : "rei-rev-origin#REI",
       "catalog" : null,
       "latitude" : 43.4042,
@@ -20460,6 +20460,28 @@
       "coordinates" : [ 12.9983, 43.4042 ]
     },
     "id" : "44805501"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 6.4,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.4042,
+      "event_id" : 44803411,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km S Serra San Quirico (AN)",
+      "magnitude" : 0.1,
+      "time" : "2026-01-27 00:21:02Z",
+      "mag_author" : null,
+      "longitude" : 12.9983,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.9983, 43.4042 ]
+    },
+    "id" : "44803411"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -21340,27 +21362,5 @@
       "coordinates" : [ 13.2917, 42.503 ]
     },
     "id" : "45002192"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 0.16,
-      "author" : "SURVEY-INGV-OV#SiSmi",
-      "catalog" : null,
-      "latitude" : 40.822667,
-      "event_id" : 45002132,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "Vesuvio",
-      "magnitude" : 1.8,
-      "time" : "2026-01-26 02:54:33Z",
-      "mag_author" : null,
-      "longitude" : 14.432667,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.432667, 40.822667 ]
-    },
-    "id" : "45002132"
   } ]
 }
