@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 7.2,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 41.7272,
+      "event_id" : 44939511,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km N Alvito (FR)",
+      "magnitude" : 1.5,
+      "time" : "2026-02-26 10:50:20Z",
+      "mag_author" : null,
+      "longitude" : 13.7338,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.7338, 41.7272 ]
+    },
+    "id" : "44939511"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 8.2,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -21648,27 +21670,5 @@
       "coordinates" : [ 12.4867, 43.3198 ]
     },
     "id" : "44805471"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.1,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.5662,
-      "event_id" : 44805391,
-      "contributor" : null,
-      "mag_type" : "Md",
-      "event_location_name" : "5 km S San Gemini (TR)",
-      "magnitude" : 1.5,
-      "time" : "2026-01-27 12:03:08Z",
-      "mag_author" : null,
-      "longitude" : 12.5437,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.5437, 42.5662 ]
-    },
-    "id" : "44805391"
   } ]
 }
