@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.8387,
+      "event_id" : 44937531,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km NE Cerreto di Spoleto (PG)",
+      "magnitude" : 1.0,
+      "time" : "2026-02-26 01:03:45Z",
+      "mag_author" : null,
+      "longitude" : 12.96,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.96, 42.8387 ]
+    },
+    "id" : "44937531"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.6,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -21538,27 +21560,5 @@
       "coordinates" : [ 11.309, 45.7385 ]
     },
     "id" : "44803701"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.7,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.8477,
-      "event_id" : 44803661,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km SE Preci (PG)",
-      "magnitude" : 1.1,
-      "time" : "2026-01-27 02:12:46Z",
-      "mag_author" : null,
-      "longitude" : 13.086,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.086, 42.8477 ]
-    },
-    "id" : "44803661"
   } ]
 }
