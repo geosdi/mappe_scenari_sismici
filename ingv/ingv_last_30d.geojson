@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 8.9,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.3162,
+      "event_id" : 44945761,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km SE Gubbio (PG)",
+      "magnitude" : 2.1,
+      "time" : "2026-02-27 13:23:16Z",
+      "mag_author" : null,
+      "longitude" : 12.5998,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.5998, 43.3162 ]
+    },
+    "id" : "44945761"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 11.1,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -22022,49 +22044,5 @@
       "coordinates" : [ 12.7542, 43.5487 ]
     },
     "id" : "44812861"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 8.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.6185,
-      "event_id" : 44812621,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km W Amatrice (RI)",
-      "magnitude" : 1.7,
-      "time" : "2026-01-28 14:35:34Z",
-      "mag_author" : null,
-      "longitude" : 13.2278,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.2278, 42.6185 ]
-    },
-    "id" : "44812621"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 8.2,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 44.1772,
-      "event_id" : 44812541,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km NE Alto Reno Terme (BO)",
-      "magnitude" : 1.8,
-      "time" : "2026-01-28 14:30:24Z",
-      "mag_author" : null,
-      "longitude" : 10.9917,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 10.9917, 44.1772 ]
-    },
-    "id" : "44812541"
   } ]
 }
