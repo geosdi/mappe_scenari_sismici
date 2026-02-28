@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.7542,
+      "event_id" : 44948701,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km NE Cascia (PG)",
+      "magnitude" : 1.0,
+      "time" : "2026-02-28 05:47:33Z",
+      "mag_author" : null,
+      "longitude" : 13.0552,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.0552, 42.7542 ]
+    },
+    "id" : "44948701"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 62.2,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -22132,27 +22154,5 @@
       "coordinates" : [ -25.4909, -57.7195 ]
     },
     "id" : "44816531"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 6.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.4248,
-      "event_id" : 44816291,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km SE Pietralunga (PG)",
-      "magnitude" : 0.6,
-      "time" : "2026-01-29 07:04:04Z",
-      "mag_author" : null,
-      "longitude" : 12.4732,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.4732, 43.4248 ]
-    },
-    "id" : "44816291"
   } ]
 }
