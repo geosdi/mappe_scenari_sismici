@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.897,
+      "event_id" : 44957051,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km W Preci (PG)",
+      "magnitude" : 0.9,
+      "time" : "2026-03-01 18:46:28Z",
+      "mag_author" : null,
+      "longitude" : 12.9948,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.9948, 42.897 ]
+    },
+    "id" : "44957051"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 6.3,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -22572,27 +22594,5 @@
       "coordinates" : [ 12.3333, 46.1193 ]
     },
     "id" : "44824421"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 18.9,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.7958,
-      "event_id" : 44824401,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km N Acquasanta Terme (AP)",
-      "magnitude" : 1.2,
-      "time" : "2026-01-30 20:11:39Z",
-      "mag_author" : null,
-      "longitude" : 13.415,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.415, 42.7958 ]
-    },
-    "id" : "44824401"
   } ]
 }
