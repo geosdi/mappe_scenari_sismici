@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 8.7,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.5002,
+      "event_id" : 44975911,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "7 km SW Apecchio (PU)",
+      "magnitude" : 0.6,
+      "time" : "2026-03-04 14:01:29Z",
+      "mag_author" : null,
+      "longitude" : 12.3798,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.3798, 43.5002 ]
+    },
+    "id" : "44975911"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 5.41,
       "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
       "catalog" : null,
@@ -955,9 +977,9 @@
       "latitude" : 37.652,
       "event_id" : 44972191,
       "contributor" : null,
-      "mag_type" : "ML",
+      "mag_type" : "Mw",
       "event_location_name" : "3 km NW Ragalna (CT)",
-      "magnitude" : 4.5,
+      "magnitude" : 4.4,
       "time" : "2026-03-04 06:05:10Z",
       "mag_author" : null,
       "longitude" : 14.92,
