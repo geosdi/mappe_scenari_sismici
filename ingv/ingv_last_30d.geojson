@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 15.7,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.4652,
+      "event_id" : 45281232,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km SE Rosora (AN)",
+      "magnitude" : 0.4,
+      "time" : "2026-03-07 03:11:48Z",
+      "mag_author" : null,
+      "longitude" : 13.0888,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.0888, 43.4652 ]
+    },
+    "id" : "45281232"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 11.2,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -3175,28 +3197,6 @@
       "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
       "catalog" : null,
       "latitude" : 37.641,
-      "event_id" : 45265362,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km NW Ragalna (CT)",
-      "magnitude" : 1.0,
-      "time" : "2026-03-04 21:02:13Z",
-      "mag_author" : null,
-      "longitude" : 14.922,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.922, 37.641 ]
-    },
-    "id" : "45265362"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 3.61,
-      "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
-      "catalog" : null,
-      "latitude" : 37.641,
       "event_id" : 44978301,
       "contributor" : null,
       "mag_type" : "ML",
@@ -3212,6 +3212,28 @@
       "coordinates" : [ 14.922, 37.641 ]
     },
     "id" : "44978301"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 3.61,
+      "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
+      "catalog" : null,
+      "latitude" : 37.641,
+      "event_id" : 45265362,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km NW Ragalna (CT)",
+      "magnitude" : 1.0,
+      "time" : "2026-03-04 21:02:13Z",
+      "mag_author" : null,
+      "longitude" : 14.922,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.922, 37.641 ]
+    },
+    "id" : "45265362"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -3263,28 +3285,6 @@
       "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
       "catalog" : null,
       "latitude" : 37.647,
-      "event_id" : 44978131,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km N Ragalna (CT)",
-      "magnitude" : 2.3,
-      "time" : "2026-03-04 20:27:54Z",
-      "mag_author" : null,
-      "longitude" : 14.934,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.934, 37.647 ]
-    },
-    "id" : "44978131"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 3.99,
-      "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
-      "catalog" : null,
-      "latitude" : 37.647,
       "event_id" : 45265282,
       "contributor" : null,
       "mag_type" : "ML",
@@ -3303,25 +3303,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 9.8,
-      "author" : "SURVEY-INGV",
+      "depth_km" : 3.99,
+      "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
       "catalog" : null,
-      "latitude" : 39.0418,
-      "event_id" : 44978061,
+      "latitude" : 37.647,
+      "event_id" : 44978131,
       "contributor" : null,
       "mag_type" : "ML",
-      "event_location_name" : "2 km SW Carlopoli (CZ)",
-      "magnitude" : 1.1,
-      "time" : "2026-03-04 19:58:17Z",
+      "event_location_name" : "2 km N Ragalna (CT)",
+      "magnitude" : 2.3,
+      "time" : "2026-03-04 20:27:54Z",
       "mag_author" : null,
-      "longitude" : 16.439,
+      "longitude" : 14.934,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 16.439, 39.0418 ]
+      "coordinates" : [ 14.934, 37.647 ]
     },
-    "id" : "44978061"
+    "id" : "44978131"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -3344,6 +3344,28 @@
       "coordinates" : [ 16.439, 39.0418 ]
     },
     "id" : "45265202"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 9.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 39.0418,
+      "event_id" : 44978061,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km SW Carlopoli (CZ)",
+      "magnitude" : 1.1,
+      "time" : "2026-03-04 19:58:17Z",
+      "mag_author" : null,
+      "longitude" : 16.439,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.439, 39.0418 ]
+    },
+    "id" : "44978061"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -3725,28 +3747,6 @@
       "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
       "catalog" : null,
       "latitude" : 37.622,
-      "event_id" : 44977671,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km SW Ragalna (CT)",
-      "magnitude" : 1.2,
-      "time" : "2026-03-04 18:31:25Z",
-      "mag_author" : null,
-      "longitude" : 14.918,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.918, 37.622 ]
-    },
-    "id" : "44977671"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 7.02,
-      "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
-      "catalog" : null,
-      "latitude" : 37.622,
       "event_id" : 45264672,
       "contributor" : null,
       "mag_type" : "ML",
@@ -3762,6 +3762,28 @@
       "coordinates" : [ 14.918, 37.622 ]
     },
     "id" : "45264672"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 7.02,
+      "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
+      "catalog" : null,
+      "latitude" : 37.622,
+      "event_id" : 44977671,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km SW Ragalna (CT)",
+      "magnitude" : 1.2,
+      "time" : "2026-03-04 18:31:25Z",
+      "mag_author" : null,
+      "longitude" : 14.918,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.918, 37.622 ]
+    },
+    "id" : "44977671"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -3901,28 +3923,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 42.7448,
-      "event_id" : 45264142,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "1 km N Sant'Anatolia di Narco (PG)",
-      "magnitude" : 1.0,
-      "time" : "2026-03-04 17:16:54Z",
-      "mag_author" : null,
-      "longitude" : 12.8398,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.8398, 42.7448 ]
-    },
-    "id" : "45264142"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 12.9,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.7448,
       "event_id" : 44977221,
       "contributor" : null,
       "mag_type" : "ML",
@@ -3941,25 +3941,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 12.1,
+      "depth_km" : 12.9,
       "author" : "SURVEY-INGV",
       "catalog" : null,
-      "latitude" : 43.0318,
-      "event_id" : 45264092,
+      "latitude" : 42.7448,
+      "event_id" : 45264142,
       "contributor" : null,
       "mag_type" : "ML",
-      "event_location_name" : "5 km SW Serravalle di Chienti (MC)",
-      "magnitude" : 0.6,
-      "time" : "2026-03-04 17:13:36Z",
+      "event_location_name" : "1 km N Sant'Anatolia di Narco (PG)",
+      "magnitude" : 1.0,
+      "time" : "2026-03-04 17:16:54Z",
       "mag_author" : null,
-      "longitude" : 12.9297,
+      "longitude" : 12.8398,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 12.9297, 43.0318 ]
+      "coordinates" : [ 12.8398, 42.7448 ]
     },
-    "id" : "45264092"
+    "id" : "45264142"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -3982,6 +3982,28 @@
       "coordinates" : [ 12.9297, 43.0318 ]
     },
     "id" : "44977181"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 12.1,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.0318,
+      "event_id" : 45264092,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km SW Serravalle di Chienti (MC)",
+      "magnitude" : 0.6,
+      "time" : "2026-03-04 17:13:36Z",
+      "mag_author" : null,
+      "longitude" : 12.9297,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.9297, 43.0318 ]
+    },
+    "id" : "45264092"
   }, {
     "type" : "Feature",
     "properties" : {
