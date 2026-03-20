@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 10.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.0697,
+      "event_id" : 45086861,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "1 km E Serravalle di Chienti (MC)",
+      "magnitude" : 1.2,
+      "time" : "2026-03-20 18:22:23Z",
+      "mag_author" : null,
+      "longitude" : 12.9663,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.9663, 43.0697 ]
+    },
+    "id" : "45086861"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.5,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -7861,28 +7883,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 43.3903,
-      "event_id" : 45040911,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "7 km NW Gubbio (PG)",
-      "magnitude" : 0.1,
-      "time" : "2026-03-14 00:35:00Z",
-      "mag_author" : null,
-      "longitude" : 12.5045,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.5045, 43.3903 ]
-    },
-    "id" : "45040911"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 4.1,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.3903,
       "event_id" : 45338772,
       "contributor" : null,
       "mag_type" : "ML",
@@ -7901,25 +7901,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 5.7,
+      "depth_km" : 4.1,
       "author" : "SURVEY-INGV",
       "catalog" : null,
-      "latitude" : 43.3623,
-      "event_id" : 45040871,
+      "latitude" : 43.3903,
+      "event_id" : 45040911,
       "contributor" : null,
       "mag_type" : "ML",
-      "event_location_name" : "5 km E Montone (PG)",
-      "magnitude" : 0.2,
-      "time" : "2026-03-14 00:29:43Z",
+      "event_location_name" : "7 km NW Gubbio (PG)",
+      "magnitude" : 0.1,
+      "time" : "2026-03-14 00:35:00Z",
       "mag_author" : null,
-      "longitude" : 12.3927,
+      "longitude" : 12.5045,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 12.3927, 43.3623 ]
+      "coordinates" : [ 12.5045, 43.3903 ]
     },
-    "id" : "45040871"
+    "id" : "45040911"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -7945,25 +7945,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 7.5,
+      "depth_km" : 5.7,
       "author" : "SURVEY-INGV",
       "catalog" : null,
-      "latitude" : 38.0238,
-      "event_id" : 45040841,
+      "latitude" : 43.3623,
+      "event_id" : 45040871,
       "contributor" : null,
       "mag_type" : "ML",
-      "event_location_name" : "4 km SW Militello Rosmarino (ME)",
-      "magnitude" : 1.8,
-      "time" : "2026-03-14 00:22:02Z",
+      "event_location_name" : "5 km E Montone (PG)",
+      "magnitude" : 0.2,
+      "time" : "2026-03-14 00:29:43Z",
       "mag_author" : null,
-      "longitude" : 14.6468,
+      "longitude" : 12.3927,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 14.6468, 38.0238 ]
+      "coordinates" : [ 12.3927, 43.3623 ]
     },
-    "id" : "45040841"
+    "id" : "45040871"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -7986,6 +7986,28 @@
       "coordinates" : [ 14.6468, 38.0238 ]
     },
     "id" : "45338702"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 7.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 38.0238,
+      "event_id" : 45040841,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km SW Militello Rosmarino (ME)",
+      "magnitude" : 1.8,
+      "time" : "2026-03-14 00:22:02Z",
+      "mag_author" : null,
+      "longitude" : 14.6468,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.6468, 38.0238 ]
+    },
+    "id" : "45040841"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -9731,28 +9753,6 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : 39.2168,
-      "event_id" : 45327412,
-      "contributor" : null,
-      "mag_type" : "mb",
-      "event_location_name" : "Greece",
-      "magnitude" : 4.9,
-      "time" : "2026-03-12 10:14:18Z",
-      "mag_author" : null,
-      "longitude" : 21.5877,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 21.5877, 39.2168 ]
-    },
-    "id" : "45327412"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 8.984,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 39.2168,
       "event_id" : 45030561,
       "contributor" : null,
       "mag_type" : "mb",
@@ -9768,6 +9768,28 @@
       "coordinates" : [ 21.5877, 39.2168 ]
     },
     "id" : "45030561"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 8.984,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : 39.2168,
+      "event_id" : 45327412,
+      "contributor" : null,
+      "mag_type" : "mb",
+      "event_location_name" : "Greece",
+      "magnitude" : 4.9,
+      "time" : "2026-03-12 10:14:18Z",
+      "mag_author" : null,
+      "longitude" : 21.5877,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.5877, 39.2168 ]
+    },
+    "id" : "45327412"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -9819,28 +9841,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 46.4123,
-      "event_id" : 45029511,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km W Valdisotto (SO)",
-      "magnitude" : 0.7,
-      "time" : "2026-03-12 07:38:04Z",
-      "mag_author" : null,
-      "longitude" : 10.2993,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 10.2993, 46.4123 ]
-    },
-    "id" : "45029511"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 11.2,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 46.4123,
       "event_id" : 45326242,
       "contributor" : null,
       "mag_type" : "ML",
@@ -9856,6 +9856,28 @@
       "coordinates" : [ 10.2993, 46.4123 ]
     },
     "id" : "45326242"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 11.2,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 46.4123,
+      "event_id" : 45029511,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km W Valdisotto (SO)",
+      "magnitude" : 0.7,
+      "time" : "2026-03-12 07:38:04Z",
+      "mag_author" : null,
+      "longitude" : 10.2993,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.2993, 46.4123 ]
+    },
+    "id" : "45029511"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -9951,28 +9973,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 43.3673,
-      "event_id" : 45028841,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km NW Fabriano (AN)",
-      "magnitude" : 0.2,
-      "time" : "2026-03-12 06:19:23Z",
-      "mag_author" : null,
-      "longitude" : 12.8568,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.8568, 43.3673 ]
-    },
-    "id" : "45028841"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 12.3,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.3673,
       "event_id" : 45325462,
       "contributor" : null,
       "mag_type" : "ML",
@@ -9991,25 +9991,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 14.1,
+      "depth_km" : 12.3,
       "author" : "SURVEY-INGV",
       "catalog" : null,
-      "latitude" : 41.6118,
-      "event_id" : 45028781,
+      "latitude" : 43.3673,
+      "event_id" : 45028841,
       "contributor" : null,
       "mag_type" : "ML",
-      "event_location_name" : "1 km W Pesche (IS)",
-      "magnitude" : 1.2,
-      "time" : "2026-03-12 06:08:54Z",
+      "event_location_name" : "5 km NW Fabriano (AN)",
+      "magnitude" : 0.2,
+      "time" : "2026-03-12 06:19:23Z",
       "mag_author" : null,
-      "longitude" : 14.2653,
+      "longitude" : 12.8568,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 14.2653, 41.6118 ]
+      "coordinates" : [ 12.8568, 43.3673 ]
     },
-    "id" : "45028781"
+    "id" : "45028841"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -10035,25 +10035,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 10.7,
+      "depth_km" : 14.1,
       "author" : "SURVEY-INGV",
       "catalog" : null,
-      "latitude" : 42.9853,
-      "event_id" : 45325292,
+      "latitude" : 41.6118,
+      "event_id" : 45028781,
       "contributor" : null,
       "mag_type" : "ML",
-      "event_location_name" : "5 km W Monte Cavallo (MC)",
-      "magnitude" : 0.8,
-      "time" : "2026-03-12 05:55:03Z",
+      "event_location_name" : "1 km W Pesche (IS)",
+      "magnitude" : 1.2,
+      "time" : "2026-03-12 06:08:54Z",
       "mag_author" : null,
-      "longitude" : 12.936,
+      "longitude" : 14.2653,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 12.936, 42.9853 ]
+      "coordinates" : [ 14.2653, 41.6118 ]
     },
-    "id" : "45325292"
+    "id" : "45028781"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -10079,25 +10079,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 9.3,
+      "depth_km" : 10.7,
       "author" : "SURVEY-INGV",
       "catalog" : null,
-      "latitude" : 44.5568,
-      "event_id" : 45325182,
+      "latitude" : 42.9853,
+      "event_id" : 45325292,
       "contributor" : null,
       "mag_type" : "ML",
-      "event_location_name" : "8 km NE Compiano (PR)",
-      "magnitude" : 1.4,
-      "time" : "2026-03-12 05:45:32Z",
+      "event_location_name" : "5 km W Monte Cavallo (MC)",
+      "magnitude" : 0.8,
+      "time" : "2026-03-12 05:55:03Z",
       "mag_author" : null,
-      "longitude" : 9.7237,
+      "longitude" : 12.936,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 9.7237, 44.5568 ]
+      "coordinates" : [ 12.936, 42.9853 ]
     },
-    "id" : "45325182"
+    "id" : "45325292"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -10123,25 +10123,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 11.0,
+      "depth_km" : 9.3,
       "author" : "SURVEY-INGV",
       "catalog" : null,
-      "latitude" : 41.6513,
-      "event_id" : 45325152,
+      "latitude" : 44.5568,
+      "event_id" : 45325182,
       "contributor" : null,
       "mag_type" : "ML",
-      "event_location_name" : "3 km E Miranda (IS)",
+      "event_location_name" : "8 km NE Compiano (PR)",
       "magnitude" : 1.4,
-      "time" : "2026-03-12 05:38:31Z",
+      "time" : "2026-03-12 05:45:32Z",
       "mag_author" : null,
-      "longitude" : 14.2785,
+      "longitude" : 9.7237,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 14.2785, 41.6513 ]
+      "coordinates" : [ 9.7237, 44.5568 ]
     },
-    "id" : "45325152"
+    "id" : "45325182"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -10164,6 +10164,28 @@
       "coordinates" : [ 14.2785, 41.6513 ]
     },
     "id" : "45028551"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 11.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 41.6513,
+      "event_id" : 45325152,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km E Miranda (IS)",
+      "magnitude" : 1.4,
+      "time" : "2026-03-12 05:38:31Z",
+      "mag_author" : null,
+      "longitude" : 14.2785,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.2785, 41.6513 ]
+    },
+    "id" : "45325152"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -10215,28 +10237,6 @@
       "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
       "catalog" : null,
       "latitude" : 37.621,
-      "event_id" : 45325112,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "1 km E Santa Maria di Licodia (CT)",
-      "magnitude" : 1.2,
-      "time" : "2026-03-12 05:24:19Z",
-      "mag_author" : null,
-      "longitude" : 14.903,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.903, 37.621 ]
-    },
-    "id" : "45325112"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 5.73,
-      "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
-      "catalog" : null,
-      "latitude" : 37.621,
       "event_id" : 45028511,
       "contributor" : null,
       "mag_type" : "ML",
@@ -10255,25 +10255,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 8.8,
-      "author" : "SURVEY-INGV",
+      "depth_km" : 5.73,
+      "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
       "catalog" : null,
-      "latitude" : 42.5292,
-      "event_id" : 45324862,
+      "latitude" : 37.621,
+      "event_id" : 45325112,
       "contributor" : null,
       "mag_type" : "ML",
-      "event_location_name" : "4 km SW Leonessa (RI)",
-      "magnitude" : 0.7,
-      "time" : "2026-03-12 04:41:59Z",
+      "event_location_name" : "1 km E Santa Maria di Licodia (CT)",
+      "magnitude" : 1.2,
+      "time" : "2026-03-12 05:24:19Z",
       "mag_author" : null,
-      "longitude" : 12.9448,
+      "longitude" : 14.903,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 12.9448, 42.5292 ]
+      "coordinates" : [ 14.903, 37.621 ]
     },
-    "id" : "45324862"
+    "id" : "45325112"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -10296,6 +10296,28 @@
       "coordinates" : [ 12.9448, 42.5292 ]
     },
     "id" : "45028301"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 8.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.5292,
+      "event_id" : 45324862,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km SW Leonessa (RI)",
+      "magnitude" : 0.7,
+      "time" : "2026-03-12 04:41:59Z",
+      "mag_author" : null,
+      "longitude" : 12.9448,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.9448, 42.5292 ]
+    },
+    "id" : "45324862"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -10391,28 +10413,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 43.018,
-      "event_id" : 45028171,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "9 km SW Serravalle di Chienti (MC)",
-      "magnitude" : 1.3,
-      "time" : "2026-03-12 03:02:50Z",
-      "mag_author" : null,
-      "longitude" : 12.8753,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.8753, 43.018 ]
-    },
-    "id" : "45028171"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 6.6,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.018,
       "event_id" : 45324742,
       "contributor" : null,
       "mag_type" : "ML",
@@ -10431,25 +10431,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 10.6,
+      "depth_km" : 6.6,
       "author" : "SURVEY-INGV",
       "catalog" : null,
-      "latitude" : 42.9117,
-      "event_id" : 45324692,
+      "latitude" : 43.018,
+      "event_id" : 45028171,
       "contributor" : null,
       "mag_type" : "ML",
-      "event_location_name" : "4 km NW Preci (PG)",
-      "magnitude" : 1.1,
-      "time" : "2026-03-12 02:49:51Z",
+      "event_location_name" : "9 km SW Serravalle di Chienti (MC)",
+      "magnitude" : 1.3,
+      "time" : "2026-03-12 03:02:50Z",
       "mag_author" : null,
-      "longitude" : 13.0152,
+      "longitude" : 12.8753,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 13.0152, 42.9117 ]
+      "coordinates" : [ 12.8753, 43.018 ]
     },
-    "id" : "45324692"
+    "id" : "45028171"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -10475,25 +10475,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 11.1,
+      "depth_km" : 10.6,
       "author" : "SURVEY-INGV",
       "catalog" : null,
-      "latitude" : 41.6692,
-      "event_id" : 45324662,
+      "latitude" : 42.9117,
+      "event_id" : 45324692,
       "contributor" : null,
       "mag_type" : "ML",
-      "event_location_name" : "3 km NE Miranda (IS)",
-      "magnitude" : 1.4,
-      "time" : "2026-03-12 02:43:24Z",
+      "event_location_name" : "4 km NW Preci (PG)",
+      "magnitude" : 1.1,
+      "time" : "2026-03-12 02:49:51Z",
       "mag_author" : null,
-      "longitude" : 14.2705,
+      "longitude" : 13.0152,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 14.2705, 41.6692 ]
+      "coordinates" : [ 13.0152, 42.9117 ]
     },
-    "id" : "45324662"
+    "id" : "45324692"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -10519,25 +10519,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 8.9,
+      "depth_km" : 11.1,
       "author" : "SURVEY-INGV",
       "catalog" : null,
-      "latitude" : 42.9873,
-      "event_id" : 45324622,
+      "latitude" : 41.6692,
+      "event_id" : 45324662,
       "contributor" : null,
       "mag_type" : "ML",
-      "event_location_name" : "5 km NW Ussita (MC)",
-      "magnitude" : 1.6,
-      "time" : "2026-03-12 02:28:58Z",
+      "event_location_name" : "3 km NE Miranda (IS)",
+      "magnitude" : 1.4,
+      "time" : "2026-03-12 02:43:24Z",
       "mag_author" : null,
-      "longitude" : 13.115,
+      "longitude" : 14.2705,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 13.115, 42.9873 ]
+      "coordinates" : [ 14.2705, 41.6692 ]
     },
-    "id" : "45324622"
+    "id" : "45324662"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -10560,6 +10560,28 @@
       "coordinates" : [ 13.115, 42.9873 ]
     },
     "id" : "45028071"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 8.9,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.9873,
+      "event_id" : 45324622,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km NW Ussita (MC)",
+      "magnitude" : 1.6,
+      "time" : "2026-03-12 02:28:58Z",
+      "mag_author" : null,
+      "longitude" : 13.115,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.115, 42.9873 ]
+    },
+    "id" : "45324622"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -10611,28 +10633,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 42.9103,
-      "event_id" : 45027931,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km NW Preci (PG)",
-      "magnitude" : 0.7,
-      "time" : "2026-03-12 01:29:28Z",
-      "mag_author" : null,
-      "longitude" : 13.0233,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.0233, 42.9103 ]
-    },
-    "id" : "45027931"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 11.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.9103,
       "event_id" : 45324492,
       "contributor" : null,
       "mag_type" : "ML",
@@ -10651,25 +10651,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 10.0,
+      "depth_km" : 11.0,
       "author" : "SURVEY-INGV",
       "catalog" : null,
-      "latitude" : 43.1102,
-      "event_id" : 45324442,
+      "latitude" : 42.9103,
+      "event_id" : 45027931,
       "contributor" : null,
       "mag_type" : "ML",
-      "event_location_name" : "6 km SE Camerino (MC)",
-      "magnitude" : 1.1,
-      "time" : "2026-03-12 00:52:12Z",
+      "event_location_name" : "4 km NW Preci (PG)",
+      "magnitude" : 0.7,
+      "time" : "2026-03-12 01:29:28Z",
       "mag_author" : null,
-      "longitude" : 13.1307,
+      "longitude" : 13.0233,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 13.1307, 43.1102 ]
+      "coordinates" : [ 13.0233, 42.9103 ]
     },
-    "id" : "45324442"
+    "id" : "45027931"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -10692,6 +10692,28 @@
       "coordinates" : [ 13.1307, 43.1102 ]
     },
     "id" : "45027891"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 10.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.1102,
+      "event_id" : 45324442,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "6 km SE Camerino (MC)",
+      "magnitude" : 1.1,
+      "time" : "2026-03-12 00:52:12Z",
+      "mag_author" : null,
+      "longitude" : 13.1307,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.1307, 43.1102 ]
+    },
+    "id" : "45324442"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -10743,28 +10765,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 42.8288,
-      "event_id" : 45324362,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "1 km NE Folignano (AP)",
-      "magnitude" : 1.1,
-      "time" : "2026-03-11 23:06:02Z",
-      "mag_author" : null,
-      "longitude" : 13.6388,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.6388, 42.8288 ]
-    },
-    "id" : "45324362"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 20.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.8288,
       "event_id" : 45027761,
       "contributor" : null,
       "mag_type" : "ML",
@@ -10783,25 +10783,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 6.7,
+      "depth_km" : 20.5,
       "author" : "SURVEY-INGV",
       "catalog" : null,
-      "latitude" : 43.28,
-      "event_id" : 45324322,
+      "latitude" : 42.8288,
+      "event_id" : 45324362,
       "contributor" : null,
       "mag_type" : "ML",
-      "event_location_name" : "5 km SE Siena (SI)",
-      "magnitude" : 0.8,
-      "time" : "2026-03-11 23:01:18Z",
+      "event_location_name" : "1 km NE Folignano (AP)",
+      "magnitude" : 1.1,
+      "time" : "2026-03-11 23:06:02Z",
       "mag_author" : null,
-      "longitude" : 11.3628,
+      "longitude" : 13.6388,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 11.3628, 43.28 ]
+      "coordinates" : [ 13.6388, 42.8288 ]
     },
-    "id" : "45324322"
+    "id" : "45324362"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -10824,6 +10824,28 @@
       "coordinates" : [ 11.3628, 43.28 ]
     },
     "id" : "45027751"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 6.7,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.28,
+      "event_id" : 45324322,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km SE Siena (SI)",
+      "magnitude" : 0.8,
+      "time" : "2026-03-11 23:01:18Z",
+      "mag_author" : null,
+      "longitude" : 11.3628,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.3628, 43.28 ]
+    },
+    "id" : "45324322"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -11007,6 +11029,50 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 38.1433,
+      "event_id" : 45027441,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "1 km E Patti (ME)",
+      "magnitude" : 1.2,
+      "time" : "2026-03-11 21:23:12Z",
+      "mag_author" : null,
+      "longitude" : 14.9762,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.9762, 38.1433 ]
+    },
+    "id" : "45027441"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 16.2,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 38.1433,
+      "event_id" : 45027441,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "1 km E Patti (ME)",
+      "magnitude" : 1.2,
+      "time" : "2026-03-11 21:23:12Z",
+      "mag_author" : null,
+      "longitude" : 14.9762,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.9762, 38.1433 ]
+    },
+    "id" : "45027441"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 16.2,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 38.1433,
       "event_id" : 45324032,
       "contributor" : null,
       "mag_type" : "ML",
@@ -11022,94 +11088,6 @@
       "coordinates" : [ 14.9762, 38.1433 ]
     },
     "id" : "45324032"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 16.2,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 38.1433,
-      "event_id" : 45027441,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "1 km E Patti (ME)",
-      "magnitude" : 1.2,
-      "time" : "2026-03-11 21:23:12Z",
-      "mag_author" : null,
-      "longitude" : 14.9762,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.9762, 38.1433 ]
-    },
-    "id" : "45027441"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 16.2,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 38.1433,
-      "event_id" : 45027441,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "1 km E Patti (ME)",
-      "magnitude" : 1.2,
-      "time" : "2026-03-11 21:23:12Z",
-      "mag_author" : null,
-      "longitude" : 14.9762,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.9762, 38.1433 ]
-    },
-    "id" : "45027441"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.8,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 41.6723,
-      "event_id" : 45027351,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km SE Veroli (FR)",
-      "magnitude" : 1.4,
-      "time" : "2026-03-11 21:21:41Z",
-      "mag_author" : null,
-      "longitude" : 13.4458,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.4458, 41.6723 ]
-    },
-    "id" : "45027351"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.8,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 41.6723,
-      "event_id" : 45027351,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km SE Veroli (FR)",
-      "magnitude" : 1.4,
-      "time" : "2026-03-11 21:21:41Z",
-      "mag_author" : null,
-      "longitude" : 13.4458,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.4458, 41.6723 ]
-    },
-    "id" : "45027351"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -11132,6 +11110,50 @@
       "coordinates" : [ 13.4458, 41.6723 ]
     },
     "id" : "45323972"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 9.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 41.6723,
+      "event_id" : 45027351,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km SE Veroli (FR)",
+      "magnitude" : 1.4,
+      "time" : "2026-03-11 21:21:41Z",
+      "mag_author" : null,
+      "longitude" : 13.4458,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.4458, 41.6723 ]
+    },
+    "id" : "45027351"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 9.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 41.6723,
+      "event_id" : 45027351,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km SE Veroli (FR)",
+      "magnitude" : 1.4,
+      "time" : "2026-03-11 21:21:41Z",
+      "mag_author" : null,
+      "longitude" : 13.4458,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.4458, 41.6723 ]
+    },
+    "id" : "45027351"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -11337,28 +11359,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 43.1727,
-      "event_id" : 45026581,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "8 km E Valfabbrica (PG)",
-      "magnitude" : 0.7,
-      "time" : "2026-03-11 17:13:28Z",
-      "mag_author" : null,
-      "longitude" : 12.696,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.696, 43.1727 ]
-    },
-    "id" : "45026581"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 12.6,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.1727,
       "event_id" : 45323172,
       "contributor" : null,
       "mag_type" : "ML",
@@ -11374,6 +11374,28 @@
       "coordinates" : [ 12.696, 43.1727 ]
     },
     "id" : "45323172"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 12.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.1727,
+      "event_id" : 45026581,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "8 km E Valfabbrica (PG)",
+      "magnitude" : 0.7,
+      "time" : "2026-03-11 17:13:28Z",
+      "mag_author" : null,
+      "longitude" : 12.696,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.696, 43.1727 ]
+    },
+    "id" : "45026581"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -11425,28 +11447,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 43.4155,
-      "event_id" : 45026391,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km SW Serra San Quirico (AN)",
-      "magnitude" : 0.6,
-      "time" : "2026-03-11 16:50:42Z",
-      "mag_author" : null,
-      "longitude" : 13.0005,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.0005, 43.4155 ]
-    },
-    "id" : "45026391"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 7.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.4155,
       "event_id" : 45322982,
       "contributor" : null,
       "mag_type" : "ML",
@@ -11465,25 +11465,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 9.6,
+      "depth_km" : 7.5,
       "author" : "SURVEY-INGV",
       "catalog" : null,
-      "latitude" : 42.8523,
-      "event_id" : 45024881,
+      "latitude" : 43.4155,
+      "event_id" : 45026391,
       "contributor" : null,
       "mag_type" : "ML",
-      "event_location_name" : "4 km SW Trevi (PG)",
-      "magnitude" : 1.3,
-      "time" : "2026-03-11 12:49:44Z",
+      "event_location_name" : "4 km SW Serra San Quirico (AN)",
+      "magnitude" : 0.6,
+      "time" : "2026-03-11 16:50:42Z",
       "mag_author" : null,
-      "longitude" : 12.7148,
+      "longitude" : 13.0005,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 12.7148, 42.8523 ]
+      "coordinates" : [ 13.0005, 43.4155 ]
     },
-    "id" : "45024881"
+    "id" : "45026391"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -11509,25 +11509,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 8.7,
+      "depth_km" : 9.6,
       "author" : "SURVEY-INGV",
       "catalog" : null,
-      "latitude" : 41.8137,
-      "event_id" : 45024831,
+      "latitude" : 42.8523,
+      "event_id" : 45024881,
       "contributor" : null,
       "mag_type" : "ML",
-      "event_location_name" : "3 km N Apricena (FG)",
-      "magnitude" : 1.0,
-      "time" : "2026-03-11 12:44:05Z",
+      "event_location_name" : "4 km SW Trevi (PG)",
+      "magnitude" : 1.3,
+      "time" : "2026-03-11 12:49:44Z",
       "mag_author" : null,
-      "longitude" : 15.4535,
+      "longitude" : 12.7148,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 15.4535, 41.8137 ]
+      "coordinates" : [ 12.7148, 42.8523 ]
     },
-    "id" : "45024831"
+    "id" : "45024881"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -11553,25 +11553,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 17.5,
+      "depth_km" : 8.7,
       "author" : "SURVEY-INGV",
       "catalog" : null,
-      "latitude" : 38.5663,
-      "event_id" : 45320972,
+      "latitude" : 41.8137,
+      "event_id" : 45024831,
       "contributor" : null,
       "mag_type" : "ML",
-      "event_location_name" : "1 km E Badolato (CZ)",
-      "magnitude" : 1.5,
-      "time" : "2026-03-11 11:55:27Z",
+      "event_location_name" : "3 km N Apricena (FG)",
+      "magnitude" : 1.0,
+      "time" : "2026-03-11 12:44:05Z",
       "mag_author" : null,
-      "longitude" : 16.5375,
+      "longitude" : 15.4535,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 16.5375, 38.5663 ]
+      "coordinates" : [ 15.4535, 41.8137 ]
     },
-    "id" : "45320972"
+    "id" : "45024831"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -11594,6 +11594,28 @@
       "coordinates" : [ 16.5375, 38.5663 ]
     },
     "id" : "45024421"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 17.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 38.5663,
+      "event_id" : 45320972,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "1 km E Badolato (CZ)",
+      "magnitude" : 1.5,
+      "time" : "2026-03-11 11:55:27Z",
+      "mag_author" : null,
+      "longitude" : 16.5375,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.5375, 38.5663 ]
+    },
+    "id" : "45320972"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -11711,28 +11733,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 46.3308,
-      "event_id" : 45320392,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "8 km NE Claut (PN)",
-      "magnitude" : 0.6,
-      "time" : "2026-03-11 11:00:25Z",
-      "mag_author" : null,
-      "longitude" : 12.5717,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.5717, 46.3308 ]
-    },
-    "id" : "45320392"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 46.3308,
       "event_id" : 45023971,
       "contributor" : null,
       "mag_type" : "ML",
@@ -11751,25 +11751,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 10.9,
+      "depth_km" : 10.5,
       "author" : "SURVEY-INGV",
       "catalog" : null,
-      "latitude" : 43.0257,
-      "event_id" : 45023851,
+      "latitude" : 46.3308,
+      "event_id" : 45320392,
       "contributor" : null,
       "mag_type" : "ML",
-      "event_location_name" : "2 km S Pieve Torina (MC)",
-      "magnitude" : 0.7,
-      "time" : "2026-03-11 10:42:06Z",
+      "event_location_name" : "8 km NE Claut (PN)",
+      "magnitude" : 0.6,
+      "time" : "2026-03-11 11:00:25Z",
       "mag_author" : null,
-      "longitude" : 13.048,
+      "longitude" : 12.5717,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 13.048, 43.0257 ]
+      "coordinates" : [ 12.5717, 46.3308 ]
     },
-    "id" : "45023851"
+    "id" : "45320392"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -11795,25 +11795,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 6.47,
-      "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
+      "depth_km" : 10.9,
+      "author" : "SURVEY-INGV",
       "catalog" : null,
-      "latitude" : 37.8,
-      "event_id" : 45023771,
+      "latitude" : 43.0257,
+      "event_id" : 45023851,
       "contributor" : null,
       "mag_type" : "ML",
-      "event_location_name" : "1 km S Piedimonte Etneo (CT)",
-      "magnitude" : 1.6,
-      "time" : "2026-03-11 10:16:24Z",
+      "event_location_name" : "2 km S Pieve Torina (MC)",
+      "magnitude" : 0.7,
+      "time" : "2026-03-11 10:42:06Z",
       "mag_author" : null,
-      "longitude" : 15.177,
+      "longitude" : 13.048,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 15.177, 37.8 ]
+      "coordinates" : [ 13.048, 43.0257 ]
     },
-    "id" : "45023771"
+    "id" : "45023851"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -11836,6 +11836,28 @@
       "coordinates" : [ 15.177, 37.8 ]
     },
     "id" : "45320142"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 6.47,
+      "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
+      "catalog" : null,
+      "latitude" : 37.8,
+      "event_id" : 45023771,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "1 km S Piedimonte Etneo (CT)",
+      "magnitude" : 1.6,
+      "time" : "2026-03-11 10:16:24Z",
+      "mag_author" : null,
+      "longitude" : 15.177,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 15.177, 37.8 ]
+    },
+    "id" : "45023771"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -11997,28 +12019,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 43.3893,
-      "event_id" : 45022991,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km NW Gubbio (PG)",
-      "magnitude" : 1.0,
-      "time" : "2026-03-11 08:24:59Z",
-      "mag_author" : null,
-      "longitude" : 12.5362,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.5362, 43.3893 ]
-    },
-    "id" : "45022991"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 2.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.3893,
       "event_id" : 45319412,
       "contributor" : null,
       "mag_type" : "ML",
@@ -12037,25 +12037,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 3.8,
+      "depth_km" : 2.0,
       "author" : "SURVEY-INGV",
       "catalog" : null,
-      "latitude" : 43.3847,
-      "event_id" : 45022901,
+      "latitude" : 43.3893,
+      "event_id" : 45022991,
       "contributor" : null,
       "mag_type" : "ML",
       "event_location_name" : "5 km NW Gubbio (PG)",
-      "magnitude" : 1.1,
-      "time" : "2026-03-11 08:17:05Z",
+      "magnitude" : 1.0,
+      "time" : "2026-03-11 08:24:59Z",
       "mag_author" : null,
-      "longitude" : 12.5408,
+      "longitude" : 12.5362,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 12.5408, 43.3847 ]
+      "coordinates" : [ 12.5362, 43.3893 ]
     },
-    "id" : "45022901"
+    "id" : "45022991"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -12078,6 +12078,28 @@
       "coordinates" : [ 12.5408, 43.3847 ]
     },
     "id" : "45319272"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 3.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.3847,
+      "event_id" : 45022901,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km NW Gubbio (PG)",
+      "magnitude" : 1.1,
+      "time" : "2026-03-11 08:17:05Z",
+      "mag_author" : null,
+      "longitude" : 12.5408,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.5408, 43.3847 ]
+    },
+    "id" : "45022901"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -12239,28 +12261,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 43.2005,
-      "event_id" : 45022401,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km SE Gualdo Tadino (PG)",
-      "magnitude" : 0.4,
-      "time" : "2026-03-11 06:50:31Z",
-      "mag_author" : null,
-      "longitude" : 12.832,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.832, 43.2005 ]
-    },
-    "id" : "45022401"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 18.1,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.2005,
       "event_id" : 45318832,
       "contributor" : null,
       "mag_type" : "ML",
@@ -12276,6 +12276,28 @@
       "coordinates" : [ 12.832, 43.2005 ]
     },
     "id" : "45318832"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 18.1,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.2005,
+      "event_id" : 45022401,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km SE Gualdo Tadino (PG)",
+      "magnitude" : 0.4,
+      "time" : "2026-03-11 06:50:31Z",
+      "mag_author" : null,
+      "longitude" : 12.832,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.832, 43.2005 ]
+    },
+    "id" : "45022401"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -12459,28 +12481,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 38.7193,
-      "event_id" : 45021641,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "Tirreno Meridionale (MARE)",
-      "magnitude" : 2.0,
-      "time" : "2026-03-11 03:22:06Z",
-      "mag_author" : null,
-      "longitude" : 15.4493,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 15.4493, 38.7193 ]
-    },
-    "id" : "45021641"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 157.3,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 38.7193,
       "event_id" : 45317992,
       "contributor" : null,
       "mag_type" : "ML",
@@ -12499,25 +12499,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 6.72,
-      "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
+      "depth_km" : 157.3,
+      "author" : "SURVEY-INGV",
       "catalog" : null,
-      "latitude" : 37.792,
-      "event_id" : 45021701,
+      "latitude" : 38.7193,
+      "event_id" : 45021641,
       "contributor" : null,
       "mag_type" : "ML",
-      "event_location_name" : "2 km SW Piedimonte Etneo (CT)",
-      "magnitude" : 1.8,
-      "time" : "2026-03-11 03:11:36Z",
+      "event_location_name" : "Tirreno Meridionale (MARE)",
+      "magnitude" : 2.0,
+      "time" : "2026-03-11 03:22:06Z",
       "mag_author" : null,
-      "longitude" : 15.169,
+      "longitude" : 15.4493,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 15.169, 37.792 ]
+      "coordinates" : [ 15.4493, 38.7193 ]
     },
-    "id" : "45021701"
+    "id" : "45021641"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -12543,25 +12543,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 25.9,
-      "author" : "SURVEY-INGV",
+      "depth_km" : 6.72,
+      "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
       "catalog" : null,
-      "latitude" : 41.909,
-      "event_id" : 45317812,
+      "latitude" : 37.792,
+      "event_id" : 45021701,
       "contributor" : null,
       "mag_type" : "ML",
-      "event_location_name" : "5 km SW Rodi Garganico (FG)",
-      "magnitude" : 1.1,
-      "time" : "2026-03-11 02:56:15Z",
+      "event_location_name" : "2 km SW Piedimonte Etneo (CT)",
+      "magnitude" : 1.8,
+      "time" : "2026-03-11 03:11:36Z",
       "mag_author" : null,
-      "longitude" : 15.8347,
+      "longitude" : 15.169,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 15.8347, 41.909 ]
+      "coordinates" : [ 15.169, 37.792 ]
     },
-    "id" : "45317812"
+    "id" : "45021701"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -12584,6 +12584,28 @@
       "coordinates" : [ 15.8347, 41.909 ]
     },
     "id" : "45021531"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 25.9,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 41.909,
+      "event_id" : 45317812,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km SW Rodi Garganico (FG)",
+      "magnitude" : 1.1,
+      "time" : "2026-03-11 02:56:15Z",
+      "mag_author" : null,
+      "longitude" : 15.8347,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 15.8347, 41.909 ]
+    },
+    "id" : "45317812"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -12635,28 +12657,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 42.8242,
-      "event_id" : 45021391,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km W Folignano (AP)",
-      "magnitude" : 1.1,
-      "time" : "2026-03-11 00:10:50Z",
-      "mag_author" : null,
-      "longitude" : 13.5995,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.5995, 42.8242 ]
-    },
-    "id" : "45021391"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 16.2,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.8242,
       "event_id" : 45317602,
       "contributor" : null,
       "mag_type" : "ML",
@@ -12675,25 +12675,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 7.12,
-      "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
+      "depth_km" : 16.2,
+      "author" : "SURVEY-INGV",
       "catalog" : null,
-      "latitude" : 37.795,
-      "event_id" : 45021351,
+      "latitude" : 42.8242,
+      "event_id" : 45021391,
       "contributor" : null,
       "mag_type" : "ML",
-      "event_location_name" : "2 km SW Piedimonte Etneo (CT)",
-      "magnitude" : 1.3,
-      "time" : "2026-03-10 23:45:55Z",
+      "event_location_name" : "3 km W Folignano (AP)",
+      "magnitude" : 1.1,
+      "time" : "2026-03-11 00:10:50Z",
       "mag_author" : null,
-      "longitude" : 15.17,
+      "longitude" : 13.5995,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 15.17, 37.795 ]
+      "coordinates" : [ 13.5995, 42.8242 ]
     },
-    "id" : "45021351"
+    "id" : "45021391"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -12738,6 +12738,28 @@
       "coordinates" : [ 15.17, 37.795 ]
     },
     "id" : "45317552"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 7.12,
+      "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
+      "catalog" : null,
+      "latitude" : 37.795,
+      "event_id" : 45021351,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km SW Piedimonte Etneo (CT)",
+      "magnitude" : 1.3,
+      "time" : "2026-03-10 23:45:55Z",
+      "mag_author" : null,
+      "longitude" : 15.17,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 15.17, 37.795 ]
+    },
+    "id" : "45021351"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -12833,28 +12855,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 43.475,
-      "event_id" : 45021181,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "7 km NE Pietralunga (PG)",
-      "magnitude" : 0.7,
-      "time" : "2026-03-10 23:22:01Z",
-      "mag_author" : null,
-      "longitude" : 12.5072,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.5072, 43.475 ]
-    },
-    "id" : "45021181"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 12.3,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.475,
       "event_id" : 45317362,
       "contributor" : null,
       "mag_type" : "ML",
@@ -12870,6 +12870,28 @@
       "coordinates" : [ 12.5072, 43.475 ]
     },
     "id" : "45317362"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 12.3,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.475,
+      "event_id" : 45021181,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "7 km NE Pietralunga (PG)",
+      "magnitude" : 0.7,
+      "time" : "2026-03-10 23:22:01Z",
+      "mag_author" : null,
+      "longitude" : 12.5072,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.5072, 43.475 ]
+    },
+    "id" : "45021181"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -12965,28 +12987,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 43.2408,
-      "event_id" : 45020941,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "1 km NE Gualdo Tadino (PG)",
-      "magnitude" : 0.9,
-      "time" : "2026-03-10 21:45:46Z",
-      "mag_author" : null,
-      "longitude" : 12.791,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.791, 43.2408 ]
-    },
-    "id" : "45020941"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.8,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.2408,
       "event_id" : 45317162,
       "contributor" : null,
       "mag_type" : "ML",
@@ -13002,6 +13002,28 @@
       "coordinates" : [ 12.791, 43.2408 ]
     },
     "id" : "45317162"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 10.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.2408,
+      "event_id" : 45020941,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "1 km NE Gualdo Tadino (PG)",
+      "magnitude" : 0.9,
+      "time" : "2026-03-10 21:45:46Z",
+      "mag_author" : null,
+      "longitude" : 12.791,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.791, 43.2408 ]
+    },
+    "id" : "45020941"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -13449,28 +13471,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 43.4587,
-      "event_id" : 45019301,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km W Cantiano (PU)",
-      "magnitude" : 1.4,
-      "time" : "2026-03-10 14:43:08Z",
-      "mag_author" : null,
-      "longitude" : 12.5745,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.5745, 43.4587 ]
-    },
-    "id" : "45019301"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.4587,
       "event_id" : 45315472,
       "contributor" : null,
       "mag_type" : "ML",
@@ -13489,25 +13489,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 10.6,
+      "depth_km" : 10.5,
       "author" : "SURVEY-INGV",
       "catalog" : null,
-      "latitude" : 43.2997,
-      "event_id" : 45315092,
+      "latitude" : 43.4587,
+      "event_id" : 45019301,
       "contributor" : null,
       "mag_type" : "ML",
-      "event_location_name" : "6 km S Gubbio (PG)",
-      "magnitude" : 1.6,
-      "time" : "2026-03-10 14:10:43Z",
+      "event_location_name" : "5 km W Cantiano (PU)",
+      "magnitude" : 1.4,
+      "time" : "2026-03-10 14:43:08Z",
       "mag_author" : null,
-      "longitude" : 12.596,
+      "longitude" : 12.5745,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 12.596, 43.2997 ]
+      "coordinates" : [ 12.5745, 43.4587 ]
     },
-    "id" : "45315092"
+    "id" : "45019301"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -13530,6 +13530,28 @@
       "coordinates" : [ 12.596, 43.2997 ]
     },
     "id" : "45018921"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 10.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.2997,
+      "event_id" : 45315092,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "6 km S Gubbio (PG)",
+      "magnitude" : 1.6,
+      "time" : "2026-03-10 14:10:43Z",
+      "mag_author" : null,
+      "longitude" : 12.596,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.596, 43.2997 ]
+    },
+    "id" : "45315092"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -13581,28 +13603,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 43.1347,
-      "event_id" : 45018511,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km E Monterotondo Marittimo (GR)",
-      "magnitude" : 1.4,
-      "time" : "2026-03-10 13:23:10Z",
-      "mag_author" : null,
-      "longitude" : 10.9208,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 10.9208, 43.1347 ]
-    },
-    "id" : "45018511"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 9.0,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.1347,
       "event_id" : 45314572,
       "contributor" : null,
       "mag_type" : "ML",
@@ -13618,6 +13618,28 @@
       "coordinates" : [ 10.9208, 43.1347 ]
     },
     "id" : "45314572"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 9.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.1347,
+      "event_id" : 45018511,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km E Monterotondo Marittimo (GR)",
+      "magnitude" : 1.4,
+      "time" : "2026-03-10 13:23:10Z",
+      "mag_author" : null,
+      "longitude" : 10.9208,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.9208, 43.1347 ]
+    },
+    "id" : "45018511"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -13713,28 +13735,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 43.4875,
-      "event_id" : 45313672,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km SW Frontone (PU)",
-      "magnitude" : 0.7,
-      "time" : "2026-03-10 11:47:39Z",
-      "mag_author" : null,
-      "longitude" : 12.6957,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.6957, 43.4875 ]
-    },
-    "id" : "45313672"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 14.1,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.4875,
       "event_id" : 45017761,
       "contributor" : null,
       "mag_type" : "ML",
@@ -13750,6 +13750,28 @@
       "coordinates" : [ 12.6957, 43.4875 ]
     },
     "id" : "45017761"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 14.1,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.4875,
+      "event_id" : 45313672,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km SW Frontone (PU)",
+      "magnitude" : 0.7,
+      "time" : "2026-03-10 11:47:39Z",
+      "mag_author" : null,
+      "longitude" : 12.6957,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.6957, 43.4875 ]
+    },
+    "id" : "45313672"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -22623,28 +22645,6 @@
       "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
       "catalog" : null,
       "latitude" : 37.641,
-      "event_id" : 45265362,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km NW Ragalna (CT)",
-      "magnitude" : 1.0,
-      "time" : "2026-03-04 21:02:13Z",
-      "mag_author" : null,
-      "longitude" : 14.922,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.922, 37.641 ]
-    },
-    "id" : "45265362"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 3.61,
-      "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
-      "catalog" : null,
-      "latitude" : 37.641,
       "event_id" : 44978301,
       "contributor" : null,
       "mag_type" : "ML",
@@ -22660,6 +22660,28 @@
       "coordinates" : [ 14.922, 37.641 ]
     },
     "id" : "44978301"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 3.61,
+      "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
+      "catalog" : null,
+      "latitude" : 37.641,
+      "event_id" : 45265362,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km NW Ragalna (CT)",
+      "magnitude" : 1.0,
+      "time" : "2026-03-04 21:02:13Z",
+      "mag_author" : null,
+      "longitude" : 14.922,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.922, 37.641 ]
+    },
+    "id" : "45265362"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -22711,28 +22733,6 @@
       "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
       "catalog" : null,
       "latitude" : 37.647,
-      "event_id" : 45265282,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km N Ragalna (CT)",
-      "magnitude" : 2.3,
-      "time" : "2026-03-04 20:27:54Z",
-      "mag_author" : null,
-      "longitude" : 14.934,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.934, 37.647 ]
-    },
-    "id" : "45265282"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 3.99,
-      "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
-      "catalog" : null,
-      "latitude" : 37.647,
       "event_id" : 44978131,
       "contributor" : null,
       "mag_type" : "ML",
@@ -22751,25 +22751,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 9.8,
-      "author" : "SURVEY-INGV",
+      "depth_km" : 3.99,
+      "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
       "catalog" : null,
-      "latitude" : 39.0418,
-      "event_id" : 44978061,
+      "latitude" : 37.647,
+      "event_id" : 45265282,
       "contributor" : null,
       "mag_type" : "ML",
-      "event_location_name" : "2 km SW Carlopoli (CZ)",
-      "magnitude" : 1.1,
-      "time" : "2026-03-04 19:58:17Z",
+      "event_location_name" : "2 km N Ragalna (CT)",
+      "magnitude" : 2.3,
+      "time" : "2026-03-04 20:27:54Z",
       "mag_author" : null,
-      "longitude" : 16.439,
+      "longitude" : 14.934,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 16.439, 39.0418 ]
+      "coordinates" : [ 14.934, 37.647 ]
     },
-    "id" : "44978061"
+    "id" : "45265282"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -22798,22 +22798,22 @@
       "depth_km" : 9.8,
       "author" : "SURVEY-INGV",
       "catalog" : null,
-      "latitude" : 39.346,
-      "event_id" : 45265152,
+      "latitude" : 39.0418,
+      "event_id" : 44978061,
       "contributor" : null,
       "mag_type" : "ML",
-      "event_location_name" : "12 km NW San Giovanni in Fiore (CS)",
-      "magnitude" : 0.7,
-      "time" : "2026-03-04 19:48:53Z",
+      "event_location_name" : "2 km SW Carlopoli (CZ)",
+      "magnitude" : 1.1,
+      "time" : "2026-03-04 19:58:17Z",
       "mag_author" : null,
-      "longitude" : 16.6327,
+      "longitude" : 16.439,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 16.6327, 39.346 ]
+      "coordinates" : [ 16.439, 39.0418 ]
     },
-    "id" : "45265152"
+    "id" : "44978061"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -22836,6 +22836,28 @@
       "coordinates" : [ 16.6327, 39.346 ]
     },
     "id" : "44978031"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 9.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 39.346,
+      "event_id" : 45265152,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "12 km NW San Giovanni in Fiore (CS)",
+      "magnitude" : 0.7,
+      "time" : "2026-03-04 19:48:53Z",
+      "mag_author" : null,
+      "longitude" : 16.6327,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.6327, 39.346 ]
+    },
+    "id" : "45265152"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -22887,28 +22909,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 43.3253,
-      "event_id" : 44977921,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km SW Gubbio (PG)",
-      "magnitude" : 1.3,
-      "time" : "2026-03-04 19:11:18Z",
-      "mag_author" : null,
-      "longitude" : 12.528,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.528, 43.3253 ]
-    },
-    "id" : "44977921"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 6.9,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.3253,
       "event_id" : 45265012,
       "contributor" : null,
       "mag_type" : "ML",
@@ -22927,25 +22927,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 14.9,
+      "depth_km" : 6.9,
       "author" : "SURVEY-INGV",
       "catalog" : null,
-      "latitude" : 39.3548,
-      "event_id" : 44977891,
+      "latitude" : 43.3253,
+      "event_id" : 44977921,
       "contributor" : null,
       "mag_type" : "ML",
-      "event_location_name" : "11 km S Longobucco (CS)",
-      "magnitude" : 2.4,
-      "time" : "2026-03-04 19:09:41Z",
+      "event_location_name" : "5 km SW Gubbio (PG)",
+      "magnitude" : 1.3,
+      "time" : "2026-03-04 19:11:18Z",
       "mag_author" : null,
-      "longitude" : 16.6283,
+      "longitude" : 12.528,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 16.6283, 39.3548 ]
+      "coordinates" : [ 12.528, 43.3253 ]
     },
-    "id" : "44977891"
+    "id" : "44977921"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -22968,6 +22968,28 @@
       "coordinates" : [ 16.6283, 39.3548 ]
     },
     "id" : "45264962"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 14.9,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 39.3548,
+      "event_id" : 44977891,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "11 km S Longobucco (CS)",
+      "magnitude" : 2.4,
+      "time" : "2026-03-04 19:09:41Z",
+      "mag_author" : null,
+      "longitude" : 16.6283,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.6283, 39.3548 ]
+    },
+    "id" : "44977891"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -23173,28 +23195,6 @@
       "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
       "catalog" : null,
       "latitude" : 37.622,
-      "event_id" : 45264672,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km SW Ragalna (CT)",
-      "magnitude" : 1.2,
-      "time" : "2026-03-04 18:31:25Z",
-      "mag_author" : null,
-      "longitude" : 14.918,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.918, 37.622 ]
-    },
-    "id" : "45264672"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 7.02,
-      "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
-      "catalog" : null,
-      "latitude" : 37.622,
       "event_id" : 44977671,
       "contributor" : null,
       "mag_type" : "ML",
@@ -23213,25 +23213,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 10.1,
-      "author" : "SURVEY-INGV",
+      "depth_km" : 7.02,
+      "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
       "catalog" : null,
-      "latitude" : 42.7602,
-      "event_id" : 45264582,
+      "latitude" : 37.622,
+      "event_id" : 45264672,
       "contributor" : null,
       "mag_type" : "ML",
-      "event_location_name" : "6 km SE Norcia (PG)",
-      "magnitude" : 0.8,
-      "time" : "2026-03-04 18:13:35Z",
+      "event_location_name" : "2 km SW Ragalna (CT)",
+      "magnitude" : 1.2,
+      "time" : "2026-03-04 18:31:25Z",
       "mag_author" : null,
-      "longitude" : 13.1523,
+      "longitude" : 14.918,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 13.1523, 42.7602 ]
+      "coordinates" : [ 14.918, 37.622 ]
     },
-    "id" : "45264582"
+    "id" : "45264672"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -23257,25 +23257,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 8.594,
-      "author" : "SURVEY-INGV-A",
+      "depth_km" : 10.1,
+      "author" : "SURVEY-INGV",
       "catalog" : null,
-      "latitude" : 52.3055,
-      "event_id" : 45264442,
+      "latitude" : 42.7602,
+      "event_id" : 45264582,
       "contributor" : null,
-      "mag_type" : "Mwp",
-      "event_location_name" : "Rat Islands, Aleutian Islands, United States [Sea: United States]",
-      "magnitude" : 6.4,
-      "time" : "2026-03-04 17:54:40Z",
+      "mag_type" : "ML",
+      "event_location_name" : "6 km SE Norcia (PG)",
+      "magnitude" : 0.8,
+      "time" : "2026-03-04 18:13:35Z",
       "mag_author" : null,
-      "longitude" : 176.503,
+      "longitude" : 13.1523,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 176.503, 52.3055 ]
+      "coordinates" : [ 13.1523, 42.7602 ]
     },
-    "id" : "45264442"
+    "id" : "45264582"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -23298,6 +23298,28 @@
       "coordinates" : [ 176.503, 52.3055 ]
     },
     "id" : "44977461"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 8.594,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : 52.3055,
+      "event_id" : 45264442,
+      "contributor" : null,
+      "mag_type" : "Mwp",
+      "event_location_name" : "Rat Islands, Aleutian Islands, United States [Sea: United States]",
+      "magnitude" : 6.4,
+      "time" : "2026-03-04 17:54:40Z",
+      "mag_author" : null,
+      "longitude" : 176.503,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 176.503, 52.3055 ]
+    },
+    "id" : "45264442"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -23393,28 +23415,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 43.0318,
-      "event_id" : 45264092,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km SW Serravalle di Chienti (MC)",
-      "magnitude" : 0.6,
-      "time" : "2026-03-04 17:13:36Z",
-      "mag_author" : null,
-      "longitude" : 12.9297,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.9297, 43.0318 ]
-    },
-    "id" : "45264092"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 12.1,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.0318,
       "event_id" : 44977181,
       "contributor" : null,
       "mag_type" : "ML",
@@ -23433,25 +23433,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 10.6,
+      "depth_km" : 12.1,
       "author" : "SURVEY-INGV",
       "catalog" : null,
-      "latitude" : 39.355,
-      "event_id" : 44977081,
+      "latitude" : 43.0318,
+      "event_id" : 45264092,
       "contributor" : null,
       "mag_type" : "ML",
-      "event_location_name" : "11 km S Longobucco (CS)",
-      "magnitude" : 0.8,
-      "time" : "2026-03-04 16:57:41Z",
+      "event_location_name" : "5 km SW Serravalle di Chienti (MC)",
+      "magnitude" : 0.6,
+      "time" : "2026-03-04 17:13:36Z",
       "mag_author" : null,
-      "longitude" : 16.6392,
+      "longitude" : 12.9297,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 16.6392, 39.355 ]
+      "coordinates" : [ 12.9297, 43.0318 ]
     },
-    "id" : "44977081"
+    "id" : "45264092"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -23474,6 +23474,28 @@
       "coordinates" : [ 16.6392, 39.355 ]
     },
     "id" : "45263972"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 10.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 39.355,
+      "event_id" : 44977081,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "11 km S Longobucco (CS)",
+      "magnitude" : 0.8,
+      "time" : "2026-03-04 16:57:41Z",
+      "mag_author" : null,
+      "longitude" : 16.6392,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.6392, 39.355 ]
+    },
+    "id" : "44977081"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -23591,28 +23613,6 @@
       "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
       "catalog" : null,
       "latitude" : 37.639,
-      "event_id" : 45263932,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km NE Santa Maria di Licodia (CT)",
-      "magnitude" : 2.2,
-      "time" : "2026-03-04 16:40:45Z",
-      "mag_author" : null,
-      "longitude" : 14.906,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.906, 37.639 ]
-    },
-    "id" : "45263932"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 1.83,
-      "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
-      "catalog" : null,
-      "latitude" : 37.639,
       "event_id" : 44977061,
       "contributor" : null,
       "mag_type" : "ML",
@@ -23628,6 +23628,28 @@
       "coordinates" : [ 14.906, 37.639 ]
     },
     "id" : "44977061"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 1.83,
+      "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
+      "catalog" : null,
+      "latitude" : 37.639,
+      "event_id" : 45263932,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km NE Santa Maria di Licodia (CT)",
+      "magnitude" : 2.2,
+      "time" : "2026-03-04 16:40:45Z",
+      "mag_author" : null,
+      "longitude" : 14.906,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.906, 37.639 ]
+    },
+    "id" : "45263932"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -23855,28 +23877,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 42.5287,
-      "event_id" : 44976431,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "1 km NW Posta (RI)",
-      "magnitude" : 1.9,
-      "time" : "2026-03-04 15:33:02Z",
-      "mag_author" : null,
-      "longitude" : 13.0885,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.0885, 42.5287 ]
-    },
-    "id" : "44976431"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.9,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.5287,
       "event_id" : 45263052,
       "contributor" : null,
       "mag_type" : "ML",
@@ -23892,6 +23892,28 @@
       "coordinates" : [ 13.0885, 42.5287 ]
     },
     "id" : "45263052"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 10.9,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.5287,
+      "event_id" : 44976431,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "1 km NW Posta (RI)",
+      "magnitude" : 1.9,
+      "time" : "2026-03-04 15:33:02Z",
+      "mag_author" : null,
+      "longitude" : 13.0885,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.0885, 42.5287 ]
+    },
+    "id" : "44976431"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -24053,28 +24075,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 43.5002,
-      "event_id" : 45262372,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "7 km SW Apecchio (PU)",
-      "magnitude" : 0.6,
-      "time" : "2026-03-04 14:01:29Z",
-      "mag_author" : null,
-      "longitude" : 12.3798,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.3798, 43.5002 ]
-    },
-    "id" : "45262372"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 8.7,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.5002,
       "event_id" : 44975911,
       "contributor" : null,
       "mag_type" : "ML",
@@ -24093,25 +24093,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 5.41,
-      "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
+      "depth_km" : 8.7,
+      "author" : "SURVEY-INGV",
       "catalog" : null,
-      "latitude" : 37.622,
-      "event_id" : 44975841,
+      "latitude" : 43.5002,
+      "event_id" : 45262372,
       "contributor" : null,
       "mag_type" : "ML",
-      "event_location_name" : "2 km SW Ragalna (CT)",
-      "magnitude" : 1.3,
-      "time" : "2026-03-04 13:27:29Z",
+      "event_location_name" : "7 km SW Apecchio (PU)",
+      "magnitude" : 0.6,
+      "time" : "2026-03-04 14:01:29Z",
       "mag_author" : null,
-      "longitude" : 14.922,
+      "longitude" : 12.3798,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 14.922, 37.622 ]
+      "coordinates" : [ 12.3798, 43.5002 ]
     },
-    "id" : "44975841"
+    "id" : "45262372"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -24134,6 +24134,28 @@
       "coordinates" : [ 14.922, 37.622 ]
     },
     "id" : "45262252"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 5.41,
+      "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
+      "catalog" : null,
+      "latitude" : 37.622,
+      "event_id" : 44975841,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km SW Ragalna (CT)",
+      "magnitude" : 1.3,
+      "time" : "2026-03-04 13:27:29Z",
+      "mag_author" : null,
+      "longitude" : 14.922,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.922, 37.622 ]
+    },
+    "id" : "44975841"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -24185,28 +24207,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 39.3442,
-      "event_id" : 44975591,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "11 km NW San Giovanni in Fiore (CS)",
-      "magnitude" : 1.5,
-      "time" : "2026-03-04 13:10:50Z",
-      "mag_author" : null,
-      "longitude" : 16.642,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 16.642, 39.3442 ]
-    },
-    "id" : "44975591"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.3,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 39.3442,
       "event_id" : 45261922,
       "contributor" : null,
       "mag_type" : "ML",
@@ -24225,25 +24225,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 14.2,
+      "depth_km" : 10.3,
       "author" : "SURVEY-INGV",
       "catalog" : null,
-      "latitude" : 39.3462,
-      "event_id" : 45261882,
+      "latitude" : 39.3442,
+      "event_id" : 44975591,
       "contributor" : null,
       "mag_type" : "ML",
-      "event_location_name" : "12 km NW San Giovanni in Fiore (CS)",
-      "magnitude" : 2.0,
-      "time" : "2026-03-04 13:10:03Z",
+      "event_location_name" : "11 km NW San Giovanni in Fiore (CS)",
+      "magnitude" : 1.5,
+      "time" : "2026-03-04 13:10:50Z",
       "mag_author" : null,
-      "longitude" : 16.6355,
+      "longitude" : 16.642,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 16.6355, 39.3462 ]
+      "coordinates" : [ 16.642, 39.3442 ]
     },
-    "id" : "45261882"
+    "id" : "44975591"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -24269,25 +24269,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 5.27,
-      "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
+      "depth_km" : 14.2,
+      "author" : "SURVEY-INGV",
       "catalog" : null,
-      "latitude" : 37.611,
-      "event_id" : 44975361,
+      "latitude" : 39.3462,
+      "event_id" : 45261882,
       "contributor" : null,
       "mag_type" : "ML",
-      "event_location_name" : "2 km S Ragalna (CT)",
-      "magnitude" : 1.7,
-      "time" : "2026-03-04 12:40:16Z",
+      "event_location_name" : "12 km NW San Giovanni in Fiore (CS)",
+      "magnitude" : 2.0,
+      "time" : "2026-03-04 13:10:03Z",
       "mag_author" : null,
-      "longitude" : 14.943,
+      "longitude" : 16.6355,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 14.943, 37.611 ]
+      "coordinates" : [ 16.6355, 39.3462 ]
     },
-    "id" : "44975361"
+    "id" : "45261882"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -24313,25 +24313,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 0.02,
+      "depth_km" : 5.27,
       "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
       "catalog" : null,
-      "latitude" : 37.637,
-      "event_id" : 44975301,
+      "latitude" : 37.611,
+      "event_id" : 44975361,
       "contributor" : null,
       "mag_type" : "ML",
-      "event_location_name" : "1 km NW Ragalna (CT)",
-      "magnitude" : 1.3,
-      "time" : "2026-03-04 12:27:34Z",
+      "event_location_name" : "2 km S Ragalna (CT)",
+      "magnitude" : 1.7,
+      "time" : "2026-03-04 12:40:16Z",
       "mag_author" : null,
-      "longitude" : 14.926,
+      "longitude" : 14.943,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 14.926, 37.637 ]
+      "coordinates" : [ 14.943, 37.611 ]
     },
-    "id" : "44975301"
+    "id" : "44975361"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -24354,6 +24354,28 @@
       "coordinates" : [ 14.926, 37.637 ]
     },
     "id" : "45261542"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 0.02,
+      "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
+      "catalog" : null,
+      "latitude" : 37.637,
+      "event_id" : 44975301,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "1 km NW Ragalna (CT)",
+      "magnitude" : 1.3,
+      "time" : "2026-03-04 12:27:34Z",
+      "mag_author" : null,
+      "longitude" : 14.926,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.926, 37.637 ]
+    },
+    "id" : "44975301"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -24625,28 +24647,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 43.4388,
-      "event_id" : 45260902,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km NE Scheggia e Pascelupo (PG)",
-      "magnitude" : 0.8,
-      "time" : "2026-03-04 11:42:07Z",
-      "mag_author" : null,
-      "longitude" : 12.7177,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.7177, 43.4388 ]
-    },
-    "id" : "45260902"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 12.1,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.4388,
       "event_id" : 44974811,
       "contributor" : null,
       "mag_type" : "ML",
@@ -24665,25 +24665,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 2.79,
-      "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
+      "depth_km" : 12.1,
+      "author" : "SURVEY-INGV",
       "catalog" : null,
-      "latitude" : 37.623,
-      "event_id" : 45261092,
+      "latitude" : 43.4388,
+      "event_id" : 45260902,
       "contributor" : null,
       "mag_type" : "ML",
-      "event_location_name" : "2 km SW Ragalna (CT)",
-      "magnitude" : 1.2,
-      "time" : "2026-03-04 11:39:47Z",
+      "event_location_name" : "5 km NE Scheggia e Pascelupo (PG)",
+      "magnitude" : 0.8,
+      "time" : "2026-03-04 11:42:07Z",
       "mag_author" : null,
-      "longitude" : 14.921,
+      "longitude" : 12.7177,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 14.921, 37.623 ]
+      "coordinates" : [ 12.7177, 43.4388 ]
     },
-    "id" : "45261092"
+    "id" : "45260902"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -24706,6 +24706,28 @@
       "coordinates" : [ 14.921, 37.623 ]
     },
     "id" : "44974941"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 2.79,
+      "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
+      "catalog" : null,
+      "latitude" : 37.623,
+      "event_id" : 45261092,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km SW Ragalna (CT)",
+      "magnitude" : 1.2,
+      "time" : "2026-03-04 11:39:47Z",
+      "mag_author" : null,
+      "longitude" : 14.921,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.921, 37.623 ]
+    },
+    "id" : "45261092"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -24977,28 +24999,6 @@
       "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
       "catalog" : null,
       "latitude" : 37.635,
-      "event_id" : 45260122,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "1 km NE Ragalna (CT)",
-      "magnitude" : 1.4,
-      "time" : "2026-03-04 09:25:29Z",
-      "mag_author" : null,
-      "longitude" : 14.946,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.946, 37.635 ]
-    },
-    "id" : "45260122"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 3.54,
-      "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
-      "catalog" : null,
-      "latitude" : 37.635,
       "event_id" : 44974231,
       "contributor" : null,
       "mag_type" : "ML",
@@ -25014,6 +25014,28 @@
       "coordinates" : [ 14.946, 37.635 ]
     },
     "id" : "44974231"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 3.54,
+      "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
+      "catalog" : null,
+      "latitude" : 37.635,
+      "event_id" : 45260122,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "1 km NE Ragalna (CT)",
+      "magnitude" : 1.4,
+      "time" : "2026-03-04 09:25:29Z",
+      "mag_author" : null,
+      "longitude" : 14.946,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.946, 37.635 ]
+    },
+    "id" : "45260122"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -25065,28 +25087,6 @@
       "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
       "catalog" : null,
       "latitude" : 37.627,
-      "event_id" : 45259212,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "1 km SE Ragalna (CT)",
-      "magnitude" : 1.6,
-      "time" : "2026-03-04 09:13:00Z",
-      "mag_author" : null,
-      "longitude" : 14.95,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.95, 37.627 ]
-    },
-    "id" : "45259212"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 2.67,
-      "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
-      "catalog" : null,
-      "latitude" : 37.627,
       "event_id" : 44973611,
       "contributor" : null,
       "mag_type" : "ML",
@@ -25105,25 +25105,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 15.2,
-      "author" : "SURVEY-INGV",
+      "depth_km" : 2.67,
+      "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
       "catalog" : null,
-      "latitude" : 40.3795,
-      "event_id" : 45259122,
+      "latitude" : 37.627,
+      "event_id" : 45259212,
       "contributor" : null,
       "mag_type" : "ML",
-      "event_location_name" : "2 km W Paterno (PZ)",
-      "magnitude" : 1.7,
-      "time" : "2026-03-04 09:07:51Z",
+      "event_location_name" : "1 km SE Ragalna (CT)",
+      "magnitude" : 1.6,
+      "time" : "2026-03-04 09:13:00Z",
       "mag_author" : null,
-      "longitude" : 15.7125,
+      "longitude" : 14.95,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 15.7125, 40.3795 ]
+      "coordinates" : [ 14.95, 37.627 ]
     },
-    "id" : "45259122"
+    "id" : "45259212"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -25146,6 +25146,28 @@
       "coordinates" : [ 15.7125, 40.3795 ]
     },
     "id" : "44973481"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 15.2,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 40.3795,
+      "event_id" : 45259122,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "2 km W Paterno (PZ)",
+      "magnitude" : 1.7,
+      "time" : "2026-03-04 09:07:51Z",
+      "mag_author" : null,
+      "longitude" : 15.7125,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 15.7125, 40.3795 ]
+    },
+    "id" : "45259122"
   }, {
     "type" : "Feature",
     "properties" : {
