@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 130.469,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : -15.4477,
+      "event_id" : 45100951,
+      "contributor" : null,
+      "mag_type" : "Mwp",
+      "event_location_name" : "Tonga [Sea]",
+      "magnitude" : 6.6,
+      "time" : "2026-03-22 15:30:54Z",
+      "mag_author" : null,
+      "longitude" : -172.798,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -172.798, -15.4477 ]
+    },
+    "id" : "45100951"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 96.094,
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
@@ -11733,28 +11755,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 38.0238,
-      "event_id" : 45338702,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km SW Militello Rosmarino (ME)",
-      "magnitude" : 1.8,
-      "time" : "2026-03-14 00:22:02Z",
-      "mag_author" : null,
-      "longitude" : 14.6468,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 14.6468, 38.0238 ]
-    },
-    "id" : "45338702"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 7.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 38.0238,
       "event_id" : 45040841,
       "contributor" : null,
       "mag_type" : "ML",
@@ -11773,25 +11773,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 22.7,
+      "depth_km" : 7.5,
       "author" : "SURVEY-INGV",
       "catalog" : null,
-      "latitude" : 43.1038,
-      "event_id" : 45338662,
+      "latitude" : 38.0238,
+      "event_id" : 45338702,
       "contributor" : null,
       "mag_type" : "ML",
-      "event_location_name" : "3 km E San Ginesio (MC)",
-      "magnitude" : 1.0,
-      "time" : "2026-03-14 00:19:01Z",
+      "event_location_name" : "4 km SW Militello Rosmarino (ME)",
+      "magnitude" : 1.8,
+      "time" : "2026-03-14 00:22:02Z",
       "mag_author" : null,
-      "longitude" : 13.3533,
+      "longitude" : 14.6468,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 13.3533, 43.1038 ]
+      "coordinates" : [ 14.6468, 38.0238 ]
     },
-    "id" : "45338662"
+    "id" : "45338702"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -11814,6 +11814,28 @@
       "coordinates" : [ 13.3533, 43.1038 ]
     },
     "id" : "45040781"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 22.7,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.1038,
+      "event_id" : 45338662,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km E San Ginesio (MC)",
+      "magnitude" : 1.0,
+      "time" : "2026-03-14 00:19:01Z",
+      "mag_author" : null,
+      "longitude" : 13.3533,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.3533, 43.1038 ]
+    },
+    "id" : "45338662"
   }, {
     "type" : "Feature",
     "properties" : {
