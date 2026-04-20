@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 11.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.9863,
+      "event_id" : 45629952,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "10 km SE Valtopina (PG)",
+      "magnitude" : 0.5,
+      "time" : "2026-04-20 16:19:53Z",
+      "mag_author" : null,
+      "longitude" : 12.8223,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.8223, 42.9863 ]
+    },
+    "id" : "45629952"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 10.0,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -491,28 +513,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 42.9937,
-      "event_id" : 45309641,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "1 km E Monte Cavallo (MC)",
-      "magnitude" : 0.7,
-      "time" : "2026-04-20 09:59:23Z",
-      "mag_author" : null,
-      "longitude" : 13.0113,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.0113, 42.9937 ]
-    },
-    "id" : "45309641"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 11.7,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.9937,
       "event_id" : 45625942,
       "contributor" : null,
       "mag_type" : "ML",
@@ -531,25 +531,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 11.1,
+      "depth_km" : 11.7,
       "author" : "SURVEY-INGV",
       "catalog" : null,
-      "latitude" : 42.9927,
-      "event_id" : 45309611,
+      "latitude" : 42.9937,
+      "event_id" : 45309641,
       "contributor" : null,
       "mag_type" : "ML",
       "event_location_name" : "1 km E Monte Cavallo (MC)",
-      "magnitude" : 0.8,
-      "time" : "2026-04-20 09:57:16Z",
+      "magnitude" : 0.7,
+      "time" : "2026-04-20 09:59:23Z",
       "mag_author" : null,
-      "longitude" : 13.0107,
+      "longitude" : 13.0113,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 13.0107, 42.9927 ]
+      "coordinates" : [ 13.0113, 42.9937 ]
     },
-    "id" : "45309611"
+    "id" : "45309641"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -572,6 +572,28 @@
       "coordinates" : [ 13.0107, 42.9927 ]
     },
     "id" : "45625862"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 11.1,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.9927,
+      "event_id" : 45309611,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "1 km E Monte Cavallo (MC)",
+      "magnitude" : 0.8,
+      "time" : "2026-04-20 09:57:16Z",
+      "mag_author" : null,
+      "longitude" : 13.0107,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.0107, 42.9927 ]
+    },
+    "id" : "45309611"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -5837,28 +5859,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 46.358,
-      "event_id" : 45276741,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km SE Preone (UD)",
-      "magnitude" : 0.6,
-      "time" : "2026-04-16 00:02:22Z",
-      "mag_author" : null,
-      "longitude" : 12.9138,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.9138, 46.358 ]
-    },
-    "id" : "45276741"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 46.358,
       "event_id" : 45591182,
       "contributor" : null,
       "mag_type" : "ML",
@@ -5874,6 +5874,28 @@
       "coordinates" : [ 12.9138, 46.358 ]
     },
     "id" : "45591182"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 10.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 46.358,
+      "event_id" : 45276741,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km SE Preone (UD)",
+      "magnitude" : 0.6,
+      "time" : "2026-04-16 00:02:22Z",
+      "mag_author" : null,
+      "longitude" : 12.9138,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.9138, 46.358 ]
+    },
+    "id" : "45276741"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -6607,28 +6629,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 40.7067,
-      "event_id" : 45586192,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "10 km NE Grassano (MT)",
-      "magnitude" : 1.4,
-      "time" : "2026-04-15 07:47:08Z",
-      "mag_author" : null,
-      "longitude" : 16.3505,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 16.3505, 40.7067 ]
-    },
-    "id" : "45586192"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 30.1,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 40.7067,
       "event_id" : 45272201,
       "contributor" : null,
       "mag_type" : "ML",
@@ -6647,25 +6647,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 11.6,
+      "depth_km" : 30.1,
       "author" : "SURVEY-INGV",
       "catalog" : null,
-      "latitude" : 42.5652,
-      "event_id" : 45272101,
+      "latitude" : 40.7067,
+      "event_id" : 45586192,
       "contributor" : null,
       "mag_type" : "ML",
-      "event_location_name" : "5 km NE Posta (RI)",
-      "magnitude" : 1.5,
-      "time" : "2026-04-15 07:35:25Z",
+      "event_location_name" : "10 km NE Grassano (MT)",
+      "magnitude" : 1.4,
+      "time" : "2026-04-15 07:47:08Z",
       "mag_author" : null,
-      "longitude" : 13.1322,
+      "longitude" : 16.3505,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 13.1322, 42.5652 ]
+      "coordinates" : [ 16.3505, 40.7067 ]
     },
-    "id" : "45272101"
+    "id" : "45586192"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -6688,6 +6688,28 @@
       "coordinates" : [ 13.1322, 42.5652 ]
     },
     "id" : "45586112"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 11.6,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.5652,
+      "event_id" : 45272101,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km NE Posta (RI)",
+      "magnitude" : 1.5,
+      "time" : "2026-04-15 07:35:25Z",
+      "mag_author" : null,
+      "longitude" : 13.1322,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.1322, 42.5652 ]
+    },
+    "id" : "45272101"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -6739,28 +6761,6 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : 9.95273,
-      "event_id" : 45585912,
-      "contributor" : null,
-      "mag_type" : "Mwp",
-      "event_location_name" : "Off coast of Costa Rica [Sea: Costa Rica]",
-      "magnitude" : 5.8,
-      "time" : "2026-04-15 06:56:08Z",
-      "mag_author" : null,
-      "longitude" : -86.2488,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ -86.2488, 9.95273 ]
-    },
-    "id" : "45585912"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 63.672,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 9.95273,
       "event_id" : 45271871,
       "contributor" : null,
       "mag_type" : "Mwp",
@@ -6779,25 +6779,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 9.2,
-      "author" : "SURVEY-INGV",
+      "depth_km" : 63.672,
+      "author" : "SURVEY-INGV-A",
       "catalog" : null,
-      "latitude" : 43.6318,
-      "event_id" : 45271771,
+      "latitude" : 9.95273,
+      "event_id" : 45585912,
       "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "6 km SE Urbania (PU)",
-      "magnitude" : 0.8,
-      "time" : "2026-04-15 06:36:55Z",
+      "mag_type" : "Mwp",
+      "event_location_name" : "Off coast of Costa Rica [Sea: Costa Rica]",
+      "magnitude" : 5.8,
+      "time" : "2026-04-15 06:56:08Z",
       "mag_author" : null,
-      "longitude" : 12.5778,
+      "longitude" : -86.2488,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 12.5778, 43.6318 ]
+      "coordinates" : [ -86.2488, 9.95273 ]
     },
-    "id" : "45271771"
+    "id" : "45585912"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -6820,6 +6820,28 @@
       "coordinates" : [ 12.5778, 43.6318 ]
     },
     "id" : "45585822"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 9.2,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.6318,
+      "event_id" : 45271771,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "6 km SE Urbania (PU)",
+      "magnitude" : 0.8,
+      "time" : "2026-04-15 06:36:55Z",
+      "mag_author" : null,
+      "longitude" : 12.5778,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.5778, 43.6318 ]
+    },
+    "id" : "45271771"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -6871,28 +6893,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 43.0193,
-      "event_id" : 45271591,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km SE Fiordimonte (MC)",
-      "magnitude" : 1.3,
-      "time" : "2026-04-15 06:15:51Z",
-      "mag_author" : null,
-      "longitude" : 13.1087,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.1087, 43.0193 ]
-    },
-    "id" : "45271591"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.2,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.0193,
       "event_id" : 45585612,
       "contributor" : null,
       "mag_type" : "ML",
@@ -6911,25 +6911,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 10.4,
+      "depth_km" : 10.2,
       "author" : "SURVEY-INGV",
       "catalog" : null,
-      "latitude" : 46.3487,
-      "event_id" : 45271361,
+      "latitude" : 43.0193,
+      "event_id" : 45271591,
       "contributor" : null,
       "mag_type" : "ML",
-      "event_location_name" : "6 km SE Preone (UD)",
-      "magnitude" : 0.6,
-      "time" : "2026-04-15 05:41:20Z",
+      "event_location_name" : "3 km SE Fiordimonte (MC)",
+      "magnitude" : 1.3,
+      "time" : "2026-04-15 06:15:51Z",
       "mag_author" : null,
-      "longitude" : 12.909,
+      "longitude" : 13.1087,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 12.909, 46.3487 ]
+      "coordinates" : [ 13.1087, 43.0193 ]
     },
-    "id" : "45271361"
+    "id" : "45271591"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -6955,25 +6955,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 9.2,
+      "depth_km" : 10.4,
       "author" : "SURVEY-INGV",
       "catalog" : null,
-      "latitude" : 41.6897,
-      "event_id" : 45270991,
+      "latitude" : 46.3487,
+      "event_id" : 45271361,
       "contributor" : null,
       "mag_type" : "ML",
-      "event_location_name" : "2 km SE Roccasicura (IS)",
-      "magnitude" : 1.2,
-      "time" : "2026-04-15 04:02:11Z",
+      "event_location_name" : "6 km SE Preone (UD)",
+      "magnitude" : 0.6,
+      "time" : "2026-04-15 05:41:20Z",
       "mag_author" : null,
-      "longitude" : 14.2552,
+      "longitude" : 12.909,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 14.2552, 41.6897 ]
+      "coordinates" : [ 12.909, 46.3487 ]
     },
-    "id" : "45270991"
+    "id" : "45271361"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -6999,25 +6999,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 10.7,
+      "depth_km" : 9.2,
       "author" : "SURVEY-INGV",
       "catalog" : null,
-      "latitude" : 46.3548,
-      "event_id" : 45270891,
+      "latitude" : 41.6897,
+      "event_id" : 45270991,
       "contributor" : null,
       "mag_type" : "ML",
-      "event_location_name" : "5 km SE Preone (UD)",
-      "magnitude" : 0.8,
-      "time" : "2026-04-15 03:41:28Z",
+      "event_location_name" : "2 km SE Roccasicura (IS)",
+      "magnitude" : 1.2,
+      "time" : "2026-04-15 04:02:11Z",
       "mag_author" : null,
-      "longitude" : 12.9068,
+      "longitude" : 14.2552,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 12.9068, 46.3548 ]
+      "coordinates" : [ 14.2552, 41.6897 ]
     },
-    "id" : "45270891"
+    "id" : "45270991"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -7046,22 +7046,22 @@
       "depth_km" : 10.7,
       "author" : "SURVEY-INGV",
       "catalog" : null,
-      "latitude" : 46.3533,
-      "event_id" : 45584752,
+      "latitude" : 46.3548,
+      "event_id" : 45270891,
       "contributor" : null,
       "mag_type" : "ML",
       "event_location_name" : "5 km SE Preone (UD)",
-      "magnitude" : 1.1,
-      "time" : "2026-04-15 02:42:06Z",
+      "magnitude" : 0.8,
+      "time" : "2026-04-15 03:41:28Z",
       "mag_author" : null,
-      "longitude" : 12.9048,
+      "longitude" : 12.9068,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 12.9048, 46.3533 ]
+      "coordinates" : [ 12.9068, 46.3548 ]
     },
-    "id" : "45584752"
+    "id" : "45270891"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -7084,6 +7084,28 @@
       "coordinates" : [ 12.9048, 46.3533 ]
     },
     "id" : "45270731"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 10.7,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 46.3533,
+      "event_id" : 45584752,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km SE Preone (UD)",
+      "magnitude" : 1.1,
+      "time" : "2026-04-15 02:42:06Z",
+      "mag_author" : null,
+      "longitude" : 12.9048,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.9048, 46.3533 ]
+    },
+    "id" : "45584752"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -15517,28 +15539,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 43.0847,
-      "event_id" : 45533392,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "2 km NW Serravalle di Chienti (MC)",
-      "magnitude" : 0.9,
-      "time" : "2026-04-08 02:43:39Z",
-      "mag_author" : null,
-      "longitude" : 12.9372,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.9372, 43.0847 ]
-    },
-    "id" : "45533392"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.8,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.0847,
       "event_id" : 45221861,
       "contributor" : null,
       "mag_type" : "ML",
@@ -15557,25 +15557,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 9.5,
+      "depth_km" : 10.8,
       "author" : "SURVEY-INGV",
       "catalog" : null,
-      "latitude" : 42.5267,
-      "event_id" : 45221781,
+      "latitude" : 43.0847,
+      "event_id" : 45533392,
       "contributor" : null,
       "mag_type" : "ML",
-      "event_location_name" : "4 km SW Leonessa (RI)",
-      "magnitude" : 0.7,
-      "time" : "2026-04-08 01:18:20Z",
+      "event_location_name" : "2 km NW Serravalle di Chienti (MC)",
+      "magnitude" : 0.9,
+      "time" : "2026-04-08 02:43:39Z",
       "mag_author" : null,
-      "longitude" : 12.9462,
+      "longitude" : 12.9372,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 12.9462, 42.5267 ]
+      "coordinates" : [ 12.9372, 43.0847 ]
     },
-    "id" : "45221781"
+    "id" : "45533392"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -15598,6 +15598,28 @@
       "coordinates" : [ 12.9462, 42.5267 ]
     },
     "id" : "45533302"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 9.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.5267,
+      "event_id" : 45221781,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "4 km SW Leonessa (RI)",
+      "magnitude" : 0.7,
+      "time" : "2026-04-08 01:18:20Z",
+      "mag_author" : null,
+      "longitude" : 12.9462,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.9462, 42.5267 ]
+    },
+    "id" : "45221781"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -15803,6 +15825,50 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 38.4152,
+      "event_id" : 45221281,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km N Grotteria (RC)",
+      "magnitude" : 1.1,
+      "time" : "2026-04-07 18:56:15Z",
+      "mag_author" : null,
+      "longitude" : 16.2742,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.2742, 38.4152 ]
+    },
+    "id" : "45221281"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 18.4,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 38.4152,
+      "event_id" : 45221281,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km N Grotteria (RC)",
+      "magnitude" : 1.1,
+      "time" : "2026-04-07 18:56:15Z",
+      "mag_author" : null,
+      "longitude" : 16.2742,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.2742, 38.4152 ]
+    },
+    "id" : "45221281"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 18.4,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 38.4152,
       "event_id" : 45532752,
       "contributor" : null,
       "mag_type" : "ML",
@@ -15818,50 +15884,6 @@
       "coordinates" : [ 16.2742, 38.4152 ]
     },
     "id" : "45532752"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 18.4,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 38.4152,
-      "event_id" : 45221281,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km N Grotteria (RC)",
-      "magnitude" : 1.1,
-      "time" : "2026-04-07 18:56:15Z",
-      "mag_author" : null,
-      "longitude" : 16.2742,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 16.2742, 38.4152 ]
-    },
-    "id" : "45221281"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 18.4,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 38.4152,
-      "event_id" : 45221281,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "5 km N Grotteria (RC)",
-      "magnitude" : 1.1,
-      "time" : "2026-04-07 18:56:15Z",
-      "mag_author" : null,
-      "longitude" : 16.2742,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 16.2742, 38.4152 ]
-    },
-    "id" : "45221281"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -15913,28 +15935,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 42.9795,
-      "event_id" : 45532432,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km E Monte Cavallo (MC)",
-      "magnitude" : 1.4,
-      "time" : "2026-04-07 16:21:52Z",
-      "mag_author" : null,
-      "longitude" : 13.0397,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 13.0397, 42.9795 ]
-    },
-    "id" : "45532432"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 12.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.9795,
       "event_id" : 45220991,
       "contributor" : null,
       "mag_type" : "ML",
@@ -15953,25 +15953,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 6.5,
+      "depth_km" : 12.5,
       "author" : "SURVEY-INGV",
       "catalog" : null,
-      "latitude" : 43.0158,
-      "event_id" : 45220871,
+      "latitude" : 42.9795,
+      "event_id" : 45532432,
       "contributor" : null,
       "mag_type" : "ML",
-      "event_location_name" : "3 km NE Monte Cavallo (MC)",
-      "magnitude" : 0.8,
-      "time" : "2026-04-07 16:10:55Z",
+      "event_location_name" : "3 km E Monte Cavallo (MC)",
+      "magnitude" : 1.4,
+      "time" : "2026-04-07 16:21:52Z",
       "mag_author" : null,
-      "longitude" : 13.0122,
+      "longitude" : 13.0397,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 13.0122, 43.0158 ]
+      "coordinates" : [ 13.0397, 42.9795 ]
     },
-    "id" : "45220871"
+    "id" : "45532432"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -15997,25 +15997,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 14.9,
+      "depth_km" : 6.5,
       "author" : "SURVEY-INGV",
       "catalog" : null,
-      "latitude" : 42.9203,
-      "event_id" : 45220651,
+      "latitude" : 43.0158,
+      "event_id" : 45220871,
       "contributor" : null,
       "mag_type" : "ML",
-      "event_location_name" : "4 km NE Sellano (PG)",
-      "magnitude" : 1.2,
-      "time" : "2026-04-07 15:36:01Z",
+      "event_location_name" : "3 km NE Monte Cavallo (MC)",
+      "magnitude" : 0.8,
+      "time" : "2026-04-07 16:10:55Z",
       "mag_author" : null,
-      "longitude" : 12.9563,
+      "longitude" : 13.0122,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 12.9563, 42.9203 ]
+      "coordinates" : [ 13.0122, 43.0158 ]
     },
-    "id" : "45220651"
+    "id" : "45220871"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -16041,25 +16041,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 10.0,
+      "depth_km" : 14.9,
       "author" : "SURVEY-INGV",
       "catalog" : null,
-      "latitude" : 44.2123,
-      "event_id" : 45531502,
+      "latitude" : 42.9203,
+      "event_id" : 45220651,
       "contributor" : null,
       "mag_type" : "ML",
-      "event_location_name" : "5 km N Camugnano (BO)",
+      "event_location_name" : "4 km NE Sellano (PG)",
       "magnitude" : 1.2,
-      "time" : "2026-04-07 14:29:12Z",
+      "time" : "2026-04-07 15:36:01Z",
       "mag_author" : null,
-      "longitude" : 11.0977,
+      "longitude" : 12.9563,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 11.0977, 44.2123 ]
+      "coordinates" : [ 12.9563, 42.9203 ]
     },
-    "id" : "45531502"
+    "id" : "45220651"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -16082,6 +16082,28 @@
       "coordinates" : [ 11.0977, 44.2123 ]
     },
     "id" : "45220171"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 10.0,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 44.2123,
+      "event_id" : 45531502,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km N Camugnano (BO)",
+      "magnitude" : 1.2,
+      "time" : "2026-04-07 14:29:12Z",
+      "mag_author" : null,
+      "longitude" : 11.0977,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.0977, 44.2123 ]
+    },
+    "id" : "45531502"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -16177,28 +16199,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 43.2123,
-      "event_id" : 45531322,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km SE Gualdo Tadino (PG)",
-      "magnitude" : 0.7,
-      "time" : "2026-04-07 14:11:25Z",
-      "mag_author" : null,
-      "longitude" : 12.8295,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.8295, 43.2123 ]
-    },
-    "id" : "45531322"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 11.5,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.2123,
       "event_id" : 45219991,
       "contributor" : null,
       "mag_type" : "ML",
@@ -16217,25 +16217,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 9.8,
+      "depth_km" : 11.5,
       "author" : "SURVEY-INGV",
       "catalog" : null,
-      "latitude" : 43.0567,
-      "event_id" : 45530652,
+      "latitude" : 43.2123,
+      "event_id" : 45531322,
       "contributor" : null,
       "mag_type" : "ML",
-      "event_location_name" : "5 km E Valtopina (PG)",
+      "event_location_name" : "4 km SE Gualdo Tadino (PG)",
       "magnitude" : 0.7,
-      "time" : "2026-04-07 13:06:38Z",
+      "time" : "2026-04-07 14:11:25Z",
       "mag_author" : null,
-      "longitude" : 12.8202,
+      "longitude" : 12.8295,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 12.8202, 43.0567 ]
+      "coordinates" : [ 12.8295, 43.2123 ]
     },
-    "id" : "45530652"
+    "id" : "45531322"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -16258,6 +16258,28 @@
       "coordinates" : [ 12.8202, 43.0567 ]
     },
     "id" : "45219431"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 9.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.0567,
+      "event_id" : 45530652,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "5 km E Valtopina (PG)",
+      "magnitude" : 0.7,
+      "time" : "2026-04-07 13:06:38Z",
+      "mag_author" : null,
+      "longitude" : 12.8202,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.8202, 43.0567 ]
+    },
+    "id" : "45530652"
   }, {
     "type" : "Feature",
     "properties" : {
