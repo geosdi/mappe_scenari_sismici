@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 9.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.7468,
+      "event_id" : 45927222,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "6 km SW Verghereto (FC)",
+      "magnitude" : 1.1,
+      "time" : "2026-05-21 02:53:16Z",
+      "mag_author" : null,
+      "longitude" : 11.9797,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.9797, 43.7468 ]
+    },
+    "id" : "45927222"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 11.1,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -9973,28 +9995,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 42.8367,
-      "event_id" : 45488611,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "6 km E Cerreto di Spoleto (PG)",
-      "magnitude" : 0.9,
-      "time" : "2026-05-11 15:47:05Z",
-      "mag_author" : null,
-      "longitude" : 12.986,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.986, 42.8367 ]
-    },
-    "id" : "45488611"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.8,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.8367,
       "event_id" : 45821192,
       "contributor" : null,
       "mag_type" : "ML",
@@ -10013,25 +10013,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 5.9,
+      "depth_km" : 10.8,
       "author" : "SURVEY-INGV",
       "catalog" : null,
-      "latitude" : 43.3927,
-      "event_id" : 45488371,
+      "latitude" : 42.8367,
+      "event_id" : 45488611,
       "contributor" : null,
       "mag_type" : "ML",
-      "event_location_name" : "7 km NW Gubbio (PG)",
-      "magnitude" : 0.3,
-      "time" : "2026-05-11 15:30:45Z",
+      "event_location_name" : "6 km E Cerreto di Spoleto (PG)",
+      "magnitude" : 0.9,
+      "time" : "2026-05-11 15:47:05Z",
       "mag_author" : null,
-      "longitude" : 12.5157,
+      "longitude" : 12.986,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 12.5157, 43.3927 ]
+      "coordinates" : [ 12.986, 42.8367 ]
     },
-    "id" : "45488371"
+    "id" : "45488611"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -10057,25 +10057,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 0.5,
+      "depth_km" : 5.9,
       "author" : "SURVEY-INGV",
       "catalog" : null,
-      "latitude" : 46.1197,
-      "event_id" : 45488141,
+      "latitude" : 43.3927,
+      "event_id" : 45488371,
       "contributor" : null,
       "mag_type" : "ML",
-      "event_location_name" : "1 km W Fornace (TN)",
-      "magnitude" : 0.9,
-      "time" : "2026-05-11 15:11:43Z",
+      "event_location_name" : "7 km NW Gubbio (PG)",
+      "magnitude" : 0.3,
+      "time" : "2026-05-11 15:30:45Z",
       "mag_author" : null,
-      "longitude" : 11.1992,
+      "longitude" : 12.5157,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 11.1992, 46.1197 ]
+      "coordinates" : [ 12.5157, 43.3927 ]
     },
-    "id" : "45488141"
+    "id" : "45488371"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -10098,6 +10098,28 @@
       "coordinates" : [ 11.1992, 46.1197 ]
     },
     "id" : "45820662"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 0.5,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 46.1197,
+      "event_id" : 45488141,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "1 km W Fornace (TN)",
+      "magnitude" : 0.9,
+      "time" : "2026-05-11 15:11:43Z",
+      "mag_author" : null,
+      "longitude" : 11.1992,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.1992, 46.1197 ]
+    },
+    "id" : "45488141"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -24339,28 +24361,6 @@
       "author" : "SURVEY-INGV-A",
       "catalog" : null,
       "latitude" : 39.0797,
-      "event_id" : 45700312,
-      "contributor" : null,
-      "mag_type" : "mb",
-      "event_location_name" : "Greece [Sea]",
-      "magnitude" : 4.6,
-      "time" : "2026-04-28 11:12:22Z",
-      "mag_author" : null,
-      "longitude" : 23.4914,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 23.4914, 39.0797 ]
-    },
-    "id" : "45700312"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 4.688,
-      "author" : "SURVEY-INGV-A",
-      "catalog" : null,
-      "latitude" : 39.0797,
       "event_id" : 45376761,
       "contributor" : null,
       "mag_type" : "mb",
@@ -24398,6 +24398,50 @@
       "coordinates" : [ 23.4914, 39.0797 ]
     },
     "id" : "45700312"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 4.688,
+      "author" : "SURVEY-INGV-A",
+      "catalog" : null,
+      "latitude" : 39.0797,
+      "event_id" : 45700312,
+      "contributor" : null,
+      "mag_type" : "mb",
+      "event_location_name" : "Greece [Sea]",
+      "magnitude" : 4.6,
+      "time" : "2026-04-28 11:12:22Z",
+      "mag_author" : null,
+      "longitude" : 23.4914,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.4914, 39.0797 ]
+    },
+    "id" : "45700312"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 9.1,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.5535,
+      "event_id" : 45699942,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km E Apecchio (PU)",
+      "magnitude" : 0.6,
+      "time" : "2026-04-28 10:17:08Z",
+      "mag_author" : null,
+      "longitude" : 12.4617,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.4617, 43.5535 ]
+    },
+    "id" : "45699942"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -24445,50 +24489,6 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 9.1,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.5535,
-      "event_id" : 45699942,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km E Apecchio (PU)",
-      "magnitude" : 0.6,
-      "time" : "2026-04-28 10:17:08Z",
-      "mag_author" : null,
-      "longitude" : 12.4617,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.4617, 43.5535 ]
-    },
-    "id" : "45699942"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.6,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 43.6263,
-      "event_id" : 45699312,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "3 km SE Mercatello sul Metauro (PU)",
-      "magnitude" : 0.6,
-      "time" : "2026-04-28 09:38:35Z",
-      "mag_author" : null,
-      "longitude" : 12.3655,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.3655, 43.6263 ]
-    },
-    "id" : "45699312"
-  }, {
-    "type" : "Feature",
-    "properties" : {
       "depth_km" : 10.6,
       "author" : "SURVEY-INGV",
       "catalog" : null,
@@ -24533,25 +24533,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 14.4,
+      "depth_km" : 10.6,
       "author" : "SURVEY-INGV",
       "catalog" : null,
-      "latitude" : 42.838,
-      "event_id" : 45375171,
+      "latitude" : 43.6263,
+      "event_id" : 45699312,
       "contributor" : null,
       "mag_type" : "ML",
-      "event_location_name" : "6 km W Montegallo (AP)",
-      "magnitude" : 1.6,
-      "time" : "2026-04-28 08:07:17Z",
+      "event_location_name" : "3 km SE Mercatello sul Metauro (PU)",
+      "magnitude" : 0.6,
+      "time" : "2026-04-28 09:38:35Z",
       "mag_author" : null,
-      "longitude" : 13.2558,
+      "longitude" : 12.3655,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 13.2558, 42.838 ]
+      "coordinates" : [ 12.3655, 43.6263 ]
     },
-    "id" : "45375171"
+    "id" : "45699312"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -24574,6 +24574,28 @@
       "coordinates" : [ 13.2558, 42.838 ]
     },
     "id" : "45698572"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 14.4,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.838,
+      "event_id" : 45375171,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "6 km W Montegallo (AP)",
+      "magnitude" : 1.6,
+      "time" : "2026-04-28 08:07:17Z",
+      "mag_author" : null,
+      "longitude" : 13.2558,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.2558, 42.838 ]
+    },
+    "id" : "45375171"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -24845,28 +24867,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 44.034,
-      "event_id" : 45697282,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "4 km N Barberino di Mugello (FI)",
-      "magnitude" : 1.1,
-      "time" : "2026-04-28 05:37:37Z",
-      "mag_author" : null,
-      "longitude" : 11.23,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 11.23, 44.034 ]
-    },
-    "id" : "45697282"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.2,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 44.034,
       "event_id" : 45373971,
       "contributor" : null,
       "mag_type" : "ML",
@@ -24885,25 +24885,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 7.1,
+      "depth_km" : 10.2,
       "author" : "SURVEY-INGV",
       "catalog" : null,
-      "latitude" : 42.97,
-      "event_id" : 45373871,
+      "latitude" : 44.034,
+      "event_id" : 45697282,
       "contributor" : null,
       "mag_type" : "ML",
-      "event_location_name" : "4 km SE Monte Cavallo (MC)",
-      "magnitude" : 0.4,
-      "time" : "2026-04-28 05:30:54Z",
+      "event_location_name" : "4 km N Barberino di Mugello (FI)",
+      "magnitude" : 1.1,
+      "time" : "2026-04-28 05:37:37Z",
       "mag_author" : null,
-      "longitude" : 13.0423,
+      "longitude" : 11.23,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 13.0423, 42.97 ]
+      "coordinates" : [ 11.23, 44.034 ]
     },
-    "id" : "45373871"
+    "id" : "45697282"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -24929,25 +24929,25 @@
   }, {
     "type" : "Feature",
     "properties" : {
-      "depth_km" : 8.8,
+      "depth_km" : 7.1,
       "author" : "SURVEY-INGV",
       "catalog" : null,
-      "latitude" : 43.5558,
-      "event_id" : 45373651,
+      "latitude" : 42.97,
+      "event_id" : 45373871,
       "contributor" : null,
       "mag_type" : "ML",
-      "event_location_name" : "3 km E Apecchio (PU)",
-      "magnitude" : 0.2,
-      "time" : "2026-04-28 04:44:25Z",
+      "event_location_name" : "4 km SE Monte Cavallo (MC)",
+      "magnitude" : 0.4,
+      "time" : "2026-04-28 05:30:54Z",
       "mag_author" : null,
-      "longitude" : 12.4617,
+      "longitude" : 13.0423,
       "contributor_id" : null
     },
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 12.4617, 43.5558 ]
+      "coordinates" : [ 13.0423, 42.97 ]
     },
-    "id" : "45373651"
+    "id" : "45373871"
   }, {
     "type" : "Feature",
     "properties" : {
@@ -24970,6 +24970,28 @@
       "coordinates" : [ 12.4617, 43.5558 ]
     },
     "id" : "45696942"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 8.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 43.5558,
+      "event_id" : 45373651,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "3 km E Apecchio (PU)",
+      "magnitude" : 0.2,
+      "time" : "2026-04-28 04:44:25Z",
+      "mag_author" : null,
+      "longitude" : 12.4617,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.4617, 43.5558 ]
+    },
+    "id" : "45373651"
   }, {
     "type" : "Feature",
     "properties" : {
