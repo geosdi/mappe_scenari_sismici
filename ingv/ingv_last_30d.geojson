@@ -3,6 +3,28 @@
   "features" : [ {
     "type" : "Feature",
     "properties" : {
+      "depth_km" : 6.1,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.8558,
+      "event_id" : 45620641,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "7 km W Montegallo (AP)",
+      "magnitude" : 1.0,
+      "time" : "2026-05-25 11:23:57Z",
+      "mag_author" : null,
+      "longitude" : 13.2468,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.2468, 42.8558 ]
+    },
+    "id" : "45620641"
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "depth_km" : 2.46,
       "author" : "SURVEY-INGV-CT#SeismPicker_SO-OE",
       "catalog" : null,
@@ -14681,28 +14703,6 @@
       "author" : "SURVEY-INGV",
       "catalog" : null,
       "latitude" : 42.8367,
-      "event_id" : 45821192,
-      "contributor" : null,
-      "mag_type" : "ML",
-      "event_location_name" : "6 km E Cerreto di Spoleto (PG)",
-      "magnitude" : 0.9,
-      "time" : "2026-05-11 15:47:05Z",
-      "mag_author" : null,
-      "longitude" : 12.986,
-      "contributor_id" : null
-    },
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 12.986, 42.8367 ]
-    },
-    "id" : "45821192"
-  }, {
-    "type" : "Feature",
-    "properties" : {
-      "depth_km" : 10.8,
-      "author" : "SURVEY-INGV",
-      "catalog" : null,
-      "latitude" : 42.8367,
       "event_id" : 45488611,
       "contributor" : null,
       "mag_type" : "ML",
@@ -14718,6 +14718,28 @@
       "coordinates" : [ 12.986, 42.8367 ]
     },
     "id" : "45488611"
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "depth_km" : 10.8,
+      "author" : "SURVEY-INGV",
+      "catalog" : null,
+      "latitude" : 42.8367,
+      "event_id" : 45821192,
+      "contributor" : null,
+      "mag_type" : "ML",
+      "event_location_name" : "6 km E Cerreto di Spoleto (PG)",
+      "magnitude" : 0.9,
+      "time" : "2026-05-11 15:47:05Z",
+      "mag_author" : null,
+      "longitude" : 12.986,
+      "contributor_id" : null
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.986, 42.8367 ]
+    },
+    "id" : "45821192"
   }, {
     "type" : "Feature",
     "properties" : {
